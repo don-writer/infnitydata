@@ -3092,17 +3092,11 @@
     "ava": "1",
     "spec": [
       "Mechanical Transmutation",
-      "G: Remote Presence"
+      "G: Remote Presence",
+      "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Spitfire",
-      "Light Flamethrower",
-      "Panzerfaust"
-    ],
-    "ccw": [
-      "Pistol",
-      "CCW"
-    ],
+    "bsw": [],
+    "ccw": [],
     "profiles": [
       {
         "name": "Combat Form",
@@ -3113,10 +3107,10 @@
         "hackable": "X",
         "mov": "4-2",
         "cc": "16",
-        "bs": "13",
+        "bs": "14",
         "ph": "14",
         "wip": "13",
-        "arm": "4",
+        "arm": "5",
         "bts": "6",
         "w": "2",
         "wtype": "str",
@@ -3127,12 +3121,14 @@
       },
       {
         "name": "High Mobility Form",
-        "mov": "6-6",
+        "mov": "8-2",
         "cc": "8",
-        "bs": "11",
-        "s": "4",
+        "bs": "12",
+        "s": "3",
         "spec": [
-          "Climbing Plus"
+          "Climbing Plus",
+          "Kinematika L2",
+          "Multiterrain"
         ],
         "bsw": [],
         "ccw": []
@@ -3142,11 +3138,34 @@
       {
         "code": "Default",
         "codename": "Spitfire",
-        "cost": "55",
+        "cost": "59",
         "swc": "2",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Spitfire",
+          "Light Flamethrower",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "code": "Heavy Shotgun",
+        "codename": "",
+        "cost": "54",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Heavy Shotgun",
+          "Light Flamethrower",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
       }
     ]
   },

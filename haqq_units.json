@@ -1,5 +1,6 @@
 [
   {
+    "index": 4001,
     "army": "Haqqislam",
     "isc": "Daylami Infantry",
     "name": "Daylami",
@@ -103,6 +104,7 @@
     ]
   },
   {
+    "index": 4002,
     "army": "Haqqislam",
     "isc": "Ghulam",
     "name": "Ghulam",
@@ -299,8 +301,9 @@
     ]
   },
   {
+    "index": 4003,
     "army": "Haqqislam",
-    "isc": "Naffatûn",
+    "isc": "Naffat\u00fbn",
     "name": "Naffatun",
     "type": "LI",
     "imp": "",
@@ -365,6 +368,7 @@
     ]
   },
   {
+    "index": 4004,
     "army": "Haqqislam",
     "isc": "Halqa",
     "name": "Halqa",
@@ -498,6 +502,7 @@
     ]
   },
   {
+    "index": 4005,
     "army": "Haqqislam",
     "isc": "Khawarijs",
     "name": "Khawarij",
@@ -608,6 +613,7 @@
     ]
   },
   {
+    "index": 4006,
     "army": "Haqqislam",
     "isc": "Djanbazan",
     "name": "Djanbazan",
@@ -717,6 +723,7 @@
     ]
   },
   {
+    "index": 4007,
     "army": "Haqqislam",
     "isc": "Hassassin Ragiks",
     "name": "Ragik",
@@ -797,6 +804,7 @@
     ]
   },
   {
+    "index": 4008,
     "army": "Haqqislam",
     "isc": "Janissaries",
     "name": "Janissary",
@@ -928,6 +936,7 @@
     ]
   },
   {
+    "index": 4009,
     "army": "Haqqislam",
     "isc": "Ahl Fassed",
     "name": "Fassed",
@@ -1002,6 +1011,7 @@
     ]
   },
   {
+    "index": 4010,
     "army": "Haqqislam",
     "isc": "Maghariba Guard",
     "name": "Maghariba",
@@ -1087,12 +1097,12 @@
         ]
       },
       {
-        "code": "360° Visor",
+        "code": "360\u00b0 Visor",
         "codename": "",
         "cost": "98",
         "swc": "2",
         "spec": [
-          "360° Visor"
+          "360\u00b0 Visor"
         ],
         "bsw": [
           "Heavy Flamethrower"
@@ -1102,6 +1112,7 @@
     ]
   },
   {
+    "index": 4011,
     "army": "Haqqislam",
     "isc": "Hunzakuts",
     "name": "Hunzakut",
@@ -1175,6 +1186,7 @@
     ]
   },
   {
+    "index": 4012,
     "army": "Haqqislam",
     "isc": "Murabids Tuareg",
     "name": "Tuareg",
@@ -1272,6 +1284,7 @@
     ]
   },
   {
+    "index": 4013,
     "army": "Haqqislam",
     "isc": "Hassassin Fiday",
     "name": "Fiday",
@@ -1364,6 +1377,7 @@
     ]
   },
   {
+    "index": 4014,
     "army": "Haqqislam",
     "isc": "Kum",
     "name": "Kum",
@@ -1453,6 +1467,7 @@
     ]
   },
   {
+    "index": 4015,
     "army": "Haqqislam",
     "isc": "Muttawi'ah",
     "name": "Muttawi'ah",
@@ -1508,6 +1523,7 @@
     ]
   },
   {
+    "index": 4016,
     "army": "Haqqislam",
     "isc": "Najjarun Engineer",
     "name": "Najjarun",
@@ -1551,6 +1567,7 @@
     ]
   },
   {
+    "index": 4017,
     "army": "Haqqislam",
     "isc": "Rafiq Remote",
     "name": "Rafiq",
@@ -1598,6 +1615,7 @@
     ]
   },
   {
+    "index": 4018,
     "army": "Haqqislam",
     "isc": "Shihab Remote",
     "name": "Shihab",
@@ -1617,7 +1635,7 @@
     "s": "3",
     "ava": "1",
     "spec": [
-      "360° Visor",
+      "360\u00b0 Visor",
       "G: Remote Presence",
       "Total Reaction"
     ],
@@ -1640,6 +1658,7 @@
     ]
   },
   {
+    "index": 4019,
     "army": "Haqqislam",
     "isc": "Shaytaniyah Remote",
     "name": "Shaytaniyah",
@@ -1680,6 +1699,7 @@
     ]
   },
   {
+    "index": 4020,
     "army": "Haqqislam",
     "isc": "Fanous Remote",
     "name": "Fanous",
@@ -1722,6 +1742,7 @@
     ]
   },
   {
+    "index": 4021,
     "army": "Haqqislam",
     "isc": "Tarik Mansuri",
     "name": "Tarik Mansuri",
@@ -1809,6 +1830,7 @@
     ]
   },
   {
+    "index": 4022,
     "army": "Haqqislam",
     "isc": "Kasym Beg",
     "name": "Kasym Beg",
@@ -1875,6 +1897,7 @@
     ]
   },
   {
+    "index": 4023,
     "army": "Haqqislam",
     "isc": "Kasym Beg (Lieutenant)",
     "name": "Kasym Beg",
@@ -1944,6 +1967,7 @@
     ]
   },
   {
+    "index": 4024,
     "army": "Haqqislam",
     "isc": "Al Hawwa' Unit",
     "name": "Hawwa'",
@@ -2018,6 +2042,7 @@
     ]
   },
   {
+    "index": 4025,
     "army": "Haqqislam",
     "isc": "Asawira Regiment",
     "name": "Asawira",
@@ -2137,6 +2162,7 @@
     ]
   },
   {
+    "index": 4026,
     "army": "Haqqislam",
     "isc": "Azra'il",
     "name": "Azra'il",
@@ -2189,6 +2215,7 @@
     ]
   },
   {
+    "index": 4027,
     "army": "Haqqislam",
     "isc": "Bashi Bazouk",
     "name": "Bashi Bazouk",
@@ -2265,6 +2292,7 @@
     ]
   },
   {
+    "index": 4028,
     "army": "Haqqislam",
     "isc": "Hafza Unit",
     "name": "Hafza",
@@ -2358,6 +2386,7 @@
     ]
   },
   {
+    "index": 4029,
     "army": "Haqqislam",
     "isc": "Hassassin Farzans",
     "name": "Farzan",
@@ -2418,6 +2447,7 @@
     ]
   },
   {
+    "index": 4030,
     "army": "Haqqislam",
     "isc": "Hassassin Lasiqs",
     "name": "Lasiq",
@@ -2473,6 +2503,7 @@
     ]
   },
   {
+    "index": 4031,
     "army": "Haqqislam",
     "isc": "Hassassin Muyibs",
     "name": "Muyib",
@@ -2624,6 +2655,7 @@
     ]
   },
   {
+    "index": 4032,
     "army": "Haqqislam",
     "isc": "Hussein Al-Djabel",
     "name": "Al-Djabel",
@@ -2671,6 +2703,7 @@
     ]
   },
   {
+    "index": 4033,
     "army": "Haqqislam",
     "isc": "Kameel Remotes",
     "name": "Kameel",
@@ -2738,6 +2771,7 @@
     ]
   },
   {
+    "index": 4034,
     "army": "Haqqislam",
     "isc": "Nasmat Remotes",
     "name": "Nasmat",
@@ -2777,6 +2811,7 @@
     ]
   },
   {
+    "index": 4035,
     "army": "Haqqislam",
     "isc": "Odalisques",
     "name": "Odalisque",
@@ -2795,7 +2830,7 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Sixth Sense L2 / 360° Visor",
+      "Sixth Sense L2 / 360\u00b0 Visor",
       "V: No Wound Incapacitation",
       "i-Khol L3"
     ],
@@ -2870,6 +2905,7 @@
     ]
   },
   {
+    "index": 4036,
     "army": "Haqqislam",
     "isc": "Saladin, O-12 Liaison Officer",
     "name": "Saladin",
@@ -2924,6 +2960,7 @@
     ]
   },
   {
+    "index": 4037,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops",
     "name": "Husam",
@@ -2958,6 +2995,7 @@
     ]
   },
   {
+    "index": 4038,
     "army": "Haqqislam",
     "isc": "Hassassin Husam Yasbir",
     "name": "Hassassin Husam Yasbir",
@@ -3020,6 +3058,7 @@
     ]
   },
   {
+    "index": 4039,
     "army": "Haqqislam",
     "isc": "KTS, Kaplan Tactical Services",
     "name": "Kaplan",
@@ -3143,6 +3182,7 @@
     ]
   },
   {
+    "index": 4040,
     "army": "Haqqislam",
     "isc": "Hassassin Barid",
     "name": "Barid",
@@ -3236,6 +3276,7 @@
     ]
   },
   {
+    "index": 4041,
     "army": "Haqqislam",
     "isc": "Sekban",
     "name": "Sekban",
@@ -3254,7 +3295,7 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "360° Visor",
+      "360\u00b0 Visor",
       "Zero-G"
     ],
     "bsw": [],
@@ -3375,6 +3416,7 @@
     ]
   },
   {
+    "index": 4042,
     "army": "Haqqislam",
     "isc": "Hassassin Govads",
     "name": "Govad",
@@ -3491,6 +3533,7 @@
     ]
   },
   {
+    "index": 4043,
     "army": "Haqqislam",
     "isc": "Zhayedan Intervention Troops",
     "name": "Zhayedan",
@@ -3613,6 +3656,7 @@
     ]
   },
   {
+    "index": 4044,
     "army": "Haqqislam",
     "isc": "Zamira Nazarova",
     "name": "Zamira",
@@ -3673,6 +3717,7 @@
     ]
   },
   {
+    "index": 4045,
     "army": "Haqqislam",
     "isc": "Zuleyka Nazarova",
     "name": "Zuleyka",

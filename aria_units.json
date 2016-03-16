@@ -1,5 +1,6 @@
 [
   {
+    "index": 3001,
     "army": "Ariadna",
     "isc": "Line Kazak",
     "name": "Line Kazak",
@@ -123,6 +124,7 @@
     ]
   },
   {
+    "index": 3002,
     "army": "Ariadna",
     "isc": "Para-Commandos",
     "name": "Para-Commando",
@@ -222,6 +224,7 @@
     ]
   },
   {
+    "index": 3003,
     "army": "Ariadna",
     "isc": "Kazak Spetsnazs",
     "name": "Kazak Spetsnaz",
@@ -316,6 +319,7 @@
     ]
   },
   {
+    "index": 3004,
     "army": "Ariadna",
     "isc": "USAriadna Grunts",
     "name": "USAriadna Grunt",
@@ -472,6 +476,7 @@
     ]
   },
   {
+    "index": 3005,
     "army": "Ariadna",
     "isc": "TankHunters",
     "name": "TankHunter",
@@ -569,6 +574,7 @@
     ]
   },
   {
+    "index": 3006,
     "army": "Ariadna",
     "isc": "Minutemen",
     "name": "Minuteman",
@@ -704,6 +710,7 @@
     ]
   },
   {
+    "index": 3007,
     "army": "Ariadna",
     "isc": "Moblots",
     "name": "Moblot",
@@ -897,6 +904,7 @@
     ]
   },
   {
+    "index": 3008,
     "army": "Ariadna",
     "isc": "Veteran Kazaks",
     "name": "Veteran Kazak",
@@ -1033,6 +1041,7 @@
     ]
   },
   {
+    "index": 3009,
     "army": "Ariadna",
     "isc": "Foxtrot",
     "name": "Foxtrot",
@@ -1140,6 +1149,7 @@
     ]
   },
   {
+    "index": 3010,
     "army": "Ariadna",
     "isc": "Hardcases",
     "name": "Hardcase Frontiersman",
@@ -1195,6 +1205,7 @@
     ]
   },
   {
+    "index": 3011,
     "army": "Ariadna",
     "isc": "S.A.S.",
     "name": "S.A.S.",
@@ -1325,6 +1336,7 @@
     ]
   },
   {
+    "index": 3012,
     "army": "Ariadna",
     "isc": "Scouts",
     "name": "Scout",
@@ -1443,6 +1455,7 @@
     ]
   },
   {
+    "index": 3013,
     "army": "Ariadna",
     "isc": "45th Highlanders",
     "name": "Highlander",
@@ -1508,6 +1521,7 @@
     ]
   },
   {
+    "index": 3014,
     "army": "Ariadna",
     "isc": "Irmandinhos",
     "name": "Irmandinho",
@@ -1575,6 +1589,7 @@
     ]
   },
   {
+    "index": 3015,
     "army": "Ariadna",
     "isc": "Assault Pack Controller",
     "name": "Assault Pack",
@@ -1728,6 +1743,7 @@
     ]
   },
   {
+    "index": 3016,
     "army": "Ariadna",
     "isc": "Kazak Doktor",
     "name": "Kazak Doktor",
@@ -1769,6 +1785,7 @@
     ]
   },
   {
+    "index": 3017,
     "army": "Ariadna",
     "isc": "112, Emergency Service",
     "name": "112",
@@ -1811,6 +1828,7 @@
     ]
   },
   {
+    "index": 3018,
     "army": "Ariadna",
     "isc": "2nd Irregular Cameronians Reg.",
     "name": "Cameronian",
@@ -1854,6 +1872,7 @@
     ]
   },
   {
+    "index": 3019,
     "army": "Ariadna",
     "isc": "3rd Highlander Greys",
     "name": "Highlander Grey",
@@ -1951,6 +1970,7 @@
     ]
   },
   {
+    "index": 3020,
     "army": "Ariadna",
     "isc": "9th Wulver Grenadiers",
     "name": "Wulver",
@@ -2018,6 +2038,7 @@
     ]
   },
   {
+    "index": 3021,
     "army": "Ariadna",
     "isc": "Caledonian Mormaers",
     "name": "Caledonian Mormaer",
@@ -2100,6 +2121,7 @@
     ]
   },
   {
+    "index": 3022,
     "army": "Ariadna",
     "isc": "Caledonian Volunteers",
     "name": "Volunteer",
@@ -2234,6 +2256,7 @@
     ]
   },
   {
+    "index": 3023,
     "army": "Ariadna",
     "isc": "Chasseurs",
     "name": "Chasseur",
@@ -2334,6 +2357,7 @@
     ]
   },
   {
+    "index": 3024,
     "army": "Ariadna",
     "isc": "Dozers, Field Engineers",
     "name": "Dozer",
@@ -2401,6 +2425,7 @@
     ]
   },
   {
+    "index": 3025,
     "army": "Ariadna",
     "isc": "Highlander Caterans",
     "name": "Cateran",
@@ -2454,6 +2479,7 @@
     ]
   },
   {
+    "index": 3026,
     "army": "Ariadna",
     "isc": "Loup-Garous",
     "name": "Loup-Garou",
@@ -2532,9 +2558,10 @@
     ]
   },
   {
+    "index": 3027,
     "army": "Ariadna",
-    "isc": "Métros",
-    "name": "Métro",
+    "isc": "M\u00e9tros",
+    "name": "M\u00e9tro",
     "sharedAva": "Ariadna Militia",
     "type": "LI",
     "imp": "",
@@ -2669,6 +2696,7 @@
     ]
   },
   {
+    "index": 3028,
     "army": "Ariadna",
     "isc": "Traktor Mul, Artillery and Support Regiment",
     "name": "Traktor Mul",
@@ -2734,6 +2762,7 @@
     ]
   },
   {
+    "index": 3029,
     "army": "Ariadna",
     "isc": "William Wallace",
     "name": "Wallace",
@@ -2790,6 +2819,7 @@
     ]
   },
   {
+    "index": 3030,
     "army": "Ariadna",
     "isc": "Zouaves",
     "name": "Zouave",
@@ -2941,6 +2971,7 @@
     ]
   },
   {
+    "index": 3031,
     "army": "Ariadna",
     "isc": "Van Zant",
     "name": "Van Zant",
@@ -2995,6 +3026,7 @@
     ]
   },
   {
+    "index": 3032,
     "army": "Ariadna",
     "isc": "Volunteer Intel Isobel McGregor",
     "name": "Isobel McGregor",
@@ -3054,6 +3086,7 @@
     ]
   },
   {
+    "index": 3033,
     "army": "Ariadna",
     "isc": "Uxia McNeill",
     "name": "Uxia McNeill",
@@ -3121,6 +3154,7 @@
     ]
   },
   {
+    "index": 3034,
     "army": "Ariadna",
     "isc": "Brigadier Jacques Bruant",
     "name": "Jacques Bruant",
@@ -3186,6 +3220,7 @@
     ]
   },
   {
+    "index": 3035,
     "army": "Ariadna",
     "isc": "Scot (2nd Battalion)",
     "name": "Scot 2nd",
@@ -3256,6 +3291,7 @@
     ]
   },
   {
+    "index": 3036,
     "army": "Ariadna",
     "isc": "Scot (1st Battalion)",
     "name": "Scot 1st",
@@ -3353,6 +3389,7 @@
     ]
   },
   {
+    "index": 3037,
     "army": "Ariadna",
     "isc": "Briscard",
     "name": "Briscard",
@@ -3467,6 +3504,7 @@
     ]
   },
   {
+    "index": 3038,
     "army": "Ariadna",
     "isc": "Margot Berthier, Mirage-5",
     "name": "Margot",
@@ -3560,6 +3598,7 @@
     ]
   },
   {
+    "index": 3039,
     "army": "Ariadna",
     "isc": "Dog-Warriors",
     "name": "Dog-Warrior",
@@ -3637,6 +3676,7 @@
     ]
   },
   {
+    "index": 3040,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops",
     "name": "Intel",
@@ -3671,6 +3711,7 @@
     ]
   },
   {
+    "index": 3041,
     "army": "Ariadna",
     "isc": "Marauders, 5307th Ranger Unit",
     "name": "Marauder",
@@ -3822,6 +3863,7 @@
     ]
   },
   {
+    "index": 3042,
     "army": "Ariadna",
     "isc": "Mavericks, 9th Motorized Recon Bat.",
     "name": "Maverick",
@@ -3918,6 +3960,7 @@
     ]
   },
   {
+    "index": 3043,
     "army": "Ariadna",
     "isc": "Devil Dog Teams, 2nd Assault Bat.",
     "name": "Devil Dog",
@@ -4015,6 +4058,7 @@
     ]
   },
   {
+    "index": 3044,
     "army": "Ariadna",
     "isc": "6th Airborne Rangers",
     "name": "Airborne Ranger",
@@ -4129,6 +4173,7 @@
     ]
   },
   {
+    "index": 3045,
     "army": "Ariadna",
     "isc": "Desperadoes",
     "name": "Desperado",

@@ -1,5 +1,6 @@
 [
   {
+    "index": 8001,
     "army": "Tohaa",
     "isc": "Kamael Light Infantry",
     "name": "Kamael",
@@ -127,6 +128,7 @@
     ]
   },
   {
+    "index": 8002,
     "army": "Tohaa",
     "isc": "Sakiel Regiment",
     "name": "Sakiel",
@@ -277,6 +279,7 @@
     ]
   },
   {
+    "index": 8003,
     "army": "Tohaa",
     "isc": "Ectros Regiment",
     "name": "Ectros",
@@ -388,6 +391,7 @@
     ]
   },
   {
+    "index": 8004,
     "army": "Tohaa",
     "isc": "Clipsos Infiltrators",
     "name": "Clipsos",
@@ -495,6 +499,7 @@
     ]
   },
   {
+    "index": 8005,
     "army": "Tohaa",
     "isc": "Tohaa Diplomatic Delegates",
     "name": "Diplomatic Delegate",
@@ -537,6 +542,7 @@
     ]
   },
   {
+    "index": 8006,
     "army": "Tohaa",
     "isc": "Gao-Rael",
     "name": "Gao-Rael",
@@ -659,6 +665,7 @@
     ]
   },
   {
+    "index": 8007,
     "army": "Tohaa",
     "isc": "Gao-Tarsos",
     "name": "Gao-Tarsos",
@@ -762,6 +769,7 @@
     ]
   },
   {
+    "index": 8008,
     "army": "Tohaa",
     "isc": "Gorgos",
     "name": "Gorgos",
@@ -868,6 +876,7 @@
     ]
   },
   {
+    "index": 8009,
     "army": "Tohaa",
     "isc": "Makaul",
     "name": "Makaul",
@@ -947,6 +956,7 @@
     ]
   },
   {
+    "index": 8010,
     "army": "Tohaa",
     "isc": "Kumotail",
     "name": "Kumotail",
@@ -990,6 +1000,7 @@
     ]
   },
   {
+    "index": 8011,
     "army": "Tohaa",
     "isc": "Chaksa Auxiliars",
     "name": "Auxiliar",
@@ -1037,7 +1048,7 @@
         "swc": "1",
         "spec": [
           "Neurocinetics",
-          "360° Visor"
+          "360\u00b0 Visor"
         ],
         "bsw": [
           "HMG"
@@ -1058,6 +1069,7 @@
     ]
   },
   {
+    "index": 8012,
     "army": "Tohaa",
     "isc": "Chaksa Servant",
     "name": "Servant",
@@ -1097,6 +1109,7 @@
     ]
   },
   {
+    "index": 8013,
     "army": "Tohaa",
     "isc": "Neema Saatar",
     "name": "Neema",
@@ -1181,6 +1194,7 @@
     ]
   },
   {
+    "index": 8014,
     "army": "Tohaa",
     "isc": "Hatail Spec-Ops",
     "name": "Hatail",
@@ -1215,6 +1229,7 @@
     ]
   },
   {
+    "index": 8015,
     "army": "Tohaa",
     "isc": "Hatail Aelis Keesan",
     "name": "Hatail Aelis Keesan",
@@ -1274,6 +1289,7 @@
     ]
   },
   {
+    "index": 8016,
     "army": "Tohaa",
     "isc": "Nikoul Ambush Unit",
     "name": "Nikoul",
@@ -1354,6 +1370,7 @@
     ]
   },
   {
+    "index": 8017,
     "army": "Tohaa",
     "isc": "Kotail Mobile Unit",
     "name": "Kotail",
@@ -1469,6 +1486,7 @@
     ]
   },
   {
+    "index": 8018,
     "army": "Tohaa",
     "isc": "Rasail Boarding Team",
     "name": "Rasail",
@@ -1649,6 +1667,7 @@
     ]
   },
   {
+    "index": 8019,
     "army": "Tohaa",
     "isc": "Kaeltar Specialists",
     "name": "Kaeltar",
@@ -1734,6 +1753,7 @@
     ]
   },
   {
+    "index": 8020,
     "army": "Tohaa",
     "isc": "Igao",
     "name": "Igao",
@@ -1795,6 +1815,7 @@
     ]
   },
   {
+    "index": 8021,
     "army": "Tohaa",
     "isc": "Kosuil Assault Pioneers",
     "name": "Kosuil",
@@ -1889,6 +1910,7 @@
     ]
   },
   {
+    "index": 8022,
     "army": "Tohaa",
     "isc": "Kerail Preceptors",
     "name": "Kerail Preceptor",

@@ -1,5 +1,6 @@
 [
   {
+    "index": 2001,
     "army": "Yu Jing",
     "isc": "Keisotsu",
     "name": "Keisotsu",
@@ -138,6 +139,7 @@
     ]
   },
   {
+    "index": 2002,
     "army": "Yu Jing",
     "isc": "Zhanshi",
     "name": "Zhanshi",
@@ -274,9 +276,10 @@
     ]
   },
   {
+    "index": 2003,
     "army": "Yu Jing",
-    "isc": "Zhànying Imperial Agents",
-    "name": "Zhànying",
+    "isc": "Zh\u00e0nying Imperial Agents",
+    "name": "Zh\u00e0nying",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -413,6 +416,7 @@
     ]
   },
   {
+    "index": 2004,
     "army": "Yu Jing",
     "isc": "Tiger Soldiers",
     "name": "Tiger",
@@ -531,9 +535,10 @@
     ]
   },
   {
+    "index": 2005,
     "army": "Yu Jing",
-    "isc": "Zúyong Invincibles",
-    "name": "Zúyong",
+    "isc": "Z\u00fayong Invincibles",
+    "name": "Z\u00fayong",
     "type": "HI",
     "imp": "",
     "irr": "",
@@ -696,6 +701,7 @@
     ]
   },
   {
+    "index": 2006,
     "army": "Yu Jing",
     "isc": "Yan Huo Invincibles",
     "name": "Yan Huo",
@@ -783,6 +789,7 @@
     ]
   },
   {
+    "index": 2007,
     "army": "Yu Jing",
     "isc": "Wu Ming",
     "name": "Wu Ming",
@@ -910,6 +917,7 @@
     ]
   },
   {
+    "index": 2008,
     "army": "Yu Jing",
     "isc": "Daofei",
     "name": "Daofei",
@@ -1025,6 +1033,7 @@
     ]
   },
   {
+    "index": 2009,
     "army": "Yu Jing",
     "isc": "Hac Tao",
     "name": "Hac Tao",
@@ -1142,6 +1151,7 @@
     ]
   },
   {
+    "index": 2010,
     "army": "Yu Jing",
     "isc": "Hsien",
     "name": "Hsien",
@@ -1261,6 +1271,7 @@
     ]
   },
   {
+    "index": 2011,
     "army": "Yu Jing",
     "isc": "Guijia",
     "name": "Guijia",
@@ -1346,6 +1357,7 @@
     ]
   },
   {
+    "index": 2012,
     "army": "Yu Jing",
     "isc": "Guilang",
     "name": "Guilang",
@@ -1467,6 +1479,7 @@
     ]
   },
   {
+    "index": 2013,
     "army": "Yu Jing",
     "isc": "Ninjas",
     "name": "Ninja",
@@ -1581,6 +1594,7 @@
     ]
   },
   {
+    "index": 2014,
     "army": "Yu Jing",
     "isc": "Shaolin Warrior Monks",
     "name": "Shaolin",
@@ -1695,6 +1709,7 @@
     ]
   },
   {
+    "index": 2015,
     "army": "Yu Jing",
     "isc": "Yisheng",
     "name": "Yisheng",
@@ -1736,6 +1751,7 @@
     ]
   },
   {
+    "index": 2016,
     "army": "Yu Jing",
     "isc": "Mech-Engineer",
     "name": "Mech-Engineer",
@@ -1777,8 +1793,9 @@
     ]
   },
   {
+    "index": 2017,
     "army": "Yu Jing",
-    "isc": "Yáokòng Wèibīng",
+    "isc": "Y\u00e1ok\u00f2ng W\u00e8ib\u012bng",
     "name": "Weibing",
     "type": "REM",
     "imp": "",
@@ -1823,8 +1840,9 @@
     ]
   },
   {
+    "index": 2018,
     "army": "Yu Jing",
-    "isc": "Yáokòng Hùsòng",
+    "isc": "Y\u00e1ok\u00f2ng H\u00f9s\u00f2ng",
     "name": "Husong",
     "type": "REM",
     "imp": "",
@@ -1842,7 +1860,7 @@
     "s": "3",
     "ava": "2",
     "spec": [
-      "360° Visor",
+      "360\u00b0 Visor",
       "G: Remote Presence",
       "Total Reaction"
     ],
@@ -1865,8 +1883,9 @@
     ]
   },
   {
+    "index": 2019,
     "army": "Yu Jing",
-    "isc": "Yáokòng Son-bae",
+    "isc": "Y\u00e1ok\u00f2ng Son-bae",
     "name": "Son-Bae",
     "type": "REM",
     "imp": "",
@@ -1905,8 +1924,9 @@
     ]
   },
   {
+    "index": 2020,
     "army": "Yu Jing",
-    "isc": "Yáokòng Chaīyì",
+    "isc": "Y\u00e1ok\u00f2ng Cha\u012by\u00ec",
     "name": "Chaiyi",
     "type": "REM",
     "imp": "",
@@ -1948,6 +1968,7 @@
     ]
   },
   {
+    "index": 2021,
     "army": "Yu Jing",
     "isc": "Sun Tze",
     "name": "Sun Tze",
@@ -2034,6 +2055,7 @@
     ]
   },
   {
+    "index": 2022,
     "army": "Yu Jing",
     "isc": "Celestial Guard",
     "name": "Celestial Guard",
@@ -2158,6 +2180,7 @@
     ]
   },
   {
+    "index": 2023,
     "army": "Yu Jing",
     "isc": "Domaru Butai",
     "name": "Domaru",
@@ -2274,6 +2297,7 @@
     ]
   },
   {
+    "index": 2024,
     "army": "Yu Jing",
     "isc": "Shang Ji",
     "name": "Shang Ji",
@@ -2381,8 +2405,9 @@
     ]
   },
   {
+    "index": 2025,
     "army": "Yu Jing",
-    "isc": "Yáozăo",
+    "isc": "Y\u00e1oz\u0103o",
     "name": "Yaozao",
     "type": "REM",
     "imp": "",
@@ -2420,8 +2445,9 @@
     ]
   },
   {
+    "index": 2026,
     "army": "Yu Jing",
-    "isc": "Yáopú Pangguling",
+    "isc": "Y\u00e1op\u00fa Pangguling",
     "name": "Pangguling",
     "type": "REM",
     "imp": "",
@@ -2486,6 +2512,7 @@
     ]
   },
   {
+    "index": 2027,
     "army": "Yu Jing",
     "isc": "Kuang Shi",
     "name": "Kuang Shi",
@@ -2539,6 +2566,7 @@
     ]
   },
   {
+    "index": 2028,
     "army": "Yu Jing",
     "isc": "Kempeitai",
     "name": "Kempei",
@@ -2618,6 +2646,7 @@
     ]
   },
   {
+    "index": 2029,
     "army": "Yu Jing",
     "isc": "Imperial Agent, Pheasant Rank",
     "name": "Imperial Agent",
@@ -2703,6 +2732,7 @@
     ]
   },
   {
+    "index": 2030,
     "army": "Yu Jing",
     "isc": "Aragoto Senkenbutai",
     "name": "Aragoto",
@@ -2814,6 +2844,7 @@
     ]
   },
   {
+    "index": 2031,
     "army": "Yu Jing",
     "isc": "Imperial Agents, Crane Rank",
     "name": "Imperial Agent",
@@ -2931,6 +2962,7 @@
     ]
   },
   {
+    "index": 2032,
     "army": "Yu Jing",
     "isc": "Haramaki Zensenbutai",
     "name": "Haramaki",
@@ -3016,6 +3048,7 @@
     ]
   },
   {
+    "index": 2033,
     "army": "Yu Jing",
     "isc": "Karakuri Special Project",
     "name": "Karakuri",
@@ -3086,6 +3119,7 @@
     ]
   },
   {
+    "index": 2034,
     "army": "Yu Jing",
     "isc": "Su-Jian Immediate Action Unit",
     "name": "Su-Jian",
@@ -3170,6 +3204,7 @@
     ]
   },
   {
+    "index": 2035,
     "army": "Yu Jing",
     "isc": "O-Yoroi Kidobutai",
     "name": "O-Yoroi",
@@ -3237,7 +3272,7 @@
         "type": " ",
         "hackable": "",
         "mov": "6-4 ",
-        "cc": " ",
+        "cc": "\u00a0",
         "bs": " ",
         "ph": " ",
         "wip": " ",
@@ -3277,6 +3312,7 @@
     ]
   },
   {
+    "index": 2036,
     "army": "Yu Jing",
     "isc": "Oniwaban",
     "name": "Oniwaban",
@@ -3333,6 +3369,7 @@
     ]
   },
   {
+    "index": 2037,
     "army": "Yu Jing",
     "isc": "Tokusetsu Butai",
     "name": "Tokusetsu",
@@ -3389,8 +3426,9 @@
     ]
   },
   {
+    "index": 2038,
     "army": "Yu Jing",
-    "isc": "Yáoxiè Rui Shi",
+    "isc": "Y\u00e1oxi\u00e8 Rui Shi",
     "name": "Rui Shi",
     "type": "REM",
     "imp": "",
@@ -3431,8 +3469,9 @@
     ]
   },
   {
+    "index": 2039,
     "army": "Yu Jing",
-    "isc": "Yáoxiè Lù Duān",
+    "isc": "Y\u00e1oxi\u00e8 L\u00f9 Du\u0101n",
     "name": "Lu Duan",
     "type": "REM",
     "imp": "",
@@ -3475,6 +3514,7 @@
     ]
   },
   {
+    "index": 2040,
     "army": "Yu Jing",
     "isc": "Oniwaban Shinobu Kitsune",
     "name": "Shinobu",
@@ -3532,6 +3572,7 @@
     ]
   },
   {
+    "index": 2041,
     "army": "Yu Jing",
     "isc": "Domaru Takeshi \"Neko\" Oyama",
     "name": "Oyama",
@@ -3589,6 +3630,7 @@
     ]
   },
   {
+    "index": 2042,
     "army": "Yu Jing",
     "isc": "Sun Tze v.2 (Marksman Leader)",
     "name": "Sun Tze",
@@ -3671,9 +3713,10 @@
     ]
   },
   {
+    "index": 2043,
     "army": "Yu Jing",
-    "isc": "Guǐ Fēng Spec-Ops",
-    "name": "Guǐ Fēng",
+    "isc": "Gu\u01d0 F\u0113ng Spec-Ops",
+    "name": "Gu\u01d0 F\u0113ng",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -3705,10 +3748,11 @@
     ]
   },
   {
+    "index": 2044,
     "army": "Yu Jing",
-    "isc": "Keisotsu Guǐ Fēng Yuriko Oda",
-    "name": "Keisotsu Guǐ Fēng Yuriko Oda",
-    "image": "Guǐ Fēng Spec-Ops",
+    "isc": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
+    "name": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
+    "image": "Gu\u01d0 F\u0113ng Spec-Ops",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -3764,6 +3808,7 @@
     ]
   },
   {
+    "index": 2045,
     "army": "Yu Jing",
     "isc": "Bao Troop",
     "name": "Bao",
@@ -3833,6 +3878,7 @@
     ]
   },
   {
+    "index": 2046,
     "army": "Yu Jing",
     "isc": "Raiden Seibutai",
     "name": "Raiden",
@@ -3899,6 +3945,7 @@
     ]
   },
   {
+    "index": 2047,
     "army": "Yu Jing",
     "isc": "Asuka Kisaragi",
     "name": "Kisaragi",

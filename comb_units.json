@@ -1,5 +1,6 @@
 [
   {
+    "index": 6001,
     "army": "Combined Army",
     "isc": "Morat Vanguard Infantry",
     "name": "Morat",
@@ -138,6 +139,7 @@
     ]
   },
   {
+    "index": 6002,
     "army": "Combined Army",
     "isc": "Unidron Batroids",
     "name": "Unidron",
@@ -251,6 +253,7 @@
     ]
   },
   {
+    "index": 6003,
     "army": "Combined Army",
     "isc": "Fraacta Drop Unit",
     "name": "Fraacta",
@@ -361,6 +364,7 @@
     ]
   },
   {
+    "index": 6004,
     "army": "Combined Army",
     "isc": "Umbra Legates",
     "name": "Umbra Legate",
@@ -458,6 +462,7 @@
     ]
   },
   {
+    "index": 6005,
     "army": "Combined Army",
     "isc": "Maakrep Trackers Unit",
     "name": "Maakrep Tracker",
@@ -565,6 +570,7 @@
     ]
   },
   {
+    "index": 6006,
     "army": "Combined Army",
     "isc": "Rodok",
     "name": "Rodok",
@@ -686,6 +692,7 @@
     ]
   },
   {
+    "index": 6007,
     "army": "Combined Army",
     "isc": "The Charontids",
     "name": "Charontid",
@@ -845,6 +852,7 @@
     ]
   },
   {
+    "index": 6008,
     "army": "Combined Army",
     "isc": "Raicho Armoured Brigade",
     "name": "Raicho",
@@ -930,6 +938,7 @@
     ]
   },
   {
+    "index": 6009,
     "army": "Combined Army",
     "isc": "Avatar",
     "name": "Avatar",
@@ -977,6 +986,7 @@
     ]
   },
   {
+    "index": 6010,
     "army": "Combined Army",
     "isc": "The Shrouded",
     "name": "Shrouded",
@@ -1088,6 +1098,7 @@
     ]
   },
   {
+    "index": 6011,
     "army": "Combined Army",
     "isc": "Malignos",
     "name": "Malignos",
@@ -1212,6 +1223,7 @@
     ]
   },
   {
+    "index": 6012,
     "army": "Combined Army",
     "isc": "Speculo Killers",
     "name": "Speculo Killer",
@@ -1271,9 +1283,10 @@
     ]
   },
   {
+    "index": 6013,
     "army": "Combined Army",
-    "isc": "Dāturazi Witch-Soldiers",
-    "name": "Dāturazi",
+    "isc": "D\u0101turazi Witch-Soldiers",
+    "name": "D\u0101turazi",
     "type": "WB",
     "imp": "X",
     "irr": "",
@@ -1387,6 +1400,7 @@
     ]
   },
   {
+    "index": 6014,
     "army": "Combined Army",
     "isc": "The Hungries: \"Gakis\"",
     "name": "Gaki",
@@ -1426,6 +1440,7 @@
     ]
   },
   {
+    "index": 6015,
     "army": "Combined Army",
     "isc": "The Hungries: \"Pretas\"",
     "name": "Preta",
@@ -1467,6 +1482,7 @@
     ]
   },
   {
+    "index": 6016,
     "army": "Combined Army",
     "isc": "Med-Tech Obsidon Medchanoid",
     "name": "Med-Tech",
@@ -1510,6 +1526,7 @@
     ]
   },
   {
+    "index": 6017,
     "army": "Combined Army",
     "isc": "M-Drone",
     "name": "M-Drone",
@@ -1557,6 +1574,7 @@
     ]
   },
   {
+    "index": 6018,
     "army": "Combined Army",
     "isc": "Q-Drone",
     "name": "Q-Drone",
@@ -1576,7 +1594,7 @@
     "s": "3",
     "ava": "1",
     "spec": [
-      "360° Visor",
+      "360\u00b0 Visor",
       "CH: Mimetism",
       "G: Remote Presence",
       "Total Reaction"
@@ -1611,6 +1629,7 @@
     ]
   },
   {
+    "index": 6019,
     "army": "Combined Army",
     "isc": "T-Drone",
     "name": "T-Drone",
@@ -1651,6 +1670,7 @@
     ]
   },
   {
+    "index": 6020,
     "army": "Combined Army",
     "isc": "R-Drone",
     "name": "R-Drone",
@@ -1694,6 +1714,7 @@
     ]
   },
   {
+    "index": 6021,
     "army": "Combined Army",
     "isc": "Imetron",
     "name": "Imetron",
@@ -1733,6 +1754,7 @@
     ]
   },
   {
+    "index": 6022,
     "army": "Combined Army",
     "isc": "Kurgat Reg. of Assault Engineers",
     "name": "Kurgat",
@@ -1799,6 +1821,7 @@
     ]
   },
   {
+    "index": 6023,
     "army": "Combined Army",
     "isc": "Rasyat Diplomatic Division",
     "name": "Rasyat",
@@ -1894,6 +1917,7 @@
     ]
   },
   {
+    "index": 6024,
     "army": "Combined Army",
     "isc": "Shasvastii Aswangs",
     "name": "Aswang",
@@ -1974,6 +1998,7 @@
     ]
   },
   {
+    "index": 6025,
     "army": "Combined Army",
     "isc": "Shasvastii Cadmus",
     "name": "Cadmus",
@@ -2069,6 +2094,7 @@
     ]
   },
   {
+    "index": 6026,
     "army": "Combined Army",
     "isc": "Shasvastii Gwailos",
     "name": "Gwailo",
@@ -2185,6 +2211,7 @@
     ]
   },
   {
+    "index": 6027,
     "army": "Combined Army",
     "isc": "Shasvastii Haiduks",
     "name": "Haiduk",
@@ -2237,6 +2264,7 @@
     ]
   },
   {
+    "index": 6028,
     "army": "Combined Army",
     "isc": "Shasvastii Noctifers",
     "name": "Noctifer",
@@ -2337,6 +2365,7 @@
     ]
   },
   {
+    "index": 6029,
     "army": "Combined Army",
     "isc": "Shasvastii Special Armoured Corp Sphinx",
     "name": "Sphinx",
@@ -2382,6 +2411,7 @@
     ]
   },
   {
+    "index": 6030,
     "army": "Combined Army",
     "isc": "Shasvastii Seed-Soldiers",
     "name": "Seed-Soldier",
@@ -2488,6 +2518,7 @@
     ]
   },
   {
+    "index": 6031,
     "army": "Combined Army",
     "isc": "Shasvastii Corax Hasht",
     "name": "Shasvastii Corax Hasht",
@@ -2559,9 +2590,10 @@
     ]
   },
   {
+    "index": 6032,
     "army": "Combined Army",
-    "isc": "Skiávoros",
-    "name": "Skiávoro",
+    "isc": "Ski\u00e1voros",
+    "name": "Ski\u00e1voro",
     "type": "MI",
     "imp": "",
     "irr": "",
@@ -2669,6 +2701,7 @@
     ]
   },
   {
+    "index": 6033,
     "army": "Combined Army",
     "isc": "Slave Drones",
     "name": "Slave Drone",
@@ -2708,6 +2741,7 @@
     ]
   },
   {
+    "index": 6034,
     "army": "Combined Army",
     "isc": "Sogarat Tempest Regiment",
     "name": "Sogarat",
@@ -2794,6 +2828,7 @@
     ]
   },
   {
+    "index": 6035,
     "army": "Combined Army",
     "isc": "The Anathematics",
     "name": "Anathematic",
@@ -2898,6 +2933,7 @@
     ]
   },
   {
+    "index": 6036,
     "army": "Combined Army",
     "isc": "Yaogat Strike Infantry",
     "name": "Yaogat",
@@ -3000,6 +3036,7 @@
     ]
   },
   {
+    "index": 6037,
     "army": "Combined Army",
     "isc": "Zerat Special Missions Regiment",
     "name": "Zerat",
@@ -3099,6 +3136,7 @@
     ]
   },
   {
+    "index": 6038,
     "army": "Combined Army",
     "isc": "Cadmus-Naish Agent Sheskiin",
     "name": "Sheskiin",
@@ -3156,6 +3194,7 @@
     ]
   },
   {
+    "index": 6039,
     "army": "Combined Army",
     "isc": "Treitak Spec-Ops",
     "name": "Treitak",
@@ -3190,6 +3229,7 @@
     ]
   },
   {
+    "index": 6040,
     "army": "Combined Army",
     "isc": "Treitak Anyat",
     "name": "Treitak Anyat",
@@ -3236,6 +3276,7 @@
     ]
   },
   {
+    "index": 6041,
     "army": "Combined Army",
     "isc": "Corax Spec-Ops",
     "name": "Corax",
@@ -3270,6 +3311,7 @@
     ]
   },
   {
+    "index": 6042,
     "army": "Combined Army",
     "isc": "Ikadron Batroids",
     "name": "Ikadron",
@@ -3315,6 +3357,7 @@
     ]
   },
   {
+    "index": 6043,
     "army": "Combined Army",
     "isc": "Ko Dali",
     "name": "Ko Dali",
@@ -3359,6 +3402,7 @@
     ]
   },
   {
+    "index": 6044,
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Seed-Embryo)",
     "name": "Caliban",
@@ -3511,6 +3555,7 @@
     ]
   },
   {
+    "index": 6045,
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Infiltration)",
     "name": "Caliban",
@@ -3633,6 +3678,7 @@
     ]
   },
   {
+    "index": 6046,
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Developed)",
     "name": "Caliban D",
@@ -3757,6 +3803,7 @@
     ]
   },
   {
+    "index": 6047,
     "army": "Combined Army",
     "isc": "Raktorak",
     "name": "Raktorak",
@@ -3810,6 +3857,7 @@
     ]
   },
   {
+    "index": 6048,
     "army": "Combined Army",
     "isc": "Suryats",
     "name": "Suryat",
@@ -3939,6 +3987,7 @@
     ]
   },
   {
+    "index": 6049,
     "army": "Combined Army",
     "isc": "Oznat",
     "name": "Oznat",
@@ -3997,6 +4046,7 @@
     ]
   },
   {
+    "index": 6050,
     "army": "Combined Army",
     "isc": "Kornak Gazarot",
     "name": "Kornak",
@@ -4053,6 +4103,7 @@
     ]
   },
   {
+    "index": 6051,
     "army": "Combined Army",
     "isc": "E-Drone",
     "name": "E-Drone",

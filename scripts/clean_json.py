@@ -23,9 +23,30 @@ sort_order = [
 'code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw', 'ccw', 'independent', 'profiles', 'childs'
 ]
 
-json_ordered = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v): sort_order.index(k)))
-                    for item in data]
 
+
+def unitsort(obj):
+	# print "unitsort"
+	# print obj
+	if isinstance(obj, list):
+		for i in range(len(obj)):
+			obj[i] = unitsort(obj[i])
+		#print "list"
+		#print obj
+		return obj
+	elif isinstance(obj, dict):
+		{k: unitsort(v) for k, v in obj.items()}
+		obj =  sorted(obj.iteritems(), key=lambda (k, v): sort_order.index(k))
+		#print "sorted"
+		#print obj
+		return obj
+	else:
+		return obj
+
+#json_ordered = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v): sort_order.index(k)))
+#                    for item in data]
+
+json_ordered = unitsort(data)
 
 print "Writing to: " + output_filename
 with open(output_filename, 'w') as outfile:

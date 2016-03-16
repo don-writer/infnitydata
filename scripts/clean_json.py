@@ -13,12 +13,12 @@ output_filename = sys.argv[2]
 
 print "Reading from: " + filename
 with open(filename, 'r') as f:
-     data = json.load(f)
+     data = json.load(f, object_pairs_hook=OrderedDict)
      
 #print data
 
 sort_order = [
-'army', 'sectorial', 'isc', 'name', 'sharedAva', 'image', 'optionSpecific', 'type', 'imp', 'irr', 
+'index', 'army', 'sectorial', 'isc', 'name', 'sharedAva', 'image', 'optionSpecific', 'type', 'imp', 'irr', 
 'cube', 'hackable', 'mov', 'cc', 'bs', 'ph', 'wip', 'arm', 'bts', 'w', 'wtype', 's', 'ava', 
 'code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw', 'ccw', 'independent', 'profiles', 'childs'
 ]
@@ -26,17 +26,25 @@ sort_order = [
 
 
 def unitsort(obj):
-	# print "unitsort"
-	# print obj
+	#print "unitsort"
+	#print obj
 	if isinstance(obj, list):
+		print "pre-list"
+		print obj
 		for i in range(len(obj)):
 			obj[i] = unitsort(obj[i])
-		#print "list"
-		#print obj
+		print "list"
+		print obj
 		return obj
 	elif isinstance(obj, dict):
-		{k: unitsort(v) for k, v in obj.items()}
-		obj =  sorted(obj.iteritems(), key=lambda (k, v): sort_order.index(k))
+		#{k: unitsort(v) for k, v in obj.items()}
+		#print "pre-sorted"
+		#print obj
+		for i in range(len(obj)):
+			obj[obj.keys()[i]] = unitsort(obj.values()[i])
+		obj =  OrderedDict(sorted(obj.iteritems(), key=lambda (k, v): sort_order.index(k)))
+		#json_ordered = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v): sort_order.index(k)))
+                #    for item in obj]
 		#print "sorted"
 		#print obj
 		return obj
@@ -46,10 +54,10 @@ def unitsort(obj):
 #json_ordered = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v): sort_order.index(k)))
 #                    for item in data]
 
-json_ordered = unitsort(data)
+#json_ordered = unitsort(data)
 
 print "Writing to: " + output_filename
 with open(output_filename, 'w') as outfile:
-    json.dump(json_ordered, outfile, indent=4, separators=(',', ': '))
+    json.dump(data, outfile, indent=2, separators=(',', ': '))
     
 

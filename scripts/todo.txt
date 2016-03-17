@@ -1,5 +1,6 @@
 To Do 
 1a. Number the "childs"
+1b. Create script to verify there are no duplicates in the index values
 2. Create lists (sectorials) for base factions
 2a. Number the sectorials
 3. Create mechanism to filter out options from base data for a particular list ie. Sectorial-only profiles

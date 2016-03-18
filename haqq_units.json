@@ -1835,6 +1835,7 @@
     "isc": "Kasym Beg",
     "name": "Kasym Beg",
     "sharedAva": "Kasym Beg",
+    "image": "Kum Motorized Troops",
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -1900,9 +1901,9 @@
     "index": 4023,
     "army": "Haqqislam",
     "isc": "Kasym Beg (Lieutenant)",
-    "name": "Kasym Beg",
+    "name": "Kasym Beg Lt.",
     "sharedAva": "Kasym Beg",
-    "image": "Kasym Beg",
+    "image": "Kum Motorized Troops",
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -2659,6 +2660,7 @@
     "army": "Haqqislam",
     "isc": "Hussein Al-Djabel",
     "name": "Al-Djabel",
+    "image": "Hassassin Fiday",
     "type": "SK",
     "imp": "",
     "irr": "",
@@ -3660,6 +3662,7 @@
     "army": "Haqqislam",
     "isc": "Zamira Nazarova",
     "name": "Zamira",
+    "image": "Kum Motorized Troops",
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -3721,6 +3724,7 @@
     "army": "Haqqislam",
     "isc": "Zuleyka Nazarova",
     "name": "Zuleyka",
+    "image": "Kum Motorized Troops",
     "ava": "1",
     "spec": [
       "V: Dogged"

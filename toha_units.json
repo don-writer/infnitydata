@@ -163,7 +163,6 @@
         "ccw": []
       },
       {
-        "army": "Tohaa",
         "name": "Inactive Armour",
         "type": "LI",
         "imp": "I",
@@ -1113,6 +1112,7 @@
     "army": "Tohaa",
     "isc": "Neema Saatar",
     "name": "Neema",
+    "image": "Ectros Regiment",
     "ava": "1",
     "spec": [],
     "bsw": [
@@ -1917,7 +1917,10 @@
     "ava": "2",
     "spec": [],
     "bsw": [],
-    "ccw": [],
+    "ccw": [
+      "Pistol",
+      "Electric Pulse"
+    ],
     "profiles": [
       {
         "type": "LI",
@@ -1937,10 +1940,7 @@
           "Symbiont Armour"
         ],
         "bsw": [],
-        "ccw": [
-          "Pistol",
-          "Electric Pulse"
-        ]
+        "ccw": []
       },
       {
         "name": "Inactive Armour",
@@ -1954,45 +1954,9 @@
         "w": "1",
         "s": "2",
         "ava": " ",
-        "spec": [
-          "Symbiont Armour"
-        ],
+        "spec": [],
         "bsw": [],
         "ccw": []
-      },
-      {
-        "name": "Surda SymbioBeast",
-        "optionSpecific": "X",
-        "type": "LI",
-        "imp": "",
-        "irr": "",
-        "cube": "",
-        "mov": "6-4",
-        "cc": "22",
-        "bs": "8",
-        "ph": "15",
-        "wip": "10",
-        "arm": "0",
-        "bts": "3",
-        "w": "1",
-        "s": "3",
-        "spec": [
-          "G: Synchronized",
-          "Hyper-Dynamics L1",
-          "Kinematica L2",
-          "Super-Jump",
-          "V: Dogged"
-        ],
-        "bsw": [
-          "Pulzar"
-        ],
-        "ccw": [
-          "Viral CCW"
-        ],
-        "independent": {
-          "cost": "8",
-          "swc": "0"
-        }
       },
       {
         "name": "Surda SymbioBeast",
@@ -2089,7 +2053,7 @@
         "ccw": [],
         "profiles": [
           "2",
-          "3"
+          "2"
         ]
       },
       {
@@ -2097,7 +2061,7 @@
         "codename": "",
         "cost": "30",
         "swc": "0",
-        "profile": "4",
+        "profile": "3",
         "spec": [],
         "bsw": [
           "Combi Rifle",
@@ -2110,7 +2074,7 @@
         "codename": "",
         "cost": "25",
         "swc": "0",
-        "profile": "4",
+        "profile": "3",
         "spec": [],
         "bsw": [
           "Light Shotgun",

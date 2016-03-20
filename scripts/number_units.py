@@ -26,6 +26,6 @@ for i in range(len(data)):
 
 print "Writing to: " + filename
 with open(filename, 'w') as outfile:
-    json.dump(data, outfile, indent=4, separators=(',', ': '))
+    json.dump(data, outfile, indent=2, separators=(',', ': '))
     
 

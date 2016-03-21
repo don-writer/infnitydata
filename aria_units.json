@@ -19,11 +19,6 @@
     "s": "2",
     "ava": "T",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -34,7 +29,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -47,7 +45,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Paramedic",
@@ -61,7 +62,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -74,7 +78,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Missile Launcher",
@@ -85,7 +92,10 @@
         "bsw": [
           "Missile Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -96,7 +106,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Light Grenade Launcher",
@@ -108,7 +121,10 @@
           "Light Grenade Launcher",
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "AP HMG",
@@ -119,7 +135,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -146,11 +165,6 @@
       "AD: Parachutist",
       "CH: Mimetism"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -161,7 +175,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -174,7 +191,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -185,7 +205,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Light Grenade Launcher",
@@ -197,7 +220,10 @@
           "Light Grenade Launcher",
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -208,7 +234,10 @@
         "bsw": [
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG",
@@ -219,7 +248,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -246,11 +278,6 @@
       "Marksmanship L2",
       "Martial Arts L2"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -264,6 +291,8 @@
           "HMG"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "CCW"
         ]
       },
@@ -279,6 +308,8 @@
           "Sniper Rifle"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "CCW"
         ]
       },
@@ -296,6 +327,8 @@
           "Grenades"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -313,6 +346,8 @@
           "Grenades"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "AP CCW"
         ]
       }
@@ -340,11 +375,6 @@
     "spec": [
       "Shock Immunity"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -355,7 +385,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "LGL Lieutenant",
@@ -369,7 +402,10 @@
           "Rifle",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -382,7 +418,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Paramedic",
@@ -396,7 +435,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -409,7 +451,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Inferior Infiltration",
@@ -423,7 +468,10 @@
           "Heavy Flamethrower",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -436,7 +484,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Light Grenade Launcher",
@@ -448,7 +499,10 @@
           "Rifle",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG",
@@ -459,7 +513,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Heavy Flamethrower",
@@ -471,7 +528,10 @@
           "Heavy Flamethrower",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -498,11 +558,6 @@
       "CH: Camouflage",
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -515,6 +570,8 @@
           "Adhesive Launcher"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -531,6 +588,8 @@
           "Adhesive Launcher"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -543,7 +602,10 @@
         "bsw": [
           "Missile Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Autocannon",
@@ -555,6 +617,8 @@
           "Autocannon"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -568,6 +632,8 @@
           "AP HMG"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       }
@@ -598,11 +664,6 @@
       "Kinematica L1",
       "Not Hackable"
     ],
-    "bsw": [],
-    "ccw": [
-      "CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -614,7 +675,10 @@
           "Rifle",
           "Light Flamethrower (2)"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG Lieutenant",
@@ -627,7 +691,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -641,7 +708,10 @@
           "Rifle",
           "Light Flamethrower (2)"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Marksman",
@@ -656,7 +726,10 @@
           "AP Rifle",
           "Light Flamethrower (2)"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -670,7 +743,10 @@
           "Rifle",
           "Light Flamethrower (2)"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Missile Launcher",
@@ -682,7 +758,10 @@
           "Missile Launcher",
           "Light Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -694,7 +773,10 @@
           "Boarding Shotgun",
           "Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "AP HMG",
@@ -705,7 +787,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -733,11 +818,6 @@
       "Shock Immunity",
       "Not Hackable"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -749,7 +829,10 @@
           "Rifle",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Sapper",
@@ -762,7 +845,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Infiltrator AP",
@@ -777,7 +863,10 @@
           "D.E.P.",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG Lieutenant",
@@ -790,7 +879,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -804,7 +896,10 @@
           "Rifle",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Paramedic",
@@ -819,7 +914,10 @@
           "Rifle",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Engineer",
@@ -834,6 +932,8 @@
           "Light Shotgun"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -850,7 +950,10 @@
           "Light Shotgun",
           "E/Mauler"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Mimetism",
@@ -864,7 +967,10 @@
           "Rifle",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Panzerfaust",
@@ -876,7 +982,10 @@
           "Panzerfaust",
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "AP Rifle",
@@ -888,7 +997,10 @@
           "AP Rifle",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG",
@@ -899,7 +1011,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -928,11 +1043,6 @@
       "Shock Immunity",
       "Veteran L2 (V: No Wound Incapacitation, Sixth Sense L2)"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Heavy Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -944,7 +1054,10 @@
           "AP Rifle",
           "Light Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "X Visor",
@@ -958,7 +1071,10 @@
           "T2 Rifle",
           "Light Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "AP HMG Lieutenant",
@@ -971,7 +1087,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -985,7 +1104,10 @@
           "AP Rifle",
           "Light Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -999,7 +1121,10 @@
           "AP Rifle",
           "Light Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "Paramedic",
@@ -1014,7 +1139,10 @@
           "AP Rifle",
           "Light Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1025,7 +1153,10 @@
         "bsw": [
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "AP HMG",
@@ -1036,7 +1167,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
       }
     ]
   },
@@ -1064,11 +1198,6 @@
       "Infiltration",
       "Multiterrain"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1080,7 +1209,10 @@
           "Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -1094,7 +1226,10 @@
           "Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -1108,7 +1243,10 @@
           "Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -1120,7 +1258,10 @@
           "Sniper Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Light Grenade Launcher",
@@ -1132,7 +1273,10 @@
           "Rifle",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1144,7 +1288,10 @@
           "Boarding Shotgun",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1172,11 +1319,6 @@
       "Infiltration",
       "Multiterrain"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1188,7 +1330,10 @@
           "Tactical Bow",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Rifle",
@@ -1200,7 +1345,10 @@
           "Tactical Bow",
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1230,11 +1378,6 @@
       "Martial Arts L2",
       "Multiterrain"
     ],
-    "bsw": [],
-    "ccw": [
-      "AP CCW",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Assault Pistol",
@@ -1247,6 +1390,8 @@
           "Grenades"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -1261,6 +1406,8 @@
           "Light Shotgun"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -1274,6 +1421,8 @@
           "Rifle"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -1289,6 +1438,8 @@
           "Rifle"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -1304,6 +1455,8 @@
           "Rifle"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -1317,6 +1470,8 @@
           "Sniper Rifle"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -1330,6 +1485,8 @@
           "Boarding Shotgun"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       }
@@ -1360,11 +1517,6 @@
       "Marksmanship L1",
       "Multiterrain"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1377,6 +1529,8 @@
           "Antipersonnel Mines"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -1393,6 +1547,8 @@
           "Antipersonnel Mines"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -1409,6 +1565,8 @@
           "Antipersonnel Mines"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -1422,7 +1580,10 @@
           "AP Sniper Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1435,6 +1596,8 @@
           "Antipersonnel Mines"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -1449,6 +1612,8 @@
           "Ojotnik"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       }
@@ -1477,13 +1642,6 @@
       "Berserk",
       "V: Dogged"
     ],
-    "bsw": [
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "AP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1492,9 +1650,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1503,9 +1665,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Chain Rifle",
@@ -1514,9 +1680,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Chain Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1544,14 +1714,6 @@
       "Engineer",
       "Scavenger"
     ],
-    "bsw": [
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "D-Charges",
-      "AP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1560,9 +1722,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "D-Charges",
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1571,9 +1738,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "D-Charges",
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Chain Rifle",
@@ -1582,9 +1754,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Chain Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "D-Charges",
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1596,8 +1773,6 @@
     "image": "Assault Pack",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "name": "Controller",
@@ -1617,14 +1792,8 @@
         "spec": [
           "Antipode Control Device"
         ],
-        "bsw": [
-          "Rifle",
-          "Smoke Light Grenade Launcher"
-        ],
-        "ccw": [
-          "Knife",
-          "Pistol"
-        ],
+        "bsw": [],
+        "ccw": [],
         "independent": {
           "cost": "10",
           "swc": "0"
@@ -1737,8 +1906,14 @@
         "cost": "25",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Rifle",
+          "Smoke Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1765,13 +1940,6 @@
       "Doctor",
       "MediKit"
     ],
-    "bsw": [
-      "Rifle"
-    ],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1779,8 +1947,13 @@
         "cost": "13",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1808,13 +1981,6 @@
       "V: Courage",
       "MediKit"
     ],
-    "bsw": [
-      "Light Shotgun"
-    ],
-    "ccw": [
-      "CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1822,8 +1988,13 @@
         "cost": "12",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1851,14 +2022,6 @@
       "Total Immunity",
       "V: Courage"
     ],
-    "bsw": [
-      "Chain Rifle (2)",
-      "Grenades",
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "AP CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1866,8 +2029,14 @@
         "cost": "23",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Chain Rifle (2)",
+          "Grenades",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "AP CCW"
+        ]
       }
     ]
   },
@@ -1895,13 +2064,6 @@
       "V: Dogged",
       "Not Hackable"
     ],
-    "bsw": [
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Lieutenant",
@@ -1912,11 +2074,15 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Smoke Grenades",
           "Rifle",
           "Light Shotgun (2)",
           "Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "T2 Boarding Shotgun",
@@ -1925,10 +2091,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "T2 Boarding Shotgun",
           "Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "AP HMG",
@@ -1937,9 +2107,13 @@
         "swc": "1.5",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "T2 Rifle",
@@ -1948,11 +2122,15 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "T2 Rifle",
           "Light Shotgun (2)",
           "Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -1961,11 +2139,15 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Smoke Grenades",
           "Rifle",
           "Light Shotgun (2)",
           "Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1994,13 +2176,6 @@
       "Kinematika L1",
       "Natural Born Warrior"
     ],
-    "bsw": [
-      "Grenades"
-    ],
-    "ccw": [
-      "AP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2009,9 +2184,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Grenades",
           "Mk12"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Heavy Shotgun",
@@ -2020,9 +2199,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Grenades",
           "Heavy Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "T2 Rifle",
@@ -2031,9 +2214,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Grenades",
           "T2 Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2061,11 +2248,6 @@
       "V: Dogged",
       "Not Hackable"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Lieutenant AP HMG",
@@ -2078,7 +2260,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2092,7 +2277,10 @@
         "bsw": [
           "T2 Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "AP HMG",
@@ -2103,7 +2291,10 @@
         "bsw": [
           "AP HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -2116,7 +2307,10 @@
         "bsw": [
           "T2 Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2143,11 +2337,6 @@
     "spec": [
       "Multiterrain (Mountain and Jungle)"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Lieutenant",
@@ -2160,7 +2349,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Paramedic",
@@ -2174,7 +2366,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Camo Light Grenade Launcher",
@@ -2189,7 +2384,10 @@
           "Light Shotgun",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Camo D-Charges",
@@ -2204,6 +2402,8 @@
           "Rifle"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -2217,7 +2417,10 @@
           "Light Shotgun",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG",
@@ -2228,7 +2431,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Chain Rifle",
@@ -2240,7 +2446,10 @@
           "Chain Rifle",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -2251,7 +2460,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2280,11 +2492,6 @@
       "Multiterrain",
       "Sixth Sense L1"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Observer",
@@ -2299,7 +2506,10 @@
           "Light Flamethrower",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Minelayer",
@@ -2314,7 +2524,10 @@
           "Light Flamethrower",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "ADHL",
@@ -2327,6 +2540,8 @@
           "Adhesive Launcher"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -2339,7 +2554,10 @@
         "bsw": [
           "AP Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -2352,7 +2570,10 @@
           "Light Flamethrower",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2379,13 +2600,6 @@
       "Engineer",
       "V: Courage"
     ],
-    "bsw": [
-      "Rifle"
-    ],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Mul Control",
@@ -2395,8 +2609,12 @@
         "spec": [
           "Traktor Mul Control Device"
         ],
-        "bsw": [],
+        "bsw": [
+          "Rifle"
+        ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       },
@@ -2407,9 +2625,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Rifle",
           "Akrylat-Kanone"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Default",
@@ -2417,8 +2639,12 @@
         "cost": "13",
         "swc": "0",
         "spec": [],
-        "bsw": [],
+        "bsw": [
+          "Rifle"
+        ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       }
@@ -2448,11 +2674,6 @@
       "CH: Mimetism",
       "Climbing Plus"
     ],
-    "bsw": [],
-    "ccw": [
-      "AP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "T2 Sniper Rifle",
@@ -2463,7 +2684,10 @@
         "bsw": [
           "T2 Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -2474,7 +2698,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2501,11 +2728,6 @@
       "V: Courage",
       "X Visor"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Sniper Rifle",
@@ -2516,7 +2738,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Flash Light Grenade Launcher",
@@ -2528,7 +2753,10 @@
           "Viral Rifle",
           "Flash Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "ADHL",
@@ -2541,7 +2769,10 @@
           "Adhesive Launcher",
           "Flash Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -2553,7 +2784,10 @@
           "Viral Rifle",
           "Flash Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2580,11 +2814,6 @@
     "spec": [
       "Multiterrain"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Lieutenant",
@@ -2597,7 +2826,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Paramedic",
@@ -2611,7 +2843,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Camo Light Grenade Launcher",
@@ -2626,7 +2861,10 @@
           "Rifle",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Camo D.E.P.",
@@ -2641,7 +2879,10 @@
           "Rifle",
           "D.E.P."
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Camo D-Charges",
@@ -2656,6 +2897,8 @@
           "Rifle"
         ],
         "ccw": [
+          "Knife",
+          "Pistol",
           "D-Charges"
         ]
       },
@@ -2669,7 +2912,10 @@
           "Rifle",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "HMG",
@@ -2680,7 +2926,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Default",
@@ -2691,7 +2940,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2719,10 +2971,6 @@
       "G: Remote Presence",
       "Baggage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Uragan",
@@ -2735,7 +2983,9 @@
         "bsw": [
           "Uragan MRL"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Katyusha",
@@ -2746,7 +2996,9 @@
         "bsw": [
           "Katyusha MRL"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Default",
@@ -2757,7 +3009,9 @@
           "Minesweeper"
         ],
         "bsw": [],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -2786,15 +3040,6 @@
       "Kinematika L1",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Combi Rifle",
-      "Light Flamethrower",
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "Pistol",
-      "EXP CCW"
-    ],
     "childs": [
       {
         "code": "Lieutenant",
@@ -2804,8 +3049,15 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "EXP CCW"
+        ]
       },
       {
         "code": "Default",
@@ -2813,8 +3065,15 @@
         "cost": "35",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "EXP CCW"
+        ]
       }
     ]
   },
@@ -2841,10 +3100,6 @@
       "Mechanized Deployment",
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Lieutenant",
@@ -2859,6 +3114,7 @@
           "D.E.P."
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -2876,6 +3132,7 @@
           "D.E.P."
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -2891,6 +3148,7 @@
           "Sniper Rifle"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -2906,6 +3164,7 @@
           "HMG"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -2922,6 +3181,7 @@
           "D.E.P."
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -2936,6 +3196,7 @@
           "Light Grenade Launcher"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -2951,6 +3212,7 @@
           "E/Mauler"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -2965,6 +3227,7 @@
           "D.E.P."
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       }
@@ -2995,13 +3258,6 @@
       "Martial Arts L2",
       "V: Dogged"
     ],
-    "bsw": [
-      "AP Rifle"
-    ],
-    "ccw": [
-      "AP CCW",
-      "Heavy Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3009,8 +3265,13 @@
         "cost": "38",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "AP Rifle"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Heavy Pistol"
+        ]
       },
       {
         "code": "Executive Order",
@@ -3020,8 +3281,13 @@
         "spec": [
           "Executive Order"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "AP Rifle"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Heavy Pistol"
+        ]
       }
     ]
   },
@@ -3049,14 +3315,6 @@
       "Defensive Hacking Device",
       "V: Courage"
     ],
-    "bsw": [
-      "Flash Pulse",
-      "E/Mauler"
-    ],
-    "ccw": [
-      "D-Charges",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3065,9 +3323,13 @@
         "swc": "0.5",
         "spec": [],
         "bsw": [
+          "Flash Pulse",
+          "E/Mauler",
           "Rifle"
         ],
         "ccw": [
+          "D-Charges",
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3078,9 +3340,13 @@
         "swc": "0.5",
         "spec": [],
         "bsw": [
+          "Flash Pulse",
+          "E/Mauler",
           "T2 Rifle"
         ],
         "ccw": [
+          "D-Charges",
+          "Knife",
           "Pistol"
         ]
       }
@@ -3111,14 +3377,6 @@
       "Martial Arts L2",
       "Multiterrain"
     ],
-    "bsw": [
-      "Boarding Shotgun",
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "AP CCW",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3131,9 +3389,13 @@
           "Multispectral Visor L1"
         ],
         "bsw": [
+          "Boarding Shotgun",
+          "Smoke Grenades",
           "Grenades"
         ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -3147,8 +3409,13 @@
           "Superior Infiltration",
           "Specialist Troop"
         ],
-        "bsw": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Smoke Grenades"
+        ],
         "ccw": [
+          "AP CCW",
+          "Knife",
           "D-Charges",
           "Assault Pistol (2)"
         ]
@@ -3180,14 +3447,6 @@
       "CH: Limited Camouflage",
       "Multiterrain"
     ],
-    "bsw": [
-      "Molotok"
-    ],
-    "ccw": [
-      "D-Charges",
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3195,8 +3454,14 @@
         "cost": "28",
         "swc": "1",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Inferior Infiltration",
@@ -3206,8 +3471,14 @@
         "spec": [
           "Inferior Infiltration"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -3217,8 +3488,14 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -3247,10 +3524,6 @@
       "V: Courage",
       "CH: Camouflage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3263,6 +3536,7 @@
           "D.E.P."
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -3276,6 +3550,7 @@
           "Molotok"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -3289,6 +3564,7 @@
           "Missile Launcher"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       }
@@ -3318,10 +3594,6 @@
     "spec": [
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife"
-    ],
     "childs": [
       {
         "code": "AP Marksman",
@@ -3333,6 +3605,7 @@
           "AP Marksman Rifle"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -3347,6 +3620,7 @@
           "D.E.P."
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -3360,6 +3634,7 @@
           "Molotok"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       },
@@ -3373,6 +3648,7 @@
           "Missile Launcher"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3388,6 +3664,7 @@
           "AP Marksman Rifle"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       }
@@ -3417,10 +3694,6 @@
       "Multispectral Visor L1",
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3432,6 +3705,7 @@
           "Marksman Rifle"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3447,6 +3721,7 @@
           "Marksman Rifle"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3462,6 +3737,7 @@
           "Marksman Rifle"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3477,6 +3753,7 @@
           "Marksman Rifle"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3490,6 +3767,7 @@
           "Heavy Rocket Launcher"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3503,6 +3781,7 @@
           "Sniper Rifle"
         ],
         "ccw": [
+          "Knife",
           "Pistol"
         ]
       }
@@ -3516,8 +3795,6 @@
     "image": "Equipe Mirage 5",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "isc": "Margot Berthier, Mirage-5",
@@ -3541,14 +3818,8 @@
           "Multiterrain",
           "Not Hackable"
         ],
-        "bsw": [
-          "AP Rifle",
-          "Light Grenade Launcher"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ],
+        "bsw": [],
+        "ccw": [],
         "independent": {
           "cost": "37",
           "swc": "2"
@@ -3598,8 +3869,14 @@
         "cost": "69",
         "swc": "2",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "AP Rifle",
+          "Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -3610,8 +3887,6 @@
     "name": "Dog-Warrior",
     "ava": "2",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "name": "Form: Dogface",
@@ -3702,8 +3977,6 @@
     "spec": [
       "Spec-Op"
     ],
-    "bsw": [],
-    "ccw": [],
     "childs": [
       {
         "code": "Default",
@@ -3741,10 +4014,6 @@
       "Jungle Terrain",
       "V: Dogged"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3757,6 +4026,7 @@
           "Heavy Flamethrower"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       },
@@ -3770,6 +4040,7 @@
           "Molotok"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       },
@@ -3784,6 +4055,7 @@
           "Antipersonnel Mines"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       },
@@ -3799,6 +4071,7 @@
           "Sniper Rifle"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       },
@@ -3814,6 +4087,7 @@
           "Heavy Rocket Launcher"
         ],
         "ccw": [
+          "Knife",
           "Assault Pistol"
         ]
       },
@@ -3831,6 +4105,7 @@
           "Heavy Flamethrower"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       },
@@ -3847,6 +4122,7 @@
           "Heavy Flamethrower"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       },
@@ -3863,6 +4139,7 @@
           "Heavy Flamethrower"
         ],
         "ccw": [
+          "Knife",
           "Heavy Pistol"
         ]
       }
@@ -3876,11 +4153,6 @@
     "ava": "2",
     "spec": [
       "Multispectral Visor L1"
-    ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
     ],
     "profiles": [
       {
@@ -3925,7 +4197,10 @@
         "bsw": [
           "Molotok"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -3936,7 +4211,10 @@
         "bsw": [
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Light Rocket Launcher",
@@ -3948,7 +4226,10 @@
           "Submachine Gun",
           "Light Rocket Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Forward Observer",
@@ -3961,7 +4242,10 @@
         "bsw": [
           "Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -3972,8 +4256,6 @@
     "name": "Devil Dog",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "WB",
@@ -4088,11 +4370,6 @@
       "Kinematika L1",
       "Jungle Terrain"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "AP CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -4104,6 +4381,8 @@
           "Submachine Gun"
         ],
         "ccw": [
+          "Knife",
+          "AP CCW",
           "Pistol"
         ]
       },
@@ -4117,6 +4396,8 @@
           "Molotok"
         ],
         "ccw": [
+          "Knife",
+          "AP CCW",
           "Pistol"
         ]
       },
@@ -4130,6 +4411,8 @@
           "Boarding Shotgun"
         ],
         "ccw": [
+          "Knife",
+          "AP CCW",
           "Pistol"
         ]
       },
@@ -4143,6 +4426,8 @@
           "Rifle"
         ],
         "ccw": [
+          "Knife",
+          "AP CCW",
           "Assault Pistol"
         ]
       },
@@ -4158,6 +4443,8 @@
           "Submachine Gun"
         ],
         "ccw": [
+          "Knife",
+          "AP CCW",
           "Pistol"
         ]
       },
@@ -4173,6 +4460,8 @@
           "Submachine Gun"
         ],
         "ccw": [
+          "Knife",
+          "AP CCW",
           "Pistol"
         ]
       }
@@ -4188,8 +4477,6 @@
       "Sixth Sense L2",
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "WB",

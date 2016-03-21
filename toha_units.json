@@ -21,11 +21,6 @@
     "spec": [
       "Fireteam: Tohaa"
     ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -36,7 +31,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Spitfire",
@@ -47,7 +45,10 @@
         "bsw": [
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Grenadier",
@@ -59,7 +60,10 @@
           "Combi Rifle",
           "Light Grenade Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -70,7 +74,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Hacker",
@@ -84,7 +91,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Observer",
@@ -97,7 +107,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Paramedic",
@@ -110,7 +123,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -123,7 +139,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -134,11 +153,6 @@
     "name": "Sakiel",
     "ava": "6",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "profiles": [
       {
         "type": "LI",
@@ -197,7 +211,10 @@
           "Combi Rifle",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Null",
@@ -210,7 +227,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Light Rocket Launcher",
@@ -222,7 +242,10 @@
           "Combi Rifle",
           "Light Rocket Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Viral",
@@ -234,7 +257,10 @@
           "Viral Combi Rifle",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Spitfire",
@@ -245,7 +271,10 @@
         "bsw": [
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Paramedic",
@@ -259,7 +288,10 @@
           "Combi Rifle",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -273,7 +305,10 @@
           "Viral Combi Rifle",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -284,13 +319,6 @@
     "name": "Ectros",
     "ava": "4",
     "spec": [],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "CCW"
-    ],
     "profiles": [
       {
         "type": "HI",
@@ -348,9 +376,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Viral Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "HMG",
@@ -359,9 +391,13 @@
         "swc": "2",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Vulkan",
@@ -370,9 +406,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Vulkan Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -383,9 +423,13 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Viral Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       }
     ]
   },
@@ -413,11 +457,6 @@
       "Multiterrain",
       "Infiltration"
     ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -429,7 +468,10 @@
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "SWG",
@@ -441,7 +483,10 @@
           "Combi Rifle",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Null",
@@ -454,7 +499,10 @@
         "bsw": [
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -465,7 +513,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Minelayer",
@@ -479,7 +530,10 @@
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Observer",
@@ -493,7 +547,10 @@
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -517,8 +574,6 @@
     "s": "2",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "childs": [
       {
         "code": "Default",
@@ -547,11 +602,6 @@
     "name": "Gao-Rael",
     "ava": "4",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "CCW"
-    ],
     "profiles": [
       {
         "name": "Gao-Rael",
@@ -611,7 +661,10 @@
           "Combi Rifle",
           "Adhesive Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -623,7 +676,10 @@
           "Boarding Shotgun",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Sniper Rifle",
@@ -634,7 +690,10 @@
         "bsw": [
           "Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Spitfire",
@@ -645,7 +704,10 @@
         "bsw": [
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -659,7 +721,10 @@
           "Combi Rifle",
           "Adhesive Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       }
     ]
   },
@@ -670,11 +735,6 @@
     "name": "Gao-Tarsos",
     "ava": "3",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "profiles": [
       {
         "type": "MI",
@@ -722,6 +782,8 @@
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       },
@@ -734,7 +796,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -746,6 +811,8 @@
           "Boarding Shotgun"
         ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       },
@@ -762,6 +829,8 @@
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       }
@@ -774,8 +843,6 @@
     "name": "Gorgos",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "TAG",
@@ -798,13 +865,9 @@
           "ECM"
         ],
         "bsw": [
-          "Spitfire",
-          "Nanopulser",
           "Flammenspeer (2)"
         ],
-        "ccw": [
-          "Viral CCW"
-        ]
+        "ccw": []
       },
       {
         "name": "Inactive Armour",
@@ -820,13 +883,8 @@
         "s": "2",
         "ava": " ",
         "spec": [],
-        "bsw": [
-          "Spitfire",
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Viral CCW"
-        ]
+        "bsw": [],
+        "ccw": []
       },
       {
         "name": "Chaksa Peripheral",
@@ -869,8 +927,13 @@
         "cost": "81",
         "swc": "2",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Spitfire",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Viral CCW"
+        ]
       }
     ]
   },
@@ -899,13 +962,6 @@
       "Kinematika L2",
       "Fireteam: Tohaa"
     ],
-    "bsw": [
-      "Zero-V Smoke Grenades"
-    ],
-    "ccw": [
-      "Pistol",
-      "Viral CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -914,9 +970,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Zero-V Smoke Grenades",
           "Heavy Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Viral CCW"
+        ]
       },
       {
         "code": "Swarm",
@@ -925,10 +985,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Zero-V Smoke Grenades",
           "Heavy Flamethrower",
           "Swarm Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Viral CCW"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -937,9 +1001,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Zero-V Smoke Grenades",
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Viral CCW"
+        ]
       },
       {
         "code": "Combi",
@@ -948,9 +1016,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Zero-V Smoke Grenades",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Viral CCW"
+        ]
       }
     ]
   },
@@ -978,14 +1050,6 @@
       "Engineer",
       "Fireteam: Tohaa"
     ],
-    "bsw": [
-      "Combi Rifle"
-    ],
-    "ccw": [
-      "D-Charges",
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -993,8 +1057,14 @@
         "cost": "22",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1020,11 +1090,6 @@
     "spec": [
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1038,7 +1103,10 @@
         "bsw": [
           "Heavy Flamethrower"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "HMG",
@@ -1052,7 +1120,10 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Smart Rocket Launcher",
@@ -1063,7 +1134,10 @@
         "bsw": [
           "Smart Rocket Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       }
     ]
   },
@@ -1091,10 +1165,6 @@
       "G: Servant",
       "Hyper-Dynamics L1"
     ],
-    "bsw": [],
-    "ccw": [
-      "Hedgehog Weapon"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1103,7 +1173,9 @@
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": []
+        "ccw": [
+          "Hedgehog Weapon"
+        ]
       }
     ]
   },
@@ -1115,15 +1187,6 @@
     "image": "Ectros Regiment",
     "ava": "1",
     "spec": [],
-    "bsw": [
-      "Combi Rifle",
-      "Light Rocket Launcher",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "CCW"
-    ],
     "profiles": [
       {
         "type": "HI",
@@ -1177,8 +1240,15 @@
         "cost": "42",
         "swc": "0.5",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Light Rocket Launcher",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -1188,8 +1258,15 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Light Rocket Launcher",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       }
     ]
   },
@@ -1214,8 +1291,6 @@
     "spec": [
       "Spec-Op"
     ],
-    "bsw": [],
-    "ccw": [],
     "childs": [
       {
         "code": "Default",
@@ -1254,15 +1329,6 @@
       "Regeneration",
       "Sensor"
     ],
-    "bsw": [
-      "Nanopulser",
-      "Flash Pulse",
-      "D-Charges"
-    ],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1271,9 +1337,15 @@
         "swc": "0.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Flash Pulse",
+          "D-Charges",
           "Viral Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "K1 Combi",
@@ -1282,9 +1354,15 @@
         "swc": "0.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Flash Pulse",
+          "D-Charges",
           "K1 Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1295,11 +1373,6 @@
     "name": "Nikoul",
     "ava": "2",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "profiles": [
       {
         "type": "LI",
@@ -1351,7 +1424,10 @@
         "bsw": [
           "Viral Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Minelayer",
@@ -1365,7 +1441,10 @@
           "Viral Sniper Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1376,11 +1455,6 @@
     "name": "Kotail",
     "ava": "4",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "profiles": [
       {
         "type": "LI",
@@ -1433,7 +1507,10 @@
           "Combi Rifle",
           "E/M Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Dual Combi",
@@ -1444,7 +1521,10 @@
         "bsw": [
           "Combi Rifle (2)"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1456,7 +1536,10 @@
           "Boarding Shotgun",
           "E/M Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Spitfire",
@@ -1467,7 +1550,10 @@
         "bsw": [
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Observer",
@@ -1481,7 +1567,10 @@
           "Combi Rifle",
           "E/M Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1492,11 +1581,6 @@
     "name": "Rasail",
     "ava": "4",
     "spec": [],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "profiles": [
       {
         "type": "LI",
@@ -1558,7 +1642,10 @@
         "bsw": [
           "Heavy Flamethrower"
         ],
-        "ccw": [],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ],
         "independent": {
           "cost": "4",
           "swc": "0"
@@ -1576,7 +1663,10 @@
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Viral Combi",
@@ -1587,7 +1677,10 @@
         "bsw": [
           "Viral Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -1599,7 +1692,10 @@
           "Boarding Shotgun",
           "Contender"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Dual Contenders",
@@ -1611,7 +1707,10 @@
           "Light Shotgun",
           "Contender (2)"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Spitfire",
@@ -1622,7 +1721,10 @@
         "bsw": [
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -1636,7 +1738,10 @@
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Viral Combi Lieutenant",
@@ -1649,7 +1754,10 @@
         "bsw": [
           "Viral Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Spitfire Lieutenant",
@@ -1662,7 +1770,10 @@
         "bsw": [
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1688,13 +1799,6 @@
     "spec": [
       "Corahtar Discipline L1"
     ],
-    "bsw": [
-      "Flash Pulse"
-    ],
-    "ccw": [
-      "Pistol",
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1706,9 +1810,13 @@
           "SymbioMate (2)"
         ],
         "bsw": [
+          "Flash Pulse",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       },
       {
         "code": "SymbioMate Combi",
@@ -1720,9 +1828,13 @@
           "SymbioMate (2)"
         ],
         "bsw": [
+          "Flash Pulse",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       },
       {
         "code": "SymbioBomb Shotgun",
@@ -1733,9 +1845,13 @@
           "SymbioBomb (2)"
         ],
         "bsw": [
+          "Flash Pulse",
           "Light Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       },
       {
         "code": "SymbioBomb Combi",
@@ -1746,9 +1862,13 @@
           "SymbioBomb (2)"
         ],
         "bsw": [
+          "Flash Pulse",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1778,12 +1898,6 @@
       "Infiltration",
       "Kinematika L1"
     ],
-    "bsw": [
-      "Flash Grenades"
-    ],
-    "ccw": [
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1792,9 +1906,11 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Flash Grenades",
           "Boarding Shotgun"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -1805,10 +1921,12 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Flash Grenades",
           "Combi Rifle",
           "Nanopulser"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       }
@@ -1822,12 +1940,6 @@
     "ava": "2",
     "spec": [
       "Fireteam: Tohaa"
-    ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife",
-      "D-Charges"
     ],
     "profiles": [
       {
@@ -1877,7 +1989,11 @@
         "bsw": [
           "K1 Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife",
+          "D-Charges"
+        ]
       },
       {
         "code": "Minelayer",
@@ -1891,7 +2007,11 @@
           "K1 Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife",
+          "D-Charges"
+        ]
       },
       {
         "code": "Boarding Shotgun Engineer",
@@ -1905,7 +2025,11 @@
           "Boarding Shotgun",
           "Panzerfaust"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife",
+          "D-Charges"
+        ]
       }
     ]
   },
@@ -1916,8 +2040,6 @@
     "name": "Kerail Preceptor",
     "ava": "2",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "LI",
@@ -1937,10 +2059,7 @@
           "Symbiont Armour"
         ],
         "bsw": [],
-        "ccw": [
-          "Pistol",
-          "Electric Pulse"
-        ]
+        "ccw": []
       },
       {
         "name": "Inactive Armour",
@@ -1956,10 +2075,7 @@
         "ava": " ",
         "spec": [],
         "bsw": [],
-        "ccw": [
-	  "Pistol",
-	  "Electric Pulse"
-        ]
+        "ccw": []
       },
       {
         "name": "Surda SymbioBeast",
@@ -2075,7 +2191,10 @@
           "Submachine Gun",
           "Smoke Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       },
       {
         "code": "2 Surdas",
@@ -2087,7 +2206,10 @@
           "Submachine Gun",
           "Smoke Grenades"
         ],
-        "ccw": [],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ],
         "profiles": [
           "2",
           "3"
@@ -2104,7 +2226,10 @@
           "Combi Rifle",
           "Nanopulser"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Light Shotgun, Mutan",
@@ -2117,7 +2242,10 @@
           "Light Shotgun",
           "Nanopulser"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
       }
     ]
   }

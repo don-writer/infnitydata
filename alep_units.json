@@ -25,13 +25,6 @@
       "ODD: Optical Disruptor",
       "Kinematika L2"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "EXP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -40,9 +33,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "MULTI Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "MULTI Lieutenant",
@@ -53,9 +50,13 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "MULTI Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire",
@@ -64,9 +65,13 @@
         "swc": "2.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire Lieutenant",
@@ -77,9 +82,13 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -109,13 +118,6 @@
       "CH: Mimetism",
       "Kinematika L1"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "EXP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -124,10 +126,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "MULTI Rifle",
           "D.E.P."
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "MULTI Lieutenant",
@@ -138,10 +144,14 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "MULTI Rifle",
           "D.E.P."
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire",
@@ -150,9 +160,13 @@
         "swc": "2.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire Lieutenant",
@@ -163,9 +177,13 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -193,13 +211,6 @@
       "Multispectral Visor L3",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "AP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -208,9 +219,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "MULTI Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -221,9 +236,13 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "MULTI Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Hacker",
@@ -235,9 +254,13 @@
           "Hacking Device Plus"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire",
@@ -246,9 +269,13 @@
         "swc": "2",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -276,10 +303,6 @@
       "CH: Mimetism",
       "G: Remote Presence"
     ],
-    "bsw": [],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -290,7 +313,9 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Paramedic",
@@ -304,7 +329,9 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "MULTI Sniper Rifle",
@@ -315,7 +342,9 @@
         "bsw": [
           "MULTI Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Light Grenade Launcher",
@@ -327,7 +356,9 @@
           "Light Grenade Launcher",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "HMG",
@@ -338,7 +369,9 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -372,12 +405,6 @@
       "Sensor",
       "Sniffer"
     ],
-    "bsw": [
-      "Combi Rifle"
-    ],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -385,8 +412,12 @@
         "cost": "17",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -415,13 +446,6 @@
       "Multiterrain",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -430,10 +454,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -444,10 +472,14 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Observer",
@@ -458,10 +490,14 @@
           "Forward Observer"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Hacker",
@@ -473,9 +509,13 @@
           "Assault Hacking Device"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "MULTI Sniper Rifle",
@@ -484,9 +524,13 @@
         "swc": "1.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "MULTI Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -495,10 +539,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Boarding Shotgun",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -509,8 +557,6 @@
     "name": "Deva",
     "ava": "4",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "LI",
@@ -529,13 +575,8 @@
         "spec": [
           "V: No Wound Incapacitation"
         ],
-        "bsw": [
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Knife",
-          "Pistol"
-        ]
+        "bsw": [],
+        "ccw": []
       },
       {
         "isc": "Devabot",
@@ -578,9 +619,13 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant+Devabot",
@@ -592,9 +637,13 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire+MSV",
@@ -605,9 +654,13 @@
           "Multispectral Visor L2"
         ],
         "bsw": [
+          "Nanopulser",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Sensor",
@@ -618,9 +671,13 @@
           "Sensor"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Hacker",
@@ -632,9 +689,13 @@
           "Hacking Device"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Devabot",
@@ -644,9 +705,13 @@
         "profile": "1",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -675,10 +740,6 @@
       "CH: Mimetism",
       "G: Remote Presence"
     ],
-    "bsw": [],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -689,7 +750,9 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Boarding Shotgun",
@@ -700,7 +763,9 @@
         "bsw": [
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "HMG",
@@ -711,7 +776,9 @@
         "bsw": [
           "HMG"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -742,12 +809,6 @@
       "Repeater",
       "Sniffer"
     ],
-    "bsw": [
-      "Flash Pulse"
-    ],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -755,8 +816,12 @@
         "cost": "8",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -786,14 +851,6 @@
       "Multispectral Visor L2",
       "Multiterrain"
     ],
-    "bsw": [
-      "MULTI HMG",
-      "Heavy Flamethrower",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "AP CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -801,8 +858,14 @@
         "cost": "116",
         "swc": "3",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "MULTI HMG",
+          "Heavy Flamethrower",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "AP CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -813,8 +876,14 @@
           "Lieutenant",
           "Strategos L3"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "MULTI HMG",
+          "Heavy Flamethrower",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "AP CCW"
+        ]
       }
     ]
   },
@@ -844,13 +913,6 @@
       "Kinematika L1",
       "Fireteam: Enomotarchos"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "AP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -861,10 +923,14 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle",
           "Smoke Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Chain of Command",
@@ -875,10 +941,14 @@
           "Chain of Command"
         ],
         "bsw": [
+          "Nanopulser",
           "Boarding Shotgun",
           "Zero-V Smoke Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "CoC Combi",
@@ -889,10 +959,14 @@
           "Chain of Command"
         ],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle",
           "Smoke Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -903,10 +977,14 @@
           "Lieutenant"
         ],
         "bsw": [
+          "Nanopulser",
           "Boarding Shotgun",
           "Zero-V Smoke Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -934,13 +1012,6 @@
       "Kinematica L1",
       "ODD: Optical Disruptor"
     ],
-    "bsw": [
-      "Nanopulser",
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -949,9 +1020,12 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -965,9 +1039,12 @@
           "Assault Hacking Device"
         ],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -978,9 +1055,12 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Boarding Shotgun"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -991,9 +1071,12 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Chain Rifle"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -1004,9 +1087,12 @@
         "swc": "1",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Spitfire"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -1017,9 +1103,12 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       }
@@ -1050,11 +1139,6 @@
       "Multiterrain",
       "V: Dogged"
     ],
-    "bsw": [],
-    "ccw": [
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1066,7 +1150,10 @@
           "Combi Rifle",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Hacker",
@@ -1080,7 +1167,10 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Minelayer",
@@ -1094,7 +1184,10 @@
           "Boarding Shotgun",
           "Antipersonnel Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "MULTI Sniper Rifle",
@@ -1105,7 +1198,10 @@
         "bsw": [
           "MULTI Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       },
       {
         "code": "Monofilament Mines",
@@ -1117,7 +1213,10 @@
           "Combi Rifle",
           "Monofilament Mines"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1145,10 +1244,6 @@
       "AD: Combat Jump",
       "AI Beacon"
     ],
-    "bsw": [],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1157,7 +1252,9 @@
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1189,14 +1286,6 @@
       "Fireteam: Enomotarchos",
       "Kinematika L1"
     ],
-    "bsw": [
-      "Nanopulser",
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "EXP CCW",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1205,9 +1294,14 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "MULTI Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       },
       {
         "code": "Spitfire",
@@ -1216,9 +1310,14 @@
         "swc": "1.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
+          "Smoke Grenades",
           "Spitfire"
         ],
-        "ccw": []
+        "ccw": [
+          "EXP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1247,10 +1346,6 @@
       "G: Remote Presence",
       "Repeater"
     ],
-    "bsw": [],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1261,7 +1356,9 @@
           "Minesweeper"
         ],
         "bsw": [],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "Combi",
@@ -1274,7 +1371,9 @@
         "bsw": [
           "Combi Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       },
       {
         "code": "EVO",
@@ -1285,7 +1384,9 @@
           "EVO Repeater"
         ],
         "bsw": [],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1312,12 +1413,6 @@
     "spec": [
       "G: Remote Presence"
     ],
-    "bsw": [
-      "Smart Missile Launcher"
-    ],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1325,8 +1420,12 @@
         "cost": "18",
         "swc": "1.5",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Smart Missile Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1354,14 +1453,6 @@
       "Engineer",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Combi Rifle"
-    ],
-    "ccw": [
-      "D-Charges",
-      "Knife",
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1369,8 +1460,14 @@
         "cost": "31",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1398,10 +1495,6 @@
       "CH: Mimetism",
       "G: Servant"
     ],
-    "bsw": [],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1410,7 +1503,9 @@
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": []
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1440,12 +1535,6 @@
       "G: Remote Presence",
       "Total Reaction"
     ],
-    "bsw": [
-      "HMG"
-    ],
-    "ccw": [
-      "Electric Pulse"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1453,8 +1542,12 @@
         "cost": "26",
         "swc": "1",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1483,14 +1576,6 @@
       "CH: Mimetism",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Combi Rifle",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Doctor",
@@ -1501,8 +1586,14 @@
           "Doctor",
           "MediKit"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Engineer",
@@ -1512,8 +1603,13 @@
         "spec": [
           "Engineer"
         ],
-        "bsw": [],
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser"
+        ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       },
@@ -1526,8 +1622,14 @@
           "Hacker",
           "Hacking Device"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1557,13 +1659,6 @@
       "Infiltration",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Hacker",
@@ -1575,9 +1670,13 @@
           "Assault Hacking Device"
         ],
         "bsw": [
+          "Nanopulser",
           "Boarding Shotgun"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Default",
@@ -1586,9 +1685,13 @@
         "swc": "1.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "MULTI Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1616,14 +1719,6 @@
     "spec": [
       "G: Jumper L1"
     ],
-    "bsw": [
-      "Spitfire",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1631,8 +1726,14 @@
         "cost": "26",
         "swc": "2",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Spitfire",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1660,12 +1761,6 @@
       "Super-Jump",
       "Martial Arts L3"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol"
-    ],
     "childs": [
       {
         "code": "Hacker",
@@ -1677,9 +1772,11 @@
           "Assault Hacking Device"
         ],
         "bsw": [
+          "Nanopulser",
           "Chain Rifle"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       },
@@ -1690,9 +1787,11 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Boarding Shotgun"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       },
@@ -1703,9 +1802,11 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Chain Rifle"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       },
@@ -1716,9 +1817,11 @@
         "swc": "1.5",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "HMG"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       },
@@ -1729,9 +1832,11 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
           "AP CCW"
         ]
       },
@@ -1742,9 +1847,11 @@
         "swc": "0",
         "spec": [],
         "bsw": [
+          "Nanopulser",
           "Combi Rifle"
         ],
         "ccw": [
+          "Pistol",
           "DA CCW"
         ]
       }
@@ -1771,8 +1878,6 @@
     "spec": [
       "Spec-Op"
     ],
-    "bsw": [],
-    "ccw": [],
     "childs": [
       {
         "code": "Default",
@@ -1810,15 +1915,6 @@
       "360\u00b0 Visor",
       "Specialist Troop"
     ],
-    "bsw": [
-      "Submachine Gun",
-      "Nanopulser",
-      "Flash Grenades"
-    ],
-    "ccw": [
-      "Pistol",
-      "Shock CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1828,8 +1924,15 @@
         "spec": [
           "Infiltration"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Submachine Gun",
+          "Nanopulser",
+          "Flash Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ]
       },
       {
         "code": "Enomotarchos",
@@ -1840,9 +1943,15 @@
           "Fireteam: Enomotarchos"
         ],
         "bsw": [
+          "Submachine Gun",
+          "Nanopulser",
+          "Flash Grenades",
           "Light Rocket Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ]
       }
     ]
   },
@@ -1868,11 +1977,6 @@
     "spec": [
       "360\u00b0 Visor"
     ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -1885,7 +1989,10 @@
           "Chain Rifle",
           "Flash Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Combi",
@@ -1898,7 +2005,10 @@
           "Nanopulser",
           "Flash Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Spitfire",
@@ -1910,7 +2020,10 @@
           "Spitfire",
           "Nanopulser"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Light Rocket Launcher",
@@ -1922,7 +2035,10 @@
           "Submachine Gun",
           "Light Rocket Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Engineer",
@@ -1938,6 +2054,8 @@
           "Flash Grenades"
         ],
         "ccw": [
+          "Pistol",
+          "Knife",
           "D-Charges"
         ]
       },
@@ -1954,7 +2072,10 @@
           "Chain Rifle",
           "Flash Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Paramedic",
@@ -1969,7 +2090,10 @@
           "Chain Rifle",
           "Flash Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1996,11 +2120,6 @@
       "Multispectral Visor L2",
       "V: Courage"
     ],
-    "bsw": [],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2013,7 +2132,10 @@
         "bsw": [
           "Mk12"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "MULTI Sniper Rifle",
@@ -2024,7 +2146,10 @@
         "bsw": [
           "MULTI Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Missile Launcher",
@@ -2035,7 +2160,10 @@
         "bsw": [
           "Missile Launcher"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -2067,15 +2195,6 @@
       "V: No Wound Incapacitation",
       "Kinematika L1"
     ],
-    "bsw": [
-      "Mk12",
-      "Nanopulser",
-      "Zero-V Smoke Grenades"
-    ],
-    "ccw": [
-      "Pistol",
-      "DA CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2083,8 +2202,15 @@
         "cost": "40",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Mk12",
+          "Nanopulser",
+          "Zero-V Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2094,8 +2220,15 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Mk12",
+          "Nanopulser",
+          "Zero-V Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
       }
     ]
   },
@@ -2124,14 +2257,6 @@
       "360\u00b0 Visor",
       "V: Courage"
     ],
-    "bsw": [
-      "Spitfire",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2139,8 +2264,14 @@
         "cost": "26",
         "swc": "1.5",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Spitfire",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2150,8 +2281,14 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Spitfire",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -2163,8 +2300,6 @@
     "image": "Agema Marksman",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "name": "Atalanta",
@@ -2184,13 +2319,8 @@
         "spec": [
           "Multispectral Visor L2"
         ],
-        "bsw": [
-          "MULTI Sniper Rifle"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ]
+        "bsw": [],
+        "ccw": []
       },
       {
         "name": "Spotbot",
@@ -2231,8 +2361,13 @@
         "cost": "43",
         "swc": "1.5",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "MULTI Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -2262,14 +2397,6 @@
       "Super-Jump",
       "V: No Wound Incapacitation"
     ],
-    "bsw": [
-      "Mk12",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Assault Pistol",
-      "DA CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2277,8 +2404,14 @@
         "cost": "43",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Mk12",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "DA CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2288,8 +2421,14 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Mk12",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "DA CCW"
+        ]
       }
     ]
   },
@@ -2322,15 +2461,6 @@
       "V: No Wound Incapacitation",
       "Kinematika L1"
     ],
-    "bsw": [
-      "Combi Rifle",
-      "Nanopulser",
-      "Zero-V Smoke Grenades"
-    ],
-    "ccw": [
-      "Pistol",
-      "DA CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2338,8 +2468,15 @@
         "cost": "38",
         "swc": "0.5",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser",
+          "Zero-V Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2349,8 +2486,15 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser",
+          "Zero-V Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
       }
     ]
   },
@@ -2381,15 +2525,6 @@
       "V: No Wound Incapacitation",
       "Kinematika L1"
     ],
-    "bsw": [
-      "Heavy Rocket Launcher",
-      "Nanopulser",
-      "Smoke Grenades"
-    ],
-    "ccw": [
-      "Assault Pistol",
-      "DA CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2397,8 +2532,15 @@
         "cost": "35",
         "swc": "2",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Heavy Rocket Launcher",
+          "Nanopulser",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "DA CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2408,8 +2550,15 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Heavy Rocket Launcher",
+          "Nanopulser",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "DA CCW"
+        ]
       }
     ]
   },
@@ -2440,14 +2589,6 @@
       "V: No Wound Incapacitation",
       "Kinematika L2"
     ],
-    "bsw": [
-      "Combi Rifle (2)",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "AP Heavy Pistol",
-      "EXP CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2455,8 +2596,14 @@
         "cost": "39",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle (2)",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "AP Heavy Pistol",
+          "EXP CCW"
+        ]
       },
       {
         "code": "Lieutenant",
@@ -2466,8 +2613,14 @@
         "spec": [
           "Lieutenant"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle (2)",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "AP Heavy Pistol",
+          "EXP CCW"
+        ]
       }
     ]
   },
@@ -2478,15 +2631,6 @@
     "name": "Penthesilea",
     "ava": "1",
     "spec": [],
-    "bsw": [
-      "Combi Rifle",
-      "Contender",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "Monofilament CCW"
-    ],
     "profiles": [
       {
         "name": "Penthesilea",
@@ -2533,8 +2677,15 @@
         "cost": "44",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Contender",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
       }
     ]
   },
@@ -2563,14 +2714,6 @@
       "Hacker",
       "Hacking Device"
     ],
-    "bsw": [
-      "Marker",
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Assault Pistol",
-      "Knife"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2578,8 +2721,14 @@
         "cost": "25",
         "swc": "0.5",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Marker",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -2605,13 +2754,6 @@
     "spec": [
       "V: Dogged"
     ],
-    "bsw": [
-      "Combi Rifle"
-    ],
-    "ccw": [
-      "Knife",
-      "Breaker Pistol (2)"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2622,9 +2764,12 @@
           "Engineer"
         ],
         "bsw": [
+          "Combi Rifle",
           "Adhesive Launcher"
         ],
         "ccw": [
+          "Knife",
+          "Breaker Pistol (2)",
           "D-Charges"
         ]
       },
@@ -2638,10 +2783,14 @@
           "MediKit"
         ],
         "bsw": [
+          "Combi Rifle",
           "Adhesive Launcher",
           "Nimbus Grenades"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife",
+          "Breaker Pistol (2)"
+        ]
       },
       {
         "code": "Flammenspeer",
@@ -2652,9 +2801,12 @@
           "Engineer"
         ],
         "bsw": [
+          "Combi Rifle",
           "Flammenspeer"
         ],
         "ccw": [
+          "Knife",
+          "Breaker Pistol (2)",
           "D-Charges"
         ]
       }
@@ -2684,13 +2836,6 @@
       "V: No Wound Incapacitation",
       "Marksmanship LX"
     ],
-    "bsw": [
-      "Nanopulser"
-    ],
-    "ccw": [
-      "Pistol",
-      "CCW"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -2701,9 +2846,13 @@
           "X Visor"
         ],
         "bsw": [
+          "Nanopulser",
           "Feuerbach"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "Feuerbach MSV 2",
@@ -2714,9 +2863,13 @@
           "Multispectral Visor L2"
         ],
         "bsw": [
+          "Nanopulser",
           "Feuerbach"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       },
       {
         "code": "K1 Sniper",
@@ -2727,9 +2880,13 @@
           "Multispectral Visor L2"
         ],
         "bsw": [
+          "Nanopulser",
           "K1 Sniper Rifle"
         ],
-        "ccw": []
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       }
     ]
   },
@@ -2740,8 +2897,6 @@
     "name": "Drakios",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "LI",
@@ -2761,15 +2916,8 @@
           "V: No Wound Incapacitation",
           "Martial Arts L2"
         ],
-        "bsw": [
-          "Combi Rifle",
-          "Heavy Flamethrower",
-          "Blitzen"
-        ],
-        "ccw": [
-          "Pistol",
-          "AP CCW"
-        ]
+        "bsw": [],
+        "ccw": []
       },
       {
         "isc": "Devabot",
@@ -2844,8 +2992,15 @@
         "cost": "34",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Heavy Flamethrower",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
       },
       {
         "code": "2 Devabots",
@@ -2854,8 +3009,15 @@
         "swc": "0",
         "profile": "1",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Heavy Flamethrower",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
       }
     ]
   },
@@ -2866,8 +3028,6 @@
     "name": "Scylla",
     "ava": "1",
     "spec": [],
-    "bsw": [],
-    "ccw": [],
     "profiles": [
       {
         "type": "LI",
@@ -2884,14 +3044,8 @@
         "w": "1",
         "s": "2",
         "spec": [],
-        "bsw": [
-          "Boarding Shotgun",
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Pistol",
-          "E/M CCW"
-        ]
+        "bsw": [],
+        "ccw": []
       },
       {
         "isc": "Devabot",
@@ -2971,8 +3125,14 @@
           "Hacker",
           "Hacking Device"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "E/M CCW"
+        ]
       },
       {
         "code": "HD, 2 Devabots",
@@ -2984,8 +3144,14 @@
           "Hacker",
           "Hacking Device"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "E/M CCW"
+        ]
       },
       {
         "code": "AHD, 1 Devabot",
@@ -2996,8 +3162,14 @@
           "Hacker",
           "Assault Hacking Device"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "E/M CCW"
+        ]
       },
       {
         "code": "AHD, 2 Devabots",
@@ -3009,8 +3181,14 @@
           "Hacker",
           "Assault Hacking Device"
         ],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "E/M CCW"
+        ]
       }
     ]
   },
@@ -3038,16 +3216,6 @@
       "Engineer",
       "Fireteam: Enomotarchos"
     ],
-    "bsw": [
-      "Combi Rifle",
-      "Panzerfaust",
-      "Nimbus Grenades",
-      "D-Charges"
-    ],
-    "ccw": [
-      "Knife",
-      "Breaker Pistol (2)"
-    ],
     "childs": [
       {
         "code": "Default",
@@ -3055,8 +3223,16 @@
         "cost": "27",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Panzerfaust",
+          "Nimbus Grenades",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Knife",
+          "Breaker Pistol (2)"
+        ]
       }
     ]
   },
@@ -3088,8 +3264,6 @@
       "V: No Wound Incapacitation",
       "Fireteam: Enomotarchos"
     ],
-    "bsw": [],
-    "ccw": [],
     "childs": [
       {
         "code": "Default",

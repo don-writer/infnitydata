@@ -1,6 +1,6 @@
 [
   {
-    "index": 3001,
+    "id": 3001,
     "army": "Ariadna",
     "isc": "Line Kazak",
     "name": "Line Kazak",
@@ -21,6 +21,7 @@
     "spec": [],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "9",
@@ -35,6 +36,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "9",
@@ -51,6 +53,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Paramedic",
         "codename": "",
         "cost": "11",
@@ -68,6 +71,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Observer",
         "codename": "",
         "cost": "10",
@@ -84,6 +88,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "17",
@@ -98,6 +103,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "16",
@@ -112,6 +118,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "13",
@@ -127,6 +134,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "AP HMG",
         "codename": "",
         "cost": "23",
@@ -143,7 +151,7 @@
     ]
   },
   {
-    "index": 3002,
+    "id": 3002,
     "army": "Ariadna",
     "isc": "Para-Commandos",
     "name": "Para-Commando",
@@ -167,6 +175,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "20",
@@ -181,6 +190,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Observer",
         "codename": "",
         "cost": "21",
@@ -197,6 +207,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "27",
@@ -211,6 +222,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "24",
@@ -226,6 +238,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "22",
@@ -240,6 +253,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "HMG",
         "codename": "",
         "cost": "31",
@@ -256,7 +270,7 @@
     ]
   },
   {
-    "index": 3003,
+    "id": 3003,
     "army": "Ariadna",
     "isc": "Kazak Spetsnazs",
     "name": "Kazak Spetsnaz",
@@ -280,6 +294,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "HMG",
         "cost": "38",
@@ -297,6 +312,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "34",
@@ -314,6 +330,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "33",
@@ -333,6 +350,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Rifle",
         "codename": "",
         "cost": "31",
@@ -354,7 +372,7 @@
     ]
   },
   {
-    "index": 3004,
+    "id": 3004,
     "army": "Ariadna",
     "isc": "USAriadna Grunts",
     "name": "USAriadna Grunt",
@@ -377,6 +395,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "10",
@@ -391,6 +410,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "LGL Lieutenant",
         "codename": "",
         "cost": "14",
@@ -408,6 +428,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Lieutenant",
         "codename": "",
         "cost": "10",
@@ -424,6 +445,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Paramedic",
         "codename": "",
         "cost": "12",
@@ -441,6 +463,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Observer",
         "codename": "",
         "cost": "11",
@@ -457,6 +480,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Inferior Infiltration",
         "codename": "",
         "cost": "11",
@@ -474,6 +498,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "18",
@@ -490,6 +515,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "14",
@@ -505,6 +531,7 @@
         ]
       },
       {
+        "id": 9,
         "code": "HMG",
         "codename": "",
         "cost": "21",
@@ -519,6 +546,7 @@
         ]
       },
       {
+        "id": 10,
         "code": "Heavy Flamethrower",
         "codename": "",
         "cost": "10",
@@ -536,7 +564,7 @@
     ]
   },
   {
-    "index": 3005,
+    "id": 3005,
     "army": "Ariadna",
     "isc": "TankHunters",
     "name": "TankHunter",
@@ -560,6 +588,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "AP Rifle",
         "cost": "25",
@@ -576,6 +605,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "25",
@@ -594,6 +624,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "29",
@@ -608,6 +639,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Autocannon",
         "codename": "",
         "cost": "34",
@@ -623,6 +655,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "AP HMG",
         "codename": "",
         "cost": "35",
@@ -640,7 +673,7 @@
     ]
   },
   {
-    "index": 3006,
+    "id": 3006,
     "army": "Ariadna",
     "isc": "Minutemen",
     "name": "Minuteman",
@@ -666,6 +699,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "22",
@@ -681,6 +715,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG Lieutenant",
         "codename": "",
         "cost": "34",
@@ -697,6 +732,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Lieutenant",
         "codename": "",
         "cost": "22",
@@ -714,6 +750,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Marksman",
         "codename": "",
         "cost": "29",
@@ -732,6 +769,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Observer",
         "codename": "",
         "cost": "23",
@@ -749,6 +787,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "29",
@@ -764,6 +803,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "24",
@@ -779,6 +819,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "AP HMG",
         "codename": "",
         "cost": "34",
@@ -795,7 +836,7 @@
     ]
   },
   {
-    "index": 3007,
+    "id": 3007,
     "army": "Ariadna",
     "isc": "Moblots",
     "name": "Moblot",
@@ -820,6 +861,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "21",
@@ -835,6 +877,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Sapper",
         "codename": "",
         "cost": "31",
@@ -851,6 +894,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Infiltrator AP",
         "codename": "",
         "cost": "30",
@@ -869,6 +913,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "HMG Lieutenant",
         "codename": "",
         "cost": "29",
@@ -885,6 +930,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Lieutenant",
         "codename": "",
         "cost": "21",
@@ -902,6 +948,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Paramedic",
         "codename": "",
         "cost": "23",
@@ -920,6 +967,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Engineer",
         "codename": "",
         "cost": "25",
@@ -938,6 +986,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Infiltration",
         "codename": "",
         "cost": "26",
@@ -956,6 +1005,7 @@
         ]
       },
       {
+        "id": 9,
         "code": "Mimetism",
         "codename": "Mimetism",
         "cost": "23",
@@ -973,6 +1023,7 @@
         ]
       },
       {
+        "id": 10,
         "code": "Panzerfaust",
         "codename": "",
         "cost": "23",
@@ -988,6 +1039,7 @@
         ]
       },
       {
+        "id": 11,
         "code": "AP Rifle",
         "codename": "",
         "cost": "23",
@@ -1003,6 +1055,7 @@
         ]
       },
       {
+        "id": 12,
         "code": "HMG",
         "codename": "",
         "cost": "29",
@@ -1019,7 +1072,7 @@
     ]
   },
   {
-    "index": 3008,
+    "id": 3008,
     "army": "Ariadna",
     "isc": "Veteran Kazaks",
     "name": "Veteran Kazak",
@@ -1045,6 +1098,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "AP Rifle",
         "cost": "37",
@@ -1060,6 +1114,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "X Visor",
         "codename": "",
         "cost": "38",
@@ -1077,6 +1132,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "AP HMG Lieutenant",
         "codename": "",
         "cost": "47",
@@ -1093,6 +1149,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Lieutenant",
         "codename": "",
         "cost": "37",
@@ -1110,6 +1167,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Observer",
         "codename": "",
         "cost": "38",
@@ -1127,6 +1185,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Paramedic",
         "codename": "",
         "cost": "39",
@@ -1145,6 +1204,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "35",
@@ -1159,6 +1219,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "AP HMG",
         "codename": "",
         "cost": "47",
@@ -1175,7 +1236,7 @@
     ]
   },
   {
-    "index": 3009,
+    "id": 3009,
     "army": "Ariadna",
     "isc": "Foxtrot",
     "name": "Foxtrot",
@@ -1200,6 +1261,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "17",
@@ -1215,6 +1277,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "17",
@@ -1232,6 +1295,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Observer",
         "codename": "",
         "cost": "18",
@@ -1249,6 +1313,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "24",
@@ -1264,6 +1329,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "20",
@@ -1279,6 +1345,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "19",
@@ -1296,7 +1363,7 @@
     ]
   },
   {
-    "index": 3010,
+    "id": 3010,
     "army": "Ariadna",
     "isc": "Hardcases",
     "name": "Hardcase Frontiersman",
@@ -1321,6 +1388,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Tactical Bow",
         "cost": "12",
@@ -1336,6 +1404,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Rifle",
         "codename": "",
         "cost": "14",
@@ -1353,7 +1422,7 @@
     ]
   },
   {
-    "index": 3011,
+    "id": 3011,
     "army": "Ariadna",
     "isc": "S.A.S.",
     "name": "S.A.S.",
@@ -1380,6 +1449,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Assault Pistol",
         "codename": "CRAP",
         "cost": "22",
@@ -1396,6 +1466,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Chain Rifle",
         "codename": "",
         "cost": "21",
@@ -1412,6 +1483,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Default",
         "codename": "Rifle",
         "cost": "23",
@@ -1427,6 +1499,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Lieutenant",
         "codename": "",
         "cost": "23",
@@ -1444,6 +1517,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Observer",
         "codename": "",
         "cost": "24",
@@ -1461,6 +1535,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "30",
@@ -1476,6 +1551,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "25",
@@ -1493,7 +1569,7 @@
     ]
   },
   {
-    "index": 3012,
+    "id": 3012,
     "army": "Ariadna",
     "isc": "Scouts",
     "name": "Scout",
@@ -1519,6 +1595,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Ojotnik",
         "cost": "29",
@@ -1535,6 +1612,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "29",
@@ -1553,6 +1631,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Observer",
         "codename": "",
         "cost": "30",
@@ -1571,6 +1650,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "AP Sniper Rifle",
         "codename": "",
         "cost": "29",
@@ -1586,6 +1666,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "25",
@@ -1602,6 +1683,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "E/Mauler",
         "codename": "",
         "cost": "29",
@@ -1620,7 +1702,7 @@
     ]
   },
   {
-    "index": 3013,
+    "id": 3013,
     "army": "Ariadna",
     "isc": "45th Highlanders",
     "name": "Highlander",
@@ -1644,6 +1726,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "11",
@@ -1659,6 +1742,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "13",
@@ -1674,6 +1758,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Chain Rifle",
         "codename": "",
         "cost": "6",
@@ -1691,7 +1776,7 @@
     ]
   },
   {
-    "index": 3014,
+    "id": 3014,
     "army": "Ariadna",
     "isc": "Irmandinhos",
     "name": "Irmandinho",
@@ -1716,6 +1801,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "14",
@@ -1732,6 +1818,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "16",
@@ -1748,6 +1835,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Chain Rifle",
         "codename": "",
         "cost": "8",
@@ -1766,7 +1854,7 @@
     ]
   },
   {
-    "index": 3015,
+    "id": 3015,
     "army": "Ariadna",
     "isc": "Assault Pack Controller",
     "name": "Assault Pack",
@@ -1775,6 +1863,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "name": "Controller",
         "type": "WB",
         "imp": "",
@@ -1800,6 +1889,7 @@
         }
       },
       {
+        "id": 2,
         "name": "Antipode",
         "type": "WB",
         "imp": "F",
@@ -1833,6 +1923,7 @@
         }
       },
       {
+        "id": 3,
         "name": "Antipode",
         "type": "WB",
         "imp": "F",
@@ -1866,6 +1957,7 @@
         }
       },
       {
+        "id": 4,
         "name": "Antipode",
         "type": "WB",
         "imp": "F",
@@ -1901,6 +1993,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Assault Pack",
         "cost": "25",
@@ -1918,7 +2011,7 @@
     ]
   },
   {
-    "index": 3016,
+    "id": 3016,
     "army": "Ariadna",
     "isc": "Kazak Doktor",
     "name": "Kazak Doktor",
@@ -1942,6 +2035,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Doctor",
         "cost": "13",
@@ -1958,7 +2052,7 @@
     ]
   },
   {
-    "index": 3017,
+    "id": 3017,
     "army": "Ariadna",
     "isc": "112, Emergency Service",
     "name": "112",
@@ -1983,6 +2077,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Doctor",
         "cost": "12",
@@ -1999,7 +2094,7 @@
     ]
   },
   {
-    "index": 3018,
+    "id": 3018,
     "army": "Ariadna",
     "isc": "2nd Irregular Cameronians Reg.",
     "name": "Cameronian",
@@ -2024,6 +2119,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Chain Rifle",
         "cost": "23",
@@ -2041,7 +2137,7 @@
     ]
   },
   {
-    "index": 3019,
+    "id": 3019,
     "army": "Ariadna",
     "isc": "3rd Highlander Greys",
     "name": "Highlander Grey",
@@ -2066,6 +2162,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "29",
@@ -2085,6 +2182,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "T2 Boarding Shotgun",
         "codename": "",
         "cost": "25",
@@ -2101,6 +2199,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "AP HMG",
         "codename": "",
         "cost": "34",
@@ -2116,6 +2215,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "T2 Rifle",
         "codename": "",
         "cost": "33",
@@ -2133,6 +2233,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Default",
         "codename": "Rifle",
         "cost": "29",
@@ -2152,7 +2253,7 @@
     ]
   },
   {
-    "index": 3020,
+    "id": 3020,
     "army": "Ariadna",
     "isc": "9th Wulver Grenadiers",
     "name": "Wulver",
@@ -2178,6 +2279,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Mk12",
         "cost": "37",
@@ -2193,6 +2295,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Heavy Shotgun",
         "codename": "",
         "cost": "32",
@@ -2208,6 +2311,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "T2 Rifle",
         "codename": "",
         "cost": "33",
@@ -2225,7 +2329,7 @@
     ]
   },
   {
-    "index": 3021,
+    "id": 3021,
     "army": "Ariadna",
     "isc": "Caledonian Mormaers",
     "name": "Caledonian Mormaer",
@@ -2250,6 +2354,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant AP HMG",
         "codename": "",
         "cost": "42",
@@ -2266,6 +2371,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "32",
@@ -2283,6 +2389,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "AP HMG",
         "codename": "",
         "cost": "42",
@@ -2297,6 +2404,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Default",
         "codename": "T2 Rifle",
         "cost": "32",
@@ -2315,7 +2423,7 @@
     ]
   },
   {
-    "index": 3022,
+    "id": 3022,
     "army": "Ariadna",
     "isc": "Caledonian Volunteers",
     "name": "Volunteer",
@@ -2339,6 +2447,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "8",
@@ -2355,6 +2464,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Paramedic",
         "codename": "",
         "cost": "10",
@@ -2372,6 +2482,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Camo Light Grenade Launcher",
         "codename": "",
         "cost": "13",
@@ -2390,6 +2501,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Camo D-Charges",
         "codename": "",
         "cost": "11",
@@ -2408,6 +2520,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "10",
@@ -2423,6 +2536,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "HMG",
         "codename": "",
         "cost": "19",
@@ -2437,6 +2551,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Chain Rifle",
         "codename": "",
         "cost": "6",
@@ -2452,6 +2567,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Default",
         "codename": "Rifle",
         "cost": "8",
@@ -2468,7 +2584,7 @@
     ]
   },
   {
-    "index": 3023,
+    "id": 3023,
     "army": "Ariadna",
     "isc": "Chasseurs",
     "name": "Chasseur",
@@ -2494,6 +2610,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Observer",
         "codename": "",
         "cost": "20",
@@ -2512,6 +2629,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Minelayer",
         "codename": "",
         "cost": "20",
@@ -2530,6 +2648,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "ADHL",
         "codename": "",
         "cost": "19",
@@ -2546,6 +2665,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "AP Sniper Rifle",
         "codename": "",
         "cost": "26",
@@ -2560,6 +2680,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Default",
         "codename": "Rifle",
         "cost": "19",
@@ -2578,7 +2699,7 @@
     ]
   },
   {
-    "index": 3024,
+    "id": 3024,
     "army": "Ariadna",
     "isc": "Dozers, Field Engineers",
     "name": "Dozer",
@@ -2602,6 +2723,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Mul Control",
         "codename": "",
         "cost": "14",
@@ -2619,6 +2741,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Akrylat K",
         "codename": "",
         "cost": "14",
@@ -2634,6 +2757,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Default",
         "codename": "Engineer",
         "cost": "13",
@@ -2651,7 +2775,7 @@
     ]
   },
   {
-    "index": 3025,
+    "id": 3025,
     "army": "Ariadna",
     "isc": "Highlander Caterans",
     "name": "Cateran",
@@ -2676,6 +2800,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "T2 Sniper Rifle",
         "codename": "",
         "cost": "21",
@@ -2690,6 +2815,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Sniper Rifle",
         "cost": "20",
@@ -2706,7 +2832,7 @@
     ]
   },
   {
-    "index": 3026,
+    "id": 3026,
     "army": "Ariadna",
     "isc": "Loup-Garous",
     "name": "Loup-Garou",
@@ -2730,6 +2856,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "21",
@@ -2744,6 +2871,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Flash Light Grenade Launcher",
         "codename": "",
         "cost": "22",
@@ -2759,6 +2887,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "ADHL",
         "codename": "",
         "cost": "18",
@@ -2775,6 +2904,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Default",
         "codename": "Viral",
         "cost": "21",
@@ -2792,7 +2922,7 @@
     ]
   },
   {
-    "index": 3027,
+    "id": 3027,
     "army": "Ariadna",
     "isc": "M\u00e9tros",
     "name": "M\u00e9tro",
@@ -2816,6 +2946,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "8",
@@ -2832,6 +2963,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Paramedic",
         "codename": "",
         "cost": "10",
@@ -2849,6 +2981,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Camo Light Grenade Launcher",
         "codename": "",
         "cost": "15",
@@ -2867,6 +3000,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Camo D.E.P.",
         "codename": "",
         "cost": "12",
@@ -2885,6 +3019,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Camo D-Charges",
         "codename": "",
         "cost": "11",
@@ -2903,6 +3038,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "12",
@@ -2918,6 +3054,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "HMG",
         "codename": "",
         "cost": "19",
@@ -2932,6 +3069,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Default",
         "codename": "Rifle",
         "cost": "8",
@@ -2948,7 +3086,7 @@
     ]
   },
   {
-    "index": 3028,
+    "id": 3028,
     "army": "Ariadna",
     "isc": "Traktor Mul, Artillery and Support Regiment",
     "name": "Traktor Mul",
@@ -2973,6 +3111,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Uragan",
         "codename": "",
         "cost": "18",
@@ -2988,6 +3127,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Katyusha",
         "codename": "",
         "cost": "11",
@@ -3001,6 +3141,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Default",
         "codename": "Minesweeper",
         "cost": "5",
@@ -3016,7 +3157,7 @@
     ]
   },
   {
-    "index": 3029,
+    "id": 3029,
     "army": "Ariadna",
     "isc": "William Wallace",
     "name": "Wallace",
@@ -3042,6 +3183,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "35",
@@ -3060,6 +3202,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Combi",
         "cost": "35",
@@ -3078,7 +3221,7 @@
     ]
   },
   {
-    "index": 3030,
+    "id": 3030,
     "army": "Ariadna",
     "isc": "Zouaves",
     "name": "Zouave",
@@ -3102,6 +3245,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "20",
@@ -3119,6 +3263,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Paramedic",
         "codename": "",
         "cost": "22",
@@ -3137,6 +3282,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "25",
@@ -3153,6 +3299,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "HMG",
         "codename": "",
         "cost": "30",
@@ -3169,6 +3316,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Observer",
         "codename": "",
         "cost": "21",
@@ -3186,6 +3334,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Light Grenade Launcher",
         "codename": "",
         "cost": "20",
@@ -3201,6 +3350,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "E/Mauler",
         "codename": "",
         "cost": "21",
@@ -3217,6 +3367,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Default",
         "codename": "Rifle",
         "cost": "20",
@@ -3234,7 +3385,7 @@
     ]
   },
   {
-    "index": 3031,
+    "id": 3031,
     "army": "Ariadna",
     "isc": "Van Zant",
     "name": "Van Zant",
@@ -3260,6 +3411,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "AP Rifle",
         "cost": "38",
@@ -3274,6 +3426,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Executive Order",
         "codename": "",
         "cost": "39",
@@ -3292,7 +3445,7 @@
     ]
   },
   {
-    "index": 3032,
+    "id": 3032,
     "army": "Ariadna",
     "isc": "Volunteer Intel Isobel McGregor",
     "name": "Isobel McGregor",
@@ -3317,6 +3470,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "23",
@@ -3334,6 +3488,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "T2 Rifle",
         "codename": "",
         "cost": "26",
@@ -3353,7 +3508,7 @@
     ]
   },
   {
-    "index": 3033,
+    "id": 3033,
     "army": "Ariadna",
     "isc": "Uxia McNeill",
     "name": "Uxia McNeill",
@@ -3379,6 +3534,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "S.A.S. CP",
         "cost": "28",
@@ -3400,6 +3556,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Covert Action",
         "codename": "",
         "cost": "27",
@@ -3423,7 +3580,7 @@
     ]
   },
   {
-    "index": 3034,
+    "id": 3034,
     "army": "Ariadna",
     "isc": "Brigadier Jacques Bruant",
     "name": "Jacques Bruant",
@@ -3449,6 +3606,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Molotok",
         "cost": "28",
@@ -3464,6 +3622,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Inferior Infiltration",
         "codename": "",
         "cost": "31",
@@ -3481,6 +3640,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Lieutenant",
         "codename": "",
         "cost": "28",
@@ -3500,7 +3660,7 @@
     ]
   },
   {
-    "index": 3035,
+    "id": 3035,
     "army": "Ariadna",
     "isc": "Scot (2nd Battalion)",
     "name": "Scot 2nd",
@@ -3526,6 +3686,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Submachine Gun",
         "cost": "22",
@@ -3541,6 +3702,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Molotok",
         "codename": "",
         "cost": "30",
@@ -3555,6 +3717,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "31",
@@ -3571,7 +3734,7 @@
     ]
   },
   {
-    "index": 3036,
+    "id": 3036,
     "army": "Ariadna",
     "isc": "Scot (1st Battalion)",
     "name": "Scot 1st",
@@ -3596,6 +3759,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "AP Marksman",
         "codename": "",
         "cost": "23",
@@ -3610,6 +3774,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Submachine Gun",
         "cost": "18",
@@ -3625,6 +3790,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Molotok",
         "codename": "",
         "cost": "26",
@@ -3639,6 +3805,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "27",
@@ -3653,6 +3820,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Lieutenant",
         "codename": "",
         "cost": "23",
@@ -3671,7 +3839,7 @@
     ]
   },
   {
-    "index": 3037,
+    "id": 3037,
     "army": "Ariadna",
     "isc": "Briscard",
     "name": "Briscard",
@@ -3696,6 +3864,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Marksman Rifle",
         "cost": "24",
@@ -3710,6 +3879,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "24",
@@ -3726,6 +3896,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Observer",
         "codename": "",
         "cost": "25",
@@ -3742,6 +3913,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Paramedic",
         "codename": "",
         "cost": "26",
@@ -3758,6 +3930,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Heavy Rocket Launcher",
         "codename": "",
         "cost": "23",
@@ -3772,6 +3945,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "25",
@@ -3788,7 +3962,7 @@
     ]
   },
   {
-    "index": 3038,
+    "id": 3038,
     "army": "Ariadna",
     "isc": "Margot Berthier, Mirage-5",
     "name": "Margot",
@@ -3797,6 +3971,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "isc": "Margot Berthier, Mirage-5",
         "name": "Margot",
         "type": "HI",
@@ -3826,6 +4001,7 @@
         }
       },
       {
+        "id": 2,
         "isc": "Duroc, Mirage-5",
         "name": "Duroc",
         "type": "WB",
@@ -3864,6 +4040,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Mirage-5",
         "cost": "69",
@@ -3881,7 +4058,7 @@
     ]
   },
   {
-    "index": 3039,
+    "id": 3039,
     "army": "Ariadna",
     "isc": "Dog-Warriors",
     "name": "Dog-Warrior",
@@ -3889,6 +4066,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "name": "Form: Dogface",
         "type": "WB",
         "imp": "X",
@@ -3914,6 +4092,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Form: Dog-Warrior",
         "type": "WB",
         "imp": "X",
@@ -3940,6 +4119,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Dog-Warrior",
         "cost": "27",
@@ -3957,7 +4137,7 @@
     ]
   },
   {
-    "index": 3040,
+    "id": 3040,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops",
     "name": "Intel",
@@ -3979,6 +4159,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Spec-Ops",
         "cost": "0",
@@ -3990,7 +4171,7 @@
     ]
   },
   {
-    "index": 3041,
+    "id": 3041,
     "army": "Ariadna",
     "isc": "Marauders, 5307th Ranger Unit",
     "name": "Marauder",
@@ -4016,6 +4197,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Rifle",
         "cost": "21",
@@ -4031,6 +4213,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Molotok",
         "codename": "",
         "cost": "28",
@@ -4045,6 +4228,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "22",
@@ -4060,6 +4244,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Sniper",
         "codename": "",
         "cost": "29",
@@ -4076,6 +4261,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Heavy Rocket Launcher",
         "codename": "",
         "cost": "26",
@@ -4092,6 +4278,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Paramedic",
         "codename": "",
         "cost": "23",
@@ -4110,6 +4297,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Haris",
         "codename": "",
         "cost": "22",
@@ -4127,6 +4315,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Lieutenant",
         "codename": "",
         "cost": "21",
@@ -4146,7 +4335,7 @@
     ]
   },
   {
-    "index": 3042,
+    "id": 3042,
     "army": "Ariadna",
     "isc": "Mavericks, 9th Motorized Recon Bat.",
     "name": "Maverick",
@@ -4156,6 +4345,7 @@
     ],
     "profiles": [
       {
+        "id": 1,
         "type": "MI",
         "imp": "I",
         "irr": "",
@@ -4179,6 +4369,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Dismounted",
         "mov": "4-2",
         "s": "2",
@@ -4189,6 +4380,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Molotok",
         "codename": "",
         "cost": "29",
@@ -4203,6 +4395,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "21",
@@ -4217,6 +4410,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Light Rocket Launcher",
         "codename": "",
         "cost": "22",
@@ -4232,6 +4426,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Forward Observer",
         "codename": "",
         "cost": "19",
@@ -4250,7 +4445,7 @@
     ]
   },
   {
-    "index": 3043,
+    "id": 3043,
     "army": "Ariadna",
     "isc": "Devil Dog Teams, 2nd Assault Bat.",
     "name": "Devil Dog",
@@ -4258,6 +4453,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "WB",
         "imp": "X",
         "irr": "X",
@@ -4281,6 +4477,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "K-9 Antipode",
         "type": "WB",
         "imp": "X",
@@ -4315,6 +4512,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Chain Rifle",
         "cost": "30",
@@ -4330,6 +4528,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Heavy Shotgun",
         "codename": "",
         "cost": "39",
@@ -4346,7 +4545,7 @@
     ]
   },
   {
-    "index": 3044,
+    "id": 3044,
     "army": "Ariadna",
     "isc": "6th Airborne Rangers",
     "name": "Airborne Ranger",
@@ -4372,6 +4571,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Submachine Gun",
         "cost": "20",
@@ -4387,6 +4587,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Molotok",
         "codename": "",
         "cost": "32",
@@ -4402,6 +4603,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "24",
@@ -4417,6 +4619,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Rifle",
         "codename": "",
         "cost": "25",
@@ -4432,6 +4635,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Forward Observer",
         "codename": "",
         "cost": "21",
@@ -4449,6 +4653,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Lieutenant",
         "codename": "",
         "cost": "20",
@@ -4468,7 +4673,7 @@
     ]
   },
   {
-    "index": 3045,
+    "id": 3045,
     "army": "Ariadna",
     "isc": "Desperadoes",
     "name": "Desperado",
@@ -4479,6 +4684,7 @@
     ],
     "profiles": [
       {
+        "id": 1,
         "type": "WB",
         "imp": "X",
         "irr": "X",
@@ -4502,6 +4708,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Dismounted",
         "mov": "4-4",
         "s": "2",
@@ -4512,6 +4719,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Chain Rifle",
         "cost": "11",
@@ -4527,6 +4735,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Assault Pistol",
         "codename": "",
         "cost": "13",
@@ -4542,6 +4751,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "18",
@@ -4557,6 +4767,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Submachine Gun",
         "codename": "",
         "cost": "13",

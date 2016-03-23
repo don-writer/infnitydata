@@ -1,6 +1,6 @@
 [
   {
-    "index": 2001,
+    "id": 2001,
     "army": "Yu Jing",
     "isc": "Keisotsu",
     "name": "Keisotsu",
@@ -23,6 +23,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "9",
@@ -37,6 +38,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "17",
@@ -51,6 +53,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Grenadier",
         "codename": "",
         "cost": "13",
@@ -66,6 +69,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "17",
@@ -80,6 +84,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "14",
@@ -94,6 +99,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Hacker",
         "codename": "",
         "cost": "17",
@@ -111,6 +117,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Observer",
         "codename": "",
         "cost": "10",
@@ -127,6 +134,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Paramedic",
         "codename": "",
         "cost": "11",
@@ -143,6 +151,7 @@
         ]
       },
       {
+        "id": 9,
         "code": "Lieutenant",
         "codename": "",
         "cost": "9",
@@ -161,7 +170,7 @@
     ]
   },
   {
-    "index": 2002,
+    "id": 2002,
     "army": "Yu Jing",
     "isc": "Zhanshi",
     "name": "Zhanshi",
@@ -182,6 +191,7 @@
     "spec": [],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "11",
@@ -196,6 +206,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "19",
@@ -210,6 +221,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Grenadier",
         "codename": "",
         "cost": "15",
@@ -225,6 +237,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "19",
@@ -239,6 +252,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "16",
@@ -253,6 +267,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Hacker",
         "codename": "",
         "cost": "19",
@@ -270,6 +285,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Paramedic",
         "codename": "",
         "cost": "13",
@@ -286,6 +302,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Observer",
         "codename": "",
         "cost": "12",
@@ -302,6 +319,7 @@
         ]
       },
       {
+        "id": 9,
         "code": "Lieutenant",
         "codename": "",
         "cost": "11",
@@ -320,7 +338,7 @@
     ]
   },
   {
-    "index": 2003,
+    "id": 2003,
     "army": "Yu Jing",
     "isc": "Zh\u00e0nying Imperial Agents",
     "name": "Zh\u00e0nying",
@@ -344,6 +362,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Combi",
         "codename": "",
         "cost": "26",
@@ -361,6 +380,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "30",
@@ -375,6 +395,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "23",
@@ -392,6 +413,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "28",
@@ -408,6 +430,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Hacker",
         "codename": "",
         "cost": "32",
@@ -426,6 +449,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Observer",
         "codename": "",
         "cost": "25",
@@ -442,6 +466,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Lieutenant",
         "codename": "",
         "cost": "26",
@@ -460,6 +485,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "HMG Lieutenant",
         "codename": "",
         "cost": "30",
@@ -478,7 +504,7 @@
     ]
   },
   {
-    "index": 2004,
+    "id": 2004,
     "army": "Yu Jing",
     "isc": "Tiger Soldiers",
     "name": "Tiger",
@@ -502,6 +528,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "27",
@@ -517,6 +544,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Spitfire",
         "codename": "",
         "cost": "32",
@@ -531,6 +559,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "25",
@@ -545,6 +574,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "34",
@@ -559,6 +589,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Hacker",
         "codename": "",
         "cost": "33",
@@ -577,6 +608,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Paramedic",
         "codename": "",
         "cost": "29",
@@ -594,6 +626,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Lieutenant",
         "codename": "",
         "cost": "27",
@@ -613,7 +646,7 @@
     ]
   },
   {
-    "index": 2005,
+    "id": 2005,
     "army": "Yu Jing",
     "isc": "Z\u00fayong Invincibles",
     "name": "Z\u00fayong",
@@ -637,6 +670,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "27",
@@ -651,6 +685,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Tinbot",
         "codename": "",
         "cost": "30",
@@ -667,6 +702,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "HMG",
         "codename": "",
         "cost": "35",
@@ -681,6 +717,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "26",
@@ -695,6 +732,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "MULTI",
         "codename": "",
         "cost": "31",
@@ -709,6 +747,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "36",
@@ -724,6 +763,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "AutoMediKit HMG",
         "codename": "",
         "cost": "39",
@@ -740,6 +780,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Observer",
         "codename": "",
         "cost": "28",
@@ -756,6 +797,7 @@
         ]
       },
       {
+        "id": 9,
         "code": "Paramedic",
         "codename": "",
         "cost": "29",
@@ -772,6 +814,7 @@
         ]
       },
       {
+        "id": 10,
         "code": "Lieutenant",
         "codename": "",
         "cost": "27",
@@ -788,6 +831,7 @@
         ]
       },
       {
+        "id": 11,
         "code": "HMG Lieutenant",
         "codename": "",
         "cost": "39",
@@ -807,7 +851,7 @@
     ]
   },
   {
-    "index": 2006,
+    "id": 2006,
     "army": "Yu Jing",
     "isc": "Yan Huo Invincibles",
     "name": "Yan Huo",
@@ -829,6 +873,7 @@
     "spec": [],
     "childs": [
       {
+        "id": 1,
         "code": "MULTI HMG",
         "codename": "",
         "cost": "53",
@@ -843,6 +888,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMC",
         "codename": "",
         "cost": "54",
@@ -857,6 +903,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "52",
@@ -871,6 +918,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "MULTI HMG Lieutenant",
         "codename": "",
         "cost": "53",
@@ -887,6 +935,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "HMC Lieutenant",
         "codename": "",
         "cost": "54",
@@ -905,7 +954,7 @@
     ]
   },
   {
-    "index": 2007,
+    "id": 2007,
     "army": "Yu Jing",
     "isc": "Wu Ming",
     "name": "Wu Ming",
@@ -929,6 +978,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "MULTI",
         "cost": "39",
@@ -944,6 +994,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "39",
@@ -958,6 +1009,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Nimbus",
         "codename": "",
         "cost": "35",
@@ -973,6 +1025,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "33",
@@ -989,6 +1042,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Panzerfaust",
         "codename": "",
         "cost": "29",
@@ -1004,6 +1058,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Observer",
         "codename": "",
         "cost": "31",
@@ -1020,6 +1075,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Combi",
         "codename": "",
         "cost": "33",
@@ -1035,6 +1091,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Light Rocket Launcher",
         "codename": "",
         "cost": "37",
@@ -1052,7 +1109,7 @@
     ]
   },
   {
-    "index": 2008,
+    "id": 2008,
     "army": "Yu Jing",
     "isc": "Daofei",
     "name": "Daofei",
@@ -1077,6 +1134,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "MULTI",
         "cost": "53",
@@ -1091,6 +1149,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "57",
@@ -1105,6 +1164,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "48",
@@ -1119,6 +1179,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Spitfire",
         "codename": "",
         "cost": "55",
@@ -1133,6 +1194,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Hacker",
         "codename": "",
         "cost": "59",
@@ -1150,6 +1212,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Lieutenant",
         "codename": "",
         "cost": "53",
@@ -1166,6 +1229,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Spitfire Lieutenant",
         "codename": "",
         "cost": "55",
@@ -1184,7 +1248,7 @@
     ]
   },
   {
-    "index": 2009,
+    "id": 2009,
     "army": "Yu Jing",
     "isc": "Hac Tao",
     "name": "Hac Tao",
@@ -1209,6 +1273,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "MULTI",
         "cost": "64",
@@ -1224,6 +1289,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "68",
@@ -1239,6 +1305,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "59",
@@ -1254,6 +1321,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Missile Launcher",
         "codename": "",
         "cost": "65",
@@ -1269,6 +1337,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Hacker",
         "codename": "",
         "cost": "70",
@@ -1287,6 +1356,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Executive Order",
         "codename": "",
         "cost": "65",
@@ -1304,6 +1374,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "HMG Executive Order",
         "codename": "",
         "cost": "69",
@@ -1323,7 +1394,7 @@
     ]
   },
   {
-    "index": 2010,
+    "id": 2010,
     "army": "Yu Jing",
     "isc": "Hsien",
     "name": "Hsien",
@@ -1348,6 +1419,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "MULTI",
         "cost": "57",
@@ -1363,6 +1435,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Tinbot",
         "codename": "",
         "cost": "60",
@@ -1380,6 +1453,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "HMG",
         "codename": "",
         "cost": "61",
@@ -1395,6 +1469,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "52",
@@ -1410,6 +1485,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Lieutenant",
         "codename": "",
         "cost": "57",
@@ -1427,6 +1503,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Tinbot Lieutenant",
         "codename": "",
         "cost": "60",
@@ -1445,6 +1522,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "HMG Lieutenant",
         "codename": "",
         "cost": "61",
@@ -1464,7 +1542,7 @@
     ]
   },
   {
-    "index": 2011,
+    "id": 2011,
     "army": "Yu Jing",
     "isc": "Guijia",
     "name": "Guijia",
@@ -1472,6 +1550,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "name": "Guijia",
         "type": "TAG",
         "imp": "",
@@ -1495,6 +1574,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Pilot",
         "type": "LI",
         "cube": "X",
@@ -1521,6 +1601,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "MHMG",
         "cost": "88",
@@ -1535,6 +1616,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "88",
@@ -1553,7 +1635,7 @@
     ]
   },
   {
-    "index": 2012,
+    "id": 2012,
     "army": "Yu Jing",
     "isc": "Guilang",
     "name": "Guilang",
@@ -1579,6 +1661,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Minelayer",
         "codename": "",
         "cost": "26",
@@ -1596,6 +1679,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Combi",
         "cost": "25",
@@ -1611,6 +1695,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "24",
@@ -1626,6 +1711,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "33",
@@ -1641,6 +1727,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Hacker",
         "codename": "",
         "cost": "31",
@@ -1659,6 +1746,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Observer",
         "codename": "",
         "cost": "27",
@@ -1677,6 +1765,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Lieutenant",
         "codename": "",
         "cost": "25",
@@ -1696,7 +1785,7 @@
     ]
   },
   {
-    "index": 2013,
+    "id": 2013,
     "army": "Yu Jing",
     "isc": "Ninjas",
     "name": "Ninja",
@@ -1723,6 +1812,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Bow",
         "codename": "",
         "cost": "26",
@@ -1738,6 +1828,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Shock",
         "codename": "",
         "cost": "34",
@@ -1753,6 +1844,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "AP",
         "codename": "",
         "cost": "34",
@@ -1768,6 +1860,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "DA",
         "codename": "",
         "cost": "35",
@@ -1783,6 +1876,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "42",
@@ -1798,6 +1892,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Hacker",
         "codename": "",
         "cost": "40",
@@ -1818,7 +1913,7 @@
     ]
   },
   {
-    "index": 2014,
+    "id": 2014,
     "army": "Yu Jing",
     "isc": "Shaolin Warrior Monks",
     "name": "Shaolin",
@@ -1843,6 +1938,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Shock",
         "codename": "Combi",
         "cost": "11",
@@ -1858,6 +1954,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "AP",
         "codename": "",
         "cost": "11",
@@ -1873,6 +1970,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "DA",
         "codename": "",
         "cost": "12",
@@ -1888,6 +1986,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Chain Rifle",
         "codename": "",
         "cost": "5",
@@ -1903,6 +2002,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "10",
@@ -1918,6 +2018,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Smoke LGL",
         "codename": "",
         "cost": "11",
@@ -1935,7 +2036,7 @@
     ]
   },
   {
-    "index": 2015,
+    "id": 2015,
     "army": "Yu Jing",
     "isc": "Yisheng",
     "name": "Yisheng",
@@ -1959,6 +2060,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Doctor",
         "cost": "15",
@@ -1975,7 +2077,7 @@
     ]
   },
   {
-    "index": 2016,
+    "id": 2016,
     "army": "Yu Jing",
     "isc": "Mech-Engineer",
     "name": "Mech-Engineer",
@@ -1998,6 +2100,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Engineer",
         "cost": "15",
@@ -2015,7 +2118,7 @@
     ]
   },
   {
-    "index": 2017,
+    "id": 2017,
     "army": "Yu Jing",
     "isc": "Y\u00e1ok\u00f2ng W\u00e8ib\u012bng",
     "name": "Weibing",
@@ -2045,6 +2148,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "16",
@@ -2060,7 +2164,7 @@
     ]
   },
   {
-    "index": 2018,
+    "id": 2018,
     "army": "Yu Jing",
     "isc": "Y\u00e1ok\u00f2ng H\u00f9s\u00f2ng",
     "name": "Husong",
@@ -2086,6 +2190,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "HMG",
         "cost": "25",
@@ -2101,7 +2206,7 @@
     ]
   },
   {
-    "index": 2019,
+    "id": 2019,
     "army": "Yu Jing",
     "isc": "Y\u00e1ok\u00f2ng Son-bae",
     "name": "Son-Bae",
@@ -2125,6 +2230,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Smart Missile Launcher",
         "cost": "18",
@@ -2140,7 +2246,7 @@
     ]
   },
   {
-    "index": 2020,
+    "id": 2020,
     "army": "Yu Jing",
     "isc": "Y\u00e1ok\u00f2ng Cha\u012by\u00ec",
     "name": "Chaiyi",
@@ -2167,6 +2273,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Repeater",
         "cost": "8",
@@ -2182,7 +2289,7 @@
     ]
   },
   {
-    "index": 2021,
+    "id": 2021,
     "army": "Yu Jing",
     "isc": "Sun Tze",
     "name": "Sun Tze",
@@ -2209,6 +2316,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "55",
@@ -2225,6 +2333,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "MULTI",
         "codename": "",
         "cost": "60",
@@ -2241,6 +2350,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun Lieutenant",
         "codename": "",
         "cost": "60",
@@ -2260,6 +2370,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "MULTI Lieutenant",
         "codename": "",
         "cost": "65",
@@ -2281,7 +2392,7 @@
     ]
   },
   {
-    "index": 2022,
+    "id": 2022,
     "army": "Yu Jing",
     "isc": "Celestial Guard",
     "name": "Celestial Guard",
@@ -2302,6 +2413,7 @@
     "spec": [],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "13",
@@ -2316,6 +2428,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "12",
@@ -2330,6 +2443,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Grenadier",
         "codename": "",
         "cost": "17",
@@ -2345,6 +2459,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Spitfire",
         "codename": "",
         "cost": "19",
@@ -2359,6 +2474,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "21",
@@ -2373,6 +2489,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Kuang Shi Control Device",
         "codename": "",
         "cost": "13",
@@ -2390,6 +2507,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Hacker",
         "codename": "",
         "cost": "21",
@@ -2407,6 +2525,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Lieutenant",
         "codename": "",
         "cost": "13",
@@ -2425,7 +2544,7 @@
     ]
   },
   {
-    "index": 2023,
+    "id": 2023,
     "army": "Yu Jing",
     "isc": "Domaru Butai",
     "name": "Domaru",
@@ -2451,6 +2570,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "E/M CCW",
         "cost": "25",
@@ -2466,6 +2586,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "DA CCW",
         "codename": "",
         "cost": "26",
@@ -2481,6 +2602,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "33",
@@ -2496,6 +2618,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Lieutenant",
         "codename": "",
         "cost": "25",
@@ -2513,6 +2636,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Combi",
         "codename": "",
         "cost": "34",
@@ -2528,6 +2652,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Spitfire",
         "codename": "",
         "cost": "38",
@@ -2544,7 +2669,7 @@
     ]
   },
   {
-    "index": 2024,
+    "id": 2024,
     "army": "Yu Jing",
     "isc": "Shang Ji",
     "name": "Shang Ji",
@@ -2568,6 +2693,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "37",
@@ -2583,6 +2709,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "MULTI",
         "codename": "",
         "cost": "40",
@@ -2597,6 +2724,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Spitfire",
         "codename": "",
         "cost": "42",
@@ -2611,6 +2739,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Hacker",
         "codename": "",
         "cost": "45",
@@ -2629,6 +2758,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Paramedic",
         "codename": "",
         "cost": "39",
@@ -2646,6 +2776,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Lieutenant",
         "codename": "",
         "cost": "37",
@@ -2665,7 +2796,7 @@
     ]
   },
   {
-    "index": 2025,
+    "id": 2025,
     "army": "Yu Jing",
     "isc": "Y\u00e1oz\u0103o",
     "name": "Yaozao",
@@ -2690,6 +2821,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Servant",
         "cost": "3",
@@ -2703,7 +2835,7 @@
     ]
   },
   {
-    "index": 2026,
+    "id": 2026,
     "army": "Yu Jing",
     "isc": "Y\u00e1op\u00fa Pangguling",
     "name": "Pangguling",
@@ -2729,6 +2861,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Minesweeper",
         "cost": "8",
@@ -2742,6 +2875,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Rifle",
         "codename": "",
         "cost": "21",
@@ -2757,6 +2891,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "EVO",
         "codename": "",
         "cost": "13",
@@ -2772,7 +2907,7 @@
     ]
   },
   {
-    "index": 2027,
+    "id": 2027,
     "army": "Yu Jing",
     "isc": "Kuang Shi",
     "name": "Kuang Shi",
@@ -2797,6 +2932,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Chain Rifle",
         "cost": "5",
@@ -2811,6 +2947,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "11",
@@ -2827,7 +2964,7 @@
     ]
   },
   {
-    "index": 2028,
+    "id": 2028,
     "army": "Yu Jing",
     "isc": "Kempeitai",
     "name": "Kempei",
@@ -2851,6 +2988,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "CoC Boarding Shotgun",
         "codename": "BSCC",
         "cost": "23",
@@ -2868,6 +3006,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Chain of Command",
         "codename": "CC",
         "cost": "24",
@@ -2885,6 +3024,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "16",
@@ -2900,6 +3040,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Default",
         "codename": "Combi",
         "cost": "17",
@@ -2917,7 +3058,7 @@
     ]
   },
   {
-    "index": 2029,
+    "id": 2029,
     "army": "Yu Jing",
     "isc": "Imperial Agent, Pheasant Rank",
     "name": "Imperial Agent",
@@ -2940,6 +3081,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Hacker",
         "codename": "",
         "cost": "34",
@@ -2957,6 +3099,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "37",
@@ -2973,6 +3116,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "35",
@@ -2990,6 +3134,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Default",
         "codename": "Combi",
         "cost": "38",
@@ -3010,7 +3155,7 @@
     ]
   },
   {
-    "index": 2030,
+    "id": 2030,
     "army": "Yu Jing",
     "isc": "Aragoto Senkenbutai",
     "name": "Aragoto",
@@ -3018,6 +3163,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "name": "Aragoto",
         "type": "LI",
         "imp": "I",
@@ -3038,10 +3184,11 @@
           "V: Courage",
           "Kinematika L2"
         ],
-        "ccw": [],
-        "bsw": []
+        "bsw": [],
+        "ccw": []
       },
       {
+        "id": 2,
         "name": "Dismounted",
         "mov": "4-4",
         "s": "2",
@@ -3053,6 +3200,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "24",
@@ -3068,6 +3216,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "19",
@@ -3082,6 +3231,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Spitfire",
         "codename": "",
         "cost": "26",
@@ -3096,6 +3246,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Hacker",
         "codename": "",
         "cost": "30",
@@ -3114,6 +3265,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Lieutenant",
         "codename": "",
         "cost": "24",
@@ -3133,7 +3285,7 @@
     ]
   },
   {
-    "index": 2031,
+    "id": 2031,
     "army": "Yu Jing",
     "isc": "Imperial Agents, Crane Rank",
     "name": "Imperial Agent",
@@ -3158,6 +3310,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "53",
@@ -3177,6 +3330,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Spitfire Lieutenant",
         "codename": "",
         "cost": "55",
@@ -3195,6 +3349,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Spitfire",
         "codename": "",
         "cost": "55",
@@ -3212,6 +3367,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "48",
@@ -3230,6 +3386,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Default",
         "codename": "MULTI",
         "cost": "53",
@@ -3248,6 +3405,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Hacker",
         "codename": "",
         "cost": "51",
@@ -3268,7 +3426,7 @@
     ]
   },
   {
-    "index": 2032,
+    "id": 2032,
     "army": "Yu Jing",
     "isc": "Haramaki Zensenbutai",
     "name": "Haramaki",
@@ -3293,6 +3451,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Missile Launcher",
         "codename": "ML",
         "cost": "33",
@@ -3307,6 +3466,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Combi",
         "codename": "",
         "cost": "30",
@@ -3322,6 +3482,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "DA CCW",
         "codename": "",
         "cost": "23",
@@ -3337,6 +3498,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Default",
         "codename": "AP CCW",
         "cost": "22",
@@ -3354,7 +3516,7 @@
     ]
   },
   {
-    "index": 2033,
+    "id": 2033,
     "army": "Yu Jing",
     "isc": "Karakuri Special Project",
     "name": "Karakuri",
@@ -3382,6 +3544,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Heavy Shotgun",
         "codename": "",
         "cost": "35",
@@ -3398,6 +3561,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Mk12",
         "codename": "",
         "cost": "40",
@@ -3414,6 +3578,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Default",
         "codename": "Combi",
         "cost": "35",
@@ -3432,7 +3597,7 @@
     ]
   },
   {
-    "index": 2034,
+    "id": 2034,
     "army": "Yu Jing",
     "isc": "Su-Jian Immediate Action Unit",
     "name": "Su-Jian",
@@ -3444,6 +3609,7 @@
     ],
     "profiles": [
       {
+        "id": 1,
         "name": "Combat Form",
         "type": "HI",
         "imp": "",
@@ -3465,6 +3631,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "High Mobility Form",
         "mov": "8-2",
         "cc": "8",
@@ -3481,6 +3648,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Spitfire",
         "cost": "59",
@@ -3497,6 +3665,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Heavy Shotgun",
         "codename": "",
         "cost": "54",
@@ -3515,7 +3684,7 @@
     ]
   },
   {
-    "index": 2035,
+    "id": 2035,
     "army": "Yu Jing",
     "isc": "O-Yoroi Kidobutai",
     "name": "O-Yoroi",
@@ -3523,6 +3692,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "name": "O-Yoroi",
         "type": "TAG",
         "imp": "",
@@ -3547,6 +3717,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Pilot",
         "type": "LI",
         "cube": "X",
@@ -3571,6 +3742,7 @@
         ]
       },
       {
+        "id": 3,
         "name": "CrazyKoala",
         "type": " ",
         "hackable": "",
@@ -3593,6 +3765,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "81",
@@ -3610,6 +3783,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "HMG",
         "cost": "81",
@@ -3627,7 +3801,7 @@
     ]
   },
   {
-    "index": 2036,
+    "id": 2036,
     "army": "Yu Jing",
     "isc": "Oniwaban",
     "name": "Oniwaban",
@@ -3654,6 +3828,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "41",
@@ -3671,6 +3846,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Boarding Shotgun",
         "cost": "41",
@@ -3688,7 +3864,7 @@
     ]
   },
   {
-    "index": 2037,
+    "id": 2037,
     "army": "Yu Jing",
     "isc": "Tokusetsu Butai",
     "name": "Tokusetsu",
@@ -3711,6 +3887,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Engineer",
         "codename": "",
         "cost": "14",
@@ -3728,6 +3905,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Doctor",
         "cost": "14",
@@ -3747,7 +3925,7 @@
     ]
   },
   {
-    "index": 2038,
+    "id": 2038,
     "army": "Yu Jing",
     "isc": "Y\u00e1oxi\u00e8 Rui Shi",
     "name": "Rui Shi",
@@ -3773,6 +3951,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Spitfire",
         "cost": "21",
@@ -3788,7 +3967,7 @@
     ]
   },
   {
-    "index": 2039,
+    "id": 2039,
     "army": "Yu Jing",
     "isc": "Y\u00e1oxi\u00e8 L\u00f9 Du\u0101n",
     "name": "Lu Duan",
@@ -3815,6 +3994,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Mk12",
         "cost": "22",
@@ -3831,7 +4011,7 @@
     ]
   },
   {
-    "index": 2040,
+    "id": 2040,
     "army": "Yu Jing",
     "isc": "Oniwaban Shinobu Kitsune",
     "name": "Shinobu",
@@ -3858,6 +4038,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "47",
@@ -3876,6 +4057,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Combi",
         "cost": "47",
@@ -3894,7 +4076,7 @@
     ]
   },
   {
-    "index": 2041,
+    "id": 2041,
     "army": "Yu Jing",
     "isc": "Domaru Takeshi \"Neko\" Oyama",
     "name": "Oyama",
@@ -3922,6 +4104,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Lieutenant",
         "codename": "",
         "cost": "34",
@@ -3940,6 +4123,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Default",
         "codename": "Chain Rifle",
         "cost": "34",
@@ -3958,7 +4142,7 @@
     ]
   },
   {
-    "index": 2042,
+    "id": 2042,
     "army": "Yu Jing",
     "isc": "Sun Tze v.2 (Marksman Leader)",
     "name": "Sun Tze",
@@ -3985,6 +4169,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "MULTI Sniper Rifle Lieutenant",
         "codename": "",
         "cost": "54",
@@ -4002,6 +4187,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "49",
@@ -4016,6 +4202,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Lieutenant",
         "codename": "MULTI Lieutenant",
         "cost": "50",
@@ -4033,6 +4220,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Default",
         "codename": "MULTI",
         "cost": "45",
@@ -4049,7 +4237,7 @@
     ]
   },
   {
-    "index": 2043,
+    "id": 2043,
     "army": "Yu Jing",
     "isc": "Gu\u01d0 F\u0113ng Spec-Ops",
     "name": "Gu\u01d0 F\u0113ng",
@@ -4071,6 +4259,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Spec-Ops",
         "cost": "0",
@@ -4082,7 +4271,7 @@
     ]
   },
   {
-    "index": 2044,
+    "id": 2044,
     "army": "Yu Jing",
     "isc": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
     "name": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
@@ -4109,6 +4298,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "E/Mitter",
         "cost": "23",
@@ -4126,6 +4316,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Panzerfaust",
         "codename": "",
         "cost": "24",
@@ -4145,7 +4336,7 @@
     ]
   },
   {
-    "index": 2045,
+    "id": 2045,
     "army": "Yu Jing",
     "isc": "Bao Troop",
     "name": "Bao",
@@ -4169,6 +4360,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "29",
@@ -4186,6 +4378,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "28",
@@ -4203,6 +4396,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "MULTI Sniper Rifle",
         "codename": "",
         "cost": "30",
@@ -4219,7 +4413,7 @@
     ]
   },
   {
-    "index": 2046,
+    "id": 2046,
     "army": "Yu Jing",
     "isc": "Raiden Seibutai",
     "name": "Raiden",
@@ -4242,6 +4436,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "MULTI Sniper Rifle",
         "cost": "27",
@@ -4256,6 +4451,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Heavy Rocket Launcher",
         "codename": "",
         "cost": "19",
@@ -4272,6 +4468,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Spitfire",
         "codename": "",
         "cost": "27",
@@ -4290,7 +4487,7 @@
     ]
   },
   {
-    "index": 2047,
+    "id": 2047,
     "army": "Yu Jing",
     "isc": "Asuka Kisaragi",
     "name": "Kisaragi",
@@ -4298,6 +4495,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "I",
         "irr": "",
@@ -4321,6 +4519,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Dismounted",
         "mov": "4-4",
         "s": "2",
@@ -4335,6 +4534,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "27",
@@ -4350,6 +4550,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "27",

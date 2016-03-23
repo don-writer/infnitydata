@@ -5,12 +5,11 @@ from collections import OrderedDict
 #print 'Number of arguments:', len(sys.argv), 'arguments.'
 #print 'Argument List:', str(sys.argv)
 
-if len(sys.argv) != 3:
-	print "Usage: number_units input_file start_index"
+if len(sys.argv) != 2:
+	print "Usage: number_units input_file"
 	sys.exit(1)
 
 filename = sys.argv[1]
-index = int(sys.argv[2])
 
 print "Reading from: " + filename
 with open(filename, 'r') as f:
@@ -20,9 +19,11 @@ with open(filename, 'r') as f:
 
 
 for i in range(len(data)):
-	index = index+1;
-	data[i].update({"id":index})
-
+	if data[i].has_key("profiles"):
+		index = 1;
+		for j in range(len(data[i]["profiles"])):
+			data[i]["profiles"][j]["id"] = index
+			index = index+1
 
 print "Writing to: " + filename
 with open(filename, 'w') as outfile:

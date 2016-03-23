@@ -1,6 +1,6 @@
 [
   {
-    "index": 8001,
+    "id": 8001,
     "army": "Tohaa",
     "isc": "Kamael Light Infantry",
     "name": "Kamael",
@@ -23,6 +23,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "12",
@@ -37,6 +38,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Spitfire",
         "codename": "Spitfire",
         "cost": "18",
@@ -51,6 +53,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Grenadier",
         "codename": "",
         "cost": "16",
@@ -66,6 +69,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "15",
@@ -80,6 +84,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Hacker",
         "codename": "",
         "cost": "18",
@@ -97,6 +102,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Observer",
         "codename": "",
         "cost": "13",
@@ -113,6 +119,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Paramedic",
         "codename": "",
         "cost": "14",
@@ -129,6 +136,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Lieutenant",
         "codename": "",
         "cost": "12",
@@ -147,7 +155,7 @@
     ]
   },
   {
-    "index": 8002,
+    "id": 8002,
     "army": "Tohaa",
     "isc": "Sakiel Regiment",
     "name": "Sakiel",
@@ -155,6 +163,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "I",
         "irr": "",
@@ -177,6 +186,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "imp": "I",
@@ -202,6 +212,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "SWG",
         "cost": "20",
@@ -217,6 +228,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Null",
         "codename": "",
         "cost": "18",
@@ -233,6 +245,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Light Rocket Launcher",
         "codename": "",
         "cost": "23",
@@ -248,6 +261,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Viral",
         "codename": "",
         "cost": "26",
@@ -263,6 +277,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Spitfire",
         "codename": "",
         "cost": "23",
@@ -277,6 +292,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Paramedic",
         "codename": "",
         "cost": "22",
@@ -294,6 +310,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Lieutenant",
         "codename": "",
         "cost": "26",
@@ -313,7 +330,7 @@
     ]
   },
   {
-    "index": 8003,
+    "id": 8003,
     "army": "Tohaa",
     "isc": "Ectros Regiment",
     "name": "Ectros",
@@ -321,6 +338,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "HI",
         "imp": "",
         "irr": "",
@@ -344,6 +362,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "imp": "",
@@ -370,6 +389,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Viral",
         "cost": "49",
@@ -385,6 +405,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "51",
@@ -400,6 +421,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Vulkan",
         "codename": "",
         "cost": "44",
@@ -415,6 +437,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Lieutenant",
         "codename": "",
         "cost": "49",
@@ -434,7 +457,7 @@
     ]
   },
   {
-    "index": 8004,
+    "id": 8004,
     "army": "Tohaa",
     "isc": "Clipsos Infiltrators",
     "name": "Clipsos",
@@ -459,6 +482,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Mines",
         "cost": "24",
@@ -474,6 +498,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "SWG",
         "codename": "",
         "cost": "26",
@@ -489,6 +514,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Null",
         "codename": "",
         "cost": "24",
@@ -505,6 +531,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "26",
@@ -519,6 +546,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Minelayer",
         "codename": "",
         "cost": "25",
@@ -536,6 +564,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Observer",
         "codename": "",
         "cost": "25",
@@ -555,7 +584,7 @@
     ]
   },
   {
-    "index": 8005,
+    "id": 8005,
     "army": "Tohaa",
     "isc": "Tohaa Diplomatic Delegates",
     "name": "Diplomatic Delegate",
@@ -576,6 +605,7 @@
     "spec": [],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Specialist",
         "cost": "5",
@@ -596,7 +626,7 @@
     ]
   },
   {
-    "index": 8006,
+    "id": 8006,
     "army": "Tohaa",
     "isc": "Gao-Rael",
     "name": "Gao-Rael",
@@ -604,6 +634,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "name": "Gao-Rael",
         "type": "MI",
         "imp": "",
@@ -627,6 +658,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "imp": "",
@@ -652,6 +684,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "31",
@@ -667,6 +700,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "32",
@@ -682,6 +716,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Sniper Rifle",
         "codename": "",
         "cost": "33",
@@ -696,6 +731,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Spitfire",
         "codename": "",
         "cost": "36",
@@ -710,6 +746,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Lieutenant",
         "codename": "",
         "cost": "31",
@@ -729,7 +766,7 @@
     ]
   },
   {
-    "index": 8007,
+    "id": 8007,
     "army": "Tohaa",
     "isc": "Gao-Tarsos",
     "name": "Gao-Tarsos",
@@ -737,6 +774,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "MI",
         "imp": "",
         "irr": "",
@@ -758,6 +796,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "mov": "4-4",
@@ -773,6 +812,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "31",
@@ -788,6 +828,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "39",
@@ -802,6 +843,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "30",
@@ -817,6 +859,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Param",
         "codename": "",
         "cost": "33",
@@ -837,7 +880,7 @@
     ]
   },
   {
-    "index": 8008,
+    "id": 8008,
     "army": "Tohaa",
     "isc": "Gorgos",
     "name": "Gorgos",
@@ -845,6 +888,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "TAG",
         "imp": "",
         "irr": "",
@@ -870,6 +914,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "hackable": "",
@@ -887,6 +932,7 @@
         "ccw": []
       },
       {
+        "id": 3,
         "name": "Chaksa Peripheral",
         "type": "LI",
         "imp": "",
@@ -922,6 +968,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Spitfire",
         "cost": "81",
@@ -938,7 +985,7 @@
     ]
   },
   {
-    "index": 8009,
+    "id": 8009,
     "army": "Tohaa",
     "isc": "Makaul",
     "name": "Makaul",
@@ -964,6 +1011,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "HFT",
         "cost": "13",
@@ -979,6 +1027,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Swarm",
         "codename": "",
         "cost": "16",
@@ -995,6 +1044,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "19",
@@ -1010,6 +1060,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Combi",
         "codename": "",
         "cost": "20",
@@ -1027,7 +1078,7 @@
     ]
   },
   {
-    "index": 8010,
+    "id": 8010,
     "army": "Tohaa",
     "isc": "Kumotail",
     "name": "Kumotail",
@@ -1052,6 +1103,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Doctor+Engineer",
         "cost": "22",
@@ -1069,7 +1121,7 @@
     ]
   },
   {
-    "index": 8011,
+    "id": 8011,
     "army": "Tohaa",
     "isc": "Chaksa Auxiliars",
     "name": "Auxiliar",
@@ -1092,6 +1144,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Baggage",
         "cost": "10",
@@ -1109,6 +1162,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "HMG",
         "codename": "",
         "cost": "25",
@@ -1126,6 +1180,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Smart Rocket Launcher",
         "codename": "",
         "cost": "15",
@@ -1142,7 +1197,7 @@
     ]
   },
   {
-    "index": 8012,
+    "id": 8012,
     "army": "Tohaa",
     "isc": "Chaksa Servant",
     "name": "Servant",
@@ -1167,6 +1222,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Servant",
         "cost": "3",
@@ -1180,7 +1236,7 @@
     ]
   },
   {
-    "index": 8013,
+    "id": 8013,
     "army": "Tohaa",
     "isc": "Neema Saatar",
     "name": "Neema",
@@ -1189,6 +1245,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "HI",
         "imp": "I",
         "irr": "",
@@ -1213,6 +1270,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "hackable": "",
@@ -1235,6 +1293,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Light Rocket Launcher",
         "cost": "42",
@@ -1251,6 +1310,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Lieutenant",
         "codename": "",
         "cost": "42",
@@ -1271,7 +1331,7 @@
     ]
   },
   {
-    "index": 8014,
+    "id": 8014,
     "army": "Tohaa",
     "isc": "Hatail Spec-Ops",
     "name": "Hatail",
@@ -1293,6 +1353,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Spec-Ops",
         "cost": "0",
@@ -1304,7 +1365,7 @@
     ]
   },
   {
-    "index": 8015,
+    "id": 8015,
     "army": "Tohaa",
     "isc": "Hatail Aelis Keesan",
     "name": "Hatail Aelis Keesan",
@@ -1331,6 +1392,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Viral Combi",
         "cost": "33",
@@ -1348,6 +1410,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "K1 Combi",
         "codename": "",
         "cost": "32",
@@ -1367,7 +1430,7 @@
     ]
   },
   {
-    "index": 8016,
+    "id": 8016,
     "army": "Tohaa",
     "isc": "Nikoul Ambush Unit",
     "name": "Nikoul",
@@ -1375,6 +1438,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -1397,6 +1461,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "mov": "4-4",
@@ -1416,6 +1481,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Viral Sniper Rifle",
         "cost": "30",
@@ -1430,6 +1496,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Minelayer",
         "codename": "",
         "cost": "32",
@@ -1449,7 +1516,7 @@
     ]
   },
   {
-    "index": 8017,
+    "id": 8017,
     "army": "Tohaa",
     "isc": "Kotail Mobile Unit",
     "name": "Kotail",
@@ -1457,6 +1524,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -1480,6 +1548,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "mov": "4-4",
@@ -1498,6 +1567,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "32",
@@ -1513,6 +1583,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Dual Combi",
         "codename": "",
         "cost": "32",
@@ -1527,6 +1598,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "31",
@@ -1542,6 +1614,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Spitfire",
         "codename": "",
         "cost": "35",
@@ -1556,6 +1629,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Observer",
         "codename": "",
         "cost": "33",
@@ -1575,7 +1649,7 @@
     ]
   },
   {
-    "index": 8018,
+    "id": 8018,
     "army": "Tohaa",
     "isc": "Rasail Boarding Team",
     "name": "Rasail",
@@ -1583,6 +1657,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -1605,6 +1680,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "mov": "4-4",
@@ -1621,6 +1697,7 @@
         "ccw": []
       },
       {
+        "id": 3,
         "name": "Chaksa Peripheral",
         "type": "LI",
         "imp": "",
@@ -1654,6 +1731,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Combi",
         "cost": "37",
@@ -1669,6 +1747,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Viral Combi",
         "codename": "",
         "cost": "42",
@@ -1683,6 +1762,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "38",
@@ -1698,6 +1778,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Dual Contenders",
         "codename": "",
         "cost": "39",
@@ -1713,6 +1794,7 @@
         ]
       },
       {
+        "id": 5,
         "code": "Spitfire",
         "codename": "",
         "cost": "42",
@@ -1727,6 +1809,7 @@
         ]
       },
       {
+        "id": 6,
         "code": "Lieutenant",
         "codename": "",
         "cost": "37",
@@ -1744,6 +1827,7 @@
         ]
       },
       {
+        "id": 7,
         "code": "Viral Combi Lieutenant",
         "codename": "",
         "cost": "42",
@@ -1760,6 +1844,7 @@
         ]
       },
       {
+        "id": 8,
         "code": "Spitfire Lieutenant",
         "codename": "",
         "cost": "42",
@@ -1778,7 +1863,7 @@
     ]
   },
   {
-    "index": 8019,
+    "id": 8019,
     "army": "Tohaa",
     "isc": "Kaeltar Specialists",
     "name": "Kaeltar",
@@ -1801,6 +1886,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "SymbioMate Shotgun",
         "cost": "21",
@@ -1819,6 +1905,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "SymbioMate Combi",
         "codename": "",
         "cost": "26",
@@ -1837,6 +1924,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "SymbioBomb Shotgun",
         "codename": "",
         "cost": "15",
@@ -1854,6 +1942,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "SymbioBomb Combi",
         "codename": "",
         "cost": "20",
@@ -1873,7 +1962,7 @@
     ]
   },
   {
-    "index": 8020,
+    "id": 8020,
     "army": "Tohaa",
     "isc": "Igao",
     "name": "Igao",
@@ -1900,6 +1989,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "Boarding Shotgun",
         "cost": "25",
@@ -1915,6 +2005,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Combi",
         "codename": "",
         "cost": "26",
@@ -1933,7 +2024,7 @@
     ]
   },
   {
-    "index": 8021,
+    "id": 8021,
     "army": "Tohaa",
     "isc": "Kosuil Assault Pioneers",
     "name": "Kosuil",
@@ -1943,6 +2034,7 @@
     ],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -1964,6 +2056,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "wip": "13",
         "arm": "0",
@@ -1978,6 +2071,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "K1 Combi Engineer",
         "cost": "29",
@@ -1996,6 +2090,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "Minelayer",
         "codename": "",
         "cost": "25",
@@ -2014,6 +2109,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Boarding Shotgun Engineer",
         "codename": "",
         "cost": "24",
@@ -2034,7 +2130,7 @@
     ]
   },
   {
-    "index": 8022,
+    "id": 8022,
     "army": "Tohaa",
     "isc": "Kerail Preceptors",
     "name": "Kerail Preceptor",
@@ -2042,6 +2138,7 @@
     "spec": [],
     "profiles": [
       {
+        "id": 1,
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -2062,6 +2159,7 @@
         "ccw": []
       },
       {
+        "id": 2,
         "name": "Inactive Armour",
         "type": "LI",
         "mov": "4-4",
@@ -2078,6 +2176,7 @@
         "ccw": []
       },
       {
+        "id": 3,
         "name": "Surda SymbioBeast",
         "optionSpecific": "X",
         "type": "LI",
@@ -2112,6 +2211,7 @@
         }
       },
       {
+        "id": 4,
         "name": "Surda SymbioBeast",
         "optionSpecific": "X",
         "type": "LI",
@@ -2146,6 +2246,7 @@
         }
       },
       {
+        "id": 5,
         "name": "Mutan SymbioBeast",
         "optionSpecific": "X",
         "type": "LI",
@@ -2181,6 +2282,7 @@
     ],
     "childs": [
       {
+        "id": 1,
         "code": "Default",
         "codename": "1 Surda",
         "cost": "20",
@@ -2197,6 +2299,7 @@
         ]
       },
       {
+        "id": 2,
         "code": "2 Surdas",
         "codename": "",
         "cost": "28",
@@ -2216,6 +2319,7 @@
         ]
       },
       {
+        "id": 3,
         "code": "Combi, Mutan",
         "codename": "",
         "cost": "30",
@@ -2232,6 +2336,7 @@
         ]
       },
       {
+        "id": 4,
         "code": "Light Shotgun, Mutan",
         "codename": "",
         "cost": "25",

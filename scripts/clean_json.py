@@ -18,9 +18,9 @@ with open(filename, 'r') as f:
 #print data
 
 sort_order = [
-'id', 'army', 'sectorial', 'isc', 'name', 'sharedAva', 'image', 'optionSpecific', 'type', 'imp', 'irr', 
+'comment', 'id', 'army', 'sectorial', 'isc', 'name', 'units', 'sharedAva', 'image', 'optionSpecific', 'type', 'imp', 'irr', 
 'cube', 'hackable', 'mov', 'cc', 'bs', 'ph', 'wip', 'arm', 'bts', 'w', 'wtype', 's', 'ava', 
-'code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw', 'ccw', 'independent', 'profiles', 'childs'
+'code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw', 'ccw', 'independent', 'profiles', 'childs', 'hide'
 ]
 
 

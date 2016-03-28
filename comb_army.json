@@ -1,0 +1,217 @@
+[
+  {
+    "army": "Combined Army",
+    "name": "Combined Army",
+    "units": [
+      {
+        "comment": "Morat Vanguard Infantry",
+        "id": 6001
+      },
+      {
+        "comment": "Unidron Batroids",
+        "id": 6002
+      },
+      {
+        "comment": "Fraacta Drop Unit",
+        "id": 6003
+      },
+      {
+        "comment": "Umbra Legates",
+        "id": 6004
+      },
+      {
+        "comment": "Maakrep Trackers Unit",
+        "id": 6005
+      },
+      {
+        "comment": "Rodok",
+        "id": 6006
+      },
+      {
+        "comment": "The Charontids",
+        "id": 6007
+      },
+      {
+        "comment": "Raicho Armoured Brigade",
+        "id": 6008
+      },
+      {
+        "comment": "Avatar",
+        "id": 6009
+      },
+      {
+        "comment": "The Shrouded",
+        "id": 6010
+      },
+      {
+        "comment": "Malignos",
+        "id": 6011
+      },
+      {
+        "comment": "Speculo Killers",
+        "id": 6012
+      },
+      {
+        "comment": "D\u0101turazi Witch-Soldiers",
+        "id": 6013
+      },
+      {
+        "comment": "The Hungries: \"Gakis\"",
+        "id": 6014
+      },
+      {
+        "comment": "The Hungries: \"Pretas\"",
+        "id": 6015
+      },
+      {
+        "comment": "Med-Tech Obsidon Medchanoid",
+        "id": 6016
+      },
+      {
+        "comment": "M-Drone",
+        "id": 6017
+      },
+      {
+        "comment": "Q-Drone",
+        "id": 6018
+      },
+      {
+        "comment": "T-Drone",
+        "id": 6019
+      },
+      {
+        "comment": "R-Drone",
+        "id": 6020
+      },
+      {
+        "comment": "Imetron",
+        "id": 6021
+      },
+      {
+        "comment": "Kurgat Reg. of Assault Engineers",
+        "id": 6022
+      },
+      {
+        "comment": "Rasyat Diplomatic Division",
+        "id": 6023
+      },
+      {
+        "comment": "Shasvastii Aswangs",
+        "id": 6024
+      },
+      {
+        "comment": "Shasvastii Cadmus",
+        "id": 6025
+      },
+      {
+        "comment": "Shasvastii Gwailos",
+        "id": 6026
+      },
+      {
+        "comment": "Shasvastii Haiduks",
+        "id": 6027
+      },
+      {
+        "comment": "Shasvastii Noctifers",
+        "id": 6028
+      },
+      {
+        "comment": "Shasvastii Special Armoured Corp Sphinx",
+        "id": 6029
+      },
+      {
+        "comment": "Shasvastii Seed-Soldiers",
+        "id": 6030
+      },
+      {
+        "comment": "Shasvastii Corax Hasht",
+        "id": 6031
+      },
+      {
+        "comment": "Ski\u00e1voros",
+        "id": 6032
+      },
+      {
+        "comment": "Slave Drones",
+        "id": 6033
+      },
+      {
+        "comment": "Sogarat Tempest Regiment",
+        "id": 6034
+      },
+      {
+        "comment": "The Anathematics",
+        "id": 6035
+      },
+      {
+        "comment": "Yaogat Strike Infantry",
+        "id": 6036
+      },
+      {
+        "comment": "Zerat Special Missions Regiment",
+        "id": 6037
+      },
+      {
+        "comment": "Cadmus-Naish Agent Sheskiin",
+        "id": 6038
+      },
+      {
+        "comment": "Treitak Spec-Ops",
+        "id": 6039
+      },
+      {
+        "comment": "Treitak Anyat",
+        "id": 6040
+      },
+      {
+        "comment": "Corax Spec-Ops",
+        "id": 6041
+      },
+      {
+        "comment": "Ikadron Batroids",
+        "id": 6042
+      },
+      {
+        "comment": "Ko Dali",
+        "id": 6043
+      },
+      {
+        "comment": "Shasvastii Caliban (Seed-Embryo)",
+        "id": 6044
+      },
+      {
+        "comment": "Shasvastii Caliban (Infiltration)",
+        "id": 6045
+      },
+      {
+        "comment": "Shasvastii Caliban (Developed)",
+        "id": 6046
+      },
+      {
+        "comment": "Raktorak",
+        "id": 6047
+      },
+      {
+        "comment": "Suryats",
+        "id": 6048
+      },
+      {
+        "comment": "Oznat",
+        "id": 6049
+      },
+      {
+        "comment": "Kornak Gazarot",
+        "id": 6050
+      },
+      {
+        "comment": "E-Drone",
+        "id": 6051
+      },
+      {
+        "comment": "Armand 'Le Muet'",
+        "id": 9022,
+        "ava": "1"
+      }
+    ]
+  }
+]

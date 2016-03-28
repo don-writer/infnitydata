@@ -1,0 +1,277 @@
+[
+  {
+    "army": "Yu Jing",
+    "name": "Yu Jing",
+    "units": [
+      {
+        "comment": "Keisotsu",
+        "id": 2001
+      },
+      {
+        "comment": "Zhanshi",
+        "id": 2002
+      },
+      {
+        "comment": "Zh\u00e0nying Imperial Agents",
+        "id": 2003
+      },
+      {
+        "comment": "Tiger Soldiers",
+        "id": 2004
+      },
+      {
+        "comment": "Z\u00fayong Invincibles",
+        "id": 2005
+      },
+      {
+        "comment": "Yan Huo Invincibles",
+        "id": 2006
+      },
+      {
+        "comment": "Wu Ming",
+        "id": 2007
+      },
+      {
+        "comment": "Daofei",
+        "id": 2008
+      },
+      {
+        "comment": "Hac Tao",
+        "id": 2009
+      },
+      {
+        "comment": "Hsien",
+        "id": 2010
+      },
+      {
+        "comment": "Guijia",
+        "id": 2011
+      },
+      {
+        "comment": "Guilang",
+        "id": 2012
+      },
+      {
+        "comment": "Ninjas",
+        "id": 2013
+      },
+      {
+        "comment": "Shaolin Warrior Monks",
+        "id": 2014
+      },
+      {
+        "comment": "Yisheng",
+        "id": 2015
+      },
+      {
+        "comment": "Mech-Engineer",
+        "id": 2016
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng W\u00e8ib\u012bng",
+        "id": 2017
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng H\u00f9s\u00f2ng",
+        "id": 2018
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng Son-bae",
+        "id": 2019
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng Cha\u012by\u00ec",
+        "id": 2020
+      },
+      {
+        "comment": "Sun Tze",
+        "id": 2021
+      },
+      {
+        "comment": "Celestial Guard",
+        "id": 2022
+      },
+      {
+        "comment": "Domaru Butai",
+        "id": 2023,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 4,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Shang Ji",
+        "id": 2024
+      },
+      {
+        "comment": "Y\u00e1oz\u0103o",
+        "id": 2025
+      },
+      {
+        "comment": "Y\u00e1op\u00fa Pangguling",
+        "id": 2026
+      },
+      {
+        "comment": "Kuang Shi",
+        "id": 2027
+      },
+      {
+        "comment": "Kempeitai",
+        "id": 2028,
+        "childs": [
+          {
+            "comment": "Chain of command is only available in JSA",
+            "id": 1,
+            "hide": true
+          },
+          {
+            "comment": "Chain of command is only available in JSA",
+            "id": 2,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Imperial Agent, Pheasant Rank",
+        "id": 2029
+      },
+      {
+        "comment": "Aragoto Senkenbutai",
+        "id": 2030,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 5,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Imperial Agents, Crane Rank",
+        "id": 2031
+      },
+      {
+        "comment": "Haramaki Zensenbutai",
+        "id": 2032
+      },
+      {
+        "comment": "Karakuri Special Project",
+        "id": 2033
+      },
+      {
+        "comment": "Su-Jian Immediate Action Unit",
+        "id": 2034
+      },
+      {
+        "comment": "O-Yoroi Kidobutai",
+        "id": 2035,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 1,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Oniwaban",
+        "id": 2036,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 1,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Tokusetsu Butai",
+        "id": 2037
+      },
+      {
+        "comment": "Y\u00e1oxi\u00e8 Rui Shi",
+        "id": 2038
+      },
+      {
+        "comment": "Y\u00e1oxi\u00e8 L\u00f9 Du\u0101n",
+        "id": 2039
+      },
+      {
+        "comment": "Oniwaban Shinobu Kitsune",
+        "id": 2040,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 1,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Domaru Takeshi \"Neko\" Oyama",
+        "id": 2041,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 1,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Sun Tze v.2 (Marksman Leader)",
+        "id": 2042
+      },
+      {
+        "comment": "Gu\u01d0 F\u0113ng Spec-Ops",
+        "id": 2043
+      },
+      {
+        "comment": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
+        "id": 2044
+      },
+      {
+        "comment": "Bao Troop",
+        "id": 2045
+      },
+      {
+        "comment": "Raiden Seibutai",
+        "id": 2046
+      },
+      {
+        "comment": "Asuka Kisaragi",
+        "id": 2047,
+        "childs": [
+          {
+            "comment": "Lt. is only available in JSA",
+            "id": 2,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Authorized Bounty Hunters",
+        "id": 9018,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Miranda Ashcroft",
+        "id": 9019,
+        "ava": "1"
+      },
+      {
+        "comment": "Armand 'Le Muet'",
+        "id": 9022,
+        "ava": "1"
+      }
+    ]
+  }
+]

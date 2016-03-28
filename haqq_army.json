@@ -1,0 +1,208 @@
+[
+  {
+    "army": "Haqqislam",
+    "name": "Haqqislam",
+    "units": [
+      {
+        "comment": "Daylami Infantry",
+        "id": 4001
+      },
+      {
+        "comment": "Ghulam",
+        "id": 4002
+      },
+      {
+        "comment": "Naffat\u00fbn",
+        "id": 4003
+      },
+      {
+        "comment": "Halqa",
+        "id": 4004
+      },
+      {
+        "comment": "Khawarijs",
+        "id": 4005
+      },
+      {
+        "comment": "Djanbazan",
+        "id": 4006
+      },
+      {
+        "comment": "Hassassin Ragiks",
+        "id": 4007
+      },
+      {
+        "comment": "Janissaries",
+        "id": 4008
+      },
+      {
+        "comment": "Ahl Fassed",
+        "id": 4009
+      },
+      {
+        "comment": "Maghariba Guard",
+        "id": 4010
+      },
+      {
+        "comment": "Hunzakuts",
+        "id": 4011
+      },
+      {
+        "comment": "Murabids Tuareg",
+        "id": 4012
+      },
+      {
+        "comment": "Hassassin Fiday",
+        "id": 4013
+      },
+      {
+        "comment": "Kum",
+        "id": 4014
+      },
+      {
+        "comment": "Muttawi'ah",
+        "id": 4015
+      },
+      {
+        "comment": "Najjarun Engineer",
+        "id": 4016
+      },
+      {
+        "comment": "Rafiq Remote",
+        "id": 4017
+      },
+      {
+        "comment": "Shihab Remote",
+        "id": 4018
+      },
+      {
+        "comment": "Shaytaniyah Remote",
+        "id": 4019
+      },
+      {
+        "comment": "Fanous Remote",
+        "id": 4020
+      },
+      {
+        "comment": "Tarik Mansuri",
+        "id": 4021
+      },
+      {
+        "comment": "Kasym Beg",
+        "id": 4022
+      },
+      {
+        "comment": "Kasym Beg (Lieutenant)",
+        "id": 4023
+      },
+      {
+        "comment": "Al Hawwa' Unit",
+        "id": 4024
+      },
+      {
+        "comment": "Asawira Regiment",
+        "id": 4025
+      },
+      {
+        "comment": "Azra'il",
+        "id": 4026
+      },
+      {
+        "comment": "Bashi Bazouk",
+        "id": 4027
+      },
+      {
+        "comment": "Hafza Unit",
+        "id": 4028
+      },
+      {
+        "comment": "Hassassin Farzans",
+        "id": 4029
+      },
+      {
+        "comment": "Hassassin Lasiqs",
+        "id": 4030
+      },
+      {
+        "comment": "Hassassin Muyibs",
+        "id": 4031
+      },
+      {
+        "comment": "Hussein Al-Djabel",
+        "id": 4032
+      },
+      {
+        "comment": "Kameel Remotes",
+        "id": 4033
+      },
+      {
+        "comment": "Nasmat Remotes",
+        "id": 4034
+      },
+      {
+        "comment": "Odalisques",
+        "id": 4035
+      },
+      {
+        "comment": "Saladin, O-12 Liaison Officer",
+        "id": 4036
+      },
+      {
+        "comment": "Husam Spec-Ops",
+        "id": 4037
+      },
+      {
+        "comment": "Hassassin Husam Yasbir",
+        "id": 4038
+      },
+      {
+        "comment": "KTS, Kaplan Tactical Services",
+        "id": 4039
+      },
+      {
+        "comment": "Hassassin Barid",
+        "id": 4040
+      },
+      {
+        "comment": "Sekban",
+        "id": 4041
+      },
+      {
+        "comment": "Hassassin Govads",
+        "id": 4042
+      },
+      {
+        "comment": "Zhayedan Intervention Troops",
+        "id": 4043
+      },
+      {
+        "comment": "Zamira Nazarova",
+        "id": 4044
+      },
+      {
+        "comment": "Zuleyka Nazarova",
+        "id": 4045
+      },
+      {
+        "comment": "Authorized Bounty Hunters",
+        "id": 9018,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Miranda Ashcroft",
+        "id": 9019,
+        "ava": "1"
+      },
+      {
+        "comment": "Armand 'Le Muet'",
+        "id": 9022,
+        "ava": "1"
+      }
+    ]
+  }
+]

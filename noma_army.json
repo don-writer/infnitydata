@@ -1,0 +1,208 @@
+[
+  {
+    "army": "Nomads",
+    "name": "Nomads",
+    "units": [
+      {
+        "comment": "Alguaciles",
+        "id": 5001
+      },
+      {
+        "comment": "Grenzers",
+        "id": 5002
+      },
+      {
+        "comment": "Securitate",
+        "id": 5003
+      },
+      {
+        "comment": "Hellcats",
+        "id": 5004
+      },
+      {
+        "comment": "Intruders",
+        "id": 5005
+      },
+      {
+        "comment": "Reverend Moiras",
+        "id": 5006
+      },
+      {
+        "comment": "Reverend Healers",
+        "id": 5007
+      },
+      {
+        "comment": "Mobile Brigada",
+        "id": 5008
+      },
+      {
+        "comment": "Lizard",
+        "id": 5009
+      },
+      {
+        "comment": "Szalamandra",
+        "id": 5010
+      },
+      {
+        "comment": "Zeros",
+        "id": 5011
+      },
+      {
+        "comment": "Spektrs",
+        "id": 5012
+      },
+      {
+        "comment": "Corregidor Bandits",
+        "id": 5013
+      },
+      {
+        "comment": "Die Morlock Gruppe",
+        "id": 5014
+      },
+      {
+        "comment": "Corregidor Jaguars",
+        "id": 5015
+      },
+      {
+        "comment": "Daktaris",
+        "id": 5016
+      },
+      {
+        "comment": "Clockmakers",
+        "id": 5017
+      },
+      {
+        "comment": "Interventor",
+        "id": 5018
+      },
+      {
+        "comment": "Stempler Zond",
+        "id": 5019
+      },
+      {
+        "comment": "Reaktion Zond",
+        "id": 5020
+      },
+      {
+        "comment": "Vertigo Zond",
+        "id": 5021
+      },
+      {
+        "comment": "Meteor Zond",
+        "id": 5022
+      },
+      {
+        "comment": "Transductor Zond",
+        "id": 5023
+      },
+      {
+        "comment": "Zoe",
+        "id": 5024
+      },
+      {
+        "comment": "Bran do Castro, Triple Zero",
+        "id": 5025
+      },
+      {
+        "comment": "Iguana Squadron",
+        "id": 5026
+      },
+      {
+        "comment": "Lunokhod Sputniks",
+        "id": 5027
+      },
+      {
+        "comment": "Moderators from Bakunin",
+        "id": 5028
+      },
+      {
+        "comment": "Moran, Maasai Hunter",
+        "id": 5029
+      },
+      {
+        "comment": "Prowlers",
+        "id": 5030
+      },
+      {
+        "comment": "Reverend Custodiers",
+        "id": 5031
+      },
+      {
+        "comment": "Salyut Zonds",
+        "id": 5032
+      },
+      {
+        "comment": "Sin-Eater Observants",
+        "id": 5033
+      },
+      {
+        "comment": "Tomcats",
+        "id": 5034
+      },
+      {
+        "comment": "Tsyklon Sputniks",
+        "id": 5035
+      },
+      {
+        "comment": "Zondbots",
+        "id": 5036
+      },
+      {
+        "comment": "Bakunin \u00dcberfallkommando : Chimera",
+        "id": 5037
+      },
+      {
+        "comment": "Bakunin \u00dcberfallkommando : Pupniks",
+        "id": 5038
+      },
+      {
+        "comment": "Reverend Superior CASSANDRA KUSANAGI",
+        "id": 5039
+      },
+      {
+        "comment": "Carlota Kowalsky, Tomcats Sergeant",
+        "id": 5040
+      },
+      {
+        "comment": "Riot Grrls",
+        "id": 5041
+      },
+      {
+        "comment": "Vortex Spec-Ops",
+        "id": 5042
+      },
+      {
+        "comment": "Alguacil Vortex Lupe Balboa",
+        "id": 5043
+      },
+      {
+        "comment": "Wildcats, Polyvalent Tactical Unit",
+        "id": 5044
+      },
+      {
+        "comment": "Gecko",
+        "id": 5045
+      },
+      {
+        "comment": "Authorized Bounty Hunters",
+        "id": 9018,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Miranda Ashcroft",
+        "id": 9019,
+        "ava": "1"
+      },
+      {
+        "comment": "Armand 'Le Muet'",
+        "id": 9022,
+        "ava": "1"
+      }
+    ]
+  }
+]

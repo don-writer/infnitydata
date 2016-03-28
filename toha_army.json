@@ -1,0 +1,101 @@
+[
+  {
+    "army": "Tohaa",
+    "name": "Tohaa",
+    "units": [
+      {
+        "comment": "Kamael Light Infantry",
+        "id": 8001
+      },
+      {
+        "comment": "Sakiel Regiment",
+        "id": 8002
+      },
+      {
+        "comment": "Ectros Regiment",
+        "id": 8003
+      },
+      {
+        "comment": "Clipsos Infiltrators",
+        "id": 8004
+      },
+      {
+        "comment": "Tohaa Diplomatic Delegates",
+        "id": 8005
+      },
+      {
+        "comment": "Gao-Rael",
+        "id": 8006
+      },
+      {
+        "comment": "Gao-Tarsos",
+        "id": 8007
+      },
+      {
+        "comment": "Gorgos",
+        "id": 8008
+      },
+      {
+        "comment": "Makaul",
+        "id": 8009
+      },
+      {
+        "comment": "Kumotail",
+        "id": 8010
+      },
+      {
+        "comment": "Chaksa Auxiliars",
+        "id": 8011
+      },
+      {
+        "comment": "Chaksa Servant",
+        "id": 8012
+      },
+      {
+        "comment": "Neema Saatar",
+        "id": 8013
+      },
+      {
+        "comment": "Hatail Spec-Ops",
+        "id": 8014
+      },
+      {
+        "comment": "Hatail Aelis Keesan",
+        "id": 8015
+      },
+      {
+        "comment": "Nikoul Ambush Unit",
+        "id": 8016
+      },
+      {
+        "comment": "Kotail Mobile Unit",
+        "id": 8017
+      },
+      {
+        "comment": "Rasail Boarding Team",
+        "id": 8018
+      },
+      {
+        "comment": "Kaeltar Specialists",
+        "id": 8019
+      },
+      {
+        "comment": "Igao",
+        "id": 8020
+      },
+      {
+        "comment": "Kosuil Assault Pioneers",
+        "id": 8021
+      },
+      {
+        "comment": "Kerail Preceptors",
+        "id": 8022
+      },
+      {
+        "comment": "Armand 'Le Muet'",
+        "id": 9022,
+        "ava": "1"
+      }
+    ]
+  }
+]

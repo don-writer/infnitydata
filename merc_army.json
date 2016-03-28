@@ -3,116 +3,116 @@
     "army": "Mercenary",
     "name": "Mercenary",
     "units": [
-  {
-    "comment": "Yuan Yuan",
-    "id": 9001,
-    "ava": "4"
-  },
-  {
-    "comment": "Bashi Bazouk",
-    "id": 9002,
-    "ava": "2"
-  },
-  {
-    "comment": "Druze Shock Teams",
-    "id": 9003,
-    "ava": "2"
-  },
-  {
-    "comment": "Highlander Caterans",
-    "id": 9004,
-    "ava": "1"
-  },
-  {
-    "comment": "McMurrough",
-    "id": 9005,
-    "ava": "1"
-  },
-  {
-    "comment": "Kempeitai",
-    "id": 9006,
-    "ava": "1"
-  },
-  {
-    "comment": "Saito T\u014dgan",
-    "id": 9007,
-    "ava": "1"
-  },
-  {
-    "comment": "Miyamoto Mushashi",
-    "id": 9008,
-    "ava": "1"
-  },
-  {
-    "comment": "Avicenna",
-    "id": 9009,
-    "ava": "1"
-  },
-  {
-    "comment": "Father Lucien Sforza",
-    "id": 9010,
-    "ava": "1"
-  },
-  {
-    "comment": "Se\u00f1or Massacre",
-    "id": 9011,
-    "ava": "1"
-  },
-  {
-    "comment": "Valerya Gromoz, Mercenary Hacker",
-    "id": 9012,
-    "ava": "1"
-  },
-  {
-    "comment": "KTS, Kaplan Tactical Services",
-    "id": 9013,
-    "ava": "3"
-  },
-  {
-    "comment": "Yojimbo",
-    "id": 9014,
-    "ava": "1"
-  },
-  {
-    "comment": "Scarface",
-    "id": 9015,
-    "ava": "1"
-  },
-  {
-    "comment": "Anaconda",
-    "id": 9016,
-    "ava": "1"
-  },
-  {
-    "comment": "Warcor",
-    "id": 9017,
-    "ava": "2"
-  },
-  {
-    "comment": "Authorized Bounty Hunters",
-    "id": 9018,
-    "ava": "3"
-  },
-  {
-    "comment": "Miranda Ashcroft",
-    "id": 9019,
-    "ava": "1"
-  },
-  {
-    "comment": "CSU, Corporate Security Unit",
-    "id": 9020,
-    "ava": "1"
-  },
-  {
-    "comment": "Wardrivers",
-    "id": 9021,
-    "ava": "1"
-  },
-  {
-    "comment": "Armand 'Le Muet'",
-    "id": 9022,
-    "ava": "1"
-  }
+      {
+        "comment": "Yuan Yuan",
+        "id": 9001,
+        "ava": "4"
+      },
+      {
+        "comment": "Bashi Bazouk",
+        "id": 9002,
+        "ava": "2"
+      },
+      {
+        "comment": "Druze Shock Teams",
+        "id": 9003,
+        "ava": "2"
+      },
+      {
+        "comment": "Highlander Caterans",
+        "id": 9004,
+        "ava": "1"
+      },
+      {
+        "comment": "McMurrough",
+        "id": 9005,
+        "ava": "1"
+      },
+      {
+        "comment": "Kempeitai",
+        "id": 9006,
+        "ava": "1"
+      },
+      {
+        "comment": "Saito T\u014dgan",
+        "id": 9007,
+        "ava": "1"
+      },
+      {
+        "comment": "Miyamoto Mushashi",
+        "id": 9008,
+        "ava": "1"
+      },
+      {
+        "comment": "Avicenna",
+        "id": 9009,
+        "ava": "1"
+      },
+      {
+        "comment": "Father Lucien Sforza",
+        "id": 9010,
+        "ava": "1"
+      },
+      {
+        "comment": "Se\u00f1or Massacre",
+        "id": 9011,
+        "ava": "1"
+      },
+      {
+        "comment": "Valerya Gromoz, Mercenary Hacker",
+        "id": 9012,
+        "ava": "1"
+      },
+      {
+        "comment": "KTS, Kaplan Tactical Services",
+        "id": 9013,
+        "ava": "3"
+      },
+      {
+        "comment": "Yojimbo",
+        "id": 9014,
+        "ava": "1"
+      },
+      {
+        "comment": "Scarface",
+        "id": 9015,
+        "ava": "1"
+      },
+      {
+        "comment": "Anaconda",
+        "id": 9016,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "2"
+      },
+      {
+        "comment": "Authorized Bounty Hunters",
+        "id": 9018,
+        "ava": "3"
+      },
+      {
+        "comment": "Miranda Ashcroft",
+        "id": 9019,
+        "ava": "1"
+      },
+      {
+        "comment": "CSU, Corporate Security Unit",
+        "id": 9020,
+        "ava": "1"
+      },
+      {
+        "comment": "Wardrivers",
+        "id": 9021,
+        "ava": "1"
+      },
+      {
+        "comment": "Armand 'Le Muet'",
+        "id": 9022,
+        "ava": "1"
+      }
     ]
   }
 ]

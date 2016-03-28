@@ -22,7 +22,6 @@ for i in range(len(data)):
 	unit = dict();
 	unit["comment"] = data[i]["isc"]
 	unit["id"] = data[i]["id"]
-	unit["ava"] = data[i]["ava"]
 	unitlist.append(unit)
 
 filename = "sectorial_data.json"

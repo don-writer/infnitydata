@@ -1,0 +1,208 @@
+[
+  {
+    "army": "Ariadna",
+    "name": "Ariadna",
+    "units": [
+      {
+        "comment": "Line Kazak",
+        "id": 3001
+      },
+      {
+        "comment": "Para-Commandos",
+        "id": 3002
+      },
+      {
+        "comment": "Kazak Spetsnazs",
+        "id": 3003
+      },
+      {
+        "comment": "USAriadna Grunts",
+        "id": 3004
+      },
+      {
+        "comment": "TankHunters",
+        "id": 3005
+      },
+      {
+        "comment": "Minutemen",
+        "id": 3006
+      },
+      {
+        "comment": "Moblots",
+        "id": 3007
+      },
+      {
+        "comment": "Veteran Kazaks",
+        "id": 3008
+      },
+      {
+        "comment": "Foxtrot",
+        "id": 3009
+      },
+      {
+        "comment": "Hardcases",
+        "id": 3010
+      },
+      {
+        "comment": "S.A.S.",
+        "id": 3011
+      },
+      {
+        "comment": "Scouts",
+        "id": 3012
+      },
+      {
+        "comment": "45th Highlanders",
+        "id": 3013
+      },
+      {
+        "comment": "Irmandinhos",
+        "id": 3014
+      },
+      {
+        "comment": "Assault Pack Controller",
+        "id": 3015
+      },
+      {
+        "comment": "Kazak Doktor",
+        "id": 3016
+      },
+      {
+        "comment": "112, Emergency Service",
+        "id": 3017
+      },
+      {
+        "comment": "2nd Irregular Cameronians Reg.",
+        "id": 3018
+      },
+      {
+        "comment": "3rd Highlander Greys",
+        "id": 3019
+      },
+      {
+        "comment": "9th Wulver Grenadiers",
+        "id": 3020
+      },
+      {
+        "comment": "Caledonian Mormaers",
+        "id": 3021
+      },
+      {
+        "comment": "Caledonian Volunteers",
+        "id": 3022
+      },
+      {
+        "comment": "Chasseurs",
+        "id": 3023
+      },
+      {
+        "comment": "Dozers, Field Engineers",
+        "id": 3024
+      },
+      {
+        "comment": "Highlander Caterans",
+        "id": 3025
+      },
+      {
+        "comment": "Loup-Garous",
+        "id": 3026
+      },
+      {
+        "comment": "M\u00e9tros",
+        "id": 3027
+      },
+      {
+        "comment": "Traktor Mul, Artillery and Support Regiment",
+        "id": 3028
+      },
+      {
+        "comment": "William Wallace",
+        "id": 3029
+      },
+      {
+        "comment": "Zouaves",
+        "id": 3030
+      },
+      {
+        "comment": "Van Zant",
+        "id": 3031
+      },
+      {
+        "comment": "Volunteer Intel Isobel McGregor",
+        "id": 3032
+      },
+      {
+        "comment": "Uxia McNeill",
+        "id": 3033
+      },
+      {
+        "comment": "Brigadier Jacques Bruant",
+        "id": 3034
+      },
+      {
+        "comment": "Scot (2nd Battalion)",
+        "id": 3035
+      },
+      {
+        "comment": "Scot (1st Battalion)",
+        "id": 3036
+      },
+      {
+        "comment": "Briscard",
+        "id": 3037
+      },
+      {
+        "comment": "Margot Berthier, Mirage-5",
+        "id": 3038
+      },
+      {
+        "comment": "Dog-Warriors",
+        "id": 3039
+      },
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3040
+      },
+      {
+        "comment": "Marauders, 5307th Ranger Unit",
+        "id": 3041
+      },
+      {
+        "comment": "Mavericks, 9th Motorized Recon Bat.",
+        "id": 3042
+      },
+      {
+        "comment": "Devil Dog Teams, 2nd Assault Bat.",
+        "id": 3043
+      },
+      {
+        "comment": "6th Airborne Rangers",
+        "id": 3044
+      },
+      {
+        "comment": "Desperadoes",
+        "id": 3045
+      },
+      {
+        "comment": "Wardrivers",
+        "id": 9021,
+        "ava": "1"
+      },
+      {
+        "comment": "Authorized Bounty Hunters",
+        "id": 9018,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Miranda Ashcroft",
+        "id": 9019,
+        "ava": "1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "army": "PanOceania",
+    "name": "Shock Army of Acontecimento",
+    "abbr": "Acontecimento",
+    "units": [
+      {
+        "comment": "Acontecimento Regulars",
+        "id": 1023,
+        "ava": "T",
+        "childs": [
+          {
+            "comment": "0 SWC Lieutenant is only available in Shock Army of Acontecimento",
+            "id": 9,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "comment": "Akalis",
+        "id": 1004,
+        "ava": "5"
+      },
+      {
+        "comment": "Bagh-Mari",
+        "id": 1003,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "Lieutenant Stephen Rao",
+        "id": 1049,
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "comment": "Guarda de Assalto",
+        "id": 1032,
+        "ava": "4"
+      },
+      {
+        "comment": "Knights of Montesa",
+        "id": 1033,
+        "ava": "2"
+      },
+      {
+        "comment": "Dragoes",
+        "id": 1012,
+        "ava": "1"
+      },
+      {
+        "comment": "Tikbalangs, Armoured Chasseurs of Acontecimento",
+        "id": 1038,
+        "ava": "2"
+      },
+      {
+        "comment": "Nagas",
+        "id": 7013,
+        "army": "Aleph",
+        "ava": "2"
+      },
+      {
+        "comment": "Kirpal Singh, Akalis Sergeant",
+        "id": 1042,
+        "ava": "1"
+      },
+      {
+        "comment": "Toni Macayana, Tikbalangs Lieutenant",
+        "id": 1043,
+        "ava": "1"
+      },
+      {
+        "comment": "Pathfinder Dronbot",
+        "id": 1018,
+        "ava": "1"
+      },
+      {
+        "comment": "Sierra Dronbot",
+        "id": 1019,
+        "ava": "1"
+      },
+      {
+        "comment": "Clipper Dronbot",
+        "id": 1020,
+        "ava": "1"
+      },
+      {
+        "comment": "Fugazi Dronbot",
+        "id": 1021,
+        "ava": "2"
+      },
+      {
+        "comment": "Armbots: Bulleteers",
+        "id": 1040,
+        "ava": "1"
+      },
+      {
+        "comment": "Armbots: Peacemakers",
+        "id": 1041,
+        "ava": "2"
+      },
+      {
+        "comment": "Palbots",
+        "id": 1028,
+        "ava": "4"
+      },
+      {
+        "comment": "Mulebots",
+        "id": 1027,
+        "ava": "2"
+      },
+      {
+        "comment": "Trauma-Doc",
+        "id": 1016,
+        "ava": "1"
+      },
+      {
+        "comment": "Machinist",
+        "id": 1017,
+        "ava": "2"
+      },
+      {
+        "comment": "Indigo Spec-Ops",
+        "id": 1045,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "army": "Mercenary",
+        "ava": "1"
+      }
+    ]
+  }
+]

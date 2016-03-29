@@ -1592,5 +1592,107 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9023,
+    "army": "Mercenary",
+    "isc": "Krakot Renegades, Morat Fugitives",
+    "name": "Krakot",
+    "ava": "2",
+    "spec": [
+      "Berserk",
+      "Forward Deployment L1",
+      "Kinematika L1",
+      "MetaChemistry L2",
+      "Morat"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Krakot",
+        "type": "LI",
+        "imp": "I",
+        "irr": "",
+        "cube": "",
+        "mov": "4-4",
+        "cc": "21",
+        "bs": "11",
+        "ph": "13",
+        "wip": "12",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "code": "Dual SMG",
+        "codename": "",
+        "cost": "17",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun (2)",
+          "Chest Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "code": "Boarding Shotgun",
+        "codename": "",
+        "cost": "18",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Chest Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "code": "Dual Chain Rifle",
+        "codename": "",
+        "cost": "14",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Chain Rifle (2)",
+          "Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "code": "SMG",
+        "codename": "",
+        "cost": "15",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chest Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      }
+    ]
   }
 ]

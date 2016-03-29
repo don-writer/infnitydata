@@ -2602,5 +2602,43 @@
     "cc": "No",
     "template": "Impact Template (Circular)",
     "note": "Speculative Fire"
+  },
+  {
+    "name": "Chest Mines",
+    "alt_profile": "Chest Mines (CC Mode)",
+    "burst": "1",
+    "ammo": "Shock",
+    "damage": "13",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "Direct Template (Small Teardrop)",
+    "note": "Intuitive Attack"
+    "uses": "2"
+  }
+  {
+    "name": "Chest Mines (CC Mode)",
+    "burst": "1",
+    "ammo": "Shock",
+    "damage": "13",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "attr": "",
+    "cc": "Yes",
+    "template": "",
+    "note": "CC: +3"
+    "uses": "2"
   }
 ]

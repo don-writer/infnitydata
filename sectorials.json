@@ -1446,6 +1446,11 @@
         "ava": "1",
         "isc": "Treitak Anyat",
         "linkable": true
+      },
+      {
+        "ava": "3",
+        "army": "Mercenary",
+        "isc": "Krakot Renegades, Morat Fugitives"
       }
     ]
   },

@@ -1,0 +1,154 @@
+[
+  {
+    "army": "Yu Jing",
+    "name": "Japanese Sectorial Army",
+    "units": [
+      {
+        "comment": "Keisotsu",
+        "id": 2001,
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "comment": "Kempeitai",
+        "id": 2028,
+        "ava": "2"
+      },
+      {
+        "comment": "Aragoto Senkenbutai",
+        "id": 2030,
+        "ava": "4"
+      },
+      {
+        "comment": "Karakuri Special Project",
+        "id": 2033,
+        "ava": "3",
+        "linkable": true
+      },
+      {
+        "comment": "Domaru Butai",
+        "id": 2023,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Haramaki Zensenbutai",
+        "id": 2032,
+        "ava": "6",
+        "linkable": true
+      },
+      {
+        "comment": "Raiden Seibutai",
+        "id": 2046,
+        "ava": "4"
+      },
+      {
+        "comment": "O-Yoroi Kidobutai",
+        "id": 2035,
+        "ava": "2"
+      },
+      {
+        "comment": "Ninjas",
+        "id": 2013,
+        "ava": "4"
+      },
+      {
+        "comment": "Oniwaban",
+        "id": 2036,
+        "ava": "3"
+      },
+      {
+        "comment": "Tokusetsu Butai",
+        "id": 2037,
+        "ava": "2"
+      },
+      {
+        "comment": "Oniwaban Shinobu Kitsune",
+        "id": 2040,
+        "ava": "1"
+      },
+      {
+        "comment": "Asuka Kisaragi",
+        "id": 2047,
+        "ava": "1"
+      },
+      {
+        "comment": "Domaru Takeshi \"Neko\" Oyama",
+        "id": 2041,
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "comment": "Y\u00e1oxi\u00e8 Rui Shi",
+        "id": 2038,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1oxi\u00e8 L\u00f9 Du\u0101n",
+        "id": 2039,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng W\u00e8ib\u012bng",
+        "id": 2017,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng H\u00f9s\u00f2ng",
+        "id": 2018,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng Son-bae",
+        "id": 2019,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng Cha\u012by\u00ec",
+        "id": 2020,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1oz\u0103o",
+        "id": 2025,
+        "ava": "2"
+      },
+      {
+        "comment": "Y\u00e1op\u00fa Pangguling",
+        "id": 2026,
+        "ava": "2"
+      },
+      {
+        "comment": "Gu\u01d0 F\u0113ng Spec-Ops",
+        "id": 2043,
+        "ava": "1"
+      },
+      {
+        "comment": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
+        "id": 2044,
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Yojimbo",
+        "id": 9014,
+        "ava": "1"
+      },
+      {
+        "comment": "Saito T\u014dgan",
+        "id": 9007,
+        "ava": "1"
+      },
+      {
+        "comment": "Miyamoto Mushashi",
+        "id": 9008,
+        "ava": "1"
+      }
+    ]
+  }
+]

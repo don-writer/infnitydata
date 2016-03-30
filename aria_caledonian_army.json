@@ -1,0 +1,118 @@
+[
+  {
+    "army": "Ariadna",
+    "name": "Caledonian Highlander Army",
+    "abbr": "Caledonian Army",
+    "units": [
+      {
+        "comment": "Caledonian Volunteers",
+        "id": 3022,
+        "ava": "T",
+        "linkable": true,
+        "childs": [
+          {
+            "id": 1,
+            "swc": 0
+        ]
+      },
+      {
+        "comment": "Highlander Caterans",
+        "id": 3025,
+        "ava": "6"
+      },
+      {
+        "comment": "3rd Highlander Greys",
+        "id": 3019,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Scot (2nd Battalion)",
+        "id": 3035,
+        "ava": "5"
+      },
+      {
+        "comment": "Scot (1st Battalion)",
+        "id": 3036,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Caledonian Mormaers",
+        "id": 3021,
+        "ava": "5"
+      },
+      {
+        "comment": "S.A.S.",
+        "id": 3011,
+        "ava": "4"
+      },
+      {
+        "comment": "9th Wulver Grenadiers",
+        "id": 3020,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "45th Highlanders",
+        "id": 3013,
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "comment": "2nd Irregular Cameronians Reg.",
+        "id": 3018,
+        "ava": "3"
+      },
+      {
+        "comment": "Traktor Mul, Artillery and Support Regiment",
+        "id": 3028,
+        "ava": "2"
+      },
+      {
+        "comment": "112, Emergency Service",
+        "id": 3017,
+        "ava": "3"
+      },
+      {
+        "comment": "Dozers, Field Engineers",
+        "id": 3024,
+        "ava": "2"
+      },
+      {
+        "comment": "Uxia McNeill",
+        "id": 3033,
+        "ava": "1"
+      },
+      {
+        "comment": "William Wallace",
+        "id": 3029,
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3040,
+        "ava": "1"
+      },
+      {
+        "comment": "Volunteer Intel Isobel McGregor",
+        "id": 3032,
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "comment": "McMurrough",
+        "id": 9005,
+        "army": "Mercenary",
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "army": "Mercenary",
+        "ava": "1"
+      }
+    ]
+  }
+]

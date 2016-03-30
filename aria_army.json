@@ -117,7 +117,14 @@
       },
       {
         "comment": "William Wallace",
-        "id": 3029
+        "id": 3029,
+        "childs": [
+          {
+            "id": 1,
+            "hide": true
+          }
+        ]
+        
       },
       {
         "comment": "Zouaves",
@@ -210,7 +217,7 @@
       },
       {
         "comment": "Krakot Renegades, Morat Fugitives",
-        "id": 9023,
+        "id": 9023
       }
     ]
   }

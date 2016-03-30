@@ -1,0 +1,156 @@
+[
+  {
+    "army": "Yu Jing",
+    "name": "Imperial Service",
+    "units": [
+      {
+        "comment": "Celestial Guard",
+        "id": 2022,
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "comment": "Zh\u00e0nying Imperial Agents",
+        "id": 2003,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Imperial Agent, Pheasant Rank",
+        "id": 2029,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Imperial Agents, Crane Rank",
+        "id": 2031,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Wu Ming",
+        "id": 2007,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Hsien",
+        "id": 2010,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "Bao Troop",
+        "id": 2045,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "Su-Jian Immediate Action Unit",
+        "id": 2034,
+        "ava": "3"
+      },
+      {
+        "comment": "Ninjas",
+        "id": 2013,
+        "ava": "1"
+      },
+      {
+        "comment": "Kuang Shi",
+        "id": 2027,
+        "ava": "8",
+        "linkable": true
+      },
+      {
+        "comment": "Dakini Tacbots",
+        "id": 7004,
+        "ava": "1"
+      },
+      {
+        "comment": "Garuda Tacbots",
+        "id": 7008,
+        "ava": "1"
+      },
+      {
+        "comment": "Sophotects",
+        "id": 7018,
+        "ava": "1"
+      },
+      {
+        "comment": "Sun Tze",
+        "id": 2021,
+        "ava": "1"
+      },
+      {
+        "comment": "Sun Tze v.2 (Marksman Leader)",
+        "id": 2042,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1oxi\u00e8 Rui Shi",
+        "id": 2038,
+        "ava": "2"
+      },
+      {
+        "comment": "Y\u00e1oxi\u00e8 L\u00f9 Du\u0101n",
+        "id": 2039,
+        "ava": "2"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng W\u00e8ib\u012bng",
+        "id": 2017,
+        "ava": "2"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng H\u00f9s\u00f2ng",
+        "id": 2018,
+        "ava": "3"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng Son-bae",
+        "id": 2019,
+        "ava": "1"
+      },
+      {
+        "comment": "Y\u00e1ok\u00f2ng Cha\u012by\u00ec",
+        "id": 2020,
+        "ava": "1"
+      },
+      {
+        "comment": "Yudbots",
+        "id": 7019,
+        "ava": "2"
+      },
+      {
+        "comment": "Y\u00e1op\u00fa Pangguling",
+        "id": 2026,
+        "ava": "2"
+      },
+      {
+        "comment": "Gu\u01d0 F\u0113ng Spec-Ops",
+        "id": 2043,
+        "ava": "1"
+      },
+      {
+        "comment": "Authorized Bounty Hunters",
+        "id": 9018,
+        "ava": "3"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Miranda Ashcroft",
+        "id": 9019,
+        "ava": "1"
+      },
+      {
+        "comment": "Father Lucien Sforza",
+        "id": 9010,
+        "ava": "1"
+      }
+    ]
+  }
+]

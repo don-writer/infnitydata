@@ -2619,8 +2619,8 @@
     "max_mod": "--",
     "cc": "No",
     "template": "Direct Template (Small Teardrop)",
-    "note": "Intuitive Attack",
-    "uses": "2"
+    "uses": "2",
+    "note": "Intuitive Attack"
   },
   {
     "name": "Chest Mines (CC Mode)",
@@ -2638,7 +2638,7 @@
     "attr": "",
     "cc": "Yes",
     "template": "No",
-    "note": "CC: +3",
-    "uses": "2"
+    "uses": "2",
+    "note": "CC: +3"
   }
 ]

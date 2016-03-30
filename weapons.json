@@ -2637,7 +2637,7 @@
     "max_mod": "--",
     "attr": "",
     "cc": "Yes",
-    "template": "",
+    "template": "No",
     "note": "CC: +3",
     "uses": "2"
   }

@@ -1,0 +1,167 @@
+[
+  {
+    "army": "Nomads",
+    "name": "Bakunin Jurisdictional Command",
+    "abbr": "Bakunin",
+    "units": [
+      {
+        "id": 5028,
+        "isc": "Moderators from Bakunin",
+        "ava": "T",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0.5 in Bakunin",
+            "id": 2,
+            "swc": "0.5"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 5006,
+        "isc": "Reverend Moiras",
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "id": 5031,
+        "isc": "Reverend Custodiers",
+        "ava": "3",
+        "linkable": true
+      },
+      {
+        "id": 5007,
+        "isc": "Reverend Healers",
+        "ava": "3",
+        "linkable": true
+      },
+      {
+        "id": 5033,
+        "isc": "Sin-Eater Observants",
+        "ava": "3"
+      },
+      {
+        "id": 5030,
+        "isc": "Prowlers",
+        "ava": "3"
+      },
+      {
+        "id": 5009,
+        "isc": "Lizard",
+        "ava": "1"
+      },
+      {
+        "id": 5011,
+        "isc": "Zeros",
+        "ava": "3"
+      },
+      {
+        "id": 5014,
+        "isc": "Die Morlock Gruppe",
+        "ava": "T"
+      },
+      {
+        "id": 5037,
+        "isc": "Bakunin \u00dcberfallkommando : Chimera",
+        "ava": "3"
+      },
+      {
+        "id": 5038,
+        "isc": "Bakunin \u00dcberfallkommando : Pupniks",
+        "ava": "9"
+      },
+      {
+        "id": 5025,
+        "isc": "Bran do Castro, Triple Zero",
+        "ava": "1"
+      },
+      {
+        "id": 5039,
+        "isc": "Reverend Superior CASSANDRA KUSANAGI",
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "id": 5024,
+        "isc": "Zoe",
+        "ava": "1"
+      },
+      {
+        "id": 5027,
+        "isc": "Tsyklon Sputniks",
+        "ava": "2"
+      },
+      {
+        "id": 5035,
+        "isc": "Lunokhod Sputniks",
+        "ava": "2"
+      },
+      {
+        "id": 5019,
+        "isc": "Stempler Zond",
+        "ava": "2"
+      },
+      {
+        "id": 5020,
+        "isc": "Reaktion Zond",
+        "ava": "1"
+      },
+      {
+        "id": 5021,
+        "isc": "Vertigo Zond",
+        "ava": "1"
+      },
+      {
+        "id": 5022,
+        "isc": "Meteor Zond",
+        "ava": "1"
+      },
+      {
+        "id": 5023,
+        "isc": "Transductor Zond",
+        "ava": "2"
+      },
+      {
+        "id": 5036,
+        "isc": "Zondbots",
+        "ava": "4"
+      },
+      {
+        "id": 5032,
+        "isc": "Salyut Zonds",
+        "ava": "2"
+      },
+      {
+        "id": 5017,
+        "isc": "Clockmakers",
+        "ava": "2"
+      },
+      {
+        "id": 5016,
+        "isc": "Daktaris",
+        "ava": "1"
+      },
+      {
+        "id": 5041,
+        "isc": "Riot Grrls",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 5042,
+        "isc": "Vortex Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 9017,
+        "isc": "Warcor",
+        "ava": "1"
+      },
+      {
+        "id": 9009,
+        "isc": "Avicenna",
+        "ava": "1"
+      }
+    ]
+  }
+]

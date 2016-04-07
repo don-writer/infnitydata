@@ -1,0 +1,88 @@
+[
+  {
+    "army": "Ariadna",
+    "name": "USAriadna Ranger Force",
+    "abbr": "USAriadna",
+    "units": [
+      {
+        "id": 3017,
+        "isc": "112, Emergency Service",
+        "ava": "2"
+      },
+      {
+        "id": 3024,
+        "isc": "Dozers, Field Engineers",
+        "ava": "1"
+      },
+      {
+        "id": 3040,
+        "isc": "Intel Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 3031,
+        "isc": "Van Zant",
+        "ava": "1"
+      },
+      {
+        "id": 3004,
+        "isc": "USAriadna Grunts",
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "id": 3041,
+        "isc": "Marauders, 5307th Ranger Unit",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 3042,
+        "isc": "Mavericks, 9th Motorized Recon Bat.",
+        "ava": "5"
+      },
+      {
+        "id": 3006,
+        "isc": "Minutemen",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 3028,
+        "isc": "Traktor Mul, Artillery and Support Regiment",
+        "ava": "2"
+      },
+      {
+        "id": 3009,
+        "isc": "Foxtrot",
+        "ava": "4"
+      },
+      {
+        "id": 3010,
+        "isc": "Hardcases",
+        "ava": "3"
+      },
+      {
+        "id": 3043,
+        "isc": "Devil Dog Teams, 2nd Assault Bat.",
+        "ava": "3"
+      },
+      {
+        "id": 3044,
+        "isc": "6th Airborne Rangers",
+        "ava": "4"
+      },
+      {
+        "id": 3045,
+        "isc": "Desperadoes",
+        "ava": "6"
+      },
+      {
+        "id": 9017,
+        "army": "Mercenary",
+        "isc": "Warcor",
+        "ava": "1"
+      }
+    ]
+  }
+]

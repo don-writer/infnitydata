@@ -1,0 +1,173 @@
+[
+  {
+    "army": "Aleph",
+    "name": "Steel Phalanx",
+    "units": [
+      {
+        "id": 7024,
+        "isc": "Ekdromoi",
+        "ava": "4"
+      },
+      {
+        "id": 7038,
+        "isc": "Dactyls",
+        "ava": "4"
+      },
+      {
+        "id": 7032,
+        "isc": "Diomedes",
+        "ava": "1"
+      },
+      {
+        "id": 7037,
+        "isc": "Thamyris",
+        "ava": "1"
+      },
+      {
+        "id": 7027,
+        "isc": "Thorakitai",
+        "ava": "6"
+      },
+      {
+        "id": 7028,
+        "isc": "Agema Marksman",
+        "ava": "2"
+      },
+      {
+        "id": 7030,
+        "isc": "Nesaie Alke",
+        "ava": "1"
+      },
+      {
+        "id": 7015,
+        "isc": "Patroclus",
+        "ava": "1"
+      },
+      {
+        "id": 7031,
+        "isc": "Atalanta",
+        "ava": "1"
+      },
+      {
+        "id": 7001,
+        "isc": "Achilles",
+        "ava": "1"
+      },
+      {
+        "id": 7002,
+        "isc": "Achilles v2 (Hoplite Armor)",
+        "ava": "1"
+      },
+      {
+        "id": 7035,
+        "isc": "Ajax",
+        "ava": "1"
+      },
+      {
+        "id": 7012,
+        "isc": "Myrmidons",
+        "ava": "T"
+      },
+      {
+        "id": 7011,
+        "isc": "Myrmidon Officer",
+        "ava": "3"
+      },
+      {
+        "id": 7033,
+        "isc": "Machaon",
+        "ava": "1"
+      },
+      {
+        "id": 7029,
+        "isc": "Eudoros",
+        "ava": "1"
+      },
+      {
+        "id": 7034,
+        "isc": "Phoenix",
+        "ava": "1"
+      },
+      {
+        "id": 7036,
+        "isc": "Penthesilea",
+        "ava": "1"
+      },
+      {
+        "id": 7005,
+        "isc": "Daleth Rebots",
+        "ava": "2"
+      },
+      {
+        "id": 7020,
+        "isc": "Zayin Rebots",
+        "ava": "1"
+      },
+      {
+        "id": 7017,
+        "isc": "Samekh Rebots",
+        "ava": "1"
+      },
+      {
+        "id": 7009,
+        "isc": "Lamedh Rebots",
+        "ava": "2"
+      },
+      {
+        "id": 7019,
+        "isc": "Yudbots",
+        "ava": "4"
+      },
+      {
+        "id": 7014,
+        "isc": "Netrods",
+        "ava": "2"
+      },
+      {
+        "id": 7016,
+        "isc": "Probots",
+        "ava": "2"
+      },
+      {
+        "id": 7025,
+        "isc": "Chandra Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 7026,
+        "isc": "Chandra Sergeant Thrasymedes",
+        "ava": "1"
+      },
+      {
+        "id": 7039,
+        "isc": "Teucer",
+        "ava": "1"
+      },
+      {
+        "id": 7040,
+        "isc": "Drakios",
+        "ava": "1"
+      },
+      {
+        "id": 7041,
+        "isc": "Scylla",
+        "ava": "1"
+      },
+      {
+        "id": 7042,
+        "isc": "Acmon, Sergeant of Dactyls",
+        "ava": "4"
+      },
+      {
+        "id": 7043,
+        "isc": "Hector, Homeridae's Champion",
+        "ava": "1"
+      },
+      {
+        "id": 9017,
+        "isc": "Warcor",
+        "ava": "1"
+      }
+    ]
+  }
+]

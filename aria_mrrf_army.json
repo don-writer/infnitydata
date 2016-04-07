@@ -1,0 +1,143 @@
+[
+  {
+    "army": "Ariadna",
+    "name": "Merovingian Rapid Response Force",
+    "abbr": "M.R.R.F.",
+    "units": [
+      {
+        "id": 3027,
+        "isc": "M\u00e9tros",
+        "ava": "T",
+        "childs": [
+          {
+            "comment": "LT is 0 SWC in MRRF",
+            "id": 1,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 3002,
+        "isc": "Para-Commandos",
+        "ava": "6"
+      },
+      {
+        "id": 3026,
+        "isc": "Loup-Garous",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 3030,
+        "isc": "Zouaves",
+        "ava": "5"
+      },
+      {
+        "id": 3007,
+        "isc": "Moblots",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 3023,
+        "isc": "Chasseurs",
+        "ava": "4"
+      },
+      {
+        "id": 3028,
+        "isc": "Traktor Mul, Artillery and Support Regiment",
+        "ava": "2"
+      },
+      {
+        "id": 3017,
+        "isc": "112, Emergency Service",
+        "ava": "3"
+      },
+      {
+        "id": 3024,
+        "isc": "Dozers, Field Engineers",
+        "ava": "2"
+      },
+      {
+        "id": 5001,
+        "isc": "Alguaciles",
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "only the hacker",
+            "id": 1,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 2,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 7,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 8,
+            "hide": true
+          },
+          {
+            "comment": "only the hacker",
+            "id": 9,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "id": 3034,
+        "isc": "Brigadier Jacques Bruant",
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "id": 3037,
+        "isc": "Briscard",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 3038,
+        "isc": "Margot Berthier, Mirage-5",
+        "ava": "1"
+      },
+      {
+        "id": 3040,
+        "isc": "Intel Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 9016,
+        "isc": "Anaconda",
+        "ava": "1"
+      },
+      {
+        "id": 9017,
+        "isc": "Warcor",
+        "ava": "1"
+      }
+    ]
+  }
+]

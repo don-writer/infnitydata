@@ -1,0 +1,142 @@
+[
+  {
+    "army": "Haqqislam",
+    "name": "Qapu Khalqi",
+    "units": [
+      {
+        "id": 4002,
+        "isc": "Ghulam",
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "id": 4035,
+        "isc": "Odalisques",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 4039,
+        "isc": "KTS, Kaplan Tactical Services",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 4041,
+        "isc": "Sekban",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 4027,
+        "isc": "Bashi Bazouk",
+        "ava": "4"
+      },
+      {
+        "id": 4028,
+        "isc": "Hafza Unit",
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "id": 4006,
+        "isc": "Djanbazan",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 4026,
+        "isc": "Azra'il",
+        "ava": "3",
+        "linkable": true
+      },
+      {
+        "id": 4008,
+        "isc": "Janissaries",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 4024,
+        "isc": "Al Hawwa' Unit",
+        "ava": "3"
+      },
+      {
+        "id": 4017,
+        "isc": "Rafiq Remote",
+        "ava": "1"
+      },
+      {
+        "id": 4018,
+        "isc": "Shihab Remote",
+        "ava": "2"
+      },
+      {
+        "id": 4019,
+        "isc": "Shaytaniyah Remote",
+        "ava": "1"
+      },
+      {
+        "id": 4020,
+        "isc": "Fanous Remote",
+        "ava": "3"
+      },
+      {
+        "id": 4034,
+        "isc": "Nasmat Remotes",
+        "ava": "2"
+      },
+      {
+        "id": 4033,
+        "isc": "Kameel Remotes",
+        "ava": "2"
+      },
+      {
+        "id": 4016,
+        "isc": "Najjarun Engineer",
+        "ava": "1"
+      },
+      {
+        "id": 4037,
+        "isc": "Husam Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 5001,
+        "isc": "Alguaciles",
+        "ava": "4"
+      },
+      {
+        "id": 5008,
+        "isc": "Mobile Brigada",
+        "ava": "1"
+      },
+      {
+        "id": 5026,
+        "isc": "Iguana Squadron",
+        "ava": "1"
+      },
+      {
+        "id": 9017,
+        "isc": "Warcor",
+        "ava": "1"
+      },
+      {
+        "id": 9001,
+        "isc": "Yuan Yuan",
+        "ava": "3"
+      },
+      {
+        "id": 9003,
+        "isc": "Druze Shock Teams",
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "id": 9015,
+        "isc": "Scarface",
+        "ava": "1"
+      }
+    ]
+  }
+]

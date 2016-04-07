@@ -1,0 +1,181 @@
+[
+  {
+    "army": "Combined Army",
+    "name": "Morat Aggression Force",
+    "units": [
+      {
+        "id": 6001,
+        "isc": "Morat Vanguard Infantry",
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "id": 6022,
+        "isc": "Kurgat Reg. of Assault Engineers",
+        "ava": "3"
+      },
+      {
+        "id": 6006,
+        "isc": "Rodok",
+        "ava": "5",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Morat Aggression Force ",
+            "id": 7,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 6036,
+        "isc": "Yaogat Strike Infantry",
+        "ava": "5",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Morat Aggression Force ",
+            "id": 6,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 6023,
+        "isc": "Rasyat Diplomatic Division",
+        "ava": "3"
+      },
+      {
+        "id": 6048,
+        "isc": "Suryats",
+        "ava": "5",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Morat Aggression Force ",
+            "id": 2,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 6034,
+        "isc": "Sogarat Tempest Regiment",
+        "ava": "3",
+        "linkable": true
+      },
+      {
+        "id": 6008,
+        "isc": "Raicho Armoured Brigade",
+        "ava": "2"
+      },
+      {
+        "id": 6049,
+        "isc": "Oznat",
+        "ava": "2",
+        "linkable": true
+      },
+      {
+        "id": 6037,
+        "isc": "Zerat Special Missions Regiment",
+        "ava": "3"
+      },
+      {
+        "id": 6013,
+        "isc": "D\u0101turazi Witch-Soldiers",
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "id": 6014,
+        "isc": "The Hungries: \"Gakis\"",
+        "ava": "4"
+      },
+      {
+        "id": 6015,
+        "isc": "The Hungries: \"Pretas\"",
+        "ava": "4"
+      },
+      {
+        "id": 6016,
+        "isc": "Med-Tech Obsidon Medchanoid",
+        "ava": "1"
+      },
+      {
+        "id": 6047,
+        "isc": "Raktorak",
+        "ava": "2",
+        "linkable": true
+      },
+      {
+        "id": 6050,
+        "isc": "Kornak Gazarot",
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Morat Aggression Force ",
+            "id": 2,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 6042,
+        "isc": "Ikadron Batroids",
+        "ava": "2"
+      },
+      {
+        "id": 6017,
+        "isc": "M-Drone",
+        "ava": "1"
+      },
+      {
+        "id": 6018,
+        "isc": "Q-Drone",
+        "ava": "1"
+      },
+      {
+        "id": 6019,
+        "isc": "T-Drone",
+        "ava": "1"
+      },
+      {
+        "id": 6020,
+        "isc": "R-Drone",
+        "ava": "1"
+      },
+      {
+        "id": 6051,
+        "isc": "E-Drone",
+        "ava": "2"
+      },
+      {
+        "id": 6033,
+        "isc": "Slave Drones",
+        "ava": "2"
+      },
+      {
+        "id": 6039,
+        "isc": "Treitak Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 6041,
+        "isc": "Corax Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 6040,
+        "isc": "Treitak Anyat",
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "id": 9023,
+        "isc": "Krakot Renegades, Morat Fugitives",
+        "ava": "3"
+      }
+    ]
+  }
+]

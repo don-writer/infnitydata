@@ -1,0 +1,154 @@
+[
+  {
+    "army": "Nomads",
+    "name": "Corregidor Jurisdictional Command",
+    "abbr": "Corregidor",
+    "units": [
+      {
+        "id": 5001,
+        "isc": "Alguaciles",
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "id": 5034,
+        "isc": "Tomcats",
+        "ava": "4"
+      },
+      {
+        "id": 5004,
+        "isc": "Hellcats",
+        "ava": "5"
+      },
+      {
+        "id": 5044,
+        "isc": "Wildcats, Polyvalent Tactical Unit",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 5005,
+        "isc": "Intruders",
+        "ava": "5"
+      },
+      {
+        "id": 5008,
+        "isc": "Mobile Brigada",
+        "ava": "6",
+        "linkable": true
+      },
+      {
+        "id": 5026,
+        "isc": "Iguana Squadron",
+        "ava": "1"
+      },
+      {
+        "id": 5045,
+        "isc": "Gecko",
+        "ava": "4"
+      },
+      {
+        "id": 5013,
+        "isc": "Corregidor Bandits",
+        "ava": "3"
+      },
+      {
+        "id": 5029,
+        "isc": "Moran, Maasai Hunter",
+        "ava": "2"
+      },
+      {
+        "id": 5015,
+        "isc": "Corregidor Jaguars",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 5040,
+        "isc": "Carlota Kowalsky, Tomcats Sergeant",
+        "ava": "1"
+      },
+      {
+        "id": 5035,
+        "isc": "Tsyklon Sputniks",
+        "ava": "2"
+      },
+      {
+        "id": 5027,
+        "isc": "Lunokhod Sputniks",
+        "ava": "2"
+      },
+      {
+        "id": 5019,
+        "isc": "Stempler Zond",
+        "ava": "1"
+      },
+      {
+        "id": 5020,
+        "isc": "Reaktion Zond",
+        "ava": "1"
+      },
+      {
+        "id": 5021,
+        "isc": "Vertigo Zond",
+        "ava": "1"
+      },
+      {
+        "id": 5023,
+        "isc": "Transductor Zond",
+        "ava": "2"
+      },
+      {
+        "id": 5036,
+        "isc": "Zondbots",
+        "ava": "2"
+      },
+      {
+        "id": 5032,
+        "isc": "Salyut Zonds",
+        "ava": "2"
+      },
+      {
+        "id": 5017,
+        "isc": "Clockmakers",
+        "ava": "1"
+      },
+      {
+        "id": 5016,
+        "isc": "Daktaris",
+        "ava": "1"
+      },
+      {
+        "id": 5042,
+        "isc": "Vortex Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 5043,
+        "isc": "Alguacil Vortex Lupe Balboa",
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "id": 9017,
+        "isc": "Warcor",
+        "ava": "1"
+      },
+      {
+        "id": 9011,
+        "isc": "Se\u00f1or Massacre",
+        "ava": "1"
+      },
+      {
+        "id": 9005,
+        "isc": "McMurrough",
+        "ava": "1"
+      },
+      {
+        "id": 9012,
+        "isc": "Valerya Gromoz, Mercenary Hacker",
+        "ava": "1"
+      }
+    ]
+  }
+]

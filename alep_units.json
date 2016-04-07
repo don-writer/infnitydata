@@ -656,12 +656,14 @@
       },
       {
         "id": 2,
-        "code": "Devabot",
+        "code": "Lieutenant+Devabot",
         "codename": "",
         "cost": "27",
         "swc": "0",
         "profile": "1",
-        "spec": [],
+        "spec": [
+          "Lieutenant"
+          ],
         "bsw": [
           "Nanopulser",
           "Combi Rifle"
@@ -728,13 +730,12 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant+Combi",
+        "code": "Devabot",
         "codename": "",
-        "cost": "23",
+        "cost": "27",
         "swc": "0",
-        "spec": [
-          "Lieutenant"
-          ],
+        "profile": "1",
+        "spec": [],
         "bsw": [
           "Nanopulser",
           "Combi Rifle"
@@ -746,11 +747,10 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant+Devabot",
+        "code": "Lieutenant+Combi",
         "codename": "",
-        "cost": "27",
+        "cost": "23",
         "swc": "0",
-        "profile": "1",
         "spec": [
           "Lieutenant"
           ],

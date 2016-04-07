@@ -1,0 +1,166 @@
+[
+  {
+    "army": "Combined Army",
+    "name": "Shasvastii Expeditionary Force",
+    "abbr": "Shasvastii Exped. Force",
+    "units": [
+      {
+        "id": 6030,
+        "isc": "Shasvastii Seed-Soldiers",
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "id": 6025,
+        "isc": "Shasvastii Cadmus",
+        "ava": "4"
+      },
+      {
+        "id": 6027,
+        "isc": "Shasvastii Haiduks",
+        "ava": "3"
+      },
+      {
+        "id": 6024,
+        "isc": "Shasvastii Aswangs",
+        "ava": "5",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 2,
+            "swc": "0"
+          }
+        ]
+      },
+      {
+        "id": 6028,
+        "isc": "Shasvastii Noctifers",
+        "ava": "3"
+      },
+      {
+        "id": 6026,
+        "isc": "Shasvastii Gwailos",
+        "ava": "4",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 0,
+            "swc": "0"
+          },
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 1,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 6044,
+        "isc": "Shasvastii Caliban (Seed-Embryo)",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 6045,
+        "isc": "Shasvastii Caliban (Infiltration)",
+        "ava": "5"
+      },
+      {
+        "id": 6046,
+        "isc": "Shasvastii Caliban (Developed)",
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "id": 6010,
+        "isc": "The Shrouded",
+        "ava": "3"
+      },
+      {
+        "id": 6011,
+        "isc": "Malignos",
+        "ava": "3"
+      },
+      {
+        "id": 6012,
+        "isc": "Speculo Killers",
+        "ava": "2"
+      },
+      {
+        "id": 6029,
+        "isc": "Shasvastii Special Armoured Corp Sphinx",
+        "ava": "1"
+      },
+      {
+        "id": 6016,
+        "isc": "Med-Tech Obsidon Medchanoid",
+        "ava": "1"
+      },
+      {
+        "id": 6017,
+        "isc": "M-Drone",
+        "ava": "1"
+      },
+      {
+        "id": 6018,
+        "isc": "Q-Drone",
+        "ava": "2"
+      },
+      {
+        "id": 6019,
+        "isc": "T-Drone",
+        "ava": "2"
+      },
+      {
+        "id": 6020,
+        "isc": "R-Drone",
+        "ava": "1"
+      },
+      {
+        "id": 6051,
+        "isc": "E-Drone",
+        "ava": "2"
+      },
+      {
+        "id": 6033,
+        "isc": "Slave Drones",
+        "ava": "2"
+      },
+      {
+        "id": 6042,
+        "isc": "Ikadron Batroids",
+        "ava": "2"
+      },
+      {
+        "id": 6038,
+        "isc": "Cadmus-Naish Agent Sheskiin",
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 1,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "id": 6041,
+        "isc": "Corax Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 6039,
+        "isc": "Treitak Spec-Ops",
+        "ava": "1"
+      },
+      {
+        "id": 6031,
+        "isc": "Shasvastii Corax Hasht",
+        "ava": "1",
+        "linkable": true
+      }
+    ]
+  }
+]

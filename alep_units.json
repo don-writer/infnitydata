@@ -663,7 +663,7 @@
         "profile": "1",
         "spec": [
           "Lieutenant"
-          ],
+        ],
         "bsw": [
           "Nanopulser",
           "Combi Rifle"
@@ -847,6 +847,20 @@
         "spec": [],
         "bsw": [
           "HMG"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 4,
+        "code": "Spitfire",
+        "codename": "",
+        "cost": "26",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
         ],
         "ccw": [
           "Electric Pulse"

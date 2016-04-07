@@ -4568,5 +4568,121 @@
         ]
       }
     ]
+  },
+  {
+    "id": 6052,
+    "army": "Combined Army",
+    "isc": "Umbra Samaritans",
+    "name": "Umbra Samaritan",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-2",
+    "cc": "24",
+    "bs": "12",
+    "ph": "12",
+    "wip": "14",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Fireteam: Haris L1",
+      "Hyper-Dynamics L1",
+      "Kinematika L2",
+      "Protheion L4",
+      "Super-Jump",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "code": "Default",
+        "codename": "Breaker Combi",
+        "cost": "40",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Vorpal CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "code": "Spitfire",
+        "codename": "",
+        "cost": "44",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Spitfire",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Vorpal CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "code": "Hacker",
+        "codename": "",
+        "cost": "43",
+        "swc": "0.5",
+        "spec": [
+          "EI Assault Hacking Device: UPGRADE: Goodnight"
+        ],
+        "bsw": [
+          "Plasma Carbine",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Vorpal CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "code": "Breaker Combi Lieutenant",
+        "codename": "",
+        "cost": "40",
+        "swc": "0.5",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Vorpal CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "code": "Spitfire Lieutenant",
+        "codename": "",
+        "cost": "44",
+        "swc": "1",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Spitfire",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Vorpal CCW"
+        ]
+      }
+    ]
   }
 ]

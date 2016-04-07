@@ -83,6 +83,18 @@
       "upgrades": [
         "Stop!"
       ]
+    },
+    {
+      "name": "EI Assault Hacking Device: UPGRADE: Goodnight",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "CLAW-3"
+      ],
+      "upgrades": [
+        "Stop!",
+        "Goodnight"
+      ]
     }
   ],
   "Hacking Program Groups": [
@@ -482,6 +494,19 @@
       "effect": "White Noise Circular Template",
       "skill": "Short Skill",
       "special": "1 Turn; NFB"
+    },
+    {
+      "name": "Goodnight",
+      "range": "Hacking Area",
+      "att mod": "+3",
+      "opp mod": "0",
+      "damage": "16",
+      "burst": "2",
+      "ammo": "Breaker",
+      "target": "Unconscious G: Remote Presence",
+      "effect": "Dead",
+      "skill": "Short Skill",
+      "special": ""
     }
   ]
 }

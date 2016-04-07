@@ -4568,5 +4568,108 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2048,
+    "army": "Yu Jing",
+    "isc": "Kǎnrèn Counter-Insurgency Group",
+    "name": "Kǎnrèn",
+    "type": "SK",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "19",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L2",
+      "Martial Arts L1",
+      "Forward Deployment L2",
+      "Kinematika L1"
+    ],
+    "bsw": [],
+    "ccw": [],
+    "childs": [
+      {
+        "id": 1,
+        "code": "Default",
+        "codename": "Boarding Shotgun",
+        "cost": "25",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Chain-colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "code": "Hacker",
+        "codename": "",
+        "cost": "32",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "code": "Minelayer",
+        "codename": "",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "Minelayer",
+          "Sniffer"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Chain-colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "code": "Forward Observer",
+        "codename": "",
+        "cost": "26",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Chain-colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

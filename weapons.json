@@ -2640,5 +2640,41 @@
     "template": "No",
     "uses": "2",
     "note": "CC: +3"
+  },
+  {
+    "name": "Vorpal CCW",
+    "alt_profile": "Vorpal CCW (Thrown)",
+    "burst": "1",
+    "ammo": "Monofilament",
+    "damage": "12",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "Yes",
+    "template": "No",
+    "note": ""
+  },
+  {
+    "name": "Vorpal CCW (Thrown)",
+    "burst": "1",
+    "ammo": "Monofilament",
+    "damage": "12",
+    "short_dist": "8",
+    "short_mod": "3",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "attr": "PH",
+    "cc": "No",
+    "template": "No",
+    "note": ""
   }
 ]

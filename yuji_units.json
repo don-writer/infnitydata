@@ -340,8 +340,8 @@
   {
     "id": 2003,
     "army": "Yu Jing",
-    "isc": "Zh\u00e0nying Imperial Agents",
-    "name": "Zh\u00e0nying",
+    "isc": "Zhànying Imperial Agents",
+    "name": "Zhànying",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -648,8 +648,8 @@
   {
     "id": 2005,
     "army": "Yu Jing",
-    "isc": "Z\u00fayong Invincibles",
-    "name": "Z\u00fayong",
+    "isc": "Zúyong Invincibles",
+    "name": "Zúyong",
     "type": "HI",
     "imp": "",
     "irr": "",
@@ -2120,7 +2120,7 @@
   {
     "id": 2017,
     "army": "Yu Jing",
-    "isc": "Y\u00e1ok\u00f2ng W\u00e8ib\u012bng",
+    "isc": "Yáokòng Wèibīng",
     "name": "Weibing",
     "type": "REM",
     "imp": "",
@@ -2166,7 +2166,7 @@
   {
     "id": 2018,
     "army": "Yu Jing",
-    "isc": "Y\u00e1ok\u00f2ng H\u00f9s\u00f2ng",
+    "isc": "Yáokòng Hùsòng",
     "name": "Husong",
     "type": "REM",
     "imp": "",
@@ -2184,7 +2184,7 @@
     "s": "3",
     "ava": "2",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "G: Remote Presence",
       "Total Reaction"
     ],
@@ -2208,7 +2208,7 @@
   {
     "id": 2019,
     "army": "Yu Jing",
-    "isc": "Y\u00e1ok\u00f2ng Son-bae",
+    "isc": "Yáokòng Son-bae",
     "name": "Son-Bae",
     "type": "REM",
     "imp": "",
@@ -2248,7 +2248,7 @@
   {
     "id": 2020,
     "army": "Yu Jing",
-    "isc": "Y\u00e1ok\u00f2ng Cha\u012by\u00ec",
+    "isc": "Yáokòng Chaīyì",
     "name": "Chaiyi",
     "type": "REM",
     "imp": "",
@@ -2798,7 +2798,7 @@
   {
     "id": 2025,
     "army": "Yu Jing",
-    "isc": "Y\u00e1oz\u0103o",
+    "isc": "Yáozăo",
     "name": "Yaozao",
     "type": "REM",
     "imp": "",
@@ -2837,7 +2837,7 @@
   {
     "id": 2026,
     "army": "Yu Jing",
-    "isc": "Y\u00e1op\u00fa Pangguling",
+    "isc": "Yáopú Pangguling",
     "name": "Pangguling",
     "type": "REM",
     "imp": "",
@@ -3747,7 +3747,7 @@
         "type": " ",
         "hackable": "",
         "mov": "6-4 ",
-        "cc": "\u00a0",
+        "cc": " ",
         "bs": " ",
         "ph": " ",
         "wip": " ",
@@ -3927,7 +3927,7 @@
   {
     "id": 2038,
     "army": "Yu Jing",
-    "isc": "Y\u00e1oxi\u00e8 Rui Shi",
+    "isc": "Yáoxiè Rui Shi",
     "name": "Rui Shi",
     "type": "REM",
     "imp": "",
@@ -3969,7 +3969,7 @@
   {
     "id": 2039,
     "army": "Yu Jing",
-    "isc": "Y\u00e1oxi\u00e8 L\u00f9 Du\u0101n",
+    "isc": "Yáoxiè Lù Duān",
     "name": "Lu Duan",
     "type": "REM",
     "imp": "",
@@ -4239,8 +4239,8 @@
   {
     "id": 2043,
     "army": "Yu Jing",
-    "isc": "Gu\u01d0 F\u0113ng Spec-Ops",
-    "name": "Gu\u01d0 F\u0113ng",
+    "isc": "Guǐ Fēng Spec-Ops",
+    "name": "Guǐ Fēng",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -4273,9 +4273,9 @@
   {
     "id": 2044,
     "army": "Yu Jing",
-    "isc": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
-    "name": "Keisotsu Gu\u01d0 F\u0113ng Yuriko Oda",
-    "image": "Gu\u01d0 F\u0113ng Spec-Ops",
+    "isc": "Keisotsu Guǐ Fēng Yuriko Oda",
+    "name": "Keisotsu Guǐ Fēng Yuriko Oda",
+    "image": "Guǐ Fēng Spec-Ops",
     "type": "LI",
     "imp": "",
     "irr": "",

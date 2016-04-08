@@ -2173,7 +2173,7 @@
     "s": "3",
     "ava": "2",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "Climbing Plus",
       "G: Remote Presence",
       "Total Reaction"
@@ -2361,8 +2361,8 @@
       },
       {
         "id": 2,
-        "isc": "\u03a0-Well",
-        "name": "\u03a0-Well",
+        "isc": "Π-Well",
+        "name": "Π-Well",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -2577,7 +2577,7 @@
         "type": " ",
         "hackable": "",
         "mov": "6-4 ",
-        "cc": "\u00a0",
+        "cc": " ",
         "bs": " ",
         "ph": " ",
         "wip": " ",
@@ -2823,7 +2823,7 @@
         "type": " ",
         "hackable": "",
         "mov": "6-4 ",
-        "cc": "\u00a0",
+        "cc": " ",
         "bs": " ",
         "ph": " ",
         "wip": " ",
@@ -3446,7 +3446,7 @@
     "s": "4",
     "ava": "2",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "Climbing Plus",
       "G: Remote Presence",
       "Repeater"
@@ -3525,9 +3525,9 @@
   {
     "id": 5037,
     "army": "Nomads",
-    "isc": "Bakunin \u00dcberfallkommando : Chimera",
+    "isc": "Bakunin Überfallkommando : Chimera",
     "name": "Chimera",
-    "image": "Bakunin \u00dcberfallkommando",
+    "image": "Bakunin Überfallkommando",
     "type": "WB",
     "imp": "X",
     "irr": "X",
@@ -3572,9 +3572,9 @@
   {
     "id": 5038,
     "army": "Nomads",
-    "isc": "Bakunin \u00dcberfallkommando : Pupniks",
+    "isc": "Bakunin Überfallkommando : Pupniks",
     "name": "Pupnik",
-    "image": "Bakunin \u00dcberfallkommando",
+    "image": "Bakunin Überfallkommando",
     "type": "WB",
     "imp": "X",
     "irr": "X",

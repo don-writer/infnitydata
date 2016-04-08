@@ -2,6 +2,7 @@
   {
     "army": "PanOceania",
     "name": "Neoterran Capitaline Army",
+    "abbr": "Neoterran",
     "units": [
       {
         "comment": "Auxilia",
@@ -126,7 +127,6 @@
         "id": 9017,
         "ava": "1"
       }
-    ],
-    "abbr": "Neoterran"
+    ]
   }
 ]

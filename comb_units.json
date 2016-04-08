@@ -1500,8 +1500,8 @@
   {
     "id": 6013,
     "army": "Combined Army",
-    "isc": "D\u0101turazi Witch-Soldiers",
-    "name": "D\u0101turazi",
+    "isc": "Dāturazi Witch-Soldiers",
+    "name": "Dāturazi",
     "type": "WB",
     "imp": "X",
     "irr": "",
@@ -1815,7 +1815,7 @@
     "s": "3",
     "ava": "1",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "CH: Mimetism",
       "G: Remote Presence",
       "Total Reaction"
@@ -2903,8 +2903,8 @@
   {
     "id": 6032,
     "army": "Combined Army",
-    "isc": "Ski\u00e1voros",
-    "name": "Ski\u00e1voro",
+    "isc": "Skiávoros",
+    "name": "Skiávoro",
     "type": "MI",
     "imp": "",
     "irr": "",

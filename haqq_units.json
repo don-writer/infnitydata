@@ -369,7 +369,7 @@
   {
     "id": 4003,
     "army": "Haqqislam",
-    "isc": "Naffat\u00fbn",
+    "isc": "Naffatûn",
     "name": "Naffatun",
     "type": "LI",
     "imp": "",
@@ -1289,12 +1289,12 @@
       },
       {
         "id": 3,
-        "code": "360\u00b0 Visor",
+        "code": "360° Visor",
         "codename": "",
         "cost": "98",
         "swc": "2",
         "spec": [
-          "360\u00b0 Visor"
+          "360° Visor"
         ],
         "bsw": [
           "MULTI HMG",
@@ -1865,7 +1865,7 @@
     "s": "3",
     "ava": "1",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "G: Remote Presence",
       "Total Reaction"
     ],
@@ -3156,7 +3156,7 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Sixth Sense L2 / 360\u00b0 Visor",
+      "Sixth Sense L2 / 360° Visor",
       "V: No Wound Incapacitation",
       "i-Khol L3"
     ],
@@ -3699,7 +3699,7 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "Zero-G"
     ],
     "childs": [

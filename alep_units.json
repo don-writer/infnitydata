@@ -1591,7 +1591,7 @@
     "s": "3",
     "ava": "2",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
       "Climbing Plus",
       "G: Remote Presence",
       "Total Reaction"
@@ -1987,7 +1987,7 @@
     "ava": "1",
     "spec": [
       "ODD: Optical Disruptor",
-      "360\u00b0 Visor",
+      "360° Visor",
       "Specialist Troop"
     ],
     "childs": [
@@ -2052,7 +2052,7 @@
     "s": "2",
     "ava": "3",
     "spec": [
-      "360\u00b0 Visor"
+      "360° Visor"
     ],
     "childs": [
       {
@@ -2341,7 +2341,7 @@
     "ava": "1",
     "spec": [
       "Fireteam: Enomotarchos",
-      "360\u00b0 Visor",
+      "360° Visor",
       "V: Courage"
     ],
     "childs": [

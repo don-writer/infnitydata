@@ -375,7 +375,7 @@
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "19",
-		    "swc": "0",
+        "swc": "0",
         "spec": [
           "Number 2"
         ],

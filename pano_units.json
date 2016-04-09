@@ -2551,7 +2551,10 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "360\u00b0 Visor",
+      "360° Visor",
+      "Fireteam: Duo",
+      "Kinematica L1",
+      "Martial Arts L1",
       "Religious Troop",
       "Zero-G"
     ],
@@ -2560,11 +2563,12 @@
         "id": 1,
         "code": "Default",
         "codename": "Spitfire",
-        "cost": "45",
+        "cost": "44",
         "swc": "1.5",
         "spec": [],
         "bsw": [
           "E/M Grenades",
+          "Nanopulsar",
           "Spitfire"
         ],
         "ccw": [
@@ -2576,11 +2580,12 @@
         "id": 2,
         "code": "Boarding Shotgun",
         "codename": "",
-        "cost": "38",
+        "cost": "37",
         "swc": "0",
         "spec": [],
         "bsw": [
           "E/M Grenades",
+          "Nanopulsar",
           "Boarding Shotgun"
         ],
         "ccw": [
@@ -2592,11 +2597,12 @@
         "id": 3,
         "code": "Combi",
         "codename": "",
-        "cost": "40",
+        "cost": "39",
         "swc": "0",
         "spec": [],
         "bsw": [
           "E/M Grenades",
+          "Nanopulsar",
           "Combi Rifle"
         ],
         "ccw": [
@@ -2608,18 +2614,38 @@
         "id": 4,
         "code": "Lieutenant",
         "codename": "Lieutenant",
-        "cost": "45",
+        "cost": "44",
         "swc": "1",
         "spec": [
           "Lieutenant"
         ],
         "bsw": [
           "E/M Grenades",
+          "Nanopulsar",
           "Spitfire"
         ],
         "ccw": [
           "Pistol",
           "AP CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "code": "Paramedic",
+        "codename": "",
+        "cost": "41",
+        "swc": "0",
+        "spec": [
+          "Paramedic"
+        ],
+        "bsw": [
+          "E/M Grenades",
+          "Nanopulsar",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
         ]
       }
     ]
@@ -3320,16 +3346,18 @@
     "cube": "X",
     "hackable": "X",
     "mov": "4-4",
-    "cc": "19",
+    "cc": "20",
     "bs": "14",
     "ph": "13",
     "wip": "13",
-    "arm": "4",
+    "arm": "3",
     "bts": "3",
     "w": "2",
     "s": "2",
     "ava": "1",
     "spec": [
+      "Assault",
+      "Fireteam: Duo",
       "Mechanized Deployment",
       "Religious Troop"
     ],
@@ -3338,63 +3366,102 @@
         "id": 1,
         "code": "Lieutenant",
         "codename": "",
-        "cost": "45",
-        "swc": "1",
+        "cost": "44",
+        "swc": "0",
         "spec": [
           "Lieutenant"
         ],
         "bsw": [
-          "Combi Rifle"
+          "Combi Rifle",
+          "Chain-Colt"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "Shock CCW"
         ]
       },
       {
         "id": 2,
         "code": "Grenadier",
         "codename": "",
-        "cost": "49",
-        "swc": "1.5",
+        "cost": "48",
+        "swc": "1",
         "spec": [],
         "bsw": [
           "Combi Rifle",
-          "Light Grenade Launcher"
+          "Light Grenade Launcher",
+          "Chain-Colt"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "Shock CCW"
         ]
       },
       {
         "id": 3,
         "code": "Spitfire",
         "codename": "",
-        "cost": "51",
+        "cost": "50",
         "swc": "2",
         "spec": [],
         "bsw": [
-          "Spitfire"
+          "Spitfire",
+          "Chain-Colt"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "Shock CCW"
         ]
       },
       {
         "id": 4,
         "code": "Default",
         "codename": "Combi",
-        "cost": "45",
+        "cost": "44",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Combi Rifle"
+          "Combi Rifle",
+          "Chain-Colt"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "code": "Spitfire",
+        "codename": "",
+        "cost": "50",
+        "swc": "2",
+        "spec": [
+          "Lieutenant"
+          ],
+        "bsw": [
+          "Spitfire",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 6,
+        "code": "Rocketier",
+        "codename": "",
+        "cost": "50",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle",
+          "Light Rocket Launcher",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
         ]
       }
     ]
@@ -3410,7 +3477,7 @@
     "cube": "X",
     "hackable": "X",
     "mov": "4-4",
-    "cc": "20",
+    "cc": "21",
     "bs": "14",
     "ph": "14",
     "wip": "14",
@@ -3429,7 +3496,7 @@
         "id": 1,
         "code": "Spitfire Lieutenant",
         "codename": "",
-        "cost": "54",
+        "cost": "56",
         "swc": "2",
         "spec": [
           "Lieutenant"
@@ -3439,14 +3506,14 @@
         ],
         "ccw": [
           "Pistol",
-          "EXP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 2,
         "code": "Spitfire",
         "codename": "",
-        "cost": "54",
+        "cost": "56",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -3454,14 +3521,14 @@
         ],
         "ccw": [
           "Pistol",
-          "EXP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 3,
         "code": "Lieutenant",
         "codename": "",
-        "cost": "49",
+        "cost": "51",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -3472,14 +3539,14 @@
         ],
         "ccw": [
           "Pistol",
-          "EXP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 4,
         "code": "Default",
         "codename": "Combi",
-        "cost": "49",
+        "cost": "51",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3488,7 +3555,7 @@
         ],
         "ccw": [
           "Pistol",
-          "EXP CCW"
+          "DA CCW"
         ]
       }
     ]
@@ -3516,8 +3583,7 @@
     "spec": [
       "Berserk",
       "Jungle Terrain",
-      "Religious Troop",
-      "V: Courage"
+      "Religious Troop"
     ],
     "childs": [
       {
@@ -3732,7 +3798,7 @@
     "hackable": "X",
     "mov": "6-4",
     "cc": "17",
-    "bs": "14",
+    "bs": "15",
     "ph": "15",
     "wip": "12",
     "arm": "6",
@@ -3742,6 +3808,7 @@
     "ava": "1",
     "spec": [
       "CH: Mimetism",
+      "Climbing Plus",
       "G: Remote Presence",
       "ECM",
       "Jungle Terrain"
@@ -3751,12 +3818,13 @@
         "id": 1,
         "code": "Default",
         "codename": "HMG",
-        "cost": "78",
+        "cost": "86",
         "swc": "2",
         "spec": [],
         "bsw": [
           "HMG",
-          "Heavy Flamethrower"
+          "Heavy Flamethrower",
+          "Antipersonnel Mines"
         ],
         "ccw": [
           "AP CCW"
@@ -3780,7 +3848,7 @@
         "cube": "",
         "hackable": "X",
         "mov": "6-4",
-        "cc": "20",
+        "cc": "22",
         "bs": "15",
         "ph": "16",
         "wip": "12",
@@ -4045,7 +4113,8 @@
     ]
   },
   {
-    "id": 1043,
+    "comment": "retired in HSN3",
+    "id": "",
     "army": "PanOceania",
     "isc": "Toni Macayana, Tikbalangs Lieutenant",
     "name": "Macayana",

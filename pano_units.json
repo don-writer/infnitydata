@@ -375,10 +375,10 @@
         "code": "Boarding Shotgun",
         "codename": "",
         "cost": "19",
-        "swc": "0",
+		    "swc": "0",
         "spec": [
           "Number 2"
-          ],
+        ],
         "bsw": [
           "Boarding Shotgun",
           "D-Charges"
@@ -482,7 +482,7 @@
         "swc": "0.5",
         "spec": [
           "Fireteam: Haris"
-          ],
+        ],
         "bsw": [
           "Combi Rifle",
           "Light Shotgun"
@@ -1063,6 +1063,23 @@
           "Pistol",
           "DA CCW"
         ]
+      },
+      {
+        "id": 9,
+        "code": "Combi Doctor",
+        "codename": "",
+        "cost": "37",
+        "swc": "0",
+        "spec": [
+          "Doctor"  
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
       }
     ]
   },
@@ -1217,6 +1234,23 @@
         ],
         "bsw": [
           "Spitfire"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 9,
+        "code": "Duo",
+        "codename": "",
+        "cost": "44",
+        "swc": "0.5",
+        "spec": [
+        "Fireteam: Duo"  
+        ],
+        "bsw": [
+          "Boarding Shotgun"
         ],
         "ccw": [
           "Breaker Pistol",
@@ -2785,14 +2819,14 @@
       "Martial Arts L3",
       "Religious Troop",
       "Hacker",
-      "Hacking Device"
+      "Assault Hacking Device UPGRADE: Trinity"
     ],
     "childs": [
       {
         "id": 1,
         "code": "Default",
         "codename": "Spitfire",
-        "cost": "60",
+        "cost": "58",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -2807,7 +2841,7 @@
         "id": 2,
         "code": "Lieutenant",
         "codename": "",
-        "cost": "60",
+        "cost": "58",
         "swc": "2",
         "spec": [
           "Lieutenant"
@@ -4079,7 +4113,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-2",
-    "cc": "16",
+    "cc": "19",
     "bs": "13",
     "ph": "12",
     "wip": "13",
@@ -4107,7 +4141,7 @@
         ],
         "ccw": [
           "Assault Pistol",
-          "CCW"
+          "E/M CCW"
         ]
       }
     ]

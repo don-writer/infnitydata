@@ -8,12 +8,13 @@
         "comment": "Caledonian Volunteers",
         "id": 3022,
         "ava": "T",
-        "linkable": true,
         "childs": [
           {
             "id": 1,
             "swc": 0
-        ]
+          }
+        ],
+        "linkable": true
       },
       {
         "comment": "Highlander Caterans",
@@ -104,13 +105,11 @@
       {
         "comment": "McMurrough",
         "id": 9005,
-        "army": "Mercenary",
         "ava": "1"
       },
       {
         "comment": "Warcor",
         "id": 9017,
-        "army": "Mercenary",
         "ava": "1"
       }
     ]

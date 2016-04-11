@@ -4,119 +4,119 @@
     "name": "Hassassin Bahram",
     "units": [
       {
+        "comment": "Daylami Infantry",
         "id": 4001,
-        "isc": "Daylami Infantry",
         "ava": "5"
       },
       {
+        "comment": "Ghulam",
         "id": 4002,
-        "isc": "Ghulam",
         "ava": "4",
         "linkable": true
       },
       {
+        "comment": "Hassassin Govads",
         "id": 4042,
-        "isc": "Hassassin Govads",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Hassassin Farzans",
         "id": 4029,
-        "isc": "Hassassin Farzans",
         "ava": "3"
       },
       {
+        "comment": "Hassassin Muyibs",
         "id": 4031,
-        "isc": "Hassassin Muyibs",
         "ava": "6",
         "linkable": true
       },
       {
+        "comment": "Hassassin Ragiks",
         "id": 4007,
-        "isc": "Hassassin Ragiks",
         "ava": "4"
       },
       {
+        "comment": "Hassassin Lasiqs",
         "id": 4030,
-        "isc": "Hassassin Lasiqs",
         "ava": "4",
         "linkable": true
       },
       {
+        "comment": "Asawira Regiment",
         "id": 4025,
-        "isc": "Asawira Regiment",
         "ava": "4",
         "linkable": true
       },
       {
+        "comment": "Hassassin Fiday",
         "id": 4013,
-        "isc": "Hassassin Fiday",
         "ava": "2"
       },
       {
+        "comment": "Hassassin Barid",
         "id": 4040,
-        "isc": "Hassassin Barid",
         "ava": "2"
       },
       {
+        "comment": "Muttawi'ah",
         "id": 4015,
-        "isc": "Muttawi'ah",
         "ava": "4"
       },
       {
+        "comment": "Hussein Al-Djabel",
         "id": 4032,
-        "isc": "Hussein Al-Djabel",
         "ava": "1"
       },
       {
+        "comment": "Rafiq Remote",
         "id": 4017,
-        "isc": "Rafiq Remote",
         "ava": "1"
       },
       {
+        "comment": "Shihab Remote",
         "id": 4018,
-        "isc": "Shihab Remote",
         "ava": "1"
       },
       {
+        "comment": "Shaytaniyah Remote",
         "id": 4019,
-        "isc": "Shaytaniyah Remote",
         "ava": "1"
       },
       {
+        "comment": "Fanous Remote",
         "id": 4020,
-        "isc": "Fanous Remote",
         "ava": "1"
       },
       {
+        "comment": "Nasmat Remotes",
         "id": 4034,
-        "isc": "Nasmat Remotes",
         "ava": "2"
       },
       {
+        "comment": "Kameel Remotes",
         "id": 4033,
-        "isc": "Kameel Remotes",
         "ava": "2"
       },
       {
+        "comment": "Najjarun Engineer",
         "id": 4016,
-        "isc": "Najjarun Engineer",
         "ava": "1"
       },
       {
+        "comment": "Husam Spec-Ops",
         "id": 4037,
-        "isc": "Husam Spec-Ops",
         "ava": "1"
       },
       {
+        "comment": "Hassassin Husam Yasbir",
         "id": 4038,
-        "isc": "Hassassin Husam Yasbir",
         "ava": "1",
         "linkable": true
       },
       {
+        "comment": "Warcor",
         "id": 9017,
-        "isc": "Warcor",
         "ava": "1"
       }
     ]

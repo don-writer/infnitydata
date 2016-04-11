@@ -4,137 +4,137 @@
     "name": "Qapu Khalqi",
     "units": [
       {
+        "comment": "Ghulam",
         "id": 4002,
-        "isc": "Ghulam",
         "ava": "T",
         "linkable": true
       },
       {
+        "comment": "Odalisques",
         "id": 4035,
-        "isc": "Odalisques",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "KTS, Kaplan Tactical Services",
         "id": 4039,
-        "isc": "KTS, Kaplan Tactical Services",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Sekban",
         "id": 4041,
-        "isc": "Sekban",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Bashi Bazouk",
         "id": 4027,
-        "isc": "Bashi Bazouk",
         "ava": "4"
       },
       {
+        "comment": "Hafza Unit",
         "id": 4028,
-        "isc": "Hafza Unit",
         "ava": "4",
         "linkable": true
       },
       {
+        "comment": "Djanbazan",
         "id": 4006,
-        "isc": "Djanbazan",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Azra'il",
         "id": 4026,
-        "isc": "Azra'il",
         "ava": "3",
         "linkable": true
       },
       {
+        "comment": "Janissaries",
         "id": 4008,
-        "isc": "Janissaries",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Al Hawwa' Unit",
         "id": 4024,
-        "isc": "Al Hawwa' Unit",
         "ava": "3"
       },
       {
+        "comment": "Rafiq Remote",
         "id": 4017,
-        "isc": "Rafiq Remote",
         "ava": "1"
       },
       {
+        "comment": "Shihab Remote",
         "id": 4018,
-        "isc": "Shihab Remote",
         "ava": "2"
       },
       {
+        "comment": "Shaytaniyah Remote",
         "id": 4019,
-        "isc": "Shaytaniyah Remote",
         "ava": "1"
       },
       {
+        "comment": "Fanous Remote",
         "id": 4020,
-        "isc": "Fanous Remote",
         "ava": "3"
       },
       {
+        "comment": "Nasmat Remotes",
         "id": 4034,
-        "isc": "Nasmat Remotes",
         "ava": "2"
       },
       {
+        "comment": "Kameel Remotes",
         "id": 4033,
-        "isc": "Kameel Remotes",
         "ava": "2"
       },
       {
+        "comment": "Najjarun Engineer",
         "id": 4016,
-        "isc": "Najjarun Engineer",
         "ava": "1"
       },
       {
+        "comment": "Husam Spec-Ops",
         "id": 4037,
-        "isc": "Husam Spec-Ops",
         "ava": "1"
       },
       {
+        "comment": "Alguaciles",
         "id": 5001,
-        "isc": "Alguaciles",
         "ava": "4"
       },
       {
+        "comment": "Mobile Brigada",
         "id": 5008,
-        "isc": "Mobile Brigada",
         "ava": "1"
       },
       {
+        "comment": "Iguana Squadron",
         "id": 5026,
-        "isc": "Iguana Squadron",
         "ava": "1"
       },
       {
+        "comment": "Warcor",
         "id": 9017,
-        "isc": "Warcor",
         "ava": "1"
       },
       {
+        "comment": "Yuan Yuan",
         "id": 9001,
-        "isc": "Yuan Yuan",
         "ava": "3"
       },
       {
+        "comment": "Druze Shock Teams",
         "id": 9003,
-        "isc": "Druze Shock Teams",
         "ava": "4",
         "linkable": true
       },
       {
+        "comment": "Scarface",
         "id": 9015,
-        "isc": "Scarface",
         "ava": "1"
       }
     ]

@@ -5,148 +5,148 @@
     "abbr": "Corregidor",
     "units": [
       {
+        "comment": "Alguaciles",
         "id": 5001,
-        "isc": "Alguaciles",
         "ava": "T",
         "linkable": true
       },
       {
+        "comment": "Tomcats",
         "id": 5034,
-        "isc": "Tomcats",
         "ava": "4"
       },
       {
+        "comment": "Hellcats",
         "id": 5004,
-        "isc": "Hellcats",
         "ava": "5"
       },
       {
+        "comment": "Wildcats, Polyvalent Tactical Unit",
         "id": 5044,
-        "isc": "Wildcats, Polyvalent Tactical Unit",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Intruders",
         "id": 5005,
-        "isc": "Intruders",
         "ava": "5"
       },
       {
+        "comment": "Mobile Brigada",
         "id": 5008,
-        "isc": "Mobile Brigada",
         "ava": "6",
         "linkable": true
       },
       {
+        "comment": "Iguana Squadron",
         "id": 5026,
-        "isc": "Iguana Squadron",
         "ava": "1"
       },
       {
+        "comment": "Gecko",
         "id": 5045,
-        "isc": "Gecko",
         "ava": "4"
       },
       {
+        "comment": "Corregidor Bandits",
         "id": 5013,
-        "isc": "Corregidor Bandits",
         "ava": "3"
       },
       {
+        "comment": "Moran, Maasai Hunter",
         "id": 5029,
-        "isc": "Moran, Maasai Hunter",
         "ava": "2"
       },
       {
+        "comment": "Corregidor Jaguars",
         "id": 5015,
-        "isc": "Corregidor Jaguars",
         "ava": "5",
         "linkable": true
       },
       {
+        "comment": "Carlota Kowalsky, Tomcats Sergeant",
         "id": 5040,
-        "isc": "Carlota Kowalsky, Tomcats Sergeant",
         "ava": "1"
       },
       {
+        "comment": "Tsyklon Sputniks",
         "id": 5035,
-        "isc": "Tsyklon Sputniks",
         "ava": "2"
       },
       {
+        "comment": "Lunokhod Sputniks",
         "id": 5027,
-        "isc": "Lunokhod Sputniks",
         "ava": "2"
       },
       {
+        "comment": "Stempler Zond",
         "id": 5019,
-        "isc": "Stempler Zond",
         "ava": "1"
       },
       {
+        "comment": "Reaktion Zond",
         "id": 5020,
-        "isc": "Reaktion Zond",
         "ava": "1"
       },
       {
+        "comment": "Vertigo Zond",
         "id": 5021,
-        "isc": "Vertigo Zond",
         "ava": "1"
       },
       {
+        "comment": "Transductor Zond",
         "id": 5023,
-        "isc": "Transductor Zond",
         "ava": "2"
       },
       {
+        "comment": "Zondbots",
         "id": 5036,
-        "isc": "Zondbots",
         "ava": "2"
       },
       {
+        "comment": "Salyut Zonds",
         "id": 5032,
-        "isc": "Salyut Zonds",
         "ava": "2"
       },
       {
+        "comment": "Clockmakers",
         "id": 5017,
-        "isc": "Clockmakers",
         "ava": "1"
       },
       {
+        "comment": "Daktaris",
         "id": 5016,
-        "isc": "Daktaris",
         "ava": "1"
       },
       {
+        "comment": "Vortex Spec-Ops",
         "id": 5042,
-        "isc": "Vortex Spec-Ops",
         "ava": "1"
       },
       {
+        "comment": "Alguacil Vortex Lupe Balboa",
         "id": 5043,
-        "isc": "Alguacil Vortex Lupe Balboa",
         "ava": "1",
         "linkable": true
       },
       {
+        "comment": "Warcor",
         "id": 9017,
-        "isc": "Warcor",
         "ava": "1"
       },
       {
+        "comment": "Señor Massacre",
         "id": 9011,
-        "isc": "Señor Massacre",
         "ava": "1"
       },
       {
+        "comment": "McMurrough",
         "id": 9005,
-        "isc": "McMurrough",
         "ava": "1"
       },
       {
+        "comment": "Valerya Gromoz, Mercenary Hacker",
         "id": 9012,
-        "isc": "Valerya Gromoz, Mercenary Hacker",
         "ava": "1"
       }
     ]

@@ -4,168 +4,168 @@
     "name": "Steel Phalanx",
     "units": [
       {
+        "comment": "Ekdromoi",
         "id": 7024,
-        "isc": "Ekdromoi",
         "ava": "4"
       },
       {
+        "comment": "Dactyls",
         "id": 7038,
-        "isc": "Dactyls",
         "ava": "4"
       },
       {
+        "comment": "Diomedes",
         "id": 7032,
-        "isc": "Diomedes",
         "ava": "1"
       },
       {
+        "comment": "Thamyris",
         "id": 7037,
-        "isc": "Thamyris",
         "ava": "1"
       },
       {
+        "comment": "Thorakitai",
         "id": 7027,
-        "isc": "Thorakitai",
         "ava": "6"
       },
       {
+        "comment": "Agema Marksman",
         "id": 7028,
-        "isc": "Agema Marksman",
         "ava": "2"
       },
       {
+        "comment": "Nesaie Alke",
         "id": 7030,
-        "isc": "Nesaie Alke",
         "ava": "1"
       },
       {
+        "comment": "Patroclus",
         "id": 7015,
-        "isc": "Patroclus",
         "ava": "1"
       },
       {
+        "comment": "Atalanta",
         "id": 7031,
-        "isc": "Atalanta",
         "ava": "1"
       },
       {
+        "comment": "Achilles",
         "id": 7001,
-        "isc": "Achilles",
         "ava": "1"
       },
       {
+        "comment": "Achilles v2 (Hoplite Armor)",
         "id": 7002,
-        "isc": "Achilles v2 (Hoplite Armor)",
         "ava": "1"
       },
       {
+        "comment": "Ajax",
         "id": 7035,
-        "isc": "Ajax",
         "ava": "1"
       },
       {
+        "comment": "Myrmidons",
         "id": 7012,
-        "isc": "Myrmidons",
         "ava": "T"
       },
       {
+        "comment": "Myrmidon Officer",
         "id": 7011,
-        "isc": "Myrmidon Officer",
         "ava": "3"
       },
       {
+        "comment": "Machaon",
         "id": 7033,
-        "isc": "Machaon",
         "ava": "1"
       },
       {
+        "comment": "Eudoros",
         "id": 7029,
-        "isc": "Eudoros",
         "ava": "1"
       },
       {
+        "comment": "Phoenix",
         "id": 7034,
-        "isc": "Phoenix",
         "ava": "1"
       },
       {
+        "comment": "Penthesilea",
         "id": 7036,
-        "isc": "Penthesilea",
         "ava": "1"
       },
       {
+        "comment": "Daleth Rebots",
         "id": 7005,
-        "isc": "Daleth Rebots",
         "ava": "2"
       },
       {
+        "comment": "Zayin Rebots",
         "id": 7020,
-        "isc": "Zayin Rebots",
         "ava": "1"
       },
       {
+        "comment": "Samekh Rebots",
         "id": 7017,
-        "isc": "Samekh Rebots",
         "ava": "1"
       },
       {
+        "comment": "Lamedh Rebots",
         "id": 7009,
-        "isc": "Lamedh Rebots",
         "ava": "2"
       },
       {
+        "comment": "Yudbots",
         "id": 7019,
-        "isc": "Yudbots",
         "ava": "4"
       },
       {
+        "comment": "Netrods",
         "id": 7014,
-        "isc": "Netrods",
         "ava": "2"
       },
       {
+        "comment": "Probots",
         "id": 7016,
-        "isc": "Probots",
         "ava": "2"
       },
       {
+        "comment": "Chandra Spec-Ops",
         "id": 7025,
-        "isc": "Chandra Spec-Ops",
         "ava": "1"
       },
       {
+        "comment": "Chandra Sergeant Thrasymedes",
         "id": 7026,
-        "isc": "Chandra Sergeant Thrasymedes",
         "ava": "1"
       },
       {
+        "comment": "Teucer",
         "id": 7039,
-        "isc": "Teucer",
         "ava": "1"
       },
       {
+        "comment": "Drakios",
         "id": 7040,
-        "isc": "Drakios",
         "ava": "1"
       },
       {
+        "comment": "Scylla",
         "id": 7041,
-        "isc": "Scylla",
         "ava": "1"
       },
       {
+        "comment": "Acmon, Sergeant of Dactyls",
         "id": 7042,
-        "isc": "Acmon, Sergeant of Dactyls",
         "ava": "4"
       },
       {
+        "comment": "Hector, Homeridae's Champion",
         "id": 7043,
-        "isc": "Hector, Homeridae's Champion",
         "ava": "1"
       },
       {
+        "comment": "Warcor",
         "id": 9017,
-        "isc": "Warcor",
         "ava": "1"
       }
     ]

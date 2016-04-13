@@ -37,7 +37,11 @@ for filename in file_list:
         mapping['childs'] = OrderedDict()
         for child in unit['childs']:
             mapping['childs'][child['code']] = child['id']
-         
+
+        # One extra manual mapping is unfortunately required
+        if unit['isc'] == 'Chandra Sergeant Thrasymedes':
+            mapping['childs']['Light Rocket Launcher'] = 2
+
         mappings.append(mapping)
 
 filename = 'name_id_mapping.json'

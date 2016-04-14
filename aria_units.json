@@ -4783,5 +4783,64 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3046,
+    "army": "Ariadna",
+    "isc": "Col. Yevgueni Voronin",
+    "name": "Colonel Voronin",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "18",
+    "bs": "11",
+    "ph": "12",
+    "wip": "14",
+    "arm": "0",
+    "bts": "0",
+    "w": "1",
+    "s": "4",
+    "ava": "1",
+    "spec": [
+      "Guard L1",
+      "Sixth Sense L2",
+      "Strategos L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "code": "Default",
+        "codename": "Rifle",
+        "cost": "21",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "code": "Lieutenant",
+        "codename": "",
+        "cost": "21",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "AP CCW"
+        ]
+      }
+    ]
   }
 ]

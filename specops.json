@@ -26,6 +26,10 @@
           {
             "isc": "Métros",
             "code": "Default"
+          },
+          {
+            "isc": "USAriadna Grunts",
+            "code": "Default"
           }
         ]
       }

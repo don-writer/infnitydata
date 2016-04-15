@@ -106,5 +106,41 @@
     "burst": "0",
     "type": "--",
     "special": "Base DAM PH vs. BTS / Power Up"
+  },
+  {
+    "name": "Guard L1",
+    "attack": "0",
+    "opponent": "-3",
+    "damage": "+1",
+    "burst": "0",
+    "type": "--",
+    "special": ""
+  },
+  {
+    "name": "Guard L2",
+    "attack": "+3",
+    "opponent": "0",
+    "damage": "+1",
+    "burst": "0",
+    "type": "--",
+    "special": ""
+  },
+  {
+    "name": "Guard L3",
+    "attack": "0",
+    "opponent": "-3",
+    "damage": "+2",
+    "burst": "0",
+    "type": "--",
+    "special": ""
+  },
+  {
+    "name": "Guard L4",
+    "attack": "0",
+    "opponent": "0",
+    "damage": "+3",
+    "burst": "0",
+    "type": "--",
+    "special": ""
   }
 ]

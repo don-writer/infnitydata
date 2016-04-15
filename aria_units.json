@@ -4141,7 +4141,7 @@
     "army": "Ariadna",
     "isc": "Intel Spec-Ops",
     "name": "Intel",
-    "type": "LI",
+    "type": "SPEC-OPS",
     "imp": "",
     "irr": "",
     "cube": "",

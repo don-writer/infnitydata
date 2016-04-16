@@ -1,0 +1,3606 @@
+{
+  "Aleph": [
+    {
+      "isc": "Achilles",
+      "id": 7001,
+      "childs": {
+        "Default": 1,
+        "MULTI Lieutenant": 2,
+        "Spitfire": 3,
+        "Spitfire Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Achilles v2 (Hoplite Armor)",
+      "id": 7002,
+      "childs": {
+        "Default": 1,
+        "MULTI Lieutenant": 2,
+        "Spitfire": 3,
+        "Spitfire Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Asuras",
+      "id": 7003,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Hacker": 3,
+        "Spitfire": 4
+      }
+    },
+    {
+      "isc": "Dakini Tacbots",
+      "id": 7004,
+      "childs": {
+        "Default": 1,
+        "Paramedic": 2,
+        "MULTI Sniper Rifle": 3,
+        "Light Grenade Launcher": 4,
+        "HMG": 5
+      }
+    },
+    {
+      "isc": "Daleth Rebots",
+      "id": 7005,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Dasyus",
+      "id": 7006,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Observer": 3,
+        "Hacker": 4,
+        "MULTI Sniper Rifle": 5,
+        "Boarding Shotgun": 6
+      }
+    },
+    {
+      "isc": "Deva Functionaries",
+      "id": 7007,
+      "childs": {
+        "Default": 1,
+        "Lieutenant+Devabot": 2,
+        "Spitfire+MSV": 3,
+        "Sensor": 4,
+        "Hacker": 5,
+        "Devabot": 6
+      }
+    },
+    {
+      "isc": "Garuda Tacbots",
+      "id": 7008,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "HMG": 3
+      }
+    },
+    {
+      "isc": "Lamedh Rebots",
+      "id": 7009,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Maruts",
+      "id": 7010,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Myrmidon Officer",
+      "id": 7011,
+      "childs": {
+        "Default": 1,
+        "Chain of Command": 2,
+        "CoC Combi": 3,
+        "Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Myrmidons",
+      "id": 7012,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Boarding Shotgun": 3,
+        "Chain Rifle": 4,
+        "Spitfire": 5,
+        "DA CCW": 6
+      }
+    },
+    {
+      "isc": "Nagas",
+      "id": 7013,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Minelayer": 3,
+        "MULTI Sniper Rifle": 4,
+        "Monofilament Mines": 5
+      }
+    },
+    {
+      "isc": "Netrods",
+      "id": 7014,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Patroclus",
+      "id": 7015,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2
+      }
+    },
+    {
+      "isc": "Probots",
+      "id": 7016,
+      "childs": {
+        "Default": 1,
+        "Combi": 2,
+        "EVO": 3
+      }
+    },
+    {
+      "isc": "Samekh Rebots",
+      "id": 7017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Sophotects",
+      "id": 7018,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yudbots",
+      "id": 7019,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Zayin Rebots",
+      "id": 7020,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Posthumans Proxy Mk.1",
+      "id": 7021,
+      "childs": {
+        "Doctor": 1,
+        "Engineer": 2,
+        "Default": 3
+      }
+    },
+    {
+      "isc": "Posthumans Proxy Mk.2",
+      "id": 7022,
+      "childs": {
+        "Hacker": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Posthumans Proxy Mk.3",
+      "id": 7023,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Ekdromoi",
+      "id": 7024,
+      "childs": {
+        "Hacker": 1,
+        "Boarding Shotgun": 2,
+        "Chain Rifle": 3,
+        "HMG": 4,
+        "Combi": 5,
+        "Default": 6
+      }
+    },
+    {
+      "isc": "Chandra Spec-Ops",
+      "id": 7025,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Chandra Sergeant Thrasymedes",
+      "id": 7026,
+      "childs": {
+        "Default": 1,
+        "Enomotarchos": 2,
+        "Light Rocket Launcher": 2
+      }
+    },
+    {
+      "isc": "Thorakitai",
+      "id": 7027,
+      "childs": {
+        "Default": 1,
+        "Combi": 2,
+        "Spitfire": 3,
+        "Light Rocket Launcher": 4,
+        "Engineer": 5,
+        "Observer": 6,
+        "Paramedic": 7
+      }
+    },
+    {
+      "isc": "Agema Marksman",
+      "id": 7028,
+      "childs": {
+        "Default": 1,
+        "MULTI Sniper Rifle": 2,
+        "Missile Launcher": 3
+      }
+    },
+    {
+      "isc": "Eudoros",
+      "id": 7029,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Nesaie Alke",
+      "id": 7030,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Atalanta",
+      "id": 7031,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Diomedes",
+      "id": 7032,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Machaon",
+      "id": 7033,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Phoenix",
+      "id": 7034,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Ajax",
+      "id": 7035,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Penthesilea",
+      "id": 7036,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Thamyris",
+      "id": 7037,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Dactyls",
+      "id": 7038,
+      "childs": {
+        "Default": 1,
+        "Doctor": 2,
+        "Flammenspeer": 3
+      }
+    },
+    {
+      "isc": "Teucer",
+      "id": 7039,
+      "childs": {
+        "Default": 1,
+        "Feuerbach MSV 2": 2,
+        "K1 Sniper": 3
+      }
+    },
+    {
+      "isc": "Drakios",
+      "id": 7040,
+      "childs": {
+        "Default": 1,
+        "2 Devabots": 2
+      }
+    },
+    {
+      "isc": "Scylla",
+      "id": 7041,
+      "childs": {
+        "Default": 1,
+        "HD, 2 Devabots": 2,
+        "AHD, 1 Devabot": 3,
+        "AHD, 2 Devabots": 4
+      }
+    },
+    {
+      "isc": "Acmon, Sergeant of Dactyls",
+      "id": 7042,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Hector, Homeridae's Champion",
+      "id": 7043,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "Plasma Lieutenant": 3,
+        "Spitfire Lieutenant": 4
+      }
+    }
+  ],
+  "Ariadna": [
+    {
+      "isc": "Line Kazak",
+      "id": 3001,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Paramedic": 3,
+        "Observer": 4,
+        "Missile Launcher": 5,
+        "Sniper Rifle": 6,
+        "Light Grenade Launcher": 7,
+        "AP HMG": 8
+      }
+    },
+    {
+      "isc": "Para-Commandos",
+      "id": 3002,
+      "childs": {
+        "Default": 1,
+        "Observer": 2,
+        "Sniper Rifle": 3,
+        "Light Grenade Launcher": 4,
+        "Boarding Shotgun": 5,
+        "HMG": 6
+      }
+    },
+    {
+      "isc": "Kazak Spetsnazs",
+      "id": 3003,
+      "childs": {
+        "Default": 1,
+        "Sniper Rifle": 2,
+        "Boarding Shotgun": 3,
+        "Rifle": 4
+      }
+    },
+    {
+      "isc": "USAriadna Grunts",
+      "id": 3004,
+      "childs": {
+        "Default": 1,
+        "LGL Lieutenant": 2,
+        "Lieutenant": 3,
+        "Paramedic": 4,
+        "Observer": 5,
+        "Inferior Infiltration": 6,
+        "Sniper Rifle": 7,
+        "Light Grenade Launcher": 8,
+        "HMG": 9,
+        "Heavy Flamethrower": 10
+      }
+    },
+    {
+      "isc": "TankHunters",
+      "id": 3005,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Missile Launcher": 3,
+        "Autocannon": 4,
+        "AP HMG": 5
+      }
+    },
+    {
+      "isc": "Minutemen",
+      "id": 3006,
+      "childs": {
+        "Default": 1,
+        "HMG Lieutenant": 2,
+        "Lieutenant": 3,
+        "Marksman": 4,
+        "Observer": 5,
+        "Missile Launcher": 6,
+        "Boarding Shotgun": 7,
+        "AP HMG": 8
+      }
+    },
+    {
+      "isc": "Moblots",
+      "id": 3007,
+      "childs": {
+        "Default": 1,
+        "Sapper": 2,
+        "Infiltrator AP": 3,
+        "HMG Lieutenant": 4,
+        "Lieutenant": 5,
+        "Paramedic": 6,
+        "Engineer": 7,
+        "Infiltration": 8,
+        "Mimetism": 9,
+        "Panzerfaust": 10,
+        "AP Rifle": 11,
+        "HMG": 12
+      }
+    },
+    {
+      "isc": "Veteran Kazaks",
+      "id": 3008,
+      "childs": {
+        "Default": 1,
+        "X Visor": 2,
+        "AP HMG Lieutenant": 3,
+        "Lieutenant": 4,
+        "Observer": 5,
+        "Paramedic": 6,
+        "Boarding Shotgun": 7,
+        "AP HMG": 8
+      }
+    },
+    {
+      "isc": "Foxtrot",
+      "id": 3009,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Observer": 3,
+        "Sniper Rifle": 4,
+        "Light Grenade Launcher": 5,
+        "Boarding Shotgun": 6
+      }
+    },
+    {
+      "isc": "Hardcases",
+      "id": 3010,
+      "childs": {
+        "Default": 1,
+        "Rifle": 2
+      }
+    },
+    {
+      "isc": "S.A.S.",
+      "id": 3011,
+      "childs": {
+        "Assault Pistol": 1,
+        "Chain Rifle": 2,
+        "Default": 3,
+        "Lieutenant": 4,
+        "Observer": 5,
+        "Sniper Rifle": 6,
+        "Boarding Shotgun": 7
+      }
+    },
+    {
+      "isc": "Scouts",
+      "id": 3012,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Observer": 3,
+        "AP Sniper Rifle": 4,
+        "Boarding Shotgun": 5,
+        "E/Mauler": 6
+      }
+    },
+    {
+      "isc": "45th Highlanders",
+      "id": 3013,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Chain Rifle": 3
+      }
+    },
+    {
+      "isc": "Irmandinhos",
+      "id": 3014,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Chain Rifle": 3
+      }
+    },
+    {
+      "isc": "Assault Pack Controller",
+      "id": 3015,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Kazak Doktor",
+      "id": 3016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "112, Emergency Service",
+      "id": 3017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "2nd Irregular Cameronians Reg.",
+      "id": 3018,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "3rd Highlander Greys",
+      "id": 3019,
+      "childs": {
+        "Lieutenant": 1,
+        "T2 Boarding Shotgun": 2,
+        "AP HMG": 3,
+        "T2 Rifle": 4,
+        "Default": 5
+      }
+    },
+    {
+      "isc": "9th Wulver Grenadiers",
+      "id": 3020,
+      "childs": {
+        "Default": 1,
+        "Heavy Shotgun": 2,
+        "T2 Rifle": 3
+      }
+    },
+    {
+      "isc": "Caledonian Mormaers",
+      "id": 3021,
+      "childs": {
+        "Lieutenant AP HMG": 1,
+        "Lieutenant": 2,
+        "AP HMG": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Caledonian Volunteers",
+      "id": 3022,
+      "childs": {
+        "Lieutenant": 1,
+        "Paramedic": 2,
+        "Camo Light Grenade Launcher": 3,
+        "Camo D-Charges": 4,
+        "Light Grenade Launcher": 5,
+        "HMG": 6,
+        "Chain Rifle": 7,
+        "Default": 8
+      }
+    },
+    {
+      "isc": "Chasseurs",
+      "id": 3023,
+      "childs": {
+        "Observer": 1,
+        "Minelayer": 2,
+        "ADHL": 3,
+        "AP Sniper Rifle": 4,
+        "Default": 5
+      }
+    },
+    {
+      "isc": "Dozers, Field Engineers",
+      "id": 3024,
+      "childs": {
+        "Mul Control": 1,
+        "Akrylat K": 2,
+        "Default": 3
+      }
+    },
+    {
+      "isc": "Highlander Caterans",
+      "id": 3025,
+      "childs": {
+        "T2 Sniper Rifle": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Loup-Garous",
+      "id": 3026,
+      "childs": {
+        "Sniper Rifle": 1,
+        "Flash Light Grenade Launcher": 2,
+        "ADHL": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Métros",
+      "id": 3027,
+      "childs": {
+        "Lieutenant": 1,
+        "Paramedic": 2,
+        "Camo Light Grenade Launcher": 3,
+        "Camo D.E.P.": 4,
+        "Camo D-Charges": 5,
+        "Light Grenade Launcher": 6,
+        "HMG": 7,
+        "Default": 8
+      }
+    },
+    {
+      "isc": "Traktor Mul, Artillery and Support Regiment",
+      "id": 3028,
+      "childs": {
+        "Uragan": 1,
+        "Katyusha": 2,
+        "Default": 3
+      }
+    },
+    {
+      "isc": "William Wallace",
+      "id": 3029,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Zouaves",
+      "id": 3030,
+      "childs": {
+        "Lieutenant": 1,
+        "Paramedic": 2,
+        "Sniper Rifle": 3,
+        "HMG": 4,
+        "Observer": 5,
+        "Light Grenade Launcher": 6,
+        "E/Mauler": 7,
+        "Default": 8
+      }
+    },
+    {
+      "isc": "Van Zant",
+      "id": 3031,
+      "childs": {
+        "Default": 1,
+        "Executive Order": 2
+      }
+    },
+    {
+      "isc": "Volunteer Intel Isobel McGregor",
+      "id": 3032,
+      "childs": {
+        "Default": 1,
+        "T2 Rifle": 2
+      }
+    },
+    {
+      "isc": "Uxia McNeill",
+      "id": 3033,
+      "childs": {
+        "Default": 1,
+        "Covert Action": 2
+      }
+    },
+    {
+      "isc": "Brigadier Jacques Bruant",
+      "id": 3034,
+      "childs": {
+        "Default": 1,
+        "Inferior Infiltration": 2,
+        "Lieutenant": 3
+      }
+    },
+    {
+      "isc": "Scot (2nd Battalion)",
+      "id": 3035,
+      "childs": {
+        "Default": 1,
+        "Molotok": 2,
+        "Missile Launcher": 3
+      }
+    },
+    {
+      "isc": "Scot (1st Battalion)",
+      "id": 3036,
+      "childs": {
+        "AP Marksman": 1,
+        "Default": 2,
+        "Molotok": 3,
+        "Missile Launcher": 4,
+        "Lieutenant": 5
+      }
+    },
+    {
+      "isc": "Briscard",
+      "id": 3037,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Observer": 3,
+        "Paramedic": 4,
+        "Heavy Rocket Launcher": 5,
+        "Sniper Rifle": 6
+      }
+    },
+    {
+      "isc": "Margot Berthier, Mirage-5",
+      "id": 3038,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Dog-Warriors",
+      "id": 3039,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Intel Spec-Ops",
+      "id": 3040,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Marauders, 5307th Ranger Unit",
+      "id": 3041,
+      "childs": {
+        "Default": 1,
+        "Molotok": 2,
+        "Boarding Shotgun": 3,
+        "Sniper": 4,
+        "Heavy Rocket Launcher": 5,
+        "Paramedic": 6,
+        "Haris": 7,
+        "Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Mavericks, 9th Motorized Recon Bat.",
+      "id": 3042,
+      "childs": {
+        "Molotok": 1,
+        "Boarding Shotgun": 2,
+        "Light Rocket Launcher": 3,
+        "Forward Observer": 4
+      }
+    },
+    {
+      "isc": "Devil Dog Teams, 2nd Assault Bat.",
+      "id": 3043,
+      "childs": {
+        "Default": 1,
+        "Heavy Shotgun": 2
+      }
+    },
+    {
+      "isc": "6th Airborne Rangers",
+      "id": 3044,
+      "childs": {
+        "Default": 1,
+        "Molotok": 2,
+        "Boarding Shotgun": 3,
+        "Rifle": 4,
+        "Forward Observer": 5,
+        "Lieutenant": 6
+      }
+    },
+    {
+      "isc": "Desperadoes",
+      "id": 3045,
+      "childs": {
+        "Default": 1,
+        "Assault Pistol": 2,
+        "Boarding Shotgun": 3,
+        "Submachine Gun": 4
+      }
+    },
+    {
+      "isc": "Col. Yevgueni Voronin",
+      "id": 3046,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    }
+  ],
+  "Combined Army": [
+    {
+      "isc": "Morat Vanguard Infantry",
+      "id": 6001,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "HMG": 3,
+        "Missile Launcher": 4,
+        "Grenadier": 5,
+        "K1 Sniper Rifle": 6,
+        "Observer": 7,
+        "Lieutenant": 8,
+        "Paramedic": 9
+      }
+    },
+    {
+      "isc": "Unidron Batroids",
+      "id": 6002,
+      "childs": {
+        "Default": 1,
+        "K1": 2,
+        "K1 Tinbot": 3,
+        "Plasma Sniper Rifle": 4,
+        "Missile Launcher": 5,
+        "Spitfire": 6,
+        "Observer": 7
+      }
+    },
+    {
+      "isc": "Fraacta Drop Unit",
+      "id": 6003,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Spitfire": 3,
+        "Hacker": 4
+      }
+    },
+    {
+      "isc": "Umbra Legates",
+      "id": 6004,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Spitfire": 3,
+        "Spitfire Lieutenant": 4,
+        "Lieutenant": 5
+      }
+    },
+    {
+      "isc": "Maakrep Trackers Unit",
+      "id": 6005,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "MULTI Sniper Rifle": 3,
+        "Boarding Shotgun": 4,
+        "Hacker": 5,
+        "Lieutenant": 6
+      }
+    },
+    {
+      "isc": "Rodok",
+      "id": 6006,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Missile Launcher": 4,
+        "Paramedic": 5,
+        "Hacker": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "The Charontids",
+      "id": 6007,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Sepsitor Tinbot": 3,
+        "Hacker": 4,
+        "Lieutenant": 5,
+        "HMG Lieutenant": 6,
+        "Sepsitor Lieutenant": 7,
+        "Sepsitor Tinbot Lieutenant": 8,
+        "Hacker Lieutenant": 9
+      }
+    },
+    {
+      "isc": "Raicho Armoured Brigade",
+      "id": 6008,
+      "childs": {
+        "Default": 1,
+        "Heavy Pistol": 2
+      }
+    },
+    {
+      "isc": "Avatar",
+      "id": 6009,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "The Shrouded",
+      "id": 6010,
+      "childs": {
+        "Minelayer": 1,
+        "Default": 2,
+        "MULTI Sniper Rifle": 3,
+        "Boarding Shotgun": 4,
+        "Hacker": 5,
+        "Observer": 6
+      }
+    },
+    {
+      "isc": "Malignos",
+      "id": 6011,
+      "childs": {
+        "Default": 1,
+        "MULTI Sniper Rifle": 2,
+        "Monofilament": 3,
+        "Boarding Shotgun": 4,
+        "Hacker": 5,
+        "Observer": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Speculo Killers",
+      "id": 6012,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2
+      }
+    },
+    {
+      "isc": "Dāturazi Witch-Soldiers",
+      "id": 6013,
+      "childs": {
+        "Default": 1,
+        "AP CCW": 2,
+        "DA CCW": 3,
+        "Chain Rifle": 4,
+        "Boarding Shotgun": 5,
+        "Grenadier": 6
+      }
+    },
+    {
+      "isc": "The Hungries: \"Gakis\"",
+      "id": 6014,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "The Hungries: \"Pretas\"",
+      "id": 6015,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Med-Tech Obsidon Medchanoid",
+      "id": 6016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "M-Drone",
+      "id": 6017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Q-Drone",
+      "id": 6018,
+      "childs": {
+        "Default": 1,
+        "Plasma": 2
+      }
+    },
+    {
+      "isc": "T-Drone",
+      "id": 6019,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "R-Drone",
+      "id": 6020,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Imetron",
+      "id": 6021,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Kurgat Reg. of Assault Engineers",
+      "id": 6022,
+      "childs": {
+        "Default": 1,
+        "Mk12": 2,
+        "Boarding Shotgun": 3
+      }
+    },
+    {
+      "isc": "Rasyat Diplomatic Division",
+      "id": 6023,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "E/Mitter": 3,
+        "Boarding Shotgun": 4
+      }
+    },
+    {
+      "isc": "Shasvastii Aswangs",
+      "id": 6024,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Spitfire": 3,
+        "Boarding Shotgun": 4
+      }
+    },
+    {
+      "isc": "Shasvastii Cadmus",
+      "id": 6025,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Grenadier": 3
+      }
+    },
+    {
+      "isc": "Shasvastii Gwailos",
+      "id": 6026,
+      "childs": {
+        "Boarding Shotgun Lieutenant": 1,
+        "Lieutenant": 2,
+        "Hacker": 3,
+        "Spitfire": 4,
+        "Boarding Shotgun": 5,
+        "Default": 6,
+        "Heavy Rocket Launcher": 7
+      }
+    },
+    {
+      "isc": "Shasvastii Haiduks",
+      "id": 6027,
+      "childs": {
+        "Default": 1,
+        "Smart MULTI Sniper Rifle": 2
+      }
+    },
+    {
+      "isc": "Shasvastii Noctifers",
+      "id": 6028,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Hacker": 3,
+        "Missile Launcher": 4,
+        "Spitfire": 5
+      }
+    },
+    {
+      "isc": "Shasvastii Special Armoured Corp Sphinx",
+      "id": 6029,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Shasvastii Seed-Soldiers",
+      "id": 6030,
+      "childs": {
+        "Default": 1,
+        "Grenadier": 2,
+        "Observer": 3,
+        "Paramedic": 4
+      }
+    },
+    {
+      "isc": "Shasvastii Corax Hasht",
+      "id": 6031,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Skiávoros",
+      "id": 6032,
+      "childs": {
+        "Sepsitor Lieutenant": 1,
+        "Lieutenant": 2,
+        "Hacker": 3,
+        "Sepsitor": 4,
+        "Spitfire": 5,
+        "Default": 6
+      }
+    },
+    {
+      "isc": "Slave Drones",
+      "id": 6033,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Sogarat Tempest Regiment",
+      "id": 6034,
+      "childs": {
+        "Feuerbach Lieutenant": 1,
+        "Feuerbach": 2,
+        "HMG Lieutenant": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "The Anathematics",
+      "id": 6035,
+      "childs": {
+        "Lieutenant": 1,
+        "Hacker": 2,
+        "Sepsitor": 3,
+        "Spitfire": 4,
+        "Default": 5
+      }
+    },
+    {
+      "isc": "Yaogat Strike Infantry",
+      "id": 6036,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Spitfire": 3,
+        "MULTI Sniper Rifle": 4,
+        "Boarding Shotgun, Grenades": 5,
+        "Grenades": 6
+      }
+    },
+    {
+      "isc": "Zerat Special Missions Regiment",
+      "id": 6037,
+      "childs": {
+        "Hacker": 1,
+        "MULTI Sniper Rifle": 2,
+        "Boarding Shotgun": 3,
+        "E/Mitter": 4,
+        "Default": 5
+      }
+    },
+    {
+      "isc": "Cadmus-Naish Agent Sheskiin",
+      "id": 6038,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Treitak Spec-Ops",
+      "id": 6039,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Treitak Anyat",
+      "id": 6040,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Corax Spec-Ops",
+      "id": 6041,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Ikadron Batroids",
+      "id": 6042,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Ko Dali",
+      "id": 6043,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Shasvastii Caliban (Seed-Embryo)",
+      "id": 6044,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Feuerbach": 3,
+        "Hacker": 4,
+        "Engineer": 5,
+        "Engineer Boarding Shotgun": 6
+      }
+    },
+    {
+      "isc": "Shasvastii Caliban (Infiltration)",
+      "id": 6045,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Engineer": 3,
+        "Engineer Boarding Shotgun": 4
+      }
+    },
+    {
+      "isc": "Shasvastii Caliban (Developed)",
+      "id": 6046,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Feuerbach": 3,
+        "Hacker": 4,
+        "Engineer": 5,
+        "Engineer Boarding Shotgun": 6
+      }
+    },
+    {
+      "isc": "Raktorak",
+      "id": 6047,
+      "childs": {
+        "Default": 1,
+        "Vulkan": 2
+      }
+    },
+    {
+      "isc": "Suryats",
+      "id": 6048,
+      "childs": {
+        "Default": 1,
+        "Combi": 2,
+        "MULTI": 3,
+        "Heavy Rocket Launcher": 4,
+        "HMG": 5,
+        "Lieutenant": 6,
+        "Lieutenant HMG": 7
+      }
+    },
+    {
+      "isc": "Oznat",
+      "id": 6049,
+      "childs": {
+        "Default": 1,
+        "Vulkan Shotgun": 2
+      }
+    },
+    {
+      "isc": "Kornak Gazarot",
+      "id": 6050,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "E-Drone",
+      "id": 6051,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Umbra Samaritans",
+      "id": 6052,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "Hacker": 3,
+        "Breaker Combi Lieutenant": 4,
+        "Spitfire Lieutenant": 5
+      }
+    }
+  ],
+  "Haqqislam": [
+    {
+      "isc": "Daylami Infantry",
+      "id": 4001,
+      "childs": {
+        "Default": 1,
+        "Camo+Panzerfaust": 2,
+        "Camo": 3,
+        "HMG": 4,
+        "Grenadier": 5,
+        "Panzerfaust": 6
+      }
+    },
+    {
+      "isc": "Ghulam",
+      "id": 4002,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "HMG": 3,
+        "Missile Launcher": 4,
+        "Grenadier": 5,
+        "Sniper Rifle": 6,
+        "Panzerfaust": 7,
+        "Doctor": 8,
+        "Observer": 9,
+        "Deployable Repeater": 10,
+        "Lieutenant": 11,
+        "HMG Lieutenant": 12,
+        "Missile Launcher Lieutenant": 13
+      }
+    },
+    {
+      "isc": "Naffatûn",
+      "id": 4003,
+      "childs": {
+        "Default": 1,
+        "HFT": 2,
+        "Lieutenant": 3
+      }
+    },
+    {
+      "isc": "Halqa",
+      "id": 4004,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Doctor": 3,
+        "Observer": 4,
+        "HMG": 5,
+        "Missile Launcher": 6,
+        "Grenadier": 7,
+        "Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Khawarijs",
+      "id": 4005,
+      "childs": {
+        "Default": 1,
+        "Panzerfaust": 2,
+        "Spitfire": 3,
+        "Doctor": 4,
+        "Lieutenant": 5,
+        "Spitfire Lieutenant": 6
+      }
+    },
+    {
+      "isc": "Djanbazan",
+      "id": 4006,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "HMG": 3,
+        "Sniper Rifle": 4,
+        "Lieutenant": 5,
+        "Doctor": 6
+      }
+    },
+    {
+      "isc": "Hassassin Ragiks",
+      "id": 4007,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Spitfire": 3,
+        "Boarding Shotgun": 4
+      }
+    },
+    {
+      "isc": "Janissaries",
+      "id": 4008,
+      "childs": {
+        "Default": 1,
+        "Tinbot": 2,
+        "HMG": 3,
+        "Boarding Shotgun": 4,
+        "Lieutenant": 5,
+        "Doctor": 6,
+        "Missile Launcher": 7,
+        "BSG Tinbot": 8
+      }
+    },
+    {
+      "isc": "Ahl Fassed",
+      "id": 4009,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Panzerfaust": 4
+      }
+    },
+    {
+      "isc": "Maghariba Guard",
+      "id": 4010,
+      "childs": {
+        "Default": 1,
+        "Heavy Pistols": 2,
+        "360° Visor": 3
+      }
+    },
+    {
+      "isc": "Hunzakuts",
+      "id": 4011,
+      "childs": {
+        "Default": 1,
+        "Sniper Rifle": 2,
+        "Observer+Repeater": 3
+      }
+    },
+    {
+      "isc": "Murabids Tuareg",
+      "id": 4012,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Sniper Rifle": 3,
+        "Boarding Shotgun": 4,
+        "Doctor": 5
+      }
+    },
+    {
+      "isc": "Hassassin Fiday",
+      "id": 4013,
+      "childs": {
+        "Default": 1,
+        "Mines": 2,
+        "Boarding Shotgun": 3,
+        "AP CCW": 4
+      }
+    },
+    {
+      "isc": "Kum",
+      "id": 4014,
+      "childs": {
+        "Default": 1,
+        "Chain Rifle": 2,
+        "E/M CCW": 3
+      }
+    },
+    {
+      "isc": "Muttawi'ah",
+      "id": 4015,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2
+      }
+    },
+    {
+      "isc": "Najjarun Engineer",
+      "id": 4016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Rafiq Remote",
+      "id": 4017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Shihab Remote",
+      "id": 4018,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Shaytaniyah Remote",
+      "id": 4019,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Fanous Remote",
+      "id": 4020,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Tarik Mansuri",
+      "id": 4021,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "Lieutenant": 3,
+        "Spitfire Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Kasym Beg",
+      "id": 4022,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Kasym Beg (Lieutenant)",
+      "id": 4023,
+      "childs": {
+        "Lieutenant": 1
+      }
+    },
+    {
+      "isc": "Al Hawwa' Unit",
+      "id": 4024,
+      "childs": {
+        "Default": 1,
+        "Observer": 2,
+        "Hacker": 3
+      }
+    },
+    {
+      "isc": "Asawira Regiment",
+      "id": 4025,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Doctor": 3,
+        "Spitfire": 4,
+        "DA CCW": 5,
+        "Boarding Shotgun": 6
+      }
+    },
+    {
+      "isc": "Azra'il",
+      "id": 4026,
+      "childs": {
+        "Feuerbach": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Bashi Bazouk",
+      "id": 4027,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "AP Rifle": 3,
+        "E/Mauler": 4
+      }
+    },
+    {
+      "isc": "Hafza Unit",
+      "id": 4028,
+      "childs": {
+        "Default": 1,
+        "Lieutenant+Spitfire": 2,
+        "Lieutenant": 3,
+        "Observer": 4,
+        "Spitfire": 5
+      }
+    },
+    {
+      "isc": "Hassassin Farzans",
+      "id": 4029,
+      "childs": {
+        "Default": 1,
+        "Observer": 2
+      }
+    },
+    {
+      "isc": "Hassassin Lasiqs",
+      "id": 4030,
+      "childs": {
+        "Default": 1,
+        "Viral Sniper Rifle": 2
+      }
+    },
+    {
+      "isc": "Hassassin Muyibs",
+      "id": 4031,
+      "childs": {
+        "Default": 1,
+        "Smoke": 2,
+        "Lieutenant": 3,
+        "Doctor": 4,
+        "Spitfire": 5,
+        "Minelayer (Viral)": 6,
+        "Minelayer (E/Mauler)": 7,
+        "Heavy Rocket Launcher": 8
+      }
+    },
+    {
+      "isc": "Hussein Al-Djabel",
+      "id": 4032,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Kameel Remotes",
+      "id": 4033,
+      "childs": {
+        "Default": 1,
+        "Rifle": 2,
+        "EVO": 3
+      }
+    },
+    {
+      "isc": "Nasmat Remotes",
+      "id": 4034,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Odalisques",
+      "id": 4035,
+      "childs": {
+        "Default": 1,
+        "Haris": 2,
+        "SMG": 3,
+        "Boarding Shotgun": 4,
+        "Spitfire": 5
+      }
+    },
+    {
+      "isc": "Saladin, O-12 Liaison Officer",
+      "id": 4036,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Husam Spec-Ops",
+      "id": 4037,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Hassassin Husam Yasbir",
+      "id": 4038,
+      "childs": {
+        "Default": 1,
+        "Infiltration": 2
+      }
+    },
+    {
+      "isc": "KTS, Kaplan Tactical Services",
+      "id": 4039,
+      "childs": {
+        "ADHL": 1,
+        "Default": 2,
+        "MULTI Sniper Rifle": 3,
+        "Spitfire": 4,
+        "Engineer ADHL": 5,
+        "Engineer Blitzen": 6,
+        "Doctor": 7
+      }
+    },
+    {
+      "isc": "Hassassin Barid",
+      "id": 4040,
+      "childs": {
+        "Default": 1,
+        "Hacker+Observer": 2,
+        "Observer": 3,
+        "Hacker+Lieutenant": 4,
+        "Observer+Lieutenant": 5
+      }
+    },
+    {
+      "isc": "Sekban",
+      "id": 4041,
+      "childs": {
+        "Default": 1,
+        "AP Rifle": 2,
+        "Spitfire": 3,
+        "Heavy Rocket Launcher": 4,
+        "Haris": 5,
+        "Doctor": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Hassassin Govads",
+      "id": 4042,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Sniper Rifle": 4,
+        "Missile Launcher": 5,
+        "Hacker": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Zhayedan Intervention Troops",
+      "id": 4043,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Sniper Rifle": 3,
+        "Missile Launcher": 4,
+        "Doctor": 5,
+        "Lieutenant": 6,
+        "HMG Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Zamira Nazarova",
+      "id": 4044,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Zuleyka Nazarova",
+      "id": 4045,
+      "childs": {
+        "Default": 1
+      }
+    }
+  ],
+  "Mercenary": [
+    {
+      "isc": "Yuan Yuan",
+      "id": 9001,
+      "childs": {
+        "Rifle": 1,
+        "Boarding Shotgun": 2,
+        "AP CCW": 3,
+        "DA CCW": 4,
+        "Default": 5
+      }
+    },
+    {
+      "isc": "Bashi Bazouk",
+      "id": 9002,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "AP Rifle": 3,
+        "E/Mauler": 4
+      }
+    },
+    {
+      "isc": "Druze Shock Teams",
+      "id": 9003,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "LGL": 3,
+        "Spitfire": 4
+      }
+    },
+    {
+      "isc": "Highlander Caterans",
+      "id": 9004,
+      "childs": {
+        "T2 Sniper Rifle": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "McMurrough",
+      "id": 9005,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Kempeitai",
+      "id": 9006,
+      "childs": {
+        "Boarding Shotgun": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Saito Tōgan",
+      "id": 9007,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Miyamoto Mushashi",
+      "id": 9008,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Avicenna",
+      "id": 9009,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Father Lucien Sforza",
+      "id": 9010,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Señor Massacre",
+      "id": 9011,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2
+      }
+    },
+    {
+      "isc": "Valerya Gromoz, Mercenary Hacker",
+      "id": 9012,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "KTS, Kaplan Tactical Services",
+      "id": 9013,
+      "childs": {
+        "ADHL": 1,
+        "Default": 2,
+        "MULTI Sniper Rifle": 3,
+        "Spitfire": 4,
+        "Engineer ADHL": 5,
+        "Engineer Blitzen": 6,
+        "Doctor": 7
+      }
+    },
+    {
+      "isc": "Yojimbo",
+      "id": 9014,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Scarface",
+      "id": 9015,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Anaconda",
+      "id": 9016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Warcor",
+      "id": 9017,
+      "childs": {
+        "Default": 1,
+        "Aerocam": 2
+      }
+    },
+    {
+      "isc": "Authorized Bounty Hunters",
+      "id": 9018,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Sniper Rifle": 3,
+        "Spitfire": 4
+      }
+    },
+    {
+      "isc": "Miranda Ashcroft",
+      "id": 9019,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2
+      }
+    },
+    {
+      "isc": "CSU, Corporate Security Unit",
+      "id": 9020,
+      "childs": {
+        "Default": 1,
+        "Combi": 2,
+        "Boarding Shotgun": 3
+      }
+    },
+    {
+      "isc": "Wardrivers",
+      "id": 9021,
+      "childs": {
+        "Default": 1,
+        "Defensive Hacking Device": 2
+      }
+    },
+    {
+      "isc": "Armand 'Le Muet'",
+      "id": 9022,
+      "childs": {
+        "Default": 1,
+        "MSV 1": 2
+      }
+    },
+    {
+      "isc": "Krakot Renegades, Morat Fugitives",
+      "id": 9023,
+      "childs": {
+        "Dual SMG": 1,
+        "Boarding Shotgun": 2,
+        "Dual Chain Rifle": 3,
+        "SMG": 4
+      }
+    }
+  ],
+  "Nomads": [
+    {
+      "isc": "Alguaciles",
+      "id": 5001,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Grenadier": 3,
+        "MULTI Sniper Rifle": 4,
+        "Missile Launcher": 5,
+        "Hacker": 6,
+        "Observer+Repeater": 7,
+        "Paramedic": 8,
+        "Lieutenant": 9
+      }
+    },
+    {
+      "isc": "Grenzers",
+      "id": 5002,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "MULTI Sniper Rifle": 3,
+        "Missile Launcher": 4,
+        "Spitfire": 5,
+        "Observer": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Securitate",
+      "id": 5003,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "MULTI Sniper Rifle": 3,
+        "Hacker": 4,
+        "Paramedic": 5,
+        "Lieutenant": 6
+      }
+    },
+    {
+      "isc": "Hellcats",
+      "id": 5004,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Adhesive": 4,
+        "Spitfire": 5,
+        "Hacker": 6,
+        "Deployable Repeater": 7,
+        "Paramedic": 8,
+        "Lieutenant": 9
+      }
+    },
+    {
+      "isc": "Intruders",
+      "id": 5005,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Adhesive": 3,
+        "MULTI Sniper Rifle": 4,
+        "Hacker": 5,
+        "Lieutenant": 6
+      }
+    },
+    {
+      "isc": "Reverend Moiras",
+      "id": 5006,
+      "childs": {
+        "Default": 1,
+        "E/Mitter": 2,
+        "AP CCW": 3,
+        "HMG": 4,
+        "MULTI Sniper Rifle": 5,
+        "E/M LGL": 6,
+        "Hacker": 7,
+        "Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Reverend Healers",
+      "id": 5007,
+      "childs": {
+        "Default": 1,
+        "MULTI": 2,
+        "Boarding Shotgun": 3
+      }
+    },
+    {
+      "isc": "Mobile Brigada",
+      "id": 5008,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Combi": 4,
+        "Tinbot": 5,
+        "Lieutenant": 6,
+        "Missile Launcher": 7,
+        "Hacker": 8
+      }
+    },
+    {
+      "isc": "Lizard",
+      "id": 5009,
+      "childs": {
+        "Default": 1,
+        "HFT": 2
+      }
+    },
+    {
+      "isc": "Szalamandra",
+      "id": 5010,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Zeros",
+      "id": 5011,
+      "childs": {
+        "Default": 1,
+        "Minelayer": 2,
+        "Boarding Shotgun": 3,
+        "MULTI Sniper Rifle": 4,
+        "Hacker": 5,
+        "Observer": 6,
+        "Repeater/E-Mauler": 7
+      }
+    },
+    {
+      "isc": "Spektrs",
+      "id": 5012,
+      "childs": {
+        "Default": 1,
+        "MULTI Sniper Rifle": 2,
+        "Hacker": 3,
+        "Observer": 4,
+        "Repeater/E-Mauler": 5,
+        "Boarding Shotgun": 6
+      }
+    },
+    {
+      "isc": "Corregidor Bandits",
+      "id": 5013,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "LSG+ADHL": 3,
+        "Hacker": 4,
+        "Observer": 5,
+        "Deployable repeater": 6
+      }
+    },
+    {
+      "isc": "Die Morlock Gruppe",
+      "id": 5014,
+      "childs": {
+        "Default": 1,
+        "Assault Pistol": 2,
+        "E/M CCW": 3,
+        "Chain Rifle": 4,
+        "Boarding Shotgun": 5,
+        "Smoke GL": 6
+      }
+    },
+    {
+      "isc": "Corregidor Jaguars",
+      "id": 5015,
+      "childs": {
+        "Default": 1,
+        "Chain Rifle": 2,
+        "ADHL": 3
+      }
+    },
+    {
+      "isc": "Daktaris",
+      "id": 5016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Clockmakers",
+      "id": 5017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Interventor",
+      "id": 5018,
+      "childs": {
+        "Default": 1,
+        "Combi Panda": 2,
+        "Boarding Shotgun Panda": 3,
+        "Boarding Shotgun": 4,
+        "Lieutenant": 5,
+        "Lieutenant Panda": 6
+      }
+    },
+    {
+      "isc": "Stempler Zond",
+      "id": 5019,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Reaktion Zond",
+      "id": 5020,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Vertigo Zond",
+      "id": 5021,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Meteor Zond",
+      "id": 5022,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Transductor Zond",
+      "id": 5023,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Zoe",
+      "id": 5024,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Bran do Castro, Triple Zero",
+      "id": 5025,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Iguana Squadron",
+      "id": 5026,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Lunokhod Sputniks",
+      "id": 5027,
+      "childs": {
+        "Default": 1,
+        "Akrylat-Kanone": 2
+      }
+    },
+    {
+      "isc": "Moderators from Bakunin",
+      "id": 5028,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Paramedic": 3,
+        "Hacker": 4,
+        "Marker": 5,
+        "MULTI Sniper Rifle": 6,
+        "Grenadier": 7,
+        "Spitfire": 8
+      }
+    },
+    {
+      "isc": "Moran, Maasai Hunter",
+      "id": 5029,
+      "childs": {
+        "Default": 1,
+        "Observer": 2,
+        "Boarding Shotgun": 3
+      }
+    },
+    {
+      "isc": "Prowlers",
+      "id": 5030,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Spitfire": 3
+      }
+    },
+    {
+      "isc": "Reverend Custodiers",
+      "id": 5031,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2,
+        "Combi": 3,
+        "Boarding Shotgun": 4
+      }
+    },
+    {
+      "isc": "Salyut Zonds",
+      "id": 5032,
+      "childs": {
+        "Default": 1,
+        "Rifle": 2,
+        "EVO": 3
+      }
+    },
+    {
+      "isc": "Sin-Eater Observants",
+      "id": 5033,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "MULTI Sniper Rifle": 3,
+        "Mk12": 4
+      }
+    },
+    {
+      "isc": "Tomcats",
+      "id": 5034,
+      "childs": {
+        "Default": 1,
+        "Engineer+Zondcat": 2,
+        "Doctor+Zondcat": 3,
+        "Engineer": 4,
+        "Doctor": 5,
+        "Deplo Repeater": 6,
+        "E/Mitter": 7
+      }
+    },
+    {
+      "isc": "Tsyklon Sputniks",
+      "id": 5035,
+      "childs": {
+        "Default": 1,
+        "Feuerbach": 2
+      }
+    },
+    {
+      "isc": "Zondbots",
+      "id": 5036,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Bakunin Überfallkommando : Chimera",
+      "id": 5037,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Bakunin Überfallkommando : Pupniks",
+      "id": 5038,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Reverend Superior CASSANDRA KUSANAGI",
+      "id": 5039,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Carlota Kowalsky, Tomcats Sergeant",
+      "id": 5040,
+      "childs": {
+        "Engineer+Moriarty": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Riot Grrls",
+      "id": 5041,
+      "childs": {
+        "Spitfire": 1,
+        "Multi": 2,
+        "Boarding Shotgun": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Vortex Spec-Ops",
+      "id": 5042,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Alguacil Vortex Lupe Balboa",
+      "id": 5043,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Wildcats, Polyvalent Tactical Unit",
+      "id": 5044,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Heavy Rocket Launcher": 3,
+        "Spitfire": 4,
+        "Hacker": 5,
+        "Engineer": 6,
+        "Lieutenant ": 7,
+        "N2": 8
+      }
+    },
+    {
+      "isc": "Gecko",
+      "id": 5045,
+      "childs": {
+        "Default": 1,
+        "Mk12": 2
+      }
+    }
+  ],
+  "PanOceania": [
+    {
+      "isc": "Fusiliers",
+      "id": 1001,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Hacker": 3,
+        "Missile Launcher": 4,
+        "Grenadier": 5,
+        "MULTI Sniper Rifle": 6,
+        "Lieutenant": 7,
+        "Paramedic": 8,
+        "Observer+Repeater": 9
+      }
+    },
+    {
+      "isc": "Kamau",
+      "id": 1002,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Hacker": 3,
+        "Grenadier": 4,
+        "MULTI Sniper Rifle": 5,
+        "Lieutenant": 6,
+        "Paramedic": 7
+      }
+    },
+    {
+      "isc": "Bagh-Mari",
+      "id": 1003,
+      "childs": {
+        "HMG Lieutenant": 1,
+        "MULTI Sniper Rifle": 2,
+        "Boarding Shotgun": 3,
+        "Default": 4,
+        "HMG": 5,
+        "Hacker": 6,
+        "Lieutenant": 7,
+        "Paramedic": 8
+      }
+    },
+    {
+      "isc": "Akalis",
+      "id": 1004,
+      "childs": {
+        "Default": 1,
+        "E/Mitter": 2,
+        "Spitfire": 3,
+        "Hacker": 4,
+        "Boarding Shotgun": 5
+      }
+    },
+    {
+      "isc": "Nisses",
+      "id": 1005,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Hacker": 3,
+        "MULTI Sniper Rifle": 4,
+        "Lieutenant": 5,
+        "Paramedic": 6
+      }
+    },
+    {
+      "isc": "Orc Troops",
+      "id": 1006,
+      "childs": {
+        "Default": 1,
+        "Tinbot": 2,
+        "HMG": 3,
+        "Boarding Shotgun": 4,
+        "Combi": 5,
+        "Hacker": 6,
+        "Lieutenant": 7,
+        "HMG Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Knights Hospitaller",
+      "id": 1007,
+      "childs": {
+        "AP CCW": 1,
+        "DA CCW": 2,
+        "HMG": 3,
+        "Boarding Shotgun": 4,
+        "Combi": 5,
+        "Doctor": 6,
+        "AP Lieutenant": 7,
+        "DA Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Father-Knights",
+      "id": 1008,
+      "childs": {
+        "Combi": 1,
+        "Boarding Shotgun": 2,
+        "Missile Launcher": 3,
+        "Spitfire": 4,
+        "Hacker": 5,
+        "Observer": 6,
+        "Lieutenant": 7,
+        "Spitfire Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Aquila Guard",
+      "id": 1009,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Lieutenant": 3
+      }
+    },
+    {
+      "isc": "Swiss Guard",
+      "id": 1010,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Missile Launcher": 3,
+        "Hacker": 4
+      }
+    },
+    {
+      "isc": "Squalos",
+      "id": 1011,
+      "childs": {
+        "Default": 1,
+        "HGL": 2,
+        "Lieutenant": 3
+      }
+    },
+    {
+      "isc": "Dragoes",
+      "id": 1012,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Cutters",
+      "id": 1013,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Jotums",
+      "id": 1014,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Croc Men",
+      "id": 1015,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "MULTI Sniper Rifle": 3,
+        "Hacker": 4,
+        "Observer+Repeater": 5,
+        "Lieutenant": 6,
+        "Minelayer": 7
+      }
+    },
+    {
+      "isc": "Trauma-Doc",
+      "id": 1016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Machinist",
+      "id": 1017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Pathfinder Dronbot",
+      "id": 1018,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Sierra Dronbot",
+      "id": 1019,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Clipper Dronbot",
+      "id": 1020,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Fugazi Dronbot",
+      "id": 1021,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Joan of Arc",
+      "id": 1022,
+      "childs": {
+        "AP CCW": 1,
+        "DA CCW": 2,
+        "AP CCW Lieutenant": 3,
+        "DA CCW Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Acontecimento Regulars",
+      "id": 1023,
+      "childs": {
+        "Default": 1,
+        "Grenadier": 2,
+        "Spitfire": 3,
+        "Observer": 4,
+        "MULTI Sniper Rifle": 5,
+        "Hacker": 6,
+        "MineLayer": 7,
+        "Paramedic": 8,
+        "Lieutenant": 9
+      }
+    },
+    {
+      "isc": "Auxilia",
+      "id": 1024,
+      "childs": {
+        "Default": 1,
+        "Observer": 2,
+        "Lieutenant": 3
+      }
+    },
+    {
+      "isc": "Hexas, Strategic Security Division",
+      "id": 1025,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "MULTI Sniper Rifle": 3,
+        "Spitfire": 4
+      }
+    },
+    {
+      "isc": "Knights Of Santiago",
+      "id": 1026,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Combi": 3,
+        "Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Mulebots",
+      "id": 1027,
+      "childs": {
+        "Default": 1,
+        "Rifle": 2,
+        "EVO": 3
+      }
+    },
+    {
+      "isc": "Palbots",
+      "id": 1028,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Father-Officer Gabriele De Fersen",
+      "id": 1029,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Order Sergeants",
+      "id": 1030,
+      "childs": {
+        "Infiltrator MULTI Sniper Rifle": 1,
+        "Infiltrator Observer": 2,
+        "MSV2 Spitfire": 3,
+        "Hacker": 4,
+        "Auxbot": 5,
+        "Spitfire": 6,
+        "MULTI Sniper Rifle": 7,
+        "Default": 8
+      }
+    },
+    {
+      "isc": "Guarda de Assalto",
+      "id": 1032,
+      "childs": {
+        "Spitfire": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Knights of Montesa",
+      "id": 1033,
+      "childs": {
+        "Lieutenant": 1,
+        "Grenadier": 2,
+        "Spitfire": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Knights of the Holy Sepulchre",
+      "id": 1034,
+      "childs": {
+        "Spitfire Lieutenant": 1,
+        "Spitfire": 2,
+        "Lieutenant": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Teutonic Knights",
+      "id": 1035,
+      "childs": {
+        "Lieutenant": 1,
+        "Spitfire": 2,
+        "EXP CCW": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Magister Knights",
+      "id": 1036,
+      "childs": {
+        "Missile Launcher": 1,
+        "DA CCW": 2,
+        "EXP CCW": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Clausewitz Uhlans",
+      "id": 1037,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Tikbalangs, Armoured Chasseurs of Acontecimento",
+      "id": 1038,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Seraphs",
+      "id": 1039,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Armbots: Bulleteers",
+      "id": 1040,
+      "childs": {
+        "Spitfire": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Armbots: Peacemakers",
+      "id": 1041,
+      "childs": {
+        "Spitfire": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Kirpal Singh, Akalis Sergeant",
+      "id": 1042,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Toni Macayana, Tikbalangs Lieutenant",
+      "id": 1043,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Joan of Arc 2.0 (Mobility Armor)",
+      "id": 1044,
+      "childs": {
+        "Lieutenant": 1,
+        "EXP CCW": 2,
+        "Default": 3
+      }
+    },
+    {
+      "isc": "Indigo Spec-Ops",
+      "id": 1045,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Fusilier Indigo Bipandra",
+      "id": 1046,
+      "childs": {
+        "Doctor": 1
+      }
+    },
+    {
+      "isc": "Indigo Brother Konstantinos",
+      "id": 1047,
+      "childs": {
+        "Default": 1,
+        "Infiltration": 2
+      }
+    },
+    {
+      "isc": "Crusader Brethren",
+      "id": 1048,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "MULTI": 4
+      }
+    },
+    {
+      "isc": "Lieutenant Stephen Rao",
+      "id": 1049,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Neoterra Bolts",
+      "id": 1050,
+      "childs": {
+        "Default": 1,
+        "Drop Bear": 2,
+        "Boarding Shotgun": 3,
+        "MULTI Sniper Rifle": 4,
+        "Missile Launcher": 5,
+        "Spitfire": 6,
+        "Hacker": 7,
+        "Paramedic": 8,
+        "Lieutenant": 9
+      }
+    }
+  ],
+  "Military Orders": [
+    {
+      "isc": "Spec. Sergeants",
+      "id": 1031,
+      "childs": {
+        "Infiltrator MULTI Sniper Rifle": 1,
+        "Infiltrator Observer": 2,
+        "MSV2 Spitfire": 3,
+        "Hacker": 4,
+        "Auxbot": 5
+      }
+    }
+  ],
+  "Tohaa": [
+    {
+      "isc": "Kamael Light Infantry",
+      "id": 8001,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "Grenadier": 3,
+        "Sniper Rifle": 4,
+        "Hacker": 5,
+        "Observer": 6,
+        "Paramedic": 7,
+        "Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Sakiel Regiment",
+      "id": 8002,
+      "childs": {
+        "Default": 1,
+        "Null": 2,
+        "Light Rocket Launcher": 3,
+        "Viral": 4,
+        "Spitfire": 5,
+        "Paramedic": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Ectros Regiment",
+      "id": 8003,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Vulkan": 3,
+        "Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Clipsos Infiltrators",
+      "id": 8004,
+      "childs": {
+        "Default": 1,
+        "SWG": 2,
+        "Null": 3,
+        "Sniper Rifle": 4,
+        "Minelayer": 5,
+        "Observer": 6
+      }
+    },
+    {
+      "isc": "Tohaa Diplomatic Delegates",
+      "id": 8005,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Gao-Rael",
+      "id": 8006,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Sniper Rifle": 3,
+        "Spitfire": 4,
+        "Lieutenant": 5
+      }
+    },
+    {
+      "isc": "Gao-Tarsos",
+      "id": 8007,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Param": 4
+      }
+    },
+    {
+      "isc": "Gorgos",
+      "id": 8008,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Makaul",
+      "id": 8009,
+      "childs": {
+        "Default": 1,
+        "Swarm": 2,
+        "Boarding Shotgun": 3,
+        "Combi": 4
+      }
+    },
+    {
+      "isc": "Kumotail",
+      "id": 8010,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Chaksa Auxiliars",
+      "id": 8011,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Smart Rocket Launcher": 3
+      }
+    },
+    {
+      "isc": "Chaksa Servant",
+      "id": 8012,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Neema Saatar",
+      "id": 8013,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Hatail Spec-Ops",
+      "id": 8014,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Hatail Aelis Keesan",
+      "id": 8015,
+      "childs": {
+        "Default": 1,
+        "K1 Combi": 2
+      }
+    },
+    {
+      "isc": "Nikoul Ambush Unit",
+      "id": 8016,
+      "childs": {
+        "Default": 1,
+        "Minelayer": 2
+      }
+    },
+    {
+      "isc": "Kotail Mobile Unit",
+      "id": 8017,
+      "childs": {
+        "Default": 1,
+        "Dual Combi": 2,
+        "Boarding Shotgun": 3,
+        "Spitfire": 4,
+        "Observer": 5
+      }
+    },
+    {
+      "isc": "Rasail Boarding Team",
+      "id": 8018,
+      "childs": {
+        "Default": 1,
+        "Viral Combi": 2,
+        "Boarding Shotgun": 3,
+        "Dual Contenders": 4,
+        "Spitfire": 5,
+        "Lieutenant": 6,
+        "Viral Combi Lieutenant": 7,
+        "Spitfire Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Kaeltar Specialists",
+      "id": 8019,
+      "childs": {
+        "Default": 1,
+        "SymbioMate Combi": 2,
+        "SymbioBomb Shotgun": 3,
+        "SymbioBomb Combi": 4
+      }
+    },
+    {
+      "isc": "Igao",
+      "id": 8020,
+      "childs": {
+        "Default": 1,
+        "Combi": 2
+      }
+    },
+    {
+      "isc": "Kosuil Assault Pioneers",
+      "id": 8021,
+      "childs": {
+        "Default": 1,
+        "Minelayer": 2,
+        "Boarding Shotgun Engineer": 3
+      }
+    },
+    {
+      "isc": "Kerail Preceptors",
+      "id": 8022,
+      "childs": {
+        "Default": 1,
+        "2 Surdas": 2,
+        "Combi, Mutan": 3,
+        "Light Shotgun, Mutan": 4
+      }
+    }
+  ],
+  "Yu Jing": [
+    {
+      "isc": "Keisotsu",
+      "id": 2001,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Grenadier": 3,
+        "MULTI Sniper Rifle": 4,
+        "Missile Launcher": 5,
+        "Hacker": 6,
+        "Observer": 7,
+        "Paramedic": 8,
+        "Lieutenant": 9
+      }
+    },
+    {
+      "isc": "Zhanshi",
+      "id": 2002,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Grenadier": 3,
+        "MULTI Sniper Rifle": 4,
+        "Missile Launcher": 5,
+        "Hacker": 6,
+        "Paramedic": 7,
+        "Observer": 8,
+        "Lieutenant": 9
+      }
+    },
+    {
+      "isc": "Zhànying Imperial Agents",
+      "id": 2003,
+      "childs": {
+        "Combi": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Missile Launcher": 4,
+        "Hacker": 5,
+        "Observer": 6,
+        "Lieutenant": 7,
+        "HMG Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Tiger Soldiers",
+      "id": 2004,
+      "childs": {
+        "Default": 1,
+        "Spitfire": 2,
+        "Boarding Shotgun": 3,
+        "MULTI Sniper Rifle": 4,
+        "Hacker": 5,
+        "Paramedic": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Zúyong Invincibles",
+      "id": 2005,
+      "childs": {
+        "Default": 1,
+        "Tinbot": 2,
+        "HMG": 3,
+        "Boarding Shotgun": 4,
+        "MULTI": 5,
+        "Missile Launcher": 6,
+        "AutoMediKit HMG": 7,
+        "Observer": 8,
+        "Paramedic": 9,
+        "Lieutenant": 10,
+        "HMG Lieutenant": 11
+      }
+    },
+    {
+      "isc": "Yan Huo Invincibles",
+      "id": 2006,
+      "childs": {
+        "MULTI HMG": 1,
+        "HMC": 2,
+        "Missile Launcher": 3,
+        "MULTI HMG Lieutenant": 4,
+        "HMC Lieutenant": 5
+      }
+    },
+    {
+      "isc": "Wu Ming",
+      "id": 2007,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Nimbus": 3,
+        "Boarding Shotgun": 4,
+        "Panzerfaust": 5,
+        "Observer": 6,
+        "Combi": 7,
+        "Light Rocket Launcher": 8
+      }
+    },
+    {
+      "isc": "Daofei",
+      "id": 2008,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Spitfire": 4,
+        "Hacker": 5,
+        "Lieutenant": 6,
+        "Spitfire Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Hac Tao",
+      "id": 2009,
+      "childs": {
+        "Default": 1,
+        "HMG": 2,
+        "Boarding Shotgun": 3,
+        "Missile Launcher": 4,
+        "Hacker": 5,
+        "Executive Order": 6,
+        "HMG Executive Order": 7
+      }
+    },
+    {
+      "isc": "Hsien",
+      "id": 2010,
+      "childs": {
+        "Default": 1,
+        "Tinbot": 2,
+        "HMG": 3,
+        "Boarding Shotgun": 4,
+        "Lieutenant": 5,
+        "Tinbot Lieutenant": 6,
+        "HMG Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Guijia",
+      "id": 2011,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Guilang",
+      "id": 2012,
+      "childs": {
+        "Minelayer": 1,
+        "Default": 2,
+        "Boarding Shotgun": 3,
+        "MULTI Sniper Rifle": 4,
+        "Hacker": 5,
+        "Observer": 6,
+        "Lieutenant": 7
+      }
+    },
+    {
+      "isc": "Ninjas",
+      "id": 2013,
+      "childs": {
+        "Bow": 1,
+        "Shock": 2,
+        "AP": 3,
+        "DA": 4,
+        "MULTI Sniper Rifle": 5,
+        "Hacker": 6
+      }
+    },
+    {
+      "isc": "Shaolin Warrior Monks",
+      "id": 2014,
+      "childs": {
+        "Shock": 1,
+        "AP": 2,
+        "DA": 3,
+        "Chain Rifle": 4,
+        "Boarding Shotgun": 5,
+        "Smoke LGL": 6
+      }
+    },
+    {
+      "isc": "Yisheng",
+      "id": 2015,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Mech-Engineer",
+      "id": 2016,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yáokòng Wèibīng",
+      "id": 2017,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yáokòng Hùsòng",
+      "id": 2018,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yáokòng Son-bae",
+      "id": 2019,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yáokòng Chaīyì",
+      "id": 2020,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Sun Tze",
+      "id": 2021,
+      "childs": {
+        "Boarding Shotgun": 1,
+        "MULTI": 2,
+        "Boarding Shotgun Lieutenant": 3,
+        "MULTI Lieutenant": 4
+      }
+    },
+    {
+      "isc": "Celestial Guard",
+      "id": 2022,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Grenadier": 3,
+        "Spitfire": 4,
+        "MULTI Sniper Rifle": 5,
+        "Kuang Shi Control Device": 6,
+        "Hacker": 7,
+        "Lieutenant": 8
+      }
+    },
+    {
+      "isc": "Domaru Butai",
+      "id": 2023,
+      "childs": {
+        "Default": 1,
+        "DA CCW": 2,
+        "Boarding Shotgun": 3,
+        "Lieutenant": 4,
+        "Combi": 5,
+        "Spitfire": 6
+      }
+    },
+    {
+      "isc": "Shang Ji",
+      "id": 2024,
+      "childs": {
+        "Default": 1,
+        "MULTI": 2,
+        "Spitfire": 3,
+        "Hacker": 4,
+        "Paramedic": 5,
+        "Lieutenant": 6
+      }
+    },
+    {
+      "isc": "Yáozăo",
+      "id": 2025,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yáopú Pangguling",
+      "id": 2026,
+      "childs": {
+        "Default": 1,
+        "Rifle": 2,
+        "EVO": 3
+      }
+    },
+    {
+      "isc": "Kuang Shi",
+      "id": 2027,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2
+      }
+    },
+    {
+      "isc": "Kempeitai",
+      "id": 2028,
+      "childs": {
+        "CoC Boarding Shotgun": 1,
+        "Chain of Command": 2,
+        "Boarding Shotgun": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Imperial Agent, Pheasant Rank",
+      "id": 2029,
+      "childs": {
+        "Hacker": 1,
+        "MULTI Sniper Rifle": 2,
+        "Boarding Shotgun": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Aragoto Senkenbutai",
+      "id": 2030,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "Spitfire": 3,
+        "Hacker": 4,
+        "Lieutenant": 5
+      }
+    },
+    {
+      "isc": "Imperial Agents, Crane Rank",
+      "id": 2031,
+      "childs": {
+        "Lieutenant": 1,
+        "Spitfire Lieutenant": 2,
+        "Spitfire": 3,
+        "Boarding Shotgun": 4,
+        "Default": 5,
+        "Hacker": 6
+      }
+    },
+    {
+      "isc": "Haramaki Zensenbutai",
+      "id": 2032,
+      "childs": {
+        "Missile Launcher": 1,
+        "Combi": 2,
+        "DA CCW": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Karakuri Special Project",
+      "id": 2033,
+      "childs": {
+        "Heavy Shotgun": 1,
+        "Mk12": 2,
+        "Default": 3
+      }
+    },
+    {
+      "isc": "Su-Jian Immediate Action Unit",
+      "id": 2034,
+      "childs": {
+        "Default": 1,
+        "Heavy Shotgun": 2
+      }
+    },
+    {
+      "isc": "O-Yoroi Kidobutai",
+      "id": 2035,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Oniwaban",
+      "id": 2036,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Tokusetsu Butai",
+      "id": 2037,
+      "childs": {
+        "Engineer": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Yáoxiè Rui Shi",
+      "id": 2038,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Yáoxiè Lù Duān",
+      "id": 2039,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Oniwaban Shinobu Kitsune",
+      "id": 2040,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Domaru Takeshi \"Neko\" Oyama",
+      "id": 2041,
+      "childs": {
+        "Lieutenant": 1,
+        "Default": 2
+      }
+    },
+    {
+      "isc": "Sun Tze v.2 (Marksman Leader)",
+      "id": 2042,
+      "childs": {
+        "MULTI Sniper Rifle Lieutenant": 1,
+        "MULTI Sniper Rifle": 2,
+        "Lieutenant": 3,
+        "Default": 4
+      }
+    },
+    {
+      "isc": "Guǐ Fēng Spec-Ops",
+      "id": 2043,
+      "childs": {
+        "Default": 1
+      }
+    },
+    {
+      "isc": "Keisotsu Guǐ Fēng Yuriko Oda",
+      "id": 2044,
+      "childs": {
+        "Default": 1,
+        "Panzerfaust": 2
+      }
+    },
+    {
+      "isc": "Bao Troop",
+      "id": 2045,
+      "childs": {
+        "Default": 1,
+        "Boarding Shotgun": 2,
+        "MULTI Sniper Rifle": 3
+      }
+    },
+    {
+      "isc": "Raiden Seibutai",
+      "id": 2046,
+      "childs": {
+        "Default": 1,
+        "Heavy Rocket Launcher": 2,
+        "Spitfire": 3
+      }
+    },
+    {
+      "isc": "Asuka Kisaragi",
+      "id": 2047,
+      "childs": {
+        "Default": 1,
+        "Lieutenant": 2
+      }
+    },
+    {
+      "isc": "Kǎnrèn Counter-Insurgency Group",
+      "id": 2048,
+      "childs": {
+        "Default": 1,
+        "Hacker": 2,
+        "Minelayer": 3,
+        "Forward Observer": 4
+      }
+    }
+  ]
+}

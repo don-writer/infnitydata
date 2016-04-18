@@ -23,7 +23,7 @@ file_list = [
     'yuji_units.json'
 ]
 
-mappings = OrderedDict()
+mappings = []
 
 for filename in file_list:
     print 'Reading from: ' + filename
@@ -42,9 +42,7 @@ for filename in file_list:
         if unit['isc'] == 'Chandra Sergeant Thrasymedes':
             mapping['childs']['Light Rocket Launcher'] = 2
 
-        if unit['army'] not in mappings:
-            mappings[unit['army']] = []
-        mappings[unit['army']].append(mapping)
+        mappings.append(mapping)
 
 filename = 'name_id_mapping.json'
 print 'Writing to: ' + filename

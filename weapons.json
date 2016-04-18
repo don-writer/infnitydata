@@ -2058,7 +2058,6 @@
   },
   {
     "name": "T2 Boarding Shotgun (T2 Mode)",
-    "alt_profile": "",
     "burst": "2",
     "ammo": "T2",
     "damage": "14",

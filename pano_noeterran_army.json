@@ -17,31 +17,15 @@
         "linkable": true
       },
       {
-        "comment": "Hexas, Strategic Security Division",
-        "id": 1025,
-        "ava": "3"
-      },
-      {
-        "comment": "Locust, Clandestine Action Team",
-        "id": 1051,
-        "ava": "2"
-      },
-      {
         "comment": "Neoterra Bolts",
         "id": 1050,
         "ava": "T",
         "linkable": true
       },
       {
-        "comment": "PanOceanian Black Friars",
-        "id": 1052,
-        "ava": "1"
-      },
-      {
-        "comment": "Orc Troops",
-        "id": 1006,
-        "ava": "3",
-        "linkable": true
+        "comment": "Hexas, Strategic Security Division",
+        "id": 1025,
+        "ava": "3"
       },
       {
         "comment": "Aquila Guard",

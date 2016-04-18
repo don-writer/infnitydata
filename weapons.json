@@ -2286,9 +2286,9 @@
     "note": ""
   },
   {
-    "name": "Eclipse Grenades",
+    "name": "Zero-V Smoke Grenades",
     "burst": "1",
-    "ammo": "Eclipse",
+    "ammo": "Zero-V Smoke",
     "damage": "--",
     "short_dist": "8",
     "short_mod": "3",
@@ -2304,9 +2304,9 @@
     "note": "Non-lethal, Special Dodge, Speculative Fire, Targetless"
   },
   {
-    "name": "Eclipse Light Grenade Launcher",
+    "name": "Zero-V Smoke Light Grenade Launcher",
     "burst": "1",
-    "ammo": "Eclipse",
+    "ammo": "Zero-V Smoke",
     "damage": "--",
     "short_dist": "8",
     "short_mod": "0",

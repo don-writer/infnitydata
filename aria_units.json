@@ -22,8 +22,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -37,8 +36,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "9",
         "swc": "0",
         "spec": [
@@ -54,8 +52,7 @@
       },
       {
         "id": 3,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -72,8 +69,7 @@
       },
       {
         "id": 4,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -89,8 +85,7 @@
       },
       {
         "id": 5,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "17",
         "swc": "1.5",
         "spec": [],
@@ -104,8 +99,7 @@
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "16",
         "swc": "0.5",
         "spec": [],
@@ -119,8 +113,7 @@
       },
       {
         "id": 7,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "13",
         "swc": "1",
         "spec": [],
@@ -135,8 +128,7 @@
       },
       {
         "id": 8,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -176,8 +168,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -191,8 +182,7 @@
       },
       {
         "id": 2,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -208,8 +198,7 @@
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -223,8 +212,7 @@
       },
       {
         "id": 4,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "24",
         "swc": "1",
         "spec": [],
@@ -239,8 +227,7 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -254,8 +241,7 @@
       },
       {
         "id": 6,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -295,8 +281,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "HMG",
         "cost": "38",
         "swc": "1.5",
         "spec": [
@@ -313,8 +298,7 @@
       },
       {
         "id": 2,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [
@@ -331,8 +315,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "33",
         "swc": "0",
         "spec": [
@@ -351,8 +334,7 @@
       },
       {
         "id": 4,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -396,8 +378,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -411,8 +392,7 @@
       },
       {
         "id": 2,
-        "code": "LGL Lieutenant",
-        "codename": "",
+        "name": "LGL Lieutenant",
         "cost": "14",
         "swc": "1",
         "spec": [
@@ -429,8 +409,7 @@
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "10",
         "swc": "1",
         "spec": [
@@ -446,8 +425,7 @@
       },
       {
         "id": 4,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -464,8 +442,7 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -481,8 +458,7 @@
       },
       {
         "id": 6,
-        "code": "Inferior Infiltration",
-        "codename": "",
+        "name": "Inferior Infiltration",
         "cost": "11",
         "swc": "0.5",
         "spec": [
@@ -499,8 +475,7 @@
       },
       {
         "id": 7,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -516,8 +491,7 @@
       },
       {
         "id": 8,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "14",
         "swc": "1",
         "spec": [],
@@ -532,8 +506,7 @@
       },
       {
         "id": 9,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -547,8 +520,7 @@
       },
       {
         "id": 10,
-        "code": "Heavy Flamethrower",
-        "codename": "",
+        "name": "Heavy Flamethrower",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -589,8 +561,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
+        "name": "AP Rifle",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -606,8 +577,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "25",
         "swc": "1",
         "spec": [
@@ -625,8 +595,7 @@
       },
       {
         "id": 3,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -640,8 +609,7 @@
       },
       {
         "id": 4,
-        "code": "Autocannon",
-        "codename": "",
+        "name": "Autocannon",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -656,8 +624,7 @@
       },
       {
         "id": 5,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
         "cost": "35",
         "swc": "1.5",
         "spec": [],
@@ -700,8 +667,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -716,8 +682,7 @@
       },
       {
         "id": 2,
-        "code": "HMG Lieutenant",
-        "codename": "",
+        "name": "HMG Lieutenant",
         "cost": "34",
         "swc": "1",
         "spec": [
@@ -733,8 +698,7 @@
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -751,8 +715,7 @@
       },
       {
         "id": 4,
-        "code": "Marksman",
-        "codename": "",
+        "name": "Marksman",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -770,8 +733,7 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -788,8 +750,7 @@
       },
       {
         "id": 6,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -804,8 +765,7 @@
       },
       {
         "id": 7,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -820,8 +780,7 @@
       },
       {
         "id": 8,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -862,8 +821,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -878,8 +836,7 @@
       },
       {
         "id": 2,
-        "code": "Sapper",
-        "codename": "",
+        "name": "Sapper",
         "cost": "31",
         "swc": "2",
         "spec": [
@@ -895,8 +852,7 @@
       },
       {
         "id": 3,
-        "code": "Infiltrator AP",
-        "codename": "",
+        "name": "Infiltrator AP",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -914,8 +870,7 @@
       },
       {
         "id": 4,
-        "code": "HMG Lieutenant",
-        "codename": "",
+        "name": "HMG Lieutenant",
         "cost": "29",
         "swc": "1",
         "spec": [
@@ -931,8 +886,7 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -949,8 +903,7 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -968,8 +921,7 @@
       },
       {
         "id": 7,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -987,8 +939,7 @@
       },
       {
         "id": 8,
-        "code": "Infiltration",
-        "codename": "",
+        "name": "Infiltration",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -1006,8 +957,7 @@
       },
       {
         "id": 9,
-        "code": "Mimetism",
-        "codename": "Mimetism",
+        "name": "Mimetism",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -1024,8 +974,7 @@
       },
       {
         "id": 10,
-        "code": "Panzerfaust",
-        "codename": "",
+        "name": "Panzerfaust",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1040,8 +989,7 @@
       },
       {
         "id": 11,
-        "code": "AP Rifle",
-        "codename": "",
+        "name": "AP Rifle",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1056,8 +1004,7 @@
       },
       {
         "id": 12,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -1099,8 +1046,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
+        "name": "AP Rifle",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -1115,8 +1061,7 @@
       },
       {
         "id": 2,
-        "code": "X Visor",
-        "codename": "",
+        "name": "X Visor",
         "cost": "38",
         "swc": "0",
         "spec": [
@@ -1133,8 +1078,7 @@
       },
       {
         "id": 3,
-        "code": "AP HMG Lieutenant",
-        "codename": "",
+        "name": "AP HMG Lieutenant",
         "cost": "47",
         "swc": "1",
         "spec": [
@@ -1150,8 +1094,7 @@
       },
       {
         "id": 4,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "37",
         "swc": "0",
         "spec": [
@@ -1168,8 +1111,7 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "38",
         "swc": "0",
         "spec": [
@@ -1186,8 +1128,7 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -1205,8 +1146,7 @@
       },
       {
         "id": 7,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -1220,8 +1160,7 @@
       },
       {
         "id": 8,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
         "cost": "47",
         "swc": "2",
         "spec": [],
@@ -1262,8 +1201,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1278,8 +1216,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "17",
         "swc": "2",
         "spec": [
@@ -1296,8 +1233,7 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -1314,8 +1250,7 @@
       },
       {
         "id": 4,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "24",
         "swc": "0.5",
         "spec": [],
@@ -1330,8 +1265,7 @@
       },
       {
         "id": 5,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -1346,8 +1280,7 @@
       },
       {
         "id": 6,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1389,8 +1322,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Tactical Bow",
+        "name": "Tactical Bow",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1405,8 +1337,7 @@
       },
       {
         "id": 2,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1450,8 +1381,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Assault Pistol",
-        "codename": "CRAP",
+        "name": "Assault Pistol",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1467,8 +1397,7 @@
       },
       {
         "id": 2,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1484,8 +1413,7 @@
       },
       {
         "id": 3,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1500,8 +1428,7 @@
       },
       {
         "id": 4,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "23",
         "swc": "2",
         "spec": [
@@ -1518,8 +1445,7 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -1536,8 +1462,7 @@
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "30",
         "swc": "0.5",
         "spec": [],
@@ -1552,8 +1477,7 @@
       },
       {
         "id": 7,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1596,8 +1520,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Ojotnik",
+        "name": "Ojotnik",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1613,8 +1536,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -1632,8 +1554,7 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -1651,8 +1572,7 @@
       },
       {
         "id": 4,
-        "code": "AP Sniper Rifle",
-        "codename": "",
+        "name": "AP Sniper Rifle",
         "cost": "29",
         "swc": "1",
         "spec": [],
@@ -1667,8 +1587,7 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1684,8 +1603,7 @@
       },
       {
         "id": 6,
-        "code": "E/Mauler",
-        "codename": "",
+        "name": "E/Mauler",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1727,8 +1645,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1743,8 +1660,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1759,8 +1675,7 @@
       },
       {
         "id": 3,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -1802,8 +1717,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1819,8 +1733,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -1836,8 +1749,7 @@
       },
       {
         "id": 3,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -1994,8 +1906,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Assault Pack",
+        "name": "Assault Pack",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -2036,8 +1947,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor",
+        "name": "Doctor",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -2078,8 +1988,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor",
+        "name": "Doctor",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -2120,8 +2029,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -2163,8 +2071,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -2183,8 +2090,7 @@
       },
       {
         "id": 2,
-        "code": "T2 Boarding Shotgun",
-        "codename": "",
+        "name": "T2 Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -2200,8 +2106,7 @@
       },
       {
         "id": 3,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -2216,8 +2121,7 @@
       },
       {
         "id": 4,
-        "code": "T2 Rifle",
-        "codename": "",
+        "name": "T2 Rifle",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -2234,8 +2138,7 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -2280,8 +2183,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mk12",
+        "name": "Mk12",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -2296,8 +2198,7 @@
       },
       {
         "id": 2,
-        "code": "Heavy Shotgun",
-        "codename": "",
+        "name": "Heavy Shotgun",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -2312,8 +2213,7 @@
       },
       {
         "id": 3,
-        "code": "T2 Rifle",
-        "codename": "",
+        "name": "T2 Rifle",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -2355,8 +2255,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant AP HMG",
-        "codename": "",
+        "name": "Lieutenant AP HMG",
         "cost": "42",
         "swc": "2",
         "spec": [
@@ -2372,8 +2271,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -2390,8 +2288,7 @@
       },
       {
         "id": 3,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
         "cost": "42",
         "swc": "2",
         "spec": [],
@@ -2405,8 +2302,7 @@
       },
       {
         "id": 4,
-        "code": "Default",
-        "codename": "T2 Rifle",
+        "name": "T2 Rifle",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -2448,8 +2344,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "8",
         "swc": "2",
         "spec": [
@@ -2465,8 +2360,7 @@
       },
       {
         "id": 2,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -2483,8 +2377,7 @@
       },
       {
         "id": 3,
-        "code": "Camo Light Grenade Launcher",
-        "codename": "",
+        "name": "Camo Light Grenade Launcher",
         "cost": "13",
         "swc": "1",
         "spec": [
@@ -2502,8 +2395,7 @@
       },
       {
         "id": 4,
-        "code": "Camo D-Charges",
-        "codename": "",
+        "name": "Camo D-Charges",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -2521,8 +2413,7 @@
       },
       {
         "id": 5,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "10",
         "swc": "0.5",
         "spec": [],
@@ -2537,8 +2428,7 @@
       },
       {
         "id": 6,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -2552,8 +2442,7 @@
       },
       {
         "id": 7,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -2568,8 +2457,7 @@
       },
       {
         "id": 8,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -2611,8 +2499,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -2630,8 +2517,7 @@
       },
       {
         "id": 2,
-        "code": "Minelayer",
-        "codename": "",
+        "name": "Minelayer",
         "cost": "20",
         "swc": "0.5",
         "spec": [
@@ -2649,8 +2535,7 @@
       },
       {
         "id": 3,
-        "code": "ADHL",
-        "codename": "",
+        "name": "ADHL",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -2666,8 +2551,7 @@
       },
       {
         "id": 4,
-        "code": "AP Sniper Rifle",
-        "codename": "",
+        "name": "AP Sniper Rifle",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -2681,8 +2565,7 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -2724,8 +2607,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Mul Control",
-        "codename": "",
+        "name": "Mul Control",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -2742,8 +2624,7 @@
       },
       {
         "id": 2,
-        "code": "Akrylat K",
-        "codename": "",
+        "name": "Akrylat K",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2758,8 +2639,7 @@
       },
       {
         "id": 3,
-        "code": "Default",
-        "codename": "Engineer",
+        "name": "Engineer",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -2801,8 +2681,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "T2 Sniper Rifle",
-        "codename": "",
+        "name": "T2 Sniper Rifle",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -2816,8 +2695,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Sniper Rifle",
+        "name": "Sniper Rifle",
         "cost": "20",
         "swc": "0.5",
         "spec": [],
@@ -2857,8 +2735,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -2872,8 +2749,7 @@
       },
       {
         "id": 2,
-        "code": "Flash Light Grenade Launcher",
-        "codename": "",
+        "name": "Flash Light Grenade Launcher",
         "cost": "22",
         "swc": "1.5",
         "spec": [],
@@ -2888,8 +2764,7 @@
       },
       {
         "id": 3,
-        "code": "ADHL",
-        "codename": "",
+        "name": "ADHL",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -2905,8 +2780,7 @@
       },
       {
         "id": 4,
-        "code": "Default",
-        "codename": "Viral",
+        "name": "Viral",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -2947,8 +2821,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "8",
         "swc": "2",
         "spec": [
@@ -2964,8 +2837,7 @@
       },
       {
         "id": 2,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -2982,8 +2854,7 @@
       },
       {
         "id": 3,
-        "code": "Camo Light Grenade Launcher",
-        "codename": "",
+        "name": "Camo Light Grenade Launcher",
         "cost": "15",
         "swc": "1",
         "spec": [
@@ -3001,8 +2872,7 @@
       },
       {
         "id": 4,
-        "code": "Camo D.E.P.",
-        "codename": "",
+        "name": "Camo D.E.P.",
         "cost": "12",
         "swc": "0.5",
         "spec": [
@@ -3020,8 +2890,7 @@
       },
       {
         "id": 5,
-        "code": "Camo D-Charges",
-        "codename": "",
+        "name": "Camo D-Charges",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -3039,8 +2908,7 @@
       },
       {
         "id": 6,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "12",
         "swc": "0.5",
         "spec": [],
@@ -3055,8 +2923,7 @@
       },
       {
         "id": 7,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -3070,8 +2937,7 @@
       },
       {
         "id": 8,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -3112,8 +2978,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Uragan",
-        "codename": "",
+        "name": "Uragan",
         "cost": "18",
         "swc": "1",
         "spec": [
@@ -3128,8 +2993,7 @@
       },
       {
         "id": 2,
-        "code": "Katyusha",
-        "codename": "",
+        "name": "Katyusha",
         "cost": "11",
         "swc": "1",
         "spec": [],
@@ -3142,8 +3006,7 @@
       },
       {
         "id": 3,
-        "code": "Default",
-        "codename": "Minesweeper",
+        "name": "Minesweeper",
         "cost": "5",
         "swc": "0",
         "spec": [
@@ -3184,8 +3047,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "35",
         "swc": "0",
         "spec": [
@@ -3203,8 +3065,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -3246,8 +3107,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "20",
         "swc": "1",
         "spec": [
@@ -3264,8 +3124,7 @@
       },
       {
         "id": 2,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "22",
         "swc": "0.5",
         "spec": [
@@ -3283,8 +3142,7 @@
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3300,8 +3158,7 @@
       },
       {
         "id": 4,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "30",
         "swc": "1.5",
         "spec": [
@@ -3317,8 +3174,7 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -3335,8 +3191,7 @@
       },
       {
         "id": 6,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -3351,8 +3206,7 @@
       },
       {
         "id": 7,
-        "code": "E/Mauler",
-        "codename": "",
+        "name": "E/Mauler",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -3368,8 +3222,7 @@
       },
       {
         "id": 8,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "20",
         "swc": "0.5",
         "spec": [],
@@ -3412,8 +3265,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
+        "name": "AP Rifle",
         "cost": "38",
         "swc": "0",
         "spec": [],
@@ -3427,8 +3279,7 @@
       },
       {
         "id": 2,
-        "code": "Executive Order",
-        "codename": "",
+        "name": "Executive Order",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -3471,8 +3322,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "23",
         "swc": "0.5",
         "spec": [],
@@ -3489,8 +3339,7 @@
       },
       {
         "id": 2,
-        "code": "T2 Rifle",
-        "codename": "",
+        "name": "T2 Rifle",
         "cost": "26",
         "swc": "0.5",
         "spec": [],
@@ -3535,8 +3384,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "S.A.S. CP",
+        "name": "S.A.S. CP",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -3557,8 +3405,7 @@
       },
       {
         "id": 2,
-        "code": "Covert Action",
-        "codename": "",
+        "name": "Covert Action",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3607,8 +3454,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Molotok",
+        "name": "Molotok",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -3623,8 +3469,7 @@
       },
       {
         "id": 2,
-        "code": "Inferior Infiltration",
-        "codename": "",
+        "name": "Inferior Infiltration",
         "cost": "31",
         "swc": "1",
         "spec": [
@@ -3641,8 +3486,7 @@
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "28",
         "swc": "1",
         "spec": [
@@ -3687,8 +3531,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Submachine Gun",
+        "name": "Submachine Gun",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3703,8 +3546,7 @@
       },
       {
         "id": 2,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -3718,8 +3560,7 @@
       },
       {
         "id": 3,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -3760,8 +3601,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "AP Marksman",
-        "codename": "",
+        "name": "AP Marksman",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3775,8 +3615,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Submachine Gun",
+        "name": "Submachine Gun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -3791,8 +3630,7 @@
       },
       {
         "id": 3,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
         "cost": "26",
         "swc": "1.5",
         "spec": [],
@@ -3806,8 +3644,7 @@
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -3821,8 +3658,7 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -3865,8 +3701,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Marksman Rifle",
+        "name": "Marksman Rifle",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -3880,8 +3715,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -3897,8 +3731,7 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -3914,8 +3747,7 @@
       },
       {
         "id": 4,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -3931,8 +3763,7 @@
       },
       {
         "id": 5,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
+        "name": "Heavy Rocket Launcher",
         "cost": "23",
         "swc": "1.5",
         "spec": [],
@@ -3946,8 +3777,7 @@
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "25",
         "swc": "1",
         "spec": [],
@@ -4041,8 +3871,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mirage-5",
+        "name": "Mirage-5",
         "cost": "69",
         "swc": "2",
         "spec": [],
@@ -4120,8 +3949,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Dog-Warrior",
+        "name": "Dog-Warrior",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -4160,8 +3988,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
+        "name": "Spec-Ops",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -4198,8 +4025,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4214,8 +4040,7 @@
       },
       {
         "id": 2,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -4229,8 +4054,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -4245,8 +4069,7 @@
       },
       {
         "id": 4,
-        "code": "Sniper",
-        "codename": "",
+        "name": "Sniper",
         "cost": "29",
         "swc": "0.5",
         "spec": [
@@ -4262,8 +4085,7 @@
       },
       {
         "id": 5,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
+        "name": "Heavy Rocket Launcher",
         "cost": "26",
         "swc": "1.5",
         "spec": [
@@ -4279,8 +4101,7 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -4298,8 +4119,7 @@
       },
       {
         "id": 7,
-        "code": "Haris",
-        "codename": "",
+        "name": "Haris",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -4316,8 +4136,7 @@
       },
       {
         "id": 8,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4381,8 +4200,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
         "cost": "29",
         "swc": "2",
         "spec": [],
@@ -4396,8 +4214,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4411,8 +4228,7 @@
       },
       {
         "id": 3,
-        "code": "Light Rocket Launcher",
-        "codename": "",
+        "name": "Light Rocket Launcher",
         "cost": "22",
         "swc": "0.5",
         "spec": [],
@@ -4427,8 +4243,7 @@
       },
       {
         "id": 4,
-        "code": "Forward Observer",
-        "codename": "",
+        "name": "Forward Observer",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -4513,8 +4328,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -4529,8 +4343,7 @@
       },
       {
         "id": 2,
-        "code": "Heavy Shotgun",
-        "codename": "",
+        "name": "Heavy Shotgun",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -4572,8 +4385,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Submachine Gun",
+        "name": "Submachine Gun",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -4588,8 +4400,7 @@
       },
       {
         "id": 2,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -4604,8 +4415,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -4620,8 +4430,7 @@
       },
       {
         "id": 4,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -4636,8 +4445,7 @@
       },
       {
         "id": 5,
-        "code": "Forward Observer",
-        "codename": "",
+        "name": "Forward Observer",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4654,8 +4462,7 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "20",
         "swc": "1",
         "spec": [
@@ -4720,8 +4527,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -4736,8 +4542,7 @@
       },
       {
         "id": 2,
-        "code": "Assault Pistol",
-        "codename": "",
+        "name": "Assault Pistol",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -4752,8 +4557,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -4768,8 +4572,7 @@
       },
       {
         "id": 4,
-        "code": "Submachine Gun",
-        "codename": "",
+        "name": "Submachine Gun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -4811,8 +4614,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4826,8 +4628,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [

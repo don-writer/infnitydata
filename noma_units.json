@@ -22,8 +22,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -37,8 +36,7 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "18",
         "swc": "1",
         "spec": [],
@@ -52,8 +50,7 @@
       },
       {
         "id": 3,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
         "cost": "14",
         "swc": "1",
         "spec": [],
@@ -68,8 +65,7 @@
       },
       {
         "id": 4,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -83,8 +79,7 @@
       },
       {
         "id": 5,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "15",
         "swc": "1.5",
         "spec": [],
@@ -98,8 +93,7 @@
       },
       {
         "id": 6,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -115,8 +109,7 @@
       },
       {
         "id": 7,
-        "code": "Observer+Repeater",
-        "codename": "",
+        "name": "Observer+Repeater",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -133,8 +126,7 @@
       },
       {
         "id": 8,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -150,8 +142,7 @@
       },
       {
         "id": 9,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "10",
         "swc": "1",
         "spec": [
@@ -193,8 +184,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -210,8 +200,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -226,8 +215,7 @@
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -242,8 +230,7 @@
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -258,8 +245,7 @@
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -274,8 +260,7 @@
       },
       {
         "id": 6,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -294,8 +279,7 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -339,8 +323,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -355,8 +338,7 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "27",
         "swc": "1",
         "spec": [],
@@ -370,8 +352,7 @@
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -385,8 +366,7 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -403,8 +383,7 @@
       },
       {
         "id": 5,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -421,8 +400,7 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -465,8 +443,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -480,8 +457,7 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -496,8 +472,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -511,8 +486,7 @@
       },
       {
         "id": 4,
-        "code": "Adhesive",
-        "codename": "",
+        "name": "Adhesive",
         "cost": "23",
         "swc": "0.5",
         "spec": [],
@@ -527,8 +501,7 @@
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -542,8 +515,7 @@
       },
       {
         "id": 6,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -559,8 +531,7 @@
       },
       {
         "id": 7,
-        "code": "Deployable Repeater",
-        "codename": "",
+        "name": "Deployable Repeater",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -576,8 +547,7 @@
       },
       {
         "id": 8,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -593,8 +563,7 @@
       },
       {
         "id": 9,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -637,8 +606,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -654,8 +622,7 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "42",
         "swc": "1.5",
         "spec": [],
@@ -670,8 +637,7 @@
       },
       {
         "id": 3,
-        "code": "Adhesive",
-        "codename": "",
+        "name": "Adhesive",
         "cost": "36",
         "swc": "1",
         "spec": [],
@@ -687,8 +653,7 @@
       },
       {
         "id": 4,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "43",
         "swc": "1.5",
         "spec": [
@@ -704,8 +669,7 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -722,8 +686,7 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "35",
         "swc": "0",
         "spec": [
@@ -768,8 +731,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "MULTI",
+        "name": "MULTI",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -783,8 +745,7 @@
       },
       {
         "id": 2,
-        "code": "E/Mitter",
-        "codename": "",
+        "name": "E/Mitter",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -799,8 +760,7 @@
       },
       {
         "id": 3,
-        "code": "AP CCW",
-        "codename": "",
+        "name": "AP CCW",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -814,8 +774,7 @@
       },
       {
         "id": 4,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -829,8 +788,7 @@
       },
       {
         "id": 5,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -844,8 +802,7 @@
       },
       {
         "id": 6,
-        "code": "E/M LGL",
-        "codename": "",
+        "name": "E/M LGL",
         "cost": "34",
         "swc": "1",
         "spec": [],
@@ -860,8 +817,7 @@
       },
       {
         "id": 7,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -877,8 +833,7 @@
       },
       {
         "id": 8,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "30",
         "swc": "1",
         "spec": [
@@ -922,8 +877,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -938,8 +892,7 @@
       },
       {
         "id": 2,
-        "code": "MULTI",
-        "codename": "",
+        "name": "MULTI",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -954,8 +907,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -996,8 +948,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "MULTI",
+        "name": "MULTI",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -1012,8 +963,7 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
         "cost": "42",
         "swc": "2",
         "spec": [],
@@ -1027,8 +977,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -1042,8 +991,7 @@
       },
       {
         "id": 4,
-        "code": "Combi",
-        "codename": "",
+        "name": "Combi",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1057,8 +1005,7 @@
       },
       {
         "id": 5,
-        "code": "Tinbot",
-        "codename": "",
+        "name": "Tinbot",
         "cost": "37",
         "swc": "0.5",
         "spec": [
@@ -1074,8 +1021,7 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -1092,8 +1038,7 @@
       },
       {
         "id": 7,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
         "cost": "40",
         "swc": "2",
         "spec": [],
@@ -1107,8 +1052,7 @@
       },
       {
         "id": 8,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -1187,8 +1131,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HGL",
+        "name": "HGL",
         "cost": "87",
         "swc": "2.5",
         "spec": [],
@@ -1200,8 +1143,7 @@
       },
       {
         "id": 2,
-        "code": "HFT",
-        "codename": "",
+        "name": "HFT",
         "cost": "87",
         "swc": "2",
         "spec": [],
@@ -1276,8 +1218,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMC",
+        "name": "HMC",
         "cost": "90",
         "swc": "2",
         "spec": [],
@@ -1316,8 +1257,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1332,8 +1272,7 @@
       },
       {
         "id": 2,
-        "code": "Minelayer",
-        "codename": "",
+        "name": "Minelayer",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -1350,8 +1289,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1366,8 +1304,7 @@
       },
       {
         "id": 4,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "26",
         "swc": "1.5",
         "spec": [],
@@ -1382,8 +1319,7 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -1400,8 +1336,7 @@
       },
       {
         "id": 6,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -1418,8 +1353,7 @@
       },
       {
         "id": 7,
-        "code": "Repeater/E-Mauler",
-        "codename": "",
+        "name": "Repeater/E-Mauler",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -1463,8 +1397,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1479,8 +1412,7 @@
       },
       {
         "id": 2,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "39",
         "swc": "1.5",
         "spec": [],
@@ -1495,8 +1427,7 @@
       },
       {
         "id": 3,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -1512,8 +1443,7 @@
       },
       {
         "id": 4,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -1530,8 +1460,7 @@
       },
       {
         "id": 5,
-        "code": "Repeater/E-Mauler",
-        "codename": "",
+        "name": "Repeater/E-Mauler",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -1548,8 +1477,7 @@
       },
       {
         "id": 6,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1593,8 +1521,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -1609,8 +1536,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -1625,8 +1551,7 @@
       },
       {
         "id": 3,
-        "code": "LSG+ADHL",
-        "codename": "",
+        "name": "LSG+ADHL",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1641,8 +1566,7 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -1659,8 +1583,7 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -1677,8 +1600,7 @@
       },
       {
         "id": 6,
-        "code": "Deployable repeater",
-        "codename": "",
+        "name": "Deployable repeater",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -1722,8 +1644,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1738,8 +1659,7 @@
       },
       {
         "id": 2,
-        "code": "Assault Pistol",
-        "codename": "",
+        "name": "Assault Pistol",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -1754,8 +1674,7 @@
       },
       {
         "id": 3,
-        "code": "E/M CCW",
-        "codename": "",
+        "name": "E/M CCW",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -1770,8 +1689,7 @@
       },
       {
         "id": 4,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -1786,8 +1704,7 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1802,8 +1719,7 @@
       },
       {
         "id": 6,
-        "code": "Smoke GL",
-        "codename": "",
+        "name": "Smoke GL",
         "cost": "14",
         "swc": "1",
         "spec": [],
@@ -1844,8 +1760,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Light Shotgun",
+        "name": "Light Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1860,8 +1775,7 @@
       },
       {
         "id": 2,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -1876,8 +1790,7 @@
       },
       {
         "id": 3,
-        "code": "ADHL",
-        "codename": "",
+        "name": "ADHL",
         "cost": "13",
         "swc": "0.5",
         "spec": [],
@@ -1918,8 +1831,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor",
+        "name": "Doctor",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1958,8 +1870,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Engineer",
+        "name": "Engineer",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1999,8 +1910,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Hacker",
+        "name": "Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [],
@@ -2014,8 +1924,7 @@
       },
       {
         "id": 2,
-        "code": "Combi Panda",
-        "codename": "",
+        "name": "Combi Panda",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -2030,8 +1939,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun Panda",
-        "codename": "",
+        "name": "Boarding Shotgun Panda",
         "cost": "26",
         "swc": "0.5",
         "spec": [],
@@ -2046,8 +1954,7 @@
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "24",
         "swc": "0.5",
         "spec": [],
@@ -2061,8 +1968,7 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -2078,8 +1984,7 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant Panda",
-        "codename": "",
+        "name": "Lieutenant Panda",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -2129,8 +2034,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -2172,8 +2076,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "HMG",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -2212,8 +2115,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Smart Missile Launcher",
+        "name": "Smart Missile Launcher",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -2257,8 +2159,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -2300,8 +2201,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Repeater",
+        "name": "Repeater",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -2390,8 +2290,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "47",
         "swc": "0",
         "spec": [],
@@ -2435,8 +2334,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -2514,8 +2412,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "HMG",
         "cost": "71",
         "swc": "2",
         "spec": [],
@@ -2586,8 +2483,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HFT+CrazyKoalas",
+        "name": "HFT+CrazyKoalas",
         "cost": "26",
         "swc": "0",
         "profile": "1",
@@ -2603,8 +2499,7 @@
       },
       {
         "id": 2,
-        "code": "Akrylat-Kanone",
-        "codename": "",
+        "name": "Akrylat-Kanone",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -2644,8 +2539,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -2659,8 +2553,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "9",
         "swc": "2",
         "spec": [
@@ -2676,8 +2569,7 @@
       },
       {
         "id": 3,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -2694,8 +2586,7 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "17",
         "swc": "0.5",
         "spec": [
@@ -2711,8 +2602,7 @@
       },
       {
         "id": 5,
-        "code": "Marker",
-        "codename": "",
+        "name": "Marker",
         "cost": "11",
         "swc": "0.5",
         "spec": [],
@@ -2727,8 +2617,7 @@
       },
       {
         "id": 6,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "17",
         "swc": "1.5",
         "spec": [],
@@ -2742,8 +2631,7 @@
       },
       {
         "id": 7,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
         "cost": "13",
         "swc": "0.5",
         "spec": [],
@@ -2758,8 +2646,7 @@
       },
       {
         "id": 8,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "15",
         "swc": "0.5",
         "spec": [],
@@ -2831,8 +2718,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -2847,8 +2733,7 @@
       },
       {
         "id": 2,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
         "cost": "22",
         "swc": "0.5",
         "spec": [
@@ -2865,8 +2750,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "20",
         "swc": "0.5",
         "spec": [],
@@ -2909,8 +2793,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "32",
         "swc": "0.5",
         "spec": [],
@@ -2926,8 +2809,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -2943,8 +2825,7 @@
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "36",
         "swc": "2",
         "spec": [],
@@ -2986,8 +2867,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Marker",
+        "name": "Marker",
         "cost": "34",
         "swc": "0.5",
         "spec": [],
@@ -3002,8 +2882,7 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "34",
         "swc": "0.5",
         "spec": [
@@ -3020,8 +2899,7 @@
       },
       {
         "id": 3,
-        "code": "Combi",
-        "codename": "",
+        "name": "Combi",
         "cost": "32",
         "swc": "0.5",
         "spec": [],
@@ -3035,8 +2913,7 @@
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "31",
         "swc": "0.5",
         "spec": [],
@@ -3078,8 +2955,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Minesweeper",
+        "name": "Minesweeper",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -3092,8 +2968,7 @@
       },
       {
         "id": 2,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -3108,8 +2983,7 @@
       },
       {
         "id": 3,
-        "code": "EVO",
-        "codename": "",
+        "name": "EVO",
         "cost": "13",
         "swc": "0.5",
         "spec": [
@@ -3149,8 +3023,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "HMG",
         "cost": "33",
         "swc": "2",
         "spec": [],
@@ -3164,8 +3037,7 @@
       },
       {
         "id": 2,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -3179,8 +3051,7 @@
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "33",
         "swc": "1.5",
         "spec": [],
@@ -3194,8 +3065,7 @@
       },
       {
         "id": 4,
-        "code": "Mk12",
-        "codename": "",
+        "name": "Mk12",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -3277,8 +3147,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -3294,8 +3163,7 @@
       },
       {
         "id": 2,
-        "code": "Engineer+Zondcat",
-        "codename": "",
+        "name": "Engineer+Zondcat",
         "cost": "26",
         "swc": "0",
         "profile": "1",
@@ -3318,8 +3186,7 @@
       },
       {
         "id": 3,
-        "code": "Doctor+Zondcat",
-        "codename": "",
+        "name": "Doctor+Zondcat",
         "cost": "26",
         "swc": "0",
         "profile": "1",
@@ -3341,8 +3208,7 @@
       },
       {
         "id": 4,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -3360,8 +3226,7 @@
       },
       {
         "id": 5,
-        "code": "Doctor",
-        "codename": "",
+        "name": "Doctor",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -3378,8 +3243,7 @@
       },
       {
         "id": 6,
-        "code": "Deplo Repeater",
-        "codename": "",
+        "name": "Deplo Repeater",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -3396,8 +3260,7 @@
       },
       {
         "id": 7,
-        "code": "E/Mitter",
-        "codename": "",
+        "name": "E/Mitter",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -3442,8 +3305,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spitfire",
+        "name": "Spitfire",
         "cost": "33",
         "swc": "1",
         "spec": [],
@@ -3457,8 +3319,7 @@
       },
       {
         "id": 2,
-        "code": "Feuerbach",
-        "codename": "",
+        "name": "Feuerbach",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -3498,8 +3359,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Servant",
+        "name": "Servant",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -3541,8 +3401,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -3587,8 +3446,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "DA CCW",
+        "name": "DA CCW",
         "cost": "1",
         "swc": "0",
         "spec": [],
@@ -3628,8 +3486,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
         "cost": "44",
         "swc": "-1",
         "spec": [
@@ -3647,8 +3504,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "MULTI",
+        "name": "MULTI",
         "cost": "44",
         "swc": "0",
         "spec": [],
@@ -3736,8 +3592,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Engineer+Moriarty",
-        "codename": "",
+        "name": "Engineer+Moriarty",
         "cost": "34",
         "swc": "0",
         "profile": "1",
@@ -3759,8 +3614,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Engineer",
+        "name": "Engineer",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -3804,8 +3658,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "35",
         "swc": "2",
         "spec": [],
@@ -3819,8 +3672,7 @@
       },
       {
         "id": 2,
-        "code": "Multi",
-        "codename": "",
+        "name": "Multi",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -3835,8 +3687,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -3851,8 +3702,7 @@
       },
       {
         "id": 4,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -3892,8 +3742,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
+        "name": "Spec-Ops",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -3930,8 +3779,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3974,8 +3822,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "LFT",
+        "name": "LFT",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -3991,8 +3838,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -4009,8 +3855,7 @@
       },
       {
         "id": 3,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
+        "name": "Heavy Rocket Launcher",
         "cost": "20",
         "swc": "2",
         "spec": [],
@@ -4024,8 +3869,7 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "24",
         "swc": "1.5",
         "spec": [],
@@ -4039,8 +3883,7 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -4058,8 +3901,7 @@
       },
       {
         "id": 6,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -4077,8 +3919,7 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant ",
-        "codename": "",
+        "name": "Lieutenant ",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -4096,8 +3937,7 @@
       },
       {
         "id": 8,
-        "code": "N2",
-        "codename": "",
+        "name": "N2",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -4179,8 +4019,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "53",
         "swc": "1",
         "spec": [],
@@ -4193,8 +4032,7 @@
       },
       {
         "id": 2,
-        "code": "Mk12",
-        "codename": "",
+        "name": "Mk12",
         "cost": "55",
         "swc": "1.5",
         "spec": [],

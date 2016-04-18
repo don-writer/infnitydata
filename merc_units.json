@@ -25,8 +25,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -41,8 +40,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -57,8 +55,7 @@
       },
       {
         "id": 3,
-        "code": "AP CCW",
-        "codename": "",
+        "name": "AP CCW",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -73,8 +70,7 @@
       },
       {
         "id": 4,
-        "code": "DA CCW",
-        "codename": "",
+        "name": "DA CCW",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -89,8 +85,7 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Shock CCW",
+        "name": "Shock CCW",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -131,8 +126,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -147,8 +141,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -162,8 +155,7 @@
       },
       {
         "id": 3,
-        "code": "AP Rifle",
-        "codename": "",
+        "name": "AP Rifle",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -177,8 +169,7 @@
       },
       {
         "id": 4,
-        "code": "E/Mauler",
-        "codename": "",
+        "name": "E/Mauler",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -218,8 +209,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -234,8 +224,7 @@
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -251,8 +240,7 @@
       },
       {
         "id": 3,
-        "code": "LGL",
-        "codename": "",
+        "name": "LGL",
         "cost": "23",
         "swc": "1.5",
         "spec": [],
@@ -267,8 +255,7 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "25",
         "swc": "1.5",
         "spec": [],
@@ -309,8 +296,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "T2 Sniper Rifle",
-        "codename": "",
+        "name": "T2 Sniper Rifle",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -324,8 +310,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Sniper Rifle",
+        "name": "Sniper Rifle",
         "cost": "20",
         "swc": "0.5",
         "spec": [],
@@ -367,8 +352,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -410,8 +394,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Boarding Shotgun",
-        "codename": "Boarding Shotgun",
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -428,8 +411,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -475,8 +457,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -520,8 +501,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -564,8 +544,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor",
+        "name": "Doctor",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -606,8 +585,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Viral Rifle",
+        "name": "Viral Rifle",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -651,8 +629,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -669,8 +646,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -712,8 +688,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Hacker",
+        "name": "Hacker",
         "cost": "22",
         "swc": "0.5",
         "spec": [],
@@ -754,8 +729,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "ADHL",
-        "codename": "",
+        "name": "ADHL",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -771,8 +745,7 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Blitzen",
+        "name": "Blitzen",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -787,8 +760,7 @@
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -802,8 +774,7 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -817,8 +788,7 @@
       },
       {
         "id": 5,
-        "code": "Engineer ADHL",
-        "codename": "",
+        "name": "Engineer ADHL",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -836,8 +806,7 @@
       },
       {
         "id": 6,
-        "code": "Engineer Blitzen",
-        "codename": "",
+        "name": "Engineer Blitzen",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -854,8 +823,7 @@
       },
       {
         "id": 7,
-        "code": "Doctor",
-        "codename": "",
+        "name": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -944,8 +912,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Contender",
+        "name": "Contender",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1064,8 +1031,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mk12",
+        "name": "Mk12",
         "cost": "64",
         "swc": "1.5",
         "spec": [],
@@ -1146,8 +1112,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spitfire",
+        "name": "Spitfire",
         "cost": "62",
         "swc": "2",
         "spec": [],
@@ -1183,8 +1148,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Sixth Sense",
+        "name": "Sixth Sense",
         "cost": "3",
         "swc": "0",
         "spec": [
@@ -1200,8 +1164,7 @@
       },
       {
         "id": 2,
-        "code": "Aerocam",
-        "codename": "",
+        "name": "Aerocam",
         "cost": "3",
         "swc": "0",
         "spec": [
@@ -1243,8 +1206,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1258,8 +1220,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1273,8 +1234,7 @@
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -1288,8 +1248,7 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -1331,8 +1290,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1347,8 +1305,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1389,8 +1346,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Breaker Rifle",
+        "name": "Breaker Rifle",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1404,8 +1360,7 @@
       },
       {
         "id": 2,
-        "code": "Combi",
-        "codename": "",
+        "name": "Combi",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1420,8 +1375,7 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "Boarding Shotgun",
+        "name": "Boarding Shotgun",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1459,8 +1413,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Hacker",
+        "name": "Hacker",
         "cost": "19",
         "swc": "1",
         "spec": [
@@ -1476,8 +1429,7 @@
       },
       {
         "id": 2,
-        "code": "Defensive Hacking Device",
-        "codename": "Defensive Hacking Device",
+        "name": "Defensive Hacking Device",
         "cost": "17",
         "swc": "0.5",
         "spec": [
@@ -1550,8 +1502,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Minelayer",
+        "name": "Minelayer",
         "cost": "42",
         "swc": "1.5",
         "spec": [
@@ -1570,8 +1521,7 @@
       },
       {
         "id": 2,
-        "code": "MSV 1",
-        "codename": "",
+        "name": "MSV 1",
         "cost": "45",
         "swc": "1.5",
         "spec": [
@@ -1627,8 +1577,7 @@
     "childs": [
       {
         "id": 1,
-        "code": "Dual SMG",
-        "codename": "",
+        "name": "Dual SMG",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1643,8 +1592,7 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1659,8 +1607,7 @@
       },
       {
         "id": 3,
-        "code": "Dual Chain Rifle",
-        "codename": "",
+        "name": "Dual Chain Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1675,8 +1622,7 @@
       },
       {
         "id": 4,
-        "code": "SMG",
-        "codename": "",
+        "name": "SMG",
         "cost": "15",
         "swc": "0",
         "spec": [],

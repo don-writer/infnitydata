@@ -261,7 +261,6 @@
         "cost": "72",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device Plus"
         ],
         "bsw": [
@@ -527,7 +526,6 @@
         "cost": "40",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -716,7 +714,6 @@
         "cost": "31",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -753,7 +750,7 @@
         "swc": "0",
         "spec": [
           "Lieutenant"
-          ],
+        ],
         "bsw": [
           "Nanopulser",
           "Combi Rifle"
@@ -1130,7 +1127,6 @@
         "cost": "31",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1262,7 +1258,6 @@
         "cost": "32",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1735,7 +1730,6 @@
         "cost": "18",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -1783,7 +1777,6 @@
         "cost": "21",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1888,7 +1881,6 @@
         "cost": "25",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -2861,7 +2853,6 @@
     "spec": [
       "Journalist L2",
       "V: No Wound Incapacitation",
-      "Hacker",
       "Hacking Device"
     ],
     "childs": [
@@ -3287,7 +3278,6 @@
         "cost": "32",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -3307,7 +3297,6 @@
         "swc": "0.5",
         "profile": "1",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -3326,7 +3315,6 @@
         "cost": "30",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -3346,7 +3334,6 @@
         "swc": "0.5",
         "profile": "1",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [

@@ -57,7 +57,6 @@
         "cost": "18",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -228,7 +227,6 @@
         "cost": "24",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -426,7 +424,6 @@
         "cost": "28",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -571,7 +568,6 @@
         "cost": "28",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -662,7 +658,6 @@
         "cost": "38",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -833,7 +828,6 @@
         "cost": "42",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1071,7 +1065,7 @@
         "cost": "37",
         "swc": "0",
         "spec": [
-          "Doctor"  
+          "Doctor"
         ],
         "bsw": [
           "Combi Rifle"
@@ -1176,7 +1170,6 @@
         "cost": "50",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1247,7 +1240,7 @@
         "cost": "44",
         "swc": "0.5",
         "spec": [
-        "Fireteam: Duo"  
+          "Fireteam: Duo"
         ],
         "bsw": [
           "Boarding Shotgun"
@@ -1409,7 +1402,6 @@
         "cost": "70",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1728,7 +1720,6 @@
         "cost": "36",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -2259,7 +2250,6 @@
         "cost": "19",
         "swc": "1",
         "spec": [
-          "Hacker",
           "Hacking Device",
           "Deployable Repeater"
         ],
@@ -2331,7 +2321,6 @@
         "cost": "23",
         "swc": "1",
         "spec": [
-          "Hacker",
           "Hacking Device",
           "Fast Panda"
         ],
@@ -2503,7 +2492,6 @@
         "cost": "32",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -2551,7 +2539,6 @@
         "cost": "27",
         "swc": "0",
         "spec": [
-          "Hacker",
           "Killer Hacking Device"
         ],
         "bsw": [
@@ -2818,7 +2805,6 @@
     "spec": [
       "Martial Arts L3",
       "Religious Troop",
-      "Hacker",
       "Assault Hacking Device UPGRADE: Trinity"
     ],
     "childs": [
@@ -2981,7 +2967,6 @@
         "cost": "21",
         "swc": "1",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -3091,7 +3076,7 @@
         "swc": "0",
         "spec": [
           "MediKit"
-          ],
+        ],
         "bsw": [
           "Combi Rifle"
         ],
@@ -3227,7 +3212,6 @@
         "cost": "21",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -3471,7 +3455,7 @@
         "swc": "2",
         "spec": [
           "Lieutenant"
-          ],
+        ],
         "bsw": [
           "Spitfire",
           "Chain-Colt"
@@ -4723,7 +4707,6 @@
         "cost": "27",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -4858,7 +4841,6 @@
         "cost": "38",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [

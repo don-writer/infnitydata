@@ -103,7 +103,6 @@
         "cost": "18",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -391,7 +390,6 @@
         "cost": "31",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -549,7 +547,6 @@
         "cost": "28",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -712,7 +709,6 @@
         "cost": "43",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -869,7 +865,6 @@
         "cost": "36",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1392,7 +1387,6 @@
         "cost": "24",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1506,7 +1500,6 @@
         "cost": "36",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1653,7 +1646,6 @@
         "cost": "28",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -2002,7 +1994,6 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Hacker",
       "Hacking Device Plus"
     ],
     "childs": [
@@ -2349,7 +2340,6 @@
         "s": "2",
         "spec": [
           "Engineer",
-          "Hacker",
           "Hacking Device: UPGRADE: Stop!"
         ],
         "bsw": [],
@@ -2709,7 +2699,6 @@
         "cost": "17",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -2990,7 +2979,6 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Hacker",
       "Hacking Device Plus",
       "ODD: Optical Disruptor",
       "Religious Troop"
@@ -4056,7 +4044,6 @@
         "cost": "27",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [

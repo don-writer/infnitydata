@@ -44,7 +44,6 @@
         "cost": "22",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Hacking Device"
         ],
         "bsw": [
@@ -418,7 +417,6 @@
         "cost": "35",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -482,7 +480,6 @@
         "cost": "43",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device Plus"
         ],
         "bsw": [
@@ -643,7 +640,6 @@
         "cost": "34",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Hacking Device"
         ],
         "bsw": [
@@ -788,7 +784,6 @@
         "cost": "25",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -907,7 +902,6 @@
         "cost": "73",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device Plus"
         ],
         "bsw": [
@@ -1003,7 +997,6 @@
         "cost": "73",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device Plus",
           "Lieutenant"
         ],
@@ -1253,7 +1246,6 @@
         "cost": "30",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -1383,7 +1375,6 @@
         "cost": "41",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -2418,7 +2409,6 @@
         "cost": "27",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -2615,7 +2605,6 @@
         "cost": "32",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Hacking Device"
         ],
         "bsw": [
@@ -2971,7 +2960,6 @@
         "cost": "60",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device Plus"
         ],
         "bsw": [
@@ -3216,7 +3204,6 @@
         "cost": "88",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Hacking Device"
         ],
         "bsw": [
@@ -3434,7 +3421,6 @@
         "cost": "25",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -3895,7 +3881,6 @@
         "cost": "30",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [
@@ -4157,7 +4142,6 @@
         "cost": "31",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "EI Assault Hacking Device"
         ],
         "bsw": [

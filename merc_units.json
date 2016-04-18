@@ -239,7 +239,6 @@
         "cost": "25",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -708,7 +707,6 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "Hacker",
       "Hacking Device"
     ],
     "childs": [
@@ -1457,9 +1455,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "spec": [
-      "Hacker"
-    ],
+    "spec": [],
     "childs": [
       {
         "id": 1,

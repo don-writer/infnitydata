@@ -166,7 +166,6 @@
         "cost": "20",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -487,7 +486,6 @@
         "cost": "23",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -780,7 +778,6 @@
         "cost": "35",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -909,7 +906,6 @@
         "cost": "32",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -1435,7 +1431,6 @@
         "cost": "35",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -2278,7 +2273,6 @@
         "cost": "26",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Assault Hacking Device"
         ],
         "bsw": [
@@ -3588,7 +3582,6 @@
         "cost": "22",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [
@@ -3607,7 +3600,6 @@
         "cost": "23",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device",
           "Forward Observer"
         ],
@@ -3645,7 +3637,6 @@
         "cost": "22",
         "swc": "1",
         "spec": [
-          "Hacker",
           "Hacking Device",
           "Lieutenant"
         ],
@@ -3938,7 +3929,6 @@
         "cost": "28",
         "swc": "0.5",
         "spec": [
-          "Hacker",
           "Hacking Device"
         ],
         "bsw": [

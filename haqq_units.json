@@ -22,8 +22,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Shotgun",
         "cost": "5",
         "swc": "0",
         "spec": [],
@@ -33,12 +31,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Shotgun"
       },
       {
         "id": 2,
-        "code": "Camo+Panzerfaust",
-        "codename": "",
         "cost": "8",
         "swc": "0.5",
         "spec": [
@@ -52,12 +49,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Camo+Panzerfaust"
       },
       {
         "id": 3,
-        "code": "Camo",
-        "codename": "",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -71,12 +67,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Camo"
       },
       {
         "id": 4,
-        "code": "HMG",
-        "codename": "",
         "cost": "17",
         "swc": "0.5",
         "spec": [],
@@ -86,12 +81,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 5,
-        "code": "Grenadier",
-        "codename": "",
         "cost": "8",
         "swc": "0.5",
         "spec": [],
@@ -102,12 +96,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Grenadier"
       },
       {
         "id": 6,
-        "code": "Panzerfaust",
-        "codename": "",
         "cost": "7",
         "swc": "0.5",
         "spec": [],
@@ -118,7 +111,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Panzerfaust"
       }
     ]
   },
@@ -145,8 +139,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -157,12 +149,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
         "cost": "20",
         "swc": "0.5",
         "spec": [
@@ -175,12 +166,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 3,
-        "code": "HMG",
-        "codename": "",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -190,12 +180,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
         "cost": "17",
         "swc": "1.5",
         "spec": [],
@@ -205,12 +194,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Missile Launcher"
       },
       {
         "id": 5,
-        "code": "Grenadier",
-        "codename": "",
         "cost": "13",
         "swc": "1",
         "spec": [],
@@ -221,12 +209,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Grenadier"
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
         "cost": "16",
         "swc": "0.5",
         "spec": [],
@@ -236,12 +223,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 7,
-        "code": "Panzerfaust",
-        "codename": "",
         "cost": "15",
         "swc": "0.5",
         "spec": [],
@@ -253,12 +239,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Panzerfaust"
       },
       {
         "id": 8,
-        "code": "Doctor",
-        "codename": "",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -272,12 +257,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 9,
-        "code": "Observer",
-        "codename": "",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -290,12 +274,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Observer"
       },
       {
         "id": 10,
-        "code": "Deployable Repeater",
-        "codename": "",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -309,12 +292,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Deployable Repeater"
       },
       {
         "id": 11,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -327,12 +309,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 12,
-        "code": "HMG Lieutenant",
-        "codename": "",
         "cost": "20",
         "swc": "0.5",
         "spec": [
@@ -344,12 +325,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG Lieutenant"
       },
       {
         "id": 13,
-        "code": "Missile Launcher Lieutenant",
-        "codename": "",
         "cost": "17",
         "swc": "1.5",
         "spec": [
@@ -361,7 +341,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Missile Launcher Lieutenant"
       }
     ]
   },
@@ -388,8 +369,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "LFT",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -401,12 +380,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "LFT"
       },
       {
         "id": 2,
-        "code": "HFT",
-        "codename": "",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -417,12 +395,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HFT"
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "Lieutenant",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -436,7 +413,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -465,8 +443,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -477,12 +453,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -495,12 +470,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 3,
-        "code": "Doctor",
-        "codename": "",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -514,12 +488,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 4,
-        "code": "Observer",
-        "codename": "",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -532,12 +505,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Observer"
       },
       {
         "id": 5,
-        "code": "HMG",
-        "codename": "",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -547,12 +519,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 6,
-        "code": "Missile Launcher",
-        "codename": "",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -562,12 +533,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Missile Launcher"
       },
       {
         "id": 7,
-        "code": "Grenadier",
-        "codename": "",
         "cost": "16",
         "swc": "1",
         "spec": [],
@@ -578,12 +548,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Grenadier"
       },
       {
         "id": 8,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "15",
         "swc": "1",
         "spec": [
@@ -596,7 +565,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -628,8 +598,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -641,12 +609,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Panzerfaust",
-        "codename": "",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -657,12 +624,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Panzerfaust"
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -672,12 +638,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 4,
-        "code": "Doctor",
-        "codename": "",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -691,12 +656,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -709,12 +673,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 6,
-        "code": "Spitfire Lieutenant",
-        "codename": "",
         "cost": "31",
         "swc": "1",
         "spec": [
@@ -726,7 +689,8 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Spitfire Lieutenant"
       }
     ]
   },
@@ -757,8 +721,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -769,12 +731,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -787,12 +748,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 3,
-        "code": "HMG",
-        "codename": "",
         "cost": "35",
         "swc": "1.5",
         "spec": [],
@@ -802,12 +762,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 4,
-        "code": "Sniper Rifle",
-        "codename": "",
         "cost": "31",
         "swc": "0.5",
         "spec": [],
@@ -817,12 +776,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "27",
         "swc": "1",
         "spec": [
@@ -835,12 +793,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 6,
-        "code": "Doctor",
-        "codename": "",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -854,7 +811,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       }
     ]
   },
@@ -885,8 +843,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -897,12 +853,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -915,12 +870,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -930,12 +884,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -945,7 +898,8 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       }
     ]
   },
@@ -975,8 +929,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -987,12 +939,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "AP Rifle"
       },
       {
         "id": 2,
-        "code": "Tinbot",
-        "codename": "",
         "cost": "37",
         "swc": "0.5",
         "spec": [
@@ -1005,12 +956,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Tinbot"
       },
       {
         "id": 3,
-        "code": "HMG",
-        "codename": "",
         "cost": "40",
         "swc": "2",
         "spec": [],
@@ -1020,12 +970,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1035,12 +984,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -1053,12 +1001,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 6,
-        "code": "Doctor",
-        "codename": "",
         "cost": "41",
         "swc": "0",
         "spec": [
@@ -1072,12 +1019,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 7,
-        "code": "Missile Launcher",
-        "codename": "",
         "cost": "39",
         "swc": "2",
         "spec": [],
@@ -1087,12 +1033,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Missile Launcher"
       },
       {
         "id": 8,
-        "code": "BSG Tinbot",
-        "codename": "",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -1104,7 +1049,8 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "BSG Tinbot"
       }
     ]
   },
@@ -1132,8 +1078,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1144,12 +1088,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "AP Rifle"
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
         "cost": "41",
         "swc": "2",
         "spec": [],
@@ -1159,12 +1102,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -1174,12 +1116,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 4,
-        "code": "Panzerfaust",
-        "codename": "",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -1190,7 +1131,8 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Panzerfaust"
       }
     ]
   },
@@ -1258,8 +1200,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HFT",
         "cost": "78",
         "swc": "2",
         "spec": [],
@@ -1267,12 +1207,11 @@
           "MULTI HMG",
           "Heavy Flamethrower"
         ],
-        "ccw": []
+        "ccw": [],
+        "name": "HFT"
       },
       {
         "id": 2,
-        "code": "Heavy Pistols",
-        "codename": "",
         "cost": "79",
         "swc": "2",
         "spec": [],
@@ -1281,12 +1220,11 @@
         ],
         "ccw": [
           "Heavy Pistol (2)"
-        ]
+        ],
+        "name": "Heavy Pistols"
       },
       {
         "id": 3,
-        "code": "360° Visor",
-        "codename": "",
         "cost": "98",
         "swc": "2",
         "spec": [
@@ -1296,7 +1234,8 @@
           "MULTI HMG",
           "Heavy Flamethrower"
         ],
-        "ccw": []
+        "ccw": [],
+        "name": "360° Visor"
       }
     ]
   },
@@ -1327,8 +1266,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Grenadier",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -1342,12 +1279,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Grenadier"
       },
       {
         "id": 2,
-        "code": "Sniper Rifle",
-        "codename": "",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -1358,12 +1294,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 3,
-        "code": "Observer+Repeater",
-        "codename": "",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -1378,7 +1313,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Observer+Repeater"
       }
     ]
   },
@@ -1409,8 +1345,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1422,12 +1356,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -1441,12 +1374,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
         "cost": "33",
         "swc": "0.5",
         "spec": [],
@@ -1457,12 +1389,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -1473,12 +1404,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 5,
-        "code": "Doctor",
-        "codename": "",
         "cost": "33",
         "swc": "0",
         "spec": [
@@ -1493,7 +1423,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       }
     ]
   },
@@ -1526,8 +1457,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "DA CCW",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1539,12 +1468,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ]
+        ],
+        "name": "DA CCW"
       },
       {
         "id": 2,
-        "code": "Mines",
-        "codename": "",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -1557,12 +1485,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Mines"
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1573,12 +1500,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 4,
-        "code": "AP CCW",
-        "codename": "AP CCW",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1590,7 +1516,8 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "AP CCW"
       }
     ]
   },
@@ -1640,8 +1567,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1653,12 +1578,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Chain Rifle",
-        "codename": "",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -1669,12 +1593,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ]
+        ],
+        "name": "Chain Rifle"
       },
       {
         "id": 3,
-        "code": "E/M CCW",
-        "codename": "",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1685,7 +1608,8 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ]
+        ],
+        "name": "E/M CCW"
       }
     ]
   },
@@ -1715,8 +1639,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
         "cost": "5",
         "swc": "0",
         "spec": [],
@@ -1728,12 +1650,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Chain Rifle"
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -1745,7 +1666,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       }
     ]
   },
@@ -1775,8 +1697,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Engineer",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1788,7 +1708,8 @@
           "D-Charges",
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Engineer"
       }
     ]
   },
@@ -1824,8 +1745,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -1835,7 +1754,8 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "Rifle"
       }
     ]
   },
@@ -1867,8 +1787,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
         "cost": "25",
         "swc": "1",
         "spec": [],
@@ -1877,7 +1795,8 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "HMG"
       }
     ]
   },
@@ -1907,8 +1826,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Smart Missile Launcher",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -1917,7 +1834,8 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "Smart Missile Launcher"
       }
     ]
   },
@@ -1949,8 +1867,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Repeater",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -1959,7 +1875,8 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "Repeater"
       }
     ]
   },
@@ -1993,8 +1910,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
         "cost": "54",
         "swc": "0",
         "spec": [],
@@ -2007,12 +1922,11 @@
         "ccw": [
           "DA CCW",
           "Pistol"
-        ]
+        ],
+        "name": "AP Rifle"
       },
       {
         "id": 2,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "56",
         "swc": "2",
         "spec": [],
@@ -2024,12 +1938,11 @@
         "ccw": [
           "DA CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "54",
         "swc": "-1",
         "spec": [
@@ -2044,12 +1957,11 @@
         "ccw": [
           "DA CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 4,
-        "code": "Spitfire Lieutenant",
-        "codename": "",
         "cost": "56",
         "swc": "2",
         "spec": [
@@ -2063,7 +1975,8 @@
         "ccw": [
           "DA CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Spitfire Lieutenant"
       }
     ]
   },
@@ -2119,8 +2032,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2132,7 +2043,8 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Chain Rifle"
       }
     ]
   },
@@ -2188,8 +2100,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "26",
         "swc": "-1",
         "spec": [
@@ -2203,7 +2113,8 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -2234,8 +2145,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Sniper Rifle",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -2246,12 +2155,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 2,
-        "code": "Observer",
-        "codename": "",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -2264,12 +2172,11 @@
           "Knife",
           "Pistol",
           "D-Charges"
-        ]
+        ],
+        "name": "Observer"
       },
       {
         "id": 3,
-        "code": "Hacker",
-        "codename": "",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -2282,7 +2189,8 @@
           "Knife",
           "Pistol",
           "D-Charges"
-        ]
+        ],
+        "name": "Hacker"
       }
     ]
   },
@@ -2313,8 +2221,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
         "cost": "48",
         "swc": "0",
         "spec": [],
@@ -2326,12 +2232,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ]
+        ],
+        "name": "AP Rifle"
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "48",
         "swc": "0",
         "spec": [
@@ -2345,12 +2250,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 3,
-        "code": "Doctor",
-        "codename": "",
         "cost": "52",
         "swc": "0",
         "spec": [
@@ -2365,12 +2269,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "50",
         "swc": "2",
         "spec": [],
@@ -2381,12 +2284,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 5,
-        "code": "DA CCW",
-        "codename": "",
         "cost": "49",
         "swc": "0",
         "spec": [],
@@ -2398,12 +2300,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ]
+        ],
+        "name": "DA CCW"
       },
       {
         "id": 6,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "43",
         "swc": "0",
         "spec": [],
@@ -2414,7 +2315,8 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       }
     ]
   },
@@ -2442,8 +2344,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Feuerbach",
-        "codename": "Feuerbach",
         "cost": "41",
         "swc": "2",
         "spec": [
@@ -2455,12 +2355,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Feuerbach"
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "AP HMG",
         "cost": "41",
         "swc": "2",
         "spec": [],
@@ -2470,7 +2369,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "AP HMG"
       }
     ]
   },
@@ -2500,8 +2400,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -2512,12 +2410,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2527,12 +2424,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 3,
-        "code": "AP Rifle",
-        "codename": "",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -2542,12 +2438,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "AP Rifle"
       },
       {
         "id": 4,
-        "code": "E/Mauler",
-        "codename": "",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2558,7 +2453,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "E/Mauler"
       }
     ]
   },
@@ -2587,8 +2483,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2599,12 +2493,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Lieutenant+Spitfire",
-        "codename": "",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -2616,12 +2509,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant+Spitfire"
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -2634,12 +2526,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 4,
-        "code": "Observer",
-        "codename": "",
         "cost": "17",
         "swc": "0",
         "spec": [
@@ -2652,12 +2543,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Observer"
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "22",
         "swc": "1",
         "spec": [],
@@ -2667,7 +2557,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Spitfire"
       }
     ]
   },
@@ -2699,8 +2590,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Of Command",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -2713,12 +2602,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Chain Of Command"
       },
       {
         "id": 2,
-        "code": "Observer",
-        "codename": "",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -2731,7 +2619,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Observer"
       }
     ]
   },
@@ -2763,8 +2652,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Viral Rifle",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -2775,12 +2662,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Viral Rifle"
       },
       {
         "id": 2,
-        "code": "Viral Sniper Rifle",
-        "codename": "",
         "cost": "26",
         "swc": "1.5",
         "spec": [],
@@ -2790,7 +2676,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Viral Sniper Rifle"
       }
     ]
   },
@@ -2820,8 +2707,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Panzerfaust",
         "cost": "24",
         "swc": "0.5",
         "spec": [],
@@ -2834,12 +2719,11 @@
           "Knife",
           "Pistol",
           "D-Charges"
-        ]
+        ],
+        "name": "Panzerfaust"
       },
       {
         "id": 2,
-        "code": "Smoke",
-        "codename": "",
         "cost": "22",
         "swc": "1",
         "spec": [],
@@ -2851,12 +2735,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Smoke"
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "22",
         "swc": "1.5",
         "spec": [
@@ -2870,12 +2753,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 4,
-        "code": "Doctor",
-        "codename": "",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -2890,12 +2772,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "30",
         "swc": "1",
         "spec": [
@@ -2908,12 +2789,11 @@
           "Knife",
           "Pistol",
           "D-Charges"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 6,
-        "code": "Minelayer (Viral)",
-        "codename": "",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -2928,12 +2808,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Minelayer (Viral)"
       },
       {
         "id": 7,
-        "code": "Minelayer (E/Mauler)",
-        "codename": "",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -2948,12 +2827,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Minelayer (E/Mauler)"
       },
       {
         "id": 8,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
         "cost": "23",
         "swc": "1",
         "spec": [
@@ -2966,7 +2844,8 @@
           "Knife",
           "Pistol",
           "D-Charges"
-        ]
+        ],
+        "name": "Heavy Rocket Launcher"
       }
     ]
   },
@@ -3000,8 +2879,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Viral CCW",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -3014,7 +2891,8 @@
           "Pistol",
           "Viral CCW",
           "Knife"
-        ]
+        ],
+        "name": "Viral CCW"
       }
     ]
   },
@@ -3046,8 +2924,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Minesweeper",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -3056,12 +2932,11 @@
         "bsw": [],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "Minesweeper"
       },
       {
         "id": 2,
-        "code": "Rifle",
-        "codename": "",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -3073,12 +2948,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 3,
-        "code": "EVO",
-        "codename": "",
         "cost": "13",
         "swc": "0.5",
         "spec": [
@@ -3087,7 +2961,8 @@
         "bsw": [],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "EVO"
       }
     ]
   },
@@ -3118,15 +2993,14 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Servant",
         "cost": "3",
         "swc": "0",
         "spec": [],
         "bsw": [],
         "ccw": [
           "Electric Pulse"
-        ]
+        ],
+        "name": "Servant"
       }
     ]
   },
@@ -3157,8 +3031,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -3170,12 +3042,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "Haris",
-        "codename": "",
         "cost": "25",
         "swc": "1",
         "spec": [
@@ -3189,12 +3060,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Haris"
       },
       {
         "id": 3,
-        "code": "SMG",
-        "codename": "",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3206,12 +3076,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "SMG"
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3222,12 +3091,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "30",
         "swc": "1",
         "spec": [],
@@ -3238,7 +3106,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Spitfire"
       }
     ]
   },
@@ -3269,8 +3138,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -3281,12 +3148,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Combi"
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "36",
         "swc": "0",
         "spec": [
@@ -3299,7 +3165,8 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -3327,13 +3194,12 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
         "cost": "0",
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": []
+        "ccw": [],
+        "name": "Spec-Ops"
       }
     ]
   },
@@ -3365,8 +3231,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Holoprojector L1",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3381,12 +3245,11 @@
           "Pistol",
           "Viral CCW",
           "Knife"
-        ]
+        ],
+        "name": "Holoprojector L1"
       },
       {
         "id": 2,
-        "code": "Infiltration",
-        "codename": "",
         "cost": "34",
         "swc": "0",
         "spec": [
@@ -3403,7 +3266,8 @@
           "Pistol",
           "Viral CCW",
           "Knife"
-        ]
+        ],
+        "name": "Infiltration"
       }
     ]
   },
@@ -3433,8 +3297,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "ADHL",
-        "codename": "",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3446,12 +3308,11 @@
           "Pistol",
           "Knife",
           "D-Charges"
-        ]
+        ],
+        "name": "ADHL"
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Blitzen",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3462,12 +3323,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Blitzen"
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -3477,12 +3337,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "MULTI Sniper Rifle"
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -3492,12 +3351,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 5,
-        "code": "Engineer ADHL",
-        "codename": "",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3511,12 +3369,11 @@
           "Pistol",
           "Knife",
           "D-Charges"
-        ]
+        ],
+        "name": "Engineer ADHL"
       },
       {
         "id": 6,
-        "code": "Engineer Blitzen",
-        "codename": "",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3529,12 +3386,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Engineer Blitzen"
       },
       {
         "id": 7,
-        "code": "Doctor",
-        "codename": "",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3548,7 +3404,8 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Doctor"
       }
     ]
   },
@@ -3577,8 +3434,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Hacker",
         "cost": "22",
         "swc": "0.5",
         "spec": [
@@ -3591,12 +3446,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 2,
-        "code": "Hacker+Observer",
-        "codename": "",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -3610,12 +3464,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Hacker+Observer"
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -3628,12 +3481,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Observer"
       },
       {
         "id": 4,
-        "code": "Hacker+Lieutenant",
-        "codename": "",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -3647,12 +3499,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Hacker+Lieutenant"
       },
       {
         "id": 5,
-        "code": "Observer+Lieutenant",
-        "codename": "",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -3666,7 +3517,8 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ]
+        ],
+        "name": "Observer+Lieutenant"
       }
     ]
   },
@@ -3696,8 +3548,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -3709,12 +3559,11 @@
           "Knife",
           "Pistol",
           "Stun Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 2,
-        "code": "AP Rifle",
-        "codename": "",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3726,12 +3575,11 @@
           "Knife",
           "Pistol",
           "Stun Pistol"
-        ]
+        ],
+        "name": "AP Rifle"
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -3742,12 +3590,11 @@
           "Knife",
           "Pistol",
           "Stun Pistol"
-        ]
+        ],
+        "name": "Spitfire"
       },
       {
         "id": 4,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
         "cost": "24",
         "swc": "1.5",
         "spec": [],
@@ -3758,12 +3605,11 @@
         "ccw": [
           "Knife",
           "Assault Pistol"
-        ]
+        ],
+        "name": "Heavy Rocket Launcher"
       },
       {
         "id": 5,
-        "code": "Haris",
-        "codename": "",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -3777,12 +3623,11 @@
           "Knife",
           "Pistol",
           "Stun Pistol"
-        ]
+        ],
+        "name": "Haris"
       },
       {
         "id": 6,
-        "code": "Doctor",
-        "codename": "",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -3797,12 +3642,11 @@
           "Knife",
           "Pistol",
           "Stun Pistol"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 7,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -3816,7 +3660,8 @@
           "Knife",
           "Pistol",
           "Stun Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -3847,8 +3692,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -3859,12 +3702,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "Rifle"
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -3874,12 +3716,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -3889,12 +3730,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "Boarding Shotgun"
       },
       {
         "id": 4,
-        "code": "Sniper Rifle",
-        "codename": "",
         "cost": "25",
         "swc": "0.5",
         "spec": [],
@@ -3904,12 +3744,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 5,
-        "code": "Missile Launcher",
-        "codename": "",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -3920,12 +3759,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "Missile Launcher"
       },
       {
         "id": 6,
-        "code": "Hacker",
-        "codename": "",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -3937,12 +3775,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "Hacker"
       },
       {
         "id": 7,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -3955,7 +3792,8 @@
         "ccw": [
           "Knife",
           "Breaker Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -3985,8 +3823,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Breaker Rifle",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -3999,12 +3835,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Breaker Rifle"
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -4014,12 +3849,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG"
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -4031,12 +3865,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Sniper Rifle"
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -4047,12 +3880,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Missile Launcher"
       },
       {
         "id": 5,
-        "code": "Doctor",
-        "codename": "",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -4065,12 +3897,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Doctor"
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -4084,12 +3915,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "Lieutenant"
       },
       {
         "id": 7,
-        "code": "HMG Lieutenant",
-        "codename": "",
         "cost": "32",
         "swc": "1.5",
         "spec": [
@@ -4101,7 +3931,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ]
+        ],
+        "name": "HMG Lieutenant"
       }
     ]
   },
@@ -4152,8 +3983,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Light Shotgun",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -4164,7 +3993,8 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ]
+        ],
+        "name": "Light Shotgun"
       }
     ]
   },
@@ -4215,8 +4045,6 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "LFT",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -4227,7 +4055,8 @@
         "ccw": [
           "Breaker Pistol (2)",
           "DA CCW"
-        ]
+        ],
+        "name": "LFT"
       }
     ]
   }

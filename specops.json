@@ -1,138 +1,166 @@
 {
   "specopsisc": {
-    "Aleph": [
+    "7999": [
       {
-        "isc": "Chandra Spec-Ops",
+        "comment": "Chandra Spec-Ops",
+        "id": 7025,
         "basemodels": [
           {
-            "isc": "Thorakitai",
-            "code": "Combi"
+            "comment": "Thorakitai / Combi",
+            "unit_id": 7027,
+            "child_id": 2
           }
         ]
       }
     ],
-    "Ariadna": [
+    "3999": [
       {
-        "isc": "Intel Spec-Ops",
+        "comment": "Intel Spec-Ops",
+        "id": 3040,
         "basemodels": [
           {
-            "isc": "Line Kazak",
-            "code": "Default"
+            "comment": "Line Kazak / Rifle",
+            "unit_id": 3001,
+            "child_id": 1
           },
           {
-            "isc": "Caledonian Volunteers",
-            "code": "Default"
+            "comment": "Caledonian Volunteers / Rifle",
+            "unit_id": 3022,
+            "child_id": 8
           },
           {
-            "isc": "Métros",
-            "code": "Default"
+            "comment": "Métros / Rifle",
+            "unit_id": 3027,
+            "child_id": 8
           },
           {
-            "isc": "USAriadna Grunts",
-            "code": "Default"
+            "comment": "USAriadna Grunts / Rifle",
+            "unit_id": 3004,
+            "child_id": 1
           }
         ]
       }
     ],
-    "Combined Army": [
+    "6999": [
       {
-        "isc": "Corax Spec-Ops",
+        "comment": "Corax Spec-Ops",
+        "id": 6041,
         "basemodels": [
           {
-            "isc": "Shasvastii Seed-Soldiers",
-            "code": "Default"
+            "comment": "Shasvastii Seed-Soldiers / Combi",
+            "unit_id": 6030,
+            "child_id": 1
           }
         ]
       },
       {
-        "isc": "Treitak Spec-Ops",
+        "comment": "Treitak Spec-Ops",
+        "id": 6039,
         "basemodels": [
           {
-            "isc": "Morat Vanguard Infantry",
-            "code": "Default"
+            "comment": "Morat Vanguard Infantry / Combi",
+            "unit_id": 6001,
+            "child_id": 1
           }
         ]
       }
     ],
-    "Haqqislam": [
+    "4999": [
       {
-        "isc": "Husam Spec-Ops",
+        "comment": "Husam Spec-Ops",
+        "id": 4037,
         "basemodels": [
           {
-            "isc": "Ghulam",
-            "code": "Default"
+            "comment": "Ghulam / Rifle",
+            "unit_id": 4002,
+            "child_id": 1
           },
           {
-            "isc": "Hassassin Muyibs",
-            "code": "Default"
+            "comment": "Hassassin Muyibs / Panzerfaust",
+            "unit_id": 4031,
+            "child_id": 1
           },
           {
-            "isc": "Hafza Unit",
-            "code": "Default"
+            "comment": "Hafza Unit / Rifle",
+            "unit_id": 4028,
+            "child_id": 1
           }
         ]
       }
     ],
-    "Nomads": [
+    "5999": [
       {
-        "isc": "Vortex Spec-Ops",
+        "comment": "Vortex Spec-Ops",
+        "id": 5042,
         "basemodels": [
           {
-            "isc": "Alguaciles",
-            "code": "Default"
+            "comment": "Alguaciles / Combi",
+            "unit_id": 5001,
+            "child_id": 1
           },
           {
-            "isc": "Moderators from Bakunin",
-            "code": "Default"
+            "comment": "Moderators from Bakunin / Combi",
+            "unit_id": 5028,
+            "child_id": 1
           }
         ]
       }
     ],
-    "PanOceania": [
+    "1999": [
       {
-        "isc": "Indigo Spec-Ops",
+        "comment": "Indigo Spec-Ops",
+        "id": 1045,
         "basemodels": [
           {
-            "isc": "Fusiliers",
-            "code": "Default"
+            "comment": "Fusiliers / Combi",
+            "unit_id": 1001,
+            "child_id": 1
           },
           {
-            "isc": "Acontecimento Regulars",
-            "code": "Default"
+            "comment": "Acontecimento Regulars / Combi",
+            "unit_id": 1023,
+            "child_id": 1
           },
           {
-            "isc": "Order Sergeants",
-            "code": "Default"
+            "comment": "Order Sergeants / Combi",
+            "unit_id": 1030,
+            "child_id": 8
           }
         ]
       }
     ],
-    "Tohaa": [
+    "8999": [
       {
-        "isc": "Hatail Spec-Ops",
+        "comment": "Hatail Spec-Ops",
+        "id": 8014,
         "basemodels": [
           {
-            "isc": "Kamael Light Infantry",
-            "code": "Default"
+            "comment": "Kamael Light Infantry / Combi",
+            "unit_id": 8001,
+            "child_id": 1
           }
         ]
       }
     ],
-    "Yu Jing": [
+    "2999": [
       {
-        "isc": "Guǐ Fēng Spec-Ops",
+        "comment": "Guǐ Fēng Spec-Ops",
+        "id": 2043,
         "basemodels": [
           {
-            "isc": "Keisotsu",
-            "code": "Default"
+            "comment": "Keisotsu / Combi",
+            "unit_id": 2001,
+            "child_id": 1
           },
           {
-            "isc": "Zhanshi",
-            "code": "Default"
+            "comment": "Zhanshi / Combi",
+            "unit_id": 2002,
+            "child_id": 1
           },
           {
-            "isc": "Celestial Guard",
-            "code": "Default"
+            "comment": "Celestial Guard / Combi",
+            "unit_id": 2022,
+            "child_id": 1
           }
         ]
       }

@@ -711,6 +711,41 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 7,
+        "name": "Lieutenant+Combi",
+        "cost": "23",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Lieutenant+Sensor",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Lieutenant",
+          "Sensor"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -774,6 +809,19 @@
         "spec": [],
         "bsw": [
           "HMG"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Spitfire",
+        "cost": "26",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
         ],
         "ccw": [
           "Electric Pulse"

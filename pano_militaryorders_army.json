@@ -18,30 +18,35 @@
           {
             "comment": "Infiltrator MULTI Sniper Rifle",
             "id": 1,
-            "swc": "1.5"
+            "hide": true
           },
           {
             "comment": "Infiltrator Observer",
             "id": 2,
-            "swc": "0"
+            "hide": true
           },
           {
             "comment": "MSV L2",
             "id": 3,
-            "swc": "1.5"
+            "hide": true
           },
           {
             "comment": "Hacker",
             "id": 4,
-            "swc": "0.5"
+            "hide": true
           },
           {
             "comment": "Combi Rifle + Auxbot",
             "id": 5,
-            "swc": "0"
+            "hide": true
           }
         ],
         "linkable": true
+      },
+      {
+        "comment": "Spec. Sergeants",
+        "id": 1031,
+        "ava": "T"
       },
       {
         "comment": "Knights Hospitaller",

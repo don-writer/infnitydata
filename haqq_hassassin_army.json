@@ -72,7 +72,7 @@
       {
         "comment": "Rafiq Remote",
         "id": 4017,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Shihab Remote",
@@ -119,6 +119,16 @@
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"
+      }
+      {
+        "comment": "Avicenna",
+        "id": 9009,
+        "ava": "1"
+      }
+      {
+        "comment": "Áyyār",
+        "id": 4046,
+        "ava": "2"
       }
     ]
   }

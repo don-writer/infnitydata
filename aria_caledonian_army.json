@@ -11,8 +11,9 @@
         "ava": "T",
         "childs": [
           {
+            "comment": "LT is 0 SWC in CHA",
             "id": 1,
-            "swc": 0
+            "swc": "0"
           }
         ],
         "linkable": true

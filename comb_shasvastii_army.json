@@ -45,12 +45,12 @@
         "childs": [
           {
             "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 0,
+            "id": 1,
             "swc": "0"
           },
           {
             "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 1,
+            "id": 2,
             "swc": "0"
           }
         ],

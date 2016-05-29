@@ -199,12 +199,12 @@
     "ph": "11",
     "wip": "13",
     "arm": "3",
-    "bts": "0",
+    "bts": "3",
     "w": "1",
     "s": "2",
     "ava": "2",
     "spec": [
-      "X Visor"
+      "Fireteam: Duo"
     ],
     "childs": [
       {
@@ -212,10 +212,13 @@
         "name": "Combi",
         "cost": "20",
         "swc": "0",
-        "spec": [],
+        "spec": [
+            "X Visor"
+        ],
         "bsw": [
           "Combi Rifle",
-          "D.E.P."
+          "D.E.P.",
+          "Chain-Colt"
         ],
         "ccw": [
           "CCW",
@@ -224,26 +227,29 @@
       },
       {
         "id": 2,
-        "name": "Hacker",
+        "name": "Spitfire",
         "cost": "25",
-        "swc": "0.5",
+        "swc": "1.5",
         "spec": [
-          "Assault Hacking Device"
+            "X Visor"
         ],
         "bsw": [
-          "Combi Rifle"
+          "Spitfire"
         ],
         "ccw": [
           "CCW",
           "Pistol"
         ]
-      },
+      }
+
       {
         "id": 3,
         "name": "LGL",
         "cost": "23",
-        "swc": "1.5",
-        "spec": [],
+        "swc": "0.5",
+        "spec": [
+            "X Visor"
+        ],
         "bsw": [
           "Combi Rifle",
           "Light Grenade Launcher"
@@ -255,16 +261,51 @@
       },
       {
         "id": 4,
-        "name": "Spitfire",
-        "cost": "25",
-        "swc": "1.5",
+        "name": "Boarding Shotgun",
+        "cost": "19",
+        "swc": "0",
         "spec": [],
         "bsw": [
-          "Spitfire"
+          "Boarding Shotgun",
+          "E/M Grenades"
         ],
         "ccw": [
           "CCW",
           "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Killer Hacker",
+        "cost": "21",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol",
+          "D-Charges"
+        ]
+      }
+      {
+        "id": 6,
+        "name": "Assault Hacker",
+        "cost": "24",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol",
+          "D-Charges"
         ]
       }
     ]

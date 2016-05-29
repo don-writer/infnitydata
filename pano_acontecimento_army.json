@@ -26,13 +26,13 @@
       {
         "comment": "Bagh-Mari",
         "id": 1003,
-        "ava": "4",
+        "ava": "5",
         "linkable": true
       },
       {
-        "comment": "Lieutenant Stephen Rao",
-        "id": 1049,
-        "ava": "1",
+        "comment": "Orc Troops",
+        "id": 1006,
+        "ava": "3",
         "linkable": true
       },
       {
@@ -66,8 +66,19 @@
         "ava": "1"
       },
       {
-        "comment": "Toni Macayana, Tikbalangs Lieutenant",
-        "id": 1043,
+        "comment": "Lieutenant Stephen Rao",
+        "id": 1049,
+        "ava": "1",
+        "linkable": true
+      },
+      {
+        "comment": "Drakios",
+        "id": 7040,
+        "ava": "1"
+      },
+      {
+        "comment": "Scylla",
+        "id": 7041,
         "ava": "1"
       },
       {
@@ -88,12 +99,12 @@
       {
         "comment": "Fugazi Dronbot",
         "id": 1021,
-        "ava": "2"
+        "ava": "3"
       },
       {
         "comment": "Armbots: Bulleteers",
         "id": 1040,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Armbots: Peacemakers",

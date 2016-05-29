@@ -39,6 +39,11 @@
             "comment": "Combi Rifle + Auxbot",
             "id": 5,
             "hide": true
+          },
+          {
+            "comment": "HRL + Auxbot",
+            "id": 11,
+            "hide": true
           }
         ],
         "linkable": true
@@ -47,6 +52,28 @@
         "comment": "Spec. Sergeants",
         "id": 1031,
         "ava": "T"
+      },
+      {
+        "comment": "Crusader Brethren",
+        "id": 1048,
+        "ava": "4",
+        "childs": [
+          {
+            "comment": "HMG",
+            "id": 2,
+            "swc": "1.5"
+          },
+          {
+            "comment": "Spitfire",
+            "id": 5,
+            "swc": "1.5"
+          }
+        ]
+      },
+      {
+        "comment": "Black Friars",
+        "id": 1051,
+        "ava": "2"
       },
       {
         "comment": "Knights Hospitaller",
@@ -58,18 +85,6 @@
         "comment": "Knights of Montesa",
         "id": 1033,
         "ava": "4"
-      },
-      {
-        "comment": "Crusader Brethren",
-        "id": 1048,
-        "ava": "4",
-        "childs": [
-          {
-            "comment": "HMG",
-            "id": 2,
-            "swc": "1.5"
-          }
-        ]
       },
       {
         "comment": "Knights Of Santiago",
@@ -85,19 +100,18 @@
       {
         "comment": "Teutonic Knights",
         "id": 1035,
-        "ava": "4",
-        "linkable": true
+        "ava": "4"
+      },
+      {
+        "comment": "Father-Knights",
+        "id": 1008,
+        "ava": "3"
       },
       {
         "comment": "Magister Knights",
         "id": 1036,
         "ava": "6",
         "linkable": true
-      },
-      {
-        "comment": "Father-Knights",
-        "id": 1008,
-        "ava": "3"
       },
       {
         "comment": "Seraphs",

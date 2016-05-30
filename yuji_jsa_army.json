@@ -8,7 +8,14 @@
         "comment": "Keisotsu",
         "id": 2001,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "childs": [
+          {
+            "comment": "Lieutenant costs 1 SWC in JSA",
+            "id": 9,
+            "swc": "1"
+          }
+        ]
       },
       {
         "comment": "Kempeitai",
@@ -18,6 +25,11 @@
       {
         "comment": "Aragoto Senkenbutai",
         "id": 2030,
+        "ava": "4"
+      },
+      {
+        "comment": "Raiden Seibutai",
+        "id": 2046,
         "ava": "4"
       },
       {
@@ -39,14 +51,14 @@
         "linkable": true
       },
       {
-        "comment": "Raiden Seibutai",
-        "id": 2046,
-        "ava": "4"
-      },
-      {
         "comment": "O-Yoroi Kidobutai",
         "id": 2035,
         "ava": "2"
+      },
+      {
+        "comment": "Shikami",
+        "id": 2049,
+        "ava": "2",
       },
       {
         "comment": "Ninjas",
@@ -69,15 +81,15 @@
         "ava": "1"
       },
       {
-        "comment": "Asuka Kisaragi",
-        "id": 2047,
-        "ava": "1"
-      },
-      {
         "comment": "Domaru Takeshi \"Neko\" Oyama",
         "id": 2041,
         "ava": "1",
         "linkable": true
+      },
+      {
+        "comment": "Asuka Kisaragi",
+        "id": 2047,
+        "ava": "1"
       },
       {
         "comment": "Yáoxiè Rui Shi",

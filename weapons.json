@@ -233,10 +233,27 @@
     "note": ""
   },
   {
-    "name": "CrazyKoala",
+    "name": "CrazyKoalas",
     "burst": "1",
     "ammo": "Shock",
     "damage": "15",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "No",
+    "note": ""
+  },
+  {
+    "name": "MadTraps",
+    "burst": "1",
+    "ammo": "Adhesive",
+    "damage": "--",
     "short_dist": "--",
     "short_mod": "--",
     "medium_dist": "--",
@@ -2710,5 +2727,23 @@
     "cc": "No",
     "template": "Impact Template (Circular)",
     "note": "Non-lethal, Special Dodge, Speculative Fire, Targetless"
+  },
+  {
+    "name": "Red Fury",
+    "burst": "4",
+    "ammo": "Shock",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "24",
+    "medium_mod": "3",
+    "long_dist": "40",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "suppressive": "Yes",
+    "note": ""
   }
 ]

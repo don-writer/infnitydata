@@ -2080,22 +2080,6 @@
         ]
       },
       {
-        "comment": "retired in HSN3",
-        "id": "",
-        "name": "Grenadier",
-        "cost": "14",
-        "swc": "1",
-        "spec": [],
-        "bsw": [
-          "Light Grenade Launcher",
-          "Combi Rifle"
-        ],
-        "ccw": [
-          "Knife",
-          "Pistol"
-        ]
-      },
-      {
         "id": 3,
         "name": "Spitfire",
         "cost": "16",
@@ -2135,24 +2119,6 @@
         ],
         "bsw": [
           "MULTI Sniper Rifle"
-        ],
-        "ccw": [
-          "Knife",
-          "Pistol"
-        ]
-      },
-      {
-        "comment": "retired in HSN3",
-        "id": "",
-        "name": "Hacker",
-        "cost": "19",
-        "swc": "1",
-        "spec": [
-          "Hacking Device",
-          "Deployable Repeater"
-        ],
-        "bsw": [
-          "Combi Rifle"
         ],
         "ccw": [
           "Knife",
@@ -3569,22 +3535,6 @@
         ]
       },
       {
-        "comment": "retired in HSN3",
-        "id": "",
-        "name": "EXP CCW",
-        "cost": "25",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Light Shotgun",
-          "Panzerfaust"
-        ],
-        "ccw": [
-          "Pistol",
-          "EXP CCW"
-        ]
-      },
-      {
         "id": 4,
         "name": "AP CCW",
         "cost": "22",
@@ -3956,70 +3906,6 @@
         "ccw": [
           "Assault Pistol",
           "E/M CCW"
-        ]
-      }
-    ]
-  },
-  {
-    "comment": "retired in HSN3",
-    "id": "",
-    "army": "PanOceania",
-    "isc": "Toni Macayana, Tikbalangs Lieutenant",
-    "name": "Macayana",
-    "image": "Tikbalangs, Armoured Chasseurs of Acontecimento",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "17",
-    "bs": "15",
-    "ph": "15",
-    "wip": "13",
-    "arm": "6",
-    "bts": "9",
-    "w": "3",
-    "s": "6",
-    "ava": "1",
-    "spec": [
-      "CH: Mimetism",
-      "G: Remote Presence",
-      "ECM",
-      "Multiterrain",
-      "Climbing Plus"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Lieutenant",
-        "cost": "85",
-        "swc": "2",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "HMG",
-          "Heavy Flamethrower",
-          "Antipersonnel Mines"
-        ],
-        "ccw": [
-          "AP CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "HMG",
-        "cost": "85",
-        "swc": "2",
-        "spec": [],
-        "bsw": [
-          "HMG",
-          "Heavy Flamethrower",
-          "Antipersonnel Mines"
-        ],
-        "ccw": [
-          "AP CCW"
         ]
       }
     ]

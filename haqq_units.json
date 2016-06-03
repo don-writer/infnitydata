@@ -813,7 +813,7 @@
           "Knife",
           "Pistol"
         ]
-      }
+      },
       {
         "id": 7,
         "name": "Marksman",
@@ -1678,7 +1678,7 @@
         "bsw": [
           "E/Marat",
           "Jammer",
-          "Boarding Shotgun"
+          "Boarding Shotgun",
           "Smoke Grenades"
         ],
         "ccw": [
@@ -2286,7 +2286,7 @@
           "Pistol",
           "Shock CCW"
         ]
-      }
+      },
       {
         "id": 4,
         "name": "Spitfire",
@@ -2371,7 +2371,7 @@
           "Pistol",
           "Shock CCW"
         ]
-      },
+      }
     ]
   },
   {
@@ -2509,7 +2509,7 @@
           "CCW",
           "Pistol"
         ]
-      }
+      },
       {
         "id": 4,
         "name": "Submachine Gun",
@@ -2707,7 +2707,7 @@
           "Knife",
           "Pistol"
         ]
-      }
+      },
       {
         "id": 2,
         "name": "Minelayer",
@@ -2950,7 +2950,7 @@
           "Pistol",
           "D-Charges"
         ]
-      }
+      },
       {
         "id": 9,
         "name": "Observer",
@@ -2966,9 +2966,9 @@
         ],
         "ccw": [
           "Knife",
-          "Pistol",
+          "Pistol"
         ]
-      }
+      },
       {
         "id": 10,
         "name": "Haris",
@@ -2987,7 +2987,7 @@
           "Pistol",
           "D-Charges"
         ]
-      }
+      },
       {
         "id": 11,
         "name": "Lieutenant (Panzerfaust)",
@@ -3615,7 +3615,7 @@
         "cost": "16",
         "swc": "0",
         "spec": [
-          "Killer Hacking Device: UPGRADE: Lightning",
+          "Killer Hacking Device: UPGRADE: Lightning"
         ],
         "bsw": [
           "Rifle",
@@ -3632,7 +3632,7 @@
         "cost": "19",
         "swc": "0.5",
         "spec": [
-          "Assault Hacking Device: UPGRADE: Icebreaker",
+          "Assault Hacking Device: UPGRADE: Icebreaker"
         ],
         "bsw": [
           "Rifle",
@@ -3972,7 +3972,7 @@
           "Knife",
           "Breaker Pistol"
         ]
-      }
+      },
       {
         "id": 8,
         "name": "Haris",
@@ -3989,7 +3989,7 @@
           "Knife",
           "Breaker Pistol"
         ]
-      }
+      },
       {
         "id": 9,
         "name": "Number 2",
@@ -4006,7 +4006,7 @@
           "Knife",
           "Breaker Pistol"
         ]
-      }
+      },
       {
         "id": 10,
         "name": "Killer Hacker",
@@ -4287,7 +4287,7 @@
         ]
       }
     ]
-  }
+  },
   {
     "id": 4046,
     "army": "Haqqislam",
@@ -4361,7 +4361,7 @@
           "2 Viral Pistols",
           "CCW"
         ]
-      },
+      }
     ]
   }
 ]

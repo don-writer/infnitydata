@@ -2745,5 +2745,22 @@
     "template": "No",
     "suppressive": "Yes",
     "note": ""
+  },
+  {
+    "name": "T2 CCW",
+    "burst": "1",
+    "ammo": "T2",
+    "damage": "PH",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "Yes",
+    "template": "No",
+    "note": ""
   }
 ]

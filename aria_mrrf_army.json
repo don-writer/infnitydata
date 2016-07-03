@@ -35,9 +35,15 @@
         "ava": "5"
       },
       {
+        "comment": "Briscard",
+        "id": 3037,
+        "ava": "5",
+        "linkable": true
+      },
+      {
         "comment": "Moblots",
         "id": 3007,
-        "ava": "5",
+        "ava": "4",
         "linkable": true
       },
       {
@@ -114,12 +120,6 @@
         "linkable": true
       },
       {
-        "comment": "Briscard",
-        "id": 3037,
-        "ava": "5",
-        "linkable": true
-      },
-      {
         "comment": "Margot Berthier, Mirage-5",
         "id": 3038,
         "ava": "1"
@@ -137,6 +137,11 @@
       {
         "comment": "Warcor",
         "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Wardrivers",
+        "id": 9021,
         "ava": "1"
       }
     ]

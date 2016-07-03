@@ -410,7 +410,7 @@
       {
         "id": 3,
         "cost": "10",
-        "swc": "1",
+        "swc": "0",
         "spec": [
           "Lieutenant"
         ],
@@ -642,7 +642,7 @@
   {
     "id": 3006,
     "army": "Ariadna",
-    "isc": "Minutemen",
+    "isc": "5th Minutemen 'Ohio'",
     "name": "Minuteman",
     "type": "HI",
     "imp": "",
@@ -1768,15 +1768,15 @@
   {
     "id": 3015,
     "army": "Ariadna",
-    "isc": "Assault Pack Controller",
-    "name": "Assault Pack",
+    "isc": "Antipode Assault Pack",
+    "name": "Assault Pack Handler",
     "image": "Assault Pack",
     "ava": "1",
     "spec": [],
     "profiles": [
       {
         "id": 1,
-        "name": "Controller",
+        "name": "Handler",
         "type": "WB",
         "imp": "",
         "irr": "",
@@ -2047,14 +2047,14 @@
   {
     "id": 3019,
     "army": "Ariadna",
-    "isc": "3rd Highlander Greys",
+    "isc": "3rd Highlander Grey Rifles",
     "name": "Highlander Grey",
     "type": "HI",
     "imp": "F",
     "irr": "",
     "cube": "",
     "mov": "4-4",
-    "cc": "16",
+    "cc": "18",
     "bs": "13",
     "ph": "13",
     "wip": "12",
@@ -2096,7 +2096,8 @@
         "bsw": [
           "Smoke Grenades",
           "T2 Boarding Shotgun",
-          "Grenades"
+          "Grenades",
+          "D-Charges"
         ],
         "ccw": [
           "CCW",
@@ -2225,6 +2226,23 @@
           "Pistol"
         ],
         "name": "T2 Rifle"
+      },
+      {
+        "id": 4,
+        "cost": "34",
+        "swc": "1",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Grenades",
+          "T2 Rifle"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ],
+        "name": "Haris"
       }
     ]
   },
@@ -2271,7 +2289,7 @@
       },
       {
         "id": 2,
-        "cost": "32",
+        "cost": "33",
         "swc": "0",
         "spec": [
           "Lieutenant",
@@ -2302,7 +2320,7 @@
       },
       {
         "id": 4,
-        "cost": "32",
+        "cost": "33",
         "swc": "0",
         "spec": [
           "X Visor"
@@ -2315,7 +2333,23 @@
           "Pistol"
         ],
         "name": "T2 Rifle"
-      }
+      },
+      {
+        "id": 5,
+        "cost": "43",
+        "swc": "2.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "AP HMG"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ],
+        "name": "Haris"
+      },
     ]
   },
   {
@@ -2323,7 +2357,6 @@
     "army": "Ariadna",
     "isc": "Caledonian Volunteers",
     "name": "Volunteer",
-    "sharedAva": "Ariadna Militia",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2339,7 +2372,8 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Multiterrain (Mountain and Jungle)"
+      "Jungle Terrain",
+      "Mountain Terrain"
     ],
     "childs": [
       {
@@ -2635,7 +2669,7 @@
           "Pistol",
           "Knife"
         ],
-        "name": "Akrylat K"
+        "name": "Akrylat-Kanone"
       },
       {
         "id": 3,
@@ -2681,7 +2715,7 @@
     "childs": [
       {
         "id": 1,
-        "cost": "21",
+        "cost": "24",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -2695,7 +2729,7 @@
       },
       {
         "id": 2,
-        "cost": "20",
+        "cost": "21",
         "swc": "0.5",
         "spec": [],
         "bsw": [
@@ -2800,7 +2834,6 @@
     "army": "Ariadna",
     "isc": "Métros",
     "name": "Métro",
-    "sharedAva": "Ariadna Militia",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2959,7 +2992,7 @@
     "type": "REM",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "4-4",
     "cc": "8",
@@ -3410,7 +3443,7 @@
         "spec": [
           "CH: Limited Camouflage",
           "Superior Infiltration",
-          "Specialist Troop"
+          "Specialist Operative"
         ],
         "bsw": [
           "Boarding Shotgun",
@@ -3526,6 +3559,7 @@
     "ava": "2",
     "spec": [
       "V: Courage",
+      "Multiterrain",
       "CH: Camouflage"
     ],
     "childs": [
@@ -3571,6 +3605,20 @@
           "Assault Pistol"
         ],
         "name": "Missile Launcher"
+      },
+      {
+        "id": 4,
+        "cost": "27",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "AP Marksman Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ],
+        "name": "AP Marksman"
       }
     ]
   },
@@ -3596,14 +3644,18 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "V: Courage"
+      "V: Courage",
+      "Multiterrain",
+      "Fireteam: Duo"
     ],
     "childs": [
       {
         "id": 1,
-        "cost": "23",
+        "cost": "24",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "Forward Observer"
+        ],
         "bsw": [
           "AP Marksman Rifle"
         ],
@@ -3611,13 +3663,15 @@
           "Knife",
           "Pistol"
         ],
-        "name": "AP Marksman"
+        "name": "AP Marksman Observer"
       },
       {
         "id": 2,
-        "cost": "18",
+        "cost": "19",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "Forward Observer"
+        ],
         "bsw": [
           "Submachine Gun (2)",
           "D.E.P."
@@ -3626,7 +3680,7 @@
           "Knife",
           "Pistol"
         ],
-        "name": "Submachine Gun"
+        "name": "Submachine Gun Observer"
       },
       {
         "id": 3,
@@ -4122,7 +4176,7 @@
         "cost": "22",
         "swc": "1",
         "spec": [
-          "Haris L1"
+          "Fireteam: Haris"
         ],
         "bsw": [
           "Rifle",
@@ -4607,7 +4661,7 @@
     "s": "4",
     "ava": "1",
     "spec": [
-      "Guard L1",
+      "Guardian L1",
       "Sixth Sense L2",
       "Strategos L1"
     ],
@@ -4641,6 +4695,148 @@
           "AP CCW"
         ],
         "name": "Lieutenant"
+      }
+    ]
+  },
+  {
+    "id": 3047,
+    "army": "Ariadna",
+    "isc": "Blackjacks, 10th Heavy Rangers Bat.",
+    "name": "Blackjack",
+    "ava": "1",
+    "spec": [
+      "Heavyweight",
+      "V: Courage"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Full Power",
+        "type": "HI",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-2",
+        "cc": "13",
+        "bs": "13",
+        "ph": "14",
+        "wip": "13",
+        "arm": "5",
+        "bts": "3",
+        "w": "1",
+        "s": "5",
+        "spec": [
+          "Lo-Tech A"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Battle Ravaged",
+        "mov": "4-4",
+        "s": "2",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "cost": "36",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "AP HMG",
+          "Chest Mines",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ],
+        "name": "AP HMG"
+      },
+      {
+        "id": 2,
+        "cost": "36",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "T2 Sniper Rifle",
+          "Submachine Gun",
+          "Chest Mines"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ],
+        "name": "Sniper"
+      }
+    ]
+  },
+  {
+    "id": 3048,
+    "army": "Ariadna",
+    "isc": "The Unknown Ranger",
+    "name": "Unknown Ranger",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "13",
+    "ph": "13",
+    "wip": "13",
+    "arm": "4",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Mimetism",
+      "Kinematika L1",
+      "Natural Born Warrior",
+      "Scavenger",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "cost": "41",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "T2 CCW",
+          "Knife"
+        ],
+        "name": "Chain of Command"
+      },
+      {
+        "id": 2,
+        "cost": "47",
+        "swc": "1.5",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "T2 CCW",
+          "Knife"
+        ],
+        "name": "Molotok"
       }
     ]
   }

@@ -17,18 +17,6 @@
         "linkable": true
       },
       {
-        "comment": "KTS, Kaplan Tactical Services",
-        "id": 4039,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Sekban",
-        "id": 4041,
-        "ava": "5",
-        "linkable": true
-      },
-      {
         "comment": "Bashi Bazouk",
         "id": 4027,
         "ava": "4"
@@ -40,6 +28,12 @@
         "linkable": true
       },
       {
+        "comment": "Sekban",
+        "id": 4041,
+        "ava": "5",
+        "linkable": true
+      },
+      {
         "comment": "Djanbazan",
         "id": 4006,
         "ava": "5",
@@ -48,8 +42,7 @@
       {
         "comment": "Azra'il",
         "id": 4026,
-        "ava": "3",
-        "linkable": true
+        "ava": "3"
       },
       {
         "comment": "Janissaries",
@@ -61,6 +54,18 @@
         "comment": "Al Hawwa' Unit",
         "id": 4024,
         "ava": "3"
+      },
+      {
+        "comment": "Druze Shock Teams",
+        "id": 4046,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "KTS, Kaplan Tactical Services",
+        "id": 4039,
+        "ava": "5",
+        "linkable": true
       },
       {
         "comment": "Rafiq Remote",
@@ -126,12 +131,6 @@
         "comment": "Yuan Yuan",
         "id": 9001,
         "ava": "3"
-      },
-      {
-        "comment": "Druze Shock Teams",
-        "id": 9003,
-        "ava": "4",
-        "linkable": true
       },
       {
         "comment": "Scarface",

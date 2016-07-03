@@ -1645,7 +1645,8 @@
         "bsw": [
           "E/Marat",
           "Jammer",
-          "Chain Rifle"
+          "Chain Rifle",
+          "Smoke Grenades"
         ],
         "ccw": [
           "Knife",
@@ -1661,7 +1662,8 @@
         "bsw": [
           "E/Marat",
           "Jammer",
-          "Boarding Shotgun"
+          "Boarding Shotgun",
+          "Smoke Grenades"
         ],
         "ccw": [
           "Knife",
@@ -2200,7 +2202,7 @@
     "isc": "Asawira Regiment",
     "name": "Asawira",
     "type": "HI",
-    "imp": "",
+    "imp": "F",
     "irr": "",
     "cube": "X",
     "hackable": "X",
@@ -2208,20 +2210,24 @@
     "cc": "21",
     "bs": "14",
     "ph": "14",
-    "wip": "15",
+    "wip": "14",
     "arm": "3",
-    "bts": "3",
+    "bts": "9",
     "w": "2",
     "s": "2",
     "ava": "1",
     "spec": [
       "Martial Arts L2",
-      "Regeneration"
+      "Regeneration",
+      "Fireteam: Duo",
+      "Religious Troop",
+      "Assault",
+      "Kinematika L2"
     ],
     "childs": [
       {
         "id": 1,
-        "cost": "48",
+        "cost": "41",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2237,7 +2243,7 @@
       },
       {
         "id": 2,
-        "cost": "48",
+        "cost": "41",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -2255,7 +2261,7 @@
       },
       {
         "id": 3,
-        "cost": "52",
+        "cost": "45",
         "swc": "0",
         "spec": [
           "Doctor Plus",
@@ -2274,7 +2280,7 @@
       },
       {
         "id": 4,
-        "cost": "50",
+        "cost": "43",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -2289,7 +2295,7 @@
       },
       {
         "id": 5,
-        "cost": "49",
+        "cost": "42",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2305,7 +2311,7 @@
       },
       {
         "id": 6,
-        "cost": "43",
+        "cost": "35",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2317,6 +2323,41 @@
           "Shock CCW"
         ],
         "name": "Boarding Shotgun"
+      },
+      {
+        "id": 7,
+        "cost": "39",
+        "swc": "0",
+        "spec": [
+          "Doctor Plus",
+          "MediKit"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ],
+        "name": "Shotgun Doctor"
+      },
+      {
+        "id": 4,
+        "cost": "44",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ],
+        "name": "Haris"
       }
     ]
   },
@@ -2344,11 +2385,9 @@
     "childs": [
       {
         "id": 1,
-        "cost": "41",
-        "swc": "2",
-        "spec": [
-          "X Visor"
-        ],
+        "cost": "39",
+        "swc": "1.5",
+        "spec": [],
         "bsw": [
           "Feuerbach"
         ],
@@ -2377,7 +2416,7 @@
   {
     "id": 4027,
     "army": "Haqqislam",
-    "isc": "Bashi Bazouk",
+    "isc": "Bashi Bazouks",
     "name": "Bashi Bazouk",
     "type": "LI",
     "imp": "",
@@ -2400,7 +2439,7 @@
     "childs": [
       {
         "id": 1,
-        "cost": "15",
+        "cost": "16",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2415,7 +2454,7 @@
       },
       {
         "id": 2,
-        "cost": "14",
+        "cost": "15",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2429,21 +2468,21 @@
       },
       {
         "id": 3,
-        "cost": "15",
+        "cost": "17",
         "swc": "0",
         "spec": [],
         "bsw": [
           "AP Rifle"
         ],
         "ccw": [
-          "Knife",
-          "Pistol"
+          "CCW",
+          "Breaker Pistol (2)"
         ],
         "name": "AP Rifle"
       },
       {
         "id": 4,
-        "cost": "16",
+        "cost": "17",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2451,10 +2490,25 @@
           "E/Mauler"
         ],
         "ccw": [
-          "Knife",
+          "CCW",
           "Pistol"
         ],
         "name": "E/Mauler"
+      },
+      {
+        "id": 5,
+        "cost": "12",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chain-colt"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ],
+        "name": "Submachine Gun"
       }
     ]
   },
@@ -2468,7 +2522,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "13",
+    "cc": "14",
     "bs": "12",
     "ph": "10",
     "wip": "14",
@@ -2559,6 +2613,20 @@
           "Pistol"
         ],
         "name": "Spitfire"
+      },
+      {
+        "id": 6,
+        "cost": "18",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher"
+        ],
+        "ccw": [
+          "Knife",
+          "Assault Pistol"
+        ],
+        "name": "Heavy Rocket Launcher"
       }
     ]
   },
@@ -2590,14 +2658,13 @@
     "childs": [
       {
         "id": 1,
-        "cost": "31",
+        "cost": "26",
         "swc": "0",
         "spec": [
           "Chain of Command"
         ],
         "bsw": [
-          "Boarding Shotgun",
-          "Contender"
+          "Boarding Shotgun"
         ],
         "ccw": [
           "Knife",
@@ -2607,7 +2674,7 @@
       },
       {
         "id": 2,
-        "cost": "24",
+        "cost": "23",
         "swc": "0",
         "spec": [
           "Forward Observer"
@@ -2621,6 +2688,23 @@
           "Pistol"
         ],
         "name": "Observer"
+      },
+      {
+        "id": 3,
+        "cost": "23",
+        "swc": "0",
+        "spec": [
+          "Minelayer"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ],
+        "name": "Minelayer"
       }
     ]
   },
@@ -2652,7 +2736,7 @@
     "childs": [
       {
         "id": 1,
-        "cost": "26",
+        "cost": "25",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2667,7 +2751,7 @@
       },
       {
         "id": 2,
-        "cost": "26",
+        "cost": "25",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -2691,7 +2775,7 @@
     "irr": "",
     "cube": "",
     "mov": "4-4",
-    "cc": "15",
+    "cc": "17",
     "bs": "12",
     "ph": "11",
     "wip": "14",
@@ -2702,13 +2786,14 @@
     "ava": "2",
     "spec": [
       "Religious Troop",
-      "V: Dogged"
+      "V: Dogged",
+      "Number 2"
     ],
     "childs": [
       {
         "id": 1,
         "cost": "24",
-        "swc": "0.5",
+        "swc": "0",
         "spec": [],
         "bsw": [
           "Rifle",
@@ -2724,7 +2809,7 @@
       },
       {
         "id": 2,
-        "cost": "22",
+        "cost": "23",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -2740,7 +2825,7 @@
       },
       {
         "id": 3,
-        "cost": "22",
+        "cost": "23",
         "swc": "1.5",
         "spec": [
           "Lieutenant"
@@ -2754,11 +2839,11 @@
           "Knife",
           "Pistol"
         ],
-        "name": "Lieutenant"
+        "name": "Smoke Lieutenant"
       },
       {
         "id": 4,
-        "cost": "26",
+        "cost": "27",
         "swc": "0",
         "spec": [
           "Doctor Plus",
@@ -2777,7 +2862,7 @@
       },
       {
         "id": 5,
-        "cost": "30",
+        "cost": "28",
         "swc": "1",
         "spec": [
           "X Visor"
@@ -2794,7 +2879,7 @@
       },
       {
         "id": 6,
-        "cost": "24",
+        "cost": "25",
         "swc": "0",
         "spec": [
           "Minelayer"
@@ -2813,7 +2898,7 @@
       },
       {
         "id": 7,
-        "cost": "23",
+        "cost": "24",
         "swc": "0",
         "spec": [
           "Minelayer"
@@ -2822,17 +2907,18 @@
           "Rifle",
           "Light Shotgun",
           "D.E.P.",
-          "E/Mauler"
+          "E/Mauler",
+          "Antipersonnel Mines"
         ],
         "ccw": [
           "Knife",
           "Pistol"
         ],
-        "name": "Minelayer (E/Mauler)"
+        "name": "Minelayer (E/Mauler + Mines)"
       },
       {
         "id": 8,
-        "cost": "23",
+        "cost": "22",
         "swc": "1",
         "spec": [
           "X Visor"
@@ -2846,6 +2932,62 @@
           "D-Charges"
         ],
         "name": "Heavy Rocket Launcher"
+      },
+      {
+        "id": 9,
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ],
+        "name": "Observer"
+      },
+      {
+        "id": 10,
+        "cost": "25",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "D-Charges"
+        ],
+        "name": "Haris"
+      },
+      {
+        "id": 11,
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "D-Charges"
+        ],
+        "name": "Lieutenant"
       }
     ]
   },
@@ -3014,7 +3156,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "14",
+    "cc": "15",
     "bs": "12",
     "ph": "10",
     "wip": "14",
@@ -3026,7 +3168,7 @@
     "spec": [
       "Sixth Sense L2 / 360° Visor",
       "V: No Wound Incapacitation",
-      "i-Khol L3"
+      "I-Kohl L3"
     ],
     "childs": [
       {
@@ -3048,9 +3190,9 @@
       {
         "id": 2,
         "cost": "25",
-        "swc": "1",
+        "swc": "0.5",
         "spec": [
-          "Fireteam: Haris L1"
+          "Fireteam: Haris"
         ],
         "bsw": [
           "Nanopulser",
@@ -3274,7 +3416,7 @@
   {
     "id": 4039,
     "army": "Haqqislam",
-    "isc": "KTS, Kaplan Tactical Services",
+    "isc": "Kaplan Tactical Services (KTS)",
     "name": "Kaplan",
     "type": "LI",
     "imp": "",
@@ -3434,14 +3576,14 @@
     "childs": [
       {
         "id": 1,
-        "cost": "22",
+        "cost": "21",
         "swc": "0.5",
         "spec": [
           "Hacking Device"
         ],
         "bsw": [
           "Rifle",
-          "Marker"
+          "Pitcher"
         ],
         "ccw": [
           "Pistol",
@@ -3451,32 +3593,31 @@
       },
       {
         "id": 2,
-        "cost": "23",
+        "cost": "19",
         "swc": "0.5",
         "spec": [
-          "Hacking Device",
-          "Forward Observer"
+          "Assault Hacking Device: UPGRADE: Icebreaker"
         ],
         "bsw": [
           "Rifle",
-          "Marker"
+          "Pitcher"
         ],
         "ccw": [
           "Pistol",
           "Knife"
         ],
-        "name": "Hacker+Observer"
+        "name": "Assault Hacker"
       },
       {
         "id": 3,
-        "cost": "15",
+        "cost": "14",
         "swc": "0",
         "spec": [
           "Forward Observer"
         ],
         "bsw": [
           "Rifle",
-          "Marker"
+          "Pitcher"
         ],
         "ccw": [
           "Pistol",
@@ -3486,7 +3627,7 @@
       },
       {
         "id": 4,
-        "cost": "22",
+        "cost": "21",
         "swc": "1",
         "spec": [
           "Hacking Device",
@@ -3494,7 +3635,7 @@
         ],
         "bsw": [
           "Rifle",
-          "Marker"
+          "Pitcher"
         ],
         "ccw": [
           "Pistol",
@@ -3504,7 +3645,7 @@
       },
       {
         "id": 5,
-        "cost": "15",
+        "cost": "14",
         "swc": "0",
         "spec": [
           "Forward Observer",
@@ -3512,13 +3653,30 @@
         ],
         "bsw": [
           "Rifle",
-          "Marker"
+          "Pitcher"
         ],
         "ccw": [
           "Pistol",
           "Knife"
         ],
         "name": "Observer+Lieutenant"
+      },
+      {
+        "id": 6,
+        "cost": "16",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device: UPGRADE: Lightning"
+        ],
+        "bsw": [
+          "Rifle",
+          "Pitcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ],
+        "name": "Killer Hacker"
       }
     ]
   },
@@ -3530,25 +3688,26 @@
     "type": "MI",
     "imp": "",
     "irr": "",
-    "cube": "",
+    "cube": "X",
     "mov": "4-2",
-    "cc": "15",
-    "bs": "12",
+    "cc": "14",
+    "bs": "13",
     "ph": "11",
     "wip": "14",
     "arm": "3",
-    "bts": "0",
+    "bts": "3",
     "w": "1",
     "s": "2",
     "ava": "2",
     "spec": [
       "360° Visor",
-      "Zero-G"
+      "Zero-G",
+      "Fireteam: Duo"
     ],
     "childs": [
       {
         "id": 1,
-        "cost": "21",
+        "cost": "20",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3564,7 +3723,7 @@
       },
       {
         "id": 2,
-        "cost": "22",
+        "cost": "21",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3580,7 +3739,7 @@
       },
       {
         "id": 3,
-        "cost": "28",
+        "cost": "27",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -3595,7 +3754,7 @@
       },
       {
         "id": 4,
-        "cost": "24",
+        "cost": "23",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -3610,10 +3769,10 @@
       },
       {
         "id": 5,
-        "cost": "23",
+        "cost": "22",
         "swc": "0",
         "spec": [
-          "Fireteam: Haris L1"
+          "Fireteam: Haris"
         ],
         "bsw": [
           "AP Rifle",
@@ -3628,7 +3787,7 @@
       },
       {
         "id": 6,
-        "cost": "25",
+        "cost": "24",
         "swc": "0",
         "spec": [
           "Doctor Plus",
@@ -3647,7 +3806,7 @@
       },
       {
         "id": 7,
-        "cost": "22",
+        "cost": "21",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -3794,7 +3953,57 @@
           "Breaker Pistol"
         ],
         "name": "Lieutenant"
-      }
+      },
+      {
+        "id": 8,
+        "cost": "22",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Breaker Pistol"
+        ],
+        "name": "Haris"
+      },
+      {
+        "id": 9,
+        "cost": "28",
+        "swc": "0.5",
+        "spec": [
+          "Number 2"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Breaker Pistol"
+        ],
+        "name": "Hacker"
+      },
+      {
+        "id": 10,
+        "cost": "23",
+        "swc": "0.5",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Breaker Pistol"
+        ],
+        "name": "Killer Hacker"
+      },
     ]
   },
   {
@@ -4057,6 +4266,211 @@
           "DA CCW"
         ],
         "name": "LFT"
+      }
+    ]
+  },
+  {
+    "id": 4046,
+    "army": "Haqqislam",
+    "isc": "Druze Shock Teams",
+    "name": "Shock",
+    "type": "MI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-2",
+    "cc": "14",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Fireteam: Duo"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "cost": "20",
+        "swc": "0",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "D.E.P.",
+          "Chain-colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Combi"
+      },
+      {
+        "id": 2,
+        "cost": "25",
+        "swc": "1.5",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Spitfire"
+      },
+      {
+        "id": 3,
+        "cost": "23",
+        "swc": "0.5",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Light Grenade Launcher"
+      },
+      {
+        "id": 4,
+        "cost": "19",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "E/M Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Combi"
+      },
+      {
+        "id": 5,
+        "cost": "21",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Killer Hacker"
+      },
+      {
+        "id": 6,
+        "cost": "24",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Assault Hacker"
+      }
+    ]
+  },
+  {
+    "id": 4047,
+    "army": "Haqqislam",
+    "isc": "Hassassin Áyyār",
+    "name": "Áyyār",
+    "type": "HI",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "17",
+    "bs": "13",
+    "ph": "13",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "2",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L2",
+      "Free Agent",
+      "Religious Troop",
+      "Specialist Operative"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "cost": "37",
+        "swc": "0",
+        "spec": [
+          "Surprise Shot L2"
+        ],
+        "bsw": [
+          "Rifle",
+          "E/Mitter",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Viral Pistol (2)",
+          "CCW",
+          "Knife"
+        ],
+        "name": "Rifle"
+      },
+      {
+        "id": 2,
+        "cost": "39",
+        "swc": "0",
+        "spec": [
+          "Surprise Shot L2"
+        ],
+        "bsw": [
+          "Shock Marksman Rifle"
+        ],
+        "ccw": [
+          "Viral Pistol (2)",
+          "CCW",
+          "Knife"
+        ],
+        "name": "Shock Marksman Rifle"
+      },
+      {
+        "id": 1,
+        "cost": "39",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Sniper Rifle"
+        ],
+        "ccw": [
+          "Viral Pistol (2)",
+          "CCW",
+          "Knife"
+        ],
+        "name": "Sniper Rifle"
       }
     ]
   }

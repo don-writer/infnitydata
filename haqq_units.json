@@ -4312,19 +4312,20 @@
       },
       {
         "id": 2,
-        "cost": "25",
-        "swc": "1.5",
+        "cost": "24",
+        "swc": "0.5",
         "spec": [
-          "X Visor"
+          "Assault Hacking Device"
         ],
         "bsw": [
-          "Spitfire"
+          "Combi Rifle",
+          "D-Charges"
         ],
         "ccw": [
           "Pistol",
           "CCW"
         ],
-        "name": "Spitfire"
+        "name": "Assault Hacker"
       },
       {
         "id": 3,
@@ -4345,6 +4346,22 @@
       },
       {
         "id": 4,
+        "cost": "25",
+        "swc": "1.5",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ],
+        "name": "Spitfire"
+      },
+      {
+        "id": 5,
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -4359,7 +4376,7 @@
         "name": "Boarding Shotgun"
       },
       {
-        "id": 5,
+        "id": 6,
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4374,23 +4391,6 @@
           "CCW"
         ],
         "name": "Killer Hacker"
-      },
-      {
-        "id": 6,
-        "cost": "24",
-        "swc": "0.5",
-        "spec": [
-          "Assault Hacking Device"
-        ],
-        "bsw": [
-          "Combi Rifle",
-          "D-Charges"
-        ],
-        "ccw": [
-          "Pistol",
-          "CCW"
-        ],
-        "name": "Assault Hacker"
       }
     ]
   },

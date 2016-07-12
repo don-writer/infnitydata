@@ -12,6 +12,12 @@
         "linkable": true
       },
       {
+        "comment": "Wildcats, Polyvalent Tactical Unit",
+        "id": 5044,
+        "ava": "5",
+        "linkable": true
+      },
+      {
         "comment": "Tomcats",
         "id": 5034,
         "ava": "4"
@@ -20,12 +26,6 @@
         "comment": "Hellcats",
         "id": 5004,
         "ava": "5"
-      },
-      {
-        "comment": "Wildcats, Polyvalent Tactical Unit",
-        "id": 5044,
-        "ava": "5",
-        "linkable": true
       },
       {
         "comment": "Intruders",
@@ -49,13 +49,13 @@
         "ava": "4"
       },
       {
-        "comment": "Corregidor Bandits",
-        "id": 5013,
-        "ava": "3"
-      },
-      {
         "comment": "Moran, Maasai Hunter",
         "id": 5029,
+        "ava": "2"
+      },
+      {
+        "comment": "Corregidor Bandits",
+        "id": 5013,
         "ava": "2"
       },
       {
@@ -107,12 +107,12 @@
       {
         "comment": "Salyut Zonds",
         "id": 5032,
-        "ava": "2"
+        "ava": "1"
       },
       {
         "comment": "Clockmakers",
         "id": 5017,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Daktaris",

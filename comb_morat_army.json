@@ -16,19 +16,6 @@
         "ava": "3"
       },
       {
-        "comment": "Rodok",
-        "id": 6006,
-        "ava": "5",
-        "childs": [
-          {
-            "comment": "Lieutenant - SWC cost is only 0 in Morat Aggression Force ",
-            "id": 7,
-            "swc": "0"
-          }
-        ],
-        "linkable": true
-      },
-      {
         "comment": "Yaogat Strike Infantry",
         "id": 6036,
         "ava": "5",
@@ -42,9 +29,27 @@
         "linkable": true
       },
       {
+        "comment": "Rodok",
+        "id": 6006,
+        "ava": "5",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Morat Aggression Force ",
+            "id": 7,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
         "comment": "Rasyat Diplomatic Division",
         "id": 6023,
         "ava": "3"
+      },
+      {
+        "comment": "Raktorak",
+        "id": 6047,
+        "ava": "2"
       },
       {
         "comment": "Suryats",
@@ -62,19 +67,12 @@
       {
         "comment": "Sogarat Tempest Regiment",
         "id": 6034,
-        "ava": "3",
-        "linkable": true
+        "ava": "3"
       },
       {
         "comment": "Raicho Armoured Brigade",
         "id": 6008,
         "ava": "2"
-      },
-      {
-        "comment": "Oznat",
-        "id": 6049,
-        "ava": "2",
-        "linkable": true
       },
       {
         "comment": "Zerat Special Missions Regiment",
@@ -88,23 +86,8 @@
         "linkable": true
       },
       {
-        "comment": "The Hungries: \"Gakis\"",
-        "id": 6014,
-        "ava": "4"
-      },
-      {
-        "comment": "The Hungries: \"Pretas\"",
-        "id": 6015,
-        "ava": "4"
-      },
-      {
-        "comment": "Med-Tech Obsidon Medchanoid",
-        "id": 6016,
-        "ava": "1"
-      },
-      {
-        "comment": "Raktorak",
-        "id": 6047,
+        "comment": "Oznat",
+        "id": 6049,
         "ava": "2",
         "linkable": true
       },
@@ -122,9 +105,21 @@
         "linkable": true
       },
       {
-        "comment": "Ikadron Batroids",
-        "id": 6042,
-        "ava": "2"
+        "comment": "The Hungries: \"Gakis\"",
+        "id": 6014,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "The Hungries: \"Pretas\"",
+        "id": 6015,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "Med-Tech Obsidon Medchanoid",
+        "id": 6016,
+        "ava": "1"
       },
       {
         "comment": "M-Drone",
@@ -149,11 +144,16 @@
       {
         "comment": "E-Drone",
         "id": 6051,
-        "ava": "2"
+        "ava": "1"
       },
       {
         "comment": "Slave Drones",
         "id": 6033,
+        "ava": "2"
+      },
+      {
+        "comment": "Ikadron Batroids",
+        "id": 6042,
         "ava": "2"
       },
       {

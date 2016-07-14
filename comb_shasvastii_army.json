@@ -8,8 +8,7 @@
       {
         "comment": "Shasvastii Seed-Soldiers",
         "id": 6030,
-        "ava": "T",
-        "linkable": true
+        "ava": "T"
       },
       {
         "comment": "Shasvastii Cadmus",
@@ -41,7 +40,7 @@
       {
         "comment": "Shasvastii Gwailos",
         "id": 6026,
-        "ava": "4",
+        "ava": "5",
         "childs": [
           {
             "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
@@ -76,7 +75,7 @@
       {
         "comment": "The Shrouded",
         "id": 6010,
-        "ava": "3"
+        "ava": "4"
       },
       {
         "comment": "Malignos",
@@ -121,7 +120,7 @@
       {
         "comment": "E-Drone",
         "id": 6051,
-        "ava": "2"
+        "ava": "1"
       },
       {
         "comment": "Slave Drones",

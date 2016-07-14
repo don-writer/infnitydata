@@ -1,0 +1,147 @@
+[
+  {
+    "id": 6996,
+    "army": "Combined Army",
+    "name": "Onyx Contact Force",
+    "units": [
+      {
+        "comment": "Unidron Batroids",
+        "id": 6002,
+        "ava": "T",
+        "linkable": true
+      },
+      {
+        "comment": "Nexus Operative",
+        "id": 6053,
+        "ava": "3",
+        "childs": [
+          {
+            "comment": "Specialist Lieutenant - SWC cost is only 0 in Onyx",
+            "id": 4,
+            "swc": "0"
+          }
+        ],
+        "linkable": true
+      },
+      {
+        "comment": "Fraacta Drop Unit",
+        "id": 6003,
+        "ava": "3"
+      },
+      {
+        "comment": "Noctifers",
+        "id": 6028,
+        "ava": "2"
+      },
+      {
+        "comment": "Rodok",
+        "id": 6006,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Maakrep",
+        "id": 6005,
+        "ava": "2"
+      },
+      {
+        "comment": "Umbra Legate",
+        "id": 6004,
+        "ava": "3",
+        "linkable": true
+      },
+      {
+        "comment": "Umbra Samaritan",
+        "id": 6052,
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Onyx",
+            "id": 4,
+            "swc": "0"
+          }
+        ],
+        "ava": "3"
+      },
+      {
+        "comment": "Suryats",
+        "id": 6048,
+        "ava": "2"
+      },
+      {
+        "comment": "Xeodron",
+        "id": 6054,
+        "ava": "4"
+      },
+      {
+        "comment": "Overdron",
+        "id": 6055,
+        "ava": "2"
+      },
+      {
+        "comment": "Sphinx",
+        "id": 6029,
+        "ava": "1"
+      },
+      {
+        "comment": "Malignos",
+        "id": 6011,
+        "ava": "2"
+      },
+      {
+        "comment": "Med-Tech Obsidon Medchanoid",
+        "id": 6016,
+        "ava": "1"
+      },
+      {
+        "comment": "M-Drone",
+        "id": 6017,
+        "ava": "2"
+      },
+      {
+        "comment": "Q-Drone",
+        "id": 6018,
+        "ava": "1"
+      },
+      {
+        "comment": "T-Drone",
+        "id": 6019,
+        "ava": "1"
+      },
+      {
+        "comment": "R-Drone",
+        "id": 6020,
+        "ava": "1"
+      },
+      {
+        "comment": "E-Drone",
+        "id": 6051,
+        "ava": "1"
+      },
+      {
+        "comment": "Slave Drones",
+        "id": 6033,
+        "ava": "2"
+      },
+      {
+        "comment": "Ikadron Batroids",
+        "id": 6042,
+        "ava": "2"
+      },
+      {
+        "comment": "Treitak Spec-Ops",
+        "id": 6039,
+        "ava": "1"
+      },
+      {
+        "comment": "Corax Spec-Ops",
+        "id": 6041,
+        "ava": "1"
+      },
+      {
+        "comment": "Imetron",
+        "id": 6021,
+        "ava": "2"
+      }
+    ]
+  }
+]

@@ -5,9 +5,9 @@
     "name": "Steel Phalanx",
     "units": [
       {
-        "comment": "Ekdromoi",
-        "id": 7024,
-        "ava": "4"
+        "comment": "Myrmidons",
+        "id": 7012,
+        "ava": "T"
       },
       {
         "comment": "Dactyls",
@@ -15,19 +15,14 @@
         "ava": "4"
       },
       {
-        "comment": "Diomedes",
-        "id": 7032,
-        "ava": "1"
-      },
-      {
-        "comment": "Thamyris",
-        "id": 7037,
-        "ava": "1"
-      },
-      {
         "comment": "Thorakitai",
         "id": 7027,
         "ava": "6"
+      },
+      {
+        "comment": "Ekdromoi",
+        "id": 7024,
+        "ava": "4"
       },
       {
         "comment": "Agema Marksman",
@@ -35,19 +30,9 @@
         "ava": "2"
       },
       {
-        "comment": "Nesaie Alke",
-        "id": 7030,
-        "ava": "1"
-      },
-      {
-        "comment": "Patroclus",
-        "id": 7015,
-        "ava": "1"
-      },
-      {
-        "comment": "Atalanta",
-        "id": 7031,
-        "ava": "1"
+        "comment": "Myrmidon Officer",
+        "id": 7011,
+        "ava": "3"
       },
       {
         "comment": "Achilles",
@@ -60,19 +45,14 @@
         "ava": "1"
       },
       {
-        "comment": "Ajax",
-        "id": 7035,
+        "comment": "Patroclus",
+        "id": 7015,
         "ava": "1"
       },
       {
-        "comment": "Myrmidons",
-        "id": 7012,
-        "ava": "T"
-      },
-      {
-        "comment": "Myrmidon Officer",
-        "id": 7011,
-        "ava": "3"
+        "comment": "Nesaie Alke",
+        "id": 7030,
+        "ava": "1"
       },
       {
         "comment": "Machaon",
@@ -90,8 +70,58 @@
         "ava": "1"
       },
       {
+        "comment": "Ajax",
+        "id": 7035,
+        "ava": "1"
+      },
+      {
+        "comment": "Atalanta",
+        "id": 7031,
+        "ava": "1"
+      },
+      {
+        "comment": "Diomedes",
+        "id": 7032,
+        "ava": "1"
+      },
+      {
         "comment": "Penthesilea",
         "id": 7036,
+        "ava": "1"
+      },
+      {
+        "comment": "Thamyris",
+        "id": 7037,
+        "ava": "1"
+      },
+      {
+        "comment": "Drakios",
+        "id": 7040,
+        "ava": "1"
+      },
+      {
+        "comment": "Scylla",
+        "id": 7041,
+        "ava": "1"
+      },
+      {
+        "comment": "Acmon, Sergeant of Dactyls",
+        "id": 7042,
+        "ava": "4"
+      },
+      {
+        "comment": "Teucer",
+        "id": 7039,
+        "ava": "1"
+      },
+      {
+        "comment": "Andromeda",
+        "id": 7046,
+        "ava": "1"
+      },
+      {
+        "comment": "Hector, Homeridae's Champion",
+        "id": 7043,
         "ava": "1"
       },
       {
@@ -127,7 +157,7 @@
       {
         "comment": "Probots",
         "id": 7016,
-        "ava": "2"
+        "ava": "1"
       },
       {
         "comment": "Chandra Spec-Ops",
@@ -137,31 +167,6 @@
       {
         "comment": "Chandra Sergeant Thrasymedes",
         "id": 7026,
-        "ava": "1"
-      },
-      {
-        "comment": "Teucer",
-        "id": 7039,
-        "ava": "1"
-      },
-      {
-        "comment": "Drakios",
-        "id": 7040,
-        "ava": "1"
-      },
-      {
-        "comment": "Scylla",
-        "id": 7041,
-        "ava": "1"
-      },
-      {
-        "comment": "Acmon, Sergeant of Dactyls",
-        "id": 7042,
-        "ava": "4"
-      },
-      {
-        "comment": "Hector, Homeridae's Champion",
-        "id": 7043,
         "ava": "1"
       },
       {

@@ -2689,7 +2689,7 @@
           "Electric Pulse",
           "Pistol"
         ],
-        "name": "Marker"
+        "name": "Pitcher"
       },
       {
         "id": 6,
@@ -4277,7 +4277,7 @@
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Chain-colt",
+          "Chain-Colt",
           "Combi Rifle (2)",
           "Panzerfaust"
         ],
@@ -4290,7 +4290,7 @@
         "swc": "0.5",
         "spec": [],
         "bsw": [
-          "Chain-colt",
+          "Chain-Colt",
           "Mk12",
           "Blitzen"
         ],

@@ -247,7 +247,8 @@
     "max_mod": "--",
     "cc": "No",
     "template": "No",
-    "note": ""
+    "uses": "2",
+    "note": "Deployable, Non-Lootable"
   },
   {
     "name": "MadTraps",
@@ -264,7 +265,24 @@
     "max_mod": "--",
     "cc": "No",
     "template": "No",
-    "note": ""
+    "note": "Deployable, Non-Lootable"
+  },
+  {
+    "name": "SymbioBugs",
+    "burst": "1",
+    "ammo": "Pheromonic",
+    "damage": "13",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "No",
+    "note": "Deployable, Non-Lootable"
   },
   {
     "name": "Assault Pistol",
@@ -2023,6 +2041,24 @@
     "name": "Spitfire",
     "burst": "4",
     "ammo": "N",
+    "damage": "14",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "24",
+    "medium_mod": "3",
+    "long_dist": "32",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "suppressive": "Yes",
+    "note": ""
+  },
+  {
+    "name": "AP Spitfire",
+    "burst": "4",
+    "ammo": "AP",
     "damage": "14",
     "short_dist": "8",
     "short_mod": "0",

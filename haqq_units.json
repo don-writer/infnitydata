@@ -1741,7 +1741,7 @@
       "Repeater",
       "Sensor",
       "Deactivator",
-      "Sat-lock",
+      "Sat-Lock",
       "Sniffer"
     ],
     "childs": [

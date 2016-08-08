@@ -2086,7 +2086,7 @@
       "Forward Observer",
       "G: Remote Presence",
       "Repeater",
-      "Sat-lock",
+      "Sat-Lock",
       "Sensor",
       "Sniffer"
     ],
@@ -2211,7 +2211,7 @@
       "AD: Combat Jump",
       "Forward Observer",
       "G: Remote Presence",
-      "Sat-lock",
+      "Sat-Lock",
       "Repeater",
       "Sensor"
     ],
@@ -2331,7 +2331,7 @@
           "G: Remote Presence",
           "ODD: Optical Disruptor",
           "Repeater",
-          "Sat-lock",
+          "Sat-Lock",
           "Sensor"
         ],
         "bsw": [

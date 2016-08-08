@@ -178,7 +178,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "F",
         "irr": " ",
@@ -366,7 +366,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "",
         "irr": " ",
@@ -652,7 +652,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "",
         "irr": " ",
@@ -785,7 +785,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "ph": "11",
@@ -903,7 +903,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "hackable": "",
         "mov": "4-4",
@@ -1299,7 +1299,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "hackable": "",
         "cc": "21",
@@ -1519,7 +1519,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "arm": "0",
@@ -1604,7 +1604,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "ph": "10",
@@ -1732,7 +1732,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "cc": "15",
@@ -2099,7 +2099,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "wip": "13",
         "arm": "0",
         "bts": "0",
@@ -2202,7 +2202,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "cc": "14",
@@ -2429,7 +2429,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -2685,7 +2685,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "",
         "irr": " ",

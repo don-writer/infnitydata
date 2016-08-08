@@ -12,6 +12,19 @@
       "upgrades": []
     },
     {
+      "name": "Hacking Device: UPGRADE: Expel",
+      "groups": [
+        "CLAW-1",
+        "SWORD-1",
+        "SHIELD-1",
+        "GADGET-1",
+        "GADGET-2"
+      ],
+      "upgrades": [
+        "Expel"
+      ]
+    },
+    {
       "name": "EI Hacking Device",
       "groups": [
         "CLAW-1",
@@ -49,6 +62,24 @@
         "Cybermask",
         "Sucker Punch",
         "White Noise"
+      ]
+    },
+    {
+      "name": "Hacking Device Plus: UPGRADE: Redrum",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "SWORD-1",
+        "SHIELD-1",
+        "SHIELD-2",
+        "GADGET-1",
+        "GADGET-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Sucker Punch",
+        "White Noise",
+        "Redrum"
       ]
     },
     {
@@ -108,6 +139,17 @@
       ]
     },
     {
+      "name": "Assault Hacking Device: UPGRADE: Icebreaker",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "CLAW-3"
+      ],
+      "upgrades": [
+        "Icebreaker"
+      ]
+    },
+    {
       "name": "EVO Hacking Device",
       "groups": [
         "SWORD-1",
@@ -120,6 +162,21 @@
       "upgrades": []
     },
     {
+      "name": "EVO Hacking Device: UPGRADES: Exile, Goodnight",
+      "groups": [
+        "SWORD-1",
+        "SHIELD-1",
+        "SHIELD-2",
+        "GADGET-1",
+        "GADGET-2",
+        "GADGET-EVO"
+      ],
+      "upgrades": [
+        "Exile",
+        "Goodnight"
+      ]
+    },
+    {
       "name": "Killer Hacking Device",
       "groups": [
         "SWORD-1",
@@ -127,6 +184,28 @@
       ],
       "upgrades": [
         "Cybermask"
+      ]
+    },
+    {
+      "name": "Killer Hacking Device: UPGRADE: Maestro",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Maestro"
+      ]
+    },
+    {
+      "name": "Killer Hacking Device: UPGRADE: Lightning",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Lightning"
       ]
     },
     {

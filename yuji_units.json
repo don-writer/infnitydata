@@ -933,6 +933,22 @@
           "Pistol"
         ],
         "name": "HMC Lieutenant"
+      },
+      {
+        "id": 6,
+        "cost": "52",
+        "swc": "2",
+        "spec": [
+          "TinBot C (Neurocinetics)"
+        ],
+        "bsw": [
+          "Missile Launcher (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ],
+        "name": "Neurocinetics Missile Launcher"
       }
     ]
   },
@@ -1401,7 +1417,7 @@
         "name": "HMG Executive Order"
       },
       {
-        "id": 5,
+        "id": 8,
         "cost": "67",
         "swc": "0",
         "spec": [
@@ -3211,7 +3227,7 @@
         "name": "Red Fury"
       },
       {
-        "id": 6,
+        "id": 7,
         "cost": "36",
         "swc": "1.5",
         "spec": [
@@ -3665,7 +3681,7 @@
         "name": "Combi"
       },
       {
-        "id": 3,
+        "id": 4,
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -4814,7 +4830,7 @@
         "name": "Killer Hacker"
       },
       {
-        "id": 1,
+        "id": 6,
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -4835,7 +4851,7 @@
   {
     "id": 2049,
     "army": "Yu Jing",
-    "isc": "Shimaki",
+    "isc": "Shikami",
     "name": "Shikami",
     "type": "HI",
     "imp": "",

@@ -2343,7 +2343,7 @@
         "name": "Shotgun Doctor"
       },
       {
-        "id": 4,
+        "id": 8,
         "cost": "44",
         "swc": "2",
         "spec": [
@@ -4458,7 +4458,7 @@
         "name": "Shock Marksman Rifle"
       },
       {
-        "id": 1,
+        "id": 3,
         "cost": "39",
         "swc": "0.5",
         "spec": [],

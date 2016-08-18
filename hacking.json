@@ -734,7 +734,7 @@
       "burst": "1",
       "ammo": "",
       "target": "TAG, HI, REM, Hacker",
-      "effect": "In FtF roll targets impost a WIP-3 MOD when declaring Reset",
+      "effect": "In FtF roll targets impose a WIP-3 MOD when declaring Reset",
       "skill": "Entire Order",
       "special": "2 Turns; Supportware",
       "hide_mods": 1

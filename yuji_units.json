@@ -936,7 +936,7 @@
       },
       {
         "id": 6,
-        "cost": "52",
+        "cost": "56",
         "swc": "2",
         "spec": [
           "TinBot C (Neurocinetics)"
@@ -1380,7 +1380,7 @@
           "Pistol",
           "DA CCW"
         ],
-        "name": "Hacker"
+        "name": "Assault Hacker"
       },
       {
         "id": 6,
@@ -2762,7 +2762,7 @@
         "cost": "43",
         "swc": "0.5",
         "spec": [
-          "Hacking Device"
+          "Assault Hacking Device"
         ],
         "bsw": [
           "Combi Rifle",
@@ -3114,7 +3114,7 @@
     "bts": "3",
     "w": "1",
     "s": "2",
-    "ava": "2",
+    "ava": "1",
     "spec": [
       "Martial Arts L2",
       "Fireteam: Duo",
@@ -4443,7 +4443,7 @@
     "mov": "4-4",
     "cc": "15",
     "bs": "12",
-    "ph": "11",
+    "ph": "10",
     "wip": "14",
     "arm": "1",
     "bts": "6",
@@ -4470,7 +4470,7 @@
           "Pistol",
           "Knife"
         ],
-        "name": "Combi"
+        "name": "Combi (MSV2)"
       },
       {
         "id": 2,
@@ -4487,7 +4487,7 @@
           "Pistol",
           "Knife"
         ],
-        "name": "Boarding Shotgun + Contender"
+        "name": "Boarding Shotgun + Contender (MSV2)"
       },
       {
         "id": 3,
@@ -4503,7 +4503,7 @@
           "Pistol",
           "Knife"
         ],
-        "name": "MULTI Sniper Rifle"
+        "name": "MULTI Sniper Rifle (MSV2)"
       },
       {
         "id": 4,

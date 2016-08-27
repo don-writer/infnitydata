@@ -917,8 +917,7 @@
         "ava": " ",
         "spec": [],
         "bsw": [
-          "Spitfire",
-          "Pulzar"
+          "Spitfire"
         ],
         "ccw": [
           "Pistol",
@@ -1216,13 +1215,13 @@
         "swc": "1",
         "spec": [],
         "bsw": [
-          "Smart Rocket Launcher"
+          "Smart Heavy Rocket Launcher"
         ],
         "ccw": [
           "Pistol",
           "CCW"
         ],
-        "name": "Smart Rocket Launcher"
+        "name": "Smart Heavy Rocket Launcher"
       }
     ]
   },
@@ -1445,7 +1444,7 @@
     "ava": "1",
     "spec": [
       "Defensive Hacking Device",
-      "Fireteam: Tohaa",
+      "Fireteam: Triad",
       "Regeneration",
       "Sensor"
     ],
@@ -2635,7 +2634,7 @@
       },
       {
         "id": 4,
-        "cost": "15",
+        "cost": "17",
         "swc": "0",
         "spec": [
           "Nullifier",

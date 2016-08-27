@@ -1877,9 +1877,7 @@
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": [
-          "Electric Pulse"
-        ],
+        "ccw": [],
         "name": "AI Beacon"
       }
     ]
@@ -2102,7 +2100,7 @@
           "Adhesive Launcher"
         ],
         "ccw": [
-          "CCW",
+          "Knife",
           "Pistol"
         ],
         "name": "Combi"
@@ -2119,7 +2117,7 @@
           "Adhesive Launcher"
         ],
         "ccw": [
-          "CCW",
+          "Knife",
           "Pistol"
         ],
         "name": "Lieutenant"
@@ -2133,7 +2131,7 @@
           "Spitfire"
         ],
         "ccw": [
-          "CCW",
+          "Knife",
           "Pistol"
         ],
         "name": "Spitfire"
@@ -2148,7 +2146,7 @@
           "Adhesive Launcher"
         ],
         "ccw": [
-          "CCW",
+          "Knife",
           "Pistol"
         ],
         "name": "Boarding Shotgun"
@@ -3457,7 +3455,8 @@
       "V: No Wound Incapacitation",
       "Shasvastii",
       "Protheion L3",
-      "Kinematika L1"
+      "Kinematika L2",
+      "Free Agent"
     ],
     "childs": [
       {
@@ -3696,7 +3695,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-2",
-    "cc": "15",
+    "cc": "18",
     "bs": "14",
     "ph": "13",
     "wip": "13",

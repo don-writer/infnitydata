@@ -1516,7 +1516,8 @@
         "cost": "21",
         "swc": "0",
         "spec": [
-          "Total Reaction"
+          "Total Reaction",
+          "Repeater"
         ],
         "bsw": [
           "Combi Rifle"
@@ -2473,7 +2474,6 @@
     "isc": "Atalanta",
     "name": "Atalanta",
     "ava": "1",
-    "spec": [],
     "type": "MI",
     "imp": "",
     "irr": "",
@@ -2886,7 +2886,7 @@
     "childs": [
       {
         "id": 1,
-        "cost": "25",
+        "cost": "24",
         "swc": "0.5",
         "spec": [
           "Hacking Device"
@@ -3204,7 +3204,7 @@
       {
         "id": 3,
         "cost": "39",
-        "swc": "0",
+        "swc": "1",
         "spec": [],
         "bsw": [
           "Red Fury",
@@ -3219,7 +3219,7 @@
       {
         "id": 4,
         "cost": "45",
-        "swc": "0",
+        "swc": "1",
         "profile": "1",
         "spec": [],
         "bsw": [
@@ -3734,7 +3734,7 @@
     "spec": [
       "CH: Mimetism",
       "Forward Deployment L1",
-      "Guardian L3",
+      "Guard L3",
       "Kinematika L2",
       "Specialist Operative",
       "Stealth",

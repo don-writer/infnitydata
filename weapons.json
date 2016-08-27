@@ -1172,9 +1172,9 @@
     "note": "Non-Lootable, Speculative Fire"
   },
   {
-    "name": "Smart Rocket Launcher",
+    "name": "Smart Heavy Rocket Launcher",
     "mode": "(Blast Mode)",
-    "alt_profile": "Smart Rocket Launcher (Guided Mode)",
+    "alt_profile": "Smart Heavy Rocket Launcher (Guided Mode)",
     "burst": "2",
     "ammo": "FIRE",
     "damage": "14",
@@ -1191,7 +1191,7 @@
     "note": ""
   },
   {
-    "name": "Smart Rocket Launcher (Guided Mode)",
+    "name": "Smart Heavy Rocket Launcher (Guided Mode)",
     "burst": "1",
     "ammo": "FIRE",
     "damage": "14",

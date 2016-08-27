@@ -160,7 +160,7 @@
     "bts": "0",
     "w": "1",
     "s": "2",
-    "ava": "4",
+    "ava": "3",
     "spec": [
       "AD: Parachutist",
       "CH: Mimetism"
@@ -410,7 +410,7 @@
       {
         "id": 3,
         "cost": "10",
-        "swc": "0",
+        "swc": "1",
         "spec": [
           "Lieutenant"
         ],
@@ -4661,7 +4661,7 @@
     "s": "4",
     "ava": "1",
     "spec": [
-      "Guardian L1",
+      "Guard L1",
       "Sixth Sense L2",
       "Strategos L1"
     ],
@@ -4735,8 +4735,15 @@
       {
         "id": 2,
         "name": "Battle Ravaged",
-        "mov": "4-4",
-        "s": "2",
+        "mov": "4-2",
+        "cc": "12",
+        "bs": "12",
+        "ph": "13",
+        "wip": "13",
+        "arm": "4",
+        "bts": "0",
+        "w": "1",
+        "s": "5",
         "spec": [],
         "bsw": [],
         "ccw": []

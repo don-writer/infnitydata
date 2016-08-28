@@ -1069,68 +1069,6 @@
       },
       {
         "id": 7,
-        "cost": "33",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle",
-          "E/Mitter"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ],
-        "name": "Combi"
-      },
-      {
-        "id": 8,
-        "cost": "37",
-        "swc": "1",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle",
-          "Light Rocket Launcher"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ],
-        "name": "Light Rocket Launcher"
-      },
-      {
-        "id": 9,
-        "cost": "33",
-        "swc": "2",
-        "spec": [],
-        "bsw": [
-          "Light Shotgun",
-          "Heavy Rocket Launcher"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ],
-        "name": "Heavy Rocket Launcher"
-      },
-      {
-        "id": 10,
-        "cost": "25",
-        "swc": "0",
-        "spec": [
-          "Fireteam: Duo"
-        ],
-        "bsw": [
-          "Chain Rifle",
-          "Submachine Gun"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ],
-        "name": "SMG + Chain Rifle"
-      },
-      {
-        "id": 11,
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -1145,7 +1083,39 @@
           "Pistol",
           "Knife"
         ],
-        "name": "Mines"
+        "name": "E/Mitter"
+      },
+      {
+        "id": 8,
+        "cost": "33",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Light Shotgun",
+          "Heavy Rocket Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ],
+        "name": "Heavy Rocket Launcher"
+      },
+      {
+        "id": 9,
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Chain Rifle",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ],
+        "name": "SMG + Chain Rifle"
       }
     ]
   },

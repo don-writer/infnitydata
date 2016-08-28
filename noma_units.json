@@ -2549,7 +2549,7 @@
         "s": "1",
         "ava": " ",
         "spec": [
-          "Super-Jump"
+          "Perimeter"
         ],
         "bsw": [],
         "ccw": []
@@ -2785,7 +2785,7 @@
         "s": "1",
         "ava": " ",
         "spec": [
-          "Super-Jump"
+          "Perimeter"
         ],
         "bsw": [],
         "ccw": []
@@ -4304,26 +4304,55 @@
     "army": "Nomads",
     "isc": "Taskmasters, Bakunin SWAST Team",
     "name": "Taskmaster",
-    "type": "HI",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "hackable": "X",
-    "mov": "4-4",
-    "cc": "19",
-    "bs": "13",
-    "ph": "14",
-    "wip": "13",
-    "arm": "5",
-    "bts": "6",
-    "w": "2",
-    "s": "5",
     "ava": "2",
-    "spec": [
-      "Fireteam: Duo",
-      "Free Agent",
-      "Kinematika L1",
-      "Martial Arts L1"
+    "profiles": [
+      {
+        "id": 1,
+        "type": "HI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "19",
+        "bs": "13",
+        "ph": "14",
+        "wip": "13",
+        "arm": "5",
+        "bts": "6",
+        "w": "2",
+        "s": "5",
+        "spec": [
+          "Fireteam: Duo",
+          "Free Agent",
+          "Kinematika L1",
+          "Martial Arts L1"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "CrazyKoala",
+        "type": " ",
+        "hackable": "",
+        "mov": "6-4 ",
+        "cc": " ",
+        "bs": " ",
+        "ph": " ",
+        "wip": " ",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "ava": " ",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": [],
+        "optionSpecific": "X"
+      }
     ],
     "childs": [
       {
@@ -4345,6 +4374,7 @@
         "cost": "43",
         "swc": "0",
         "spec": [],
+        "profile": "1",
         "bsw": [
           "Boarding Shotgun",
           "Pulzar",
@@ -4361,6 +4391,7 @@
         "cost": "47",
         "swc": "2",
         "spec": [],
+        "profile": "1",
         "bsw": [
           "Heavy Rocket Launcher",
           "Light Shotgun",
@@ -4376,6 +4407,7 @@
         "id": 4,
         "cost": "53",
         "swc": "1",
+        "profile": "1",
         "spec": [
           "TinBot A (Deflector L1)"
         ],
@@ -4394,6 +4426,7 @@
         "id": 5,
         "cost": "53",
         "swc": "1",
+        "profile": "1",
         "spec": [
           "TinBot A (Deflector L1)",
           "Lieutenant"

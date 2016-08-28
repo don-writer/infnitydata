@@ -322,23 +322,53 @@
     "army": "Yu Jing",
     "isc": "Zhànying Imperial Agents",
     "name": "Zhànying",
-    "type": "LI",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "mov": "4-4",
-    "cc": "16",
-    "bs": "12",
-    "ph": "10",
-    "wip": "13",
-    "arm": "2",
-    "bts": "3",
-    "w": "1",
-    "s": "2",
     "ava": "2",
-    "spec": [
-      "Bioimmunity",
-      "Sixth Sense L2"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "16",
+        "bs": "12",
+        "ph": "10",
+        "wip": "13",
+        "arm": "2",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Bioimmunity",
+          "Sixth Sense L2"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "MadTrap",
+        "type": " ",
+        "hackable": "",
+        "mov": "6-4 ",
+        "cc": " ",
+        "bs": " ",
+        "ph": " ",
+        "wip": " ",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "ava": " ",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": [],
+        "optionSpecific": "X"
+      }
     ],
     "childs": [
       {
@@ -479,6 +509,7 @@
         "spec": [
           "Sensor"
         ],
+        "profile": 1,
         "bsw": [
           "Breaker Combi Rifle",
           "Nimbus Grenades",
@@ -3071,25 +3102,55 @@
     "army": "Yu Jing",
     "isc": "Imperial Agent, Pheasant Rank",
     "name": "Imperial Agent",
-    "type": "LI",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "mov": "4-4",
-    "cc": "22",
-    "bs": "12",
-    "ph": "10",
-    "wip": "14",
-    "arm": "2",
-    "bts": "3",
-    "w": "1",
-    "s": "2",
     "ava": "1",
-    "spec": [
-      "Martial Arts L2",
-      "Fireteam: Duo",
-      "Kinematika L1",
-      "Free Agent"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "22",
+        "bs": "12",
+        "ph": "10",
+        "wip": "14",
+        "arm": "2",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Martial Arts L2",
+          "Fireteam: Duo",
+          "Kinematika L1",
+          "Free Agent"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "MadTrap",
+        "type": " ",
+        "hackable": "",
+        "mov": "6-4 ",
+        "cc": " ",
+        "bs": " ",
+        "ph": " ",
+        "wip": " ",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "ava": " ",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": [],
+        "optionSpecific": "X"
+      }
     ],
     "childs": [
       {
@@ -3165,6 +3226,7 @@
         "id": 5,
         "cost": "36",
         "swc": "0",
+        "profile": 1,
         "spec": [
           "Chain of Command",
           "X Visor"
@@ -3832,7 +3894,7 @@
         "s": "1",
         "ava": " ",
         "spec": [
-          "Perimiter"
+          "Perimeter"
         ],
         "bsw": [],
         "ccw": []
@@ -4689,25 +4751,55 @@
     "army": "Yu Jing",
     "isc": "Kǎnrèn Counter-Insurgency Group",
     "name": "Kǎnrèn",
-    "type": "SK",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "mov": "4-4",
-    "cc": "19",
-    "bs": "12",
-    "ph": "10",
-    "wip": "13",
-    "arm": "1",
-    "bts": "3",
-    "w": "1",
-    "s": "2",
     "ava": "1",
-    "spec": [
-      "Holoprojector L2",
-      "Martial Arts L1",
-      "Forward Deployment L2",
-      "Kinematika L1"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "SK",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "19",
+        "bs": "12",
+        "ph": "10",
+        "wip": "13",
+        "arm": "1",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Holoprojector L2",
+          "Martial Arts L1",
+          "Forward Deployment L2",
+          "Kinematika L1"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "MadTrap",
+        "type": " ",
+        "hackable": "",
+        "mov": "6-4 ",
+        "cc": " ",
+        "bs": " ",
+        "ph": " ",
+        "wip": " ",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "ava": " ",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": [],
+        "optionSpecific": "X"
+      }
     ],
     "childs": [
       {
@@ -4803,6 +4895,7 @@
         "id": 6,
         "cost": "28",
         "swc": "0",
+        "profile": 1,
         "spec": [],
         "bsw": [
           "Combi Rifle",

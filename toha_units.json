@@ -2706,6 +2706,25 @@
         ],
         "bsw": [],
         "ccw": []
+      },
+      {
+        "id": 3,
+        "name": "SymbioBug",
+        "type": "",
+        "mov": "6-4 ",
+        "cc": "",
+        "bs": "",
+        "ph": "",
+        "wip": "",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": []
       }
     ],
     "childs": [

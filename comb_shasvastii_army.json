@@ -64,7 +64,8 @@
       {
         "comment": "Shasvastii Caliban (Infiltration)",
         "id": 6045,
-        "ava": "5"
+        "ava": "5",
+        "note": "Caliban with Infiltration cannot join a Fireteam"
       },
       {
         "comment": "Shasvastii Caliban (Developed)",
@@ -143,7 +144,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "May join any Fireteam: Core"
       },
       {
         "comment": "Corax Spec-Ops",
@@ -159,7 +161,8 @@
         "comment": "Shasvastii Corax Hasht",
         "id": 6031,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Caliban or Gwailo"
       }
     ]
   }

@@ -13,7 +13,8 @@
       {
         "comment": "Kurgat Reg. of Assault Engineers",
         "id": 6022,
-        "ava": "3"
+        "ava": "3",
+        "note": "Autocannon may not join Fireteam: Haris"
       },
       {
         "comment": "Yaogat Strike Infantry",
@@ -49,7 +50,8 @@
       {
         "comment": "Raktorak",
         "id": 6047,
-        "ava": "2"
+        "ava": "2",
+        "note": "1 Raktorak may join a Fireteam: Core or Haris of Suryats"
       },
       {
         "comment": "Suryats",
@@ -89,7 +91,8 @@
         "comment": "Oznat",
         "id": 6049,
         "ava": "2",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core of up to 4 Gakis/Pretas and 1-2 Oznat"
       },
       {
         "comment": "Kornak Gazarot",
@@ -102,19 +105,22 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core of Kornak, up to 4 Suryats, and 0-1 Raktorak<br>Fireteam: Haris of Kornak and up to 2 Suryats or 2 Sogarats"
       },
       {
         "comment": "The Hungries: \"Gakis\"",
         "id": 6014,
         "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core of up to 4 Gakis/Pretas and 1-2 Oznat"
       },
       {
         "comment": "The Hungries: \"Pretas\"",
         "id": 6015,
         "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core of up to 4 Gakis/Pretas and 1-2 Oznat"
       },
       {
         "comment": "Med-Tech Obsidon Medchanoid",
@@ -170,7 +176,8 @@
         "comment": "Treitak Anyat",
         "id": 6040,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Vanguards"
       },
       {
         "comment": "Krakot Renegades, Morat Fugitives",

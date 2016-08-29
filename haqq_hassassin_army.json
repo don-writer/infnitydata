@@ -47,7 +47,8 @@
         "comment": "Asawira Regiment",
         "id": 4025,
         "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Haris may include up to 2 Muyibs"
       },
       {
         "comment": "Hassassin Ayyar",
@@ -118,7 +119,8 @@
         "comment": "Hassassin Husam Yasbir",
         "id": 4038,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Muyibs"
       },
       {
         "comment": "Warcor",

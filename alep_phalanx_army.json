@@ -32,7 +32,8 @@
       {
         "comment": "Myrmidon Officer",
         "id": 7011,
-        "ava": "3"
+        "ava": "3",
+        "note": "Fireteam: Enomotarchos with Myrmidons"
       },
       {
         "comment": "Achilles",
@@ -52,27 +53,32 @@
       {
         "comment": "Nesaie Alke",
         "id": 7030,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with Thorakitai"
       },
       {
         "comment": "Machaon",
         "id": 7033,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with Myrmidons"
       },
       {
         "comment": "Eudoros",
         "id": 7029,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with Myrmidons"
       },
       {
         "comment": "Phoenix",
         "id": 7034,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with Myrmidons"
       },
       {
         "comment": "Ajax",
         "id": 7035,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with Myrmidons"
       },
       {
         "comment": "Atalanta",
@@ -107,7 +113,8 @@
       {
         "comment": "Acmon, Sergeant of Dactyls",
         "id": 7042,
-        "ava": "4"
+        "ava": "4",
+        "note": "Fireteam: Enomotarchos with Dactyls"
       },
       {
         "comment": "Teucer",
@@ -122,7 +129,8 @@
       {
         "comment": "Hector, Homeridae's Champion",
         "id": 7043,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with any unit"
       },
       {
         "comment": "Daleth Rebots",
@@ -167,7 +175,8 @@
       {
         "comment": "Chandra Sergeant Thrasymedes",
         "id": 7026,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Enomotarchos with Thorakitai (non-infiltrating version)"
       },
       {
         "comment": "Warcor",

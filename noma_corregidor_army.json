@@ -62,7 +62,8 @@
         "comment": "Corregidor Jaguars",
         "id": 5015,
         "ava": "5",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core of Señor Massacre and up to 4 Jaguars<br>Fireteam: Haris of Señor Massacre and 2 Jaguars"
       },
       {
         "comment": "Carlota Kowalsky, Tomcats Sergeant",
@@ -128,7 +129,8 @@
         "comment": "Alguacil Vortex Lupe Balboa",
         "id": 5043,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Alguaciles"
       },
       {
         "comment": "Warcor",

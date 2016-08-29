@@ -25,7 +25,8 @@
         "comment": "Hafza Unit",
         "id": 4028,
         "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Up to 2 Hafza can join any non-Mercenary Fireteam: Core"
       },
       {
         "comment": "Sekban",

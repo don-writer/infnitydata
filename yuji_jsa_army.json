@@ -9,6 +9,7 @@
         "id": 2001,
         "ava": "T",
         "linkable": true,
+        "note": "Fireteam: Core may include 1 Kempeitai and/or Yuriko Oda",
         "childs": [
           {
             "comment": "Lieutenant costs 1 SWC in JSA",
@@ -20,7 +21,8 @@
       {
         "comment": "Kempeitai",
         "id": 2028,
-        "ava": "2"
+        "ava": "2",
+        "note": "1 Kempeitai may join a Fireteam: Core of Keisotsu"
       },
       {
         "comment": "Aragoto Senkenbutai",
@@ -35,20 +37,21 @@
       {
         "comment": "Karakuri Special Project",
         "id": 2033,
-        "ava": "3",
-        "linkable": true
+        "ava": "3"
       },
       {
         "comment": "Domaru Butai",
         "id": 2023,
         "ava": "5",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core may include Neko Oyama"
       },
       {
         "comment": "Haramaki Zensenbutai",
         "id": 2032,
         "ava": "6",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core requires 1 or 2 Domaru and/or Neko Oyama"
       },
       {
         "comment": "O-Yoroi Kidobutai",
@@ -84,7 +87,8 @@
         "comment": "Domaru Takeshi \"Neko\" Oyama",
         "id": 2041,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "May join a Fireteam: Core of Domaru or Haramaki"
       },
       {
         "comment": "Asuka Kisaragi",
@@ -140,7 +144,8 @@
         "comment": "Keisotsu Guǐ Fēng Yuriko Oda",
         "id": 2044,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Keisotsu"
       },
       {
         "comment": "Warcor",

@@ -8,7 +8,8 @@
         "comment": "Unidron Batroids",
         "id": 6002,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 Umbra Legate or 1 Nexus Operative"
       },
       {
         "comment": "Nexus Operative",
@@ -21,7 +22,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Unidrons and up to 1 Umbra Legate"
       },
       {
         "comment": "Fraacta Drop Unit",
@@ -37,7 +39,8 @@
         "comment": "Rodok",
         "id": 6006,
         "ava": "5",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 Umbra Legate, 1 Umbra Samaritan, or 1 Nexus Operative"
       },
       {
         "comment": "Maakrep",
@@ -48,7 +51,8 @@
         "comment": "Umbra Legate",
         "id": 6004,
         "ava": "3",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Batroids or Rodoks"
       },
       {
         "comment": "Umbra Samaritan",
@@ -60,7 +64,8 @@
             "swc": "0"
           }
         ],
-        "ava": "3"
+        "ava": "3",
+        "note": "Fireteam: Core with Rodoks<br>Fireteam: Haris with 2 Xeodrons"
       },
       {
         "comment": "Suryats",
@@ -70,7 +75,8 @@
       {
         "comment": "Xeodron",
         "id": 6054,
-        "ava": "4"
+        "ava": "4",
+        "note": "Fireteam: Haris of 2 Xeodrons and 1 Samaritan"
       },
       {
         "comment": "Overdron",

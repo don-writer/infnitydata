@@ -32,8 +32,7 @@
       {
         "comment": "Orc Troops",
         "id": 1006,
-        "ava": "3",
-        "linkable": true
+        "ava": "3"
       },
       {
         "comment": "Guarda de Assalto",
@@ -69,7 +68,8 @@
         "comment": "Lieutenant Stephen Rao",
         "id": 1049,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "May join a Fireteam: Core or Haris of Bagh Mari"
       },
       {
         "comment": "Drakios",

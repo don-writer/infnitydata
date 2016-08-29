@@ -131,7 +131,8 @@
         "comment": "Fusilier Indigo Bipandra",
         "id": 1046,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Fusiliers"
       },
       {
         "comment": "Mercenary - CSU, Corporate Security Unit",

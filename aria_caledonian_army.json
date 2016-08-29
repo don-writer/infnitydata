@@ -16,7 +16,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 3rd Grey Rifle"
       },
       {
         "comment": "Highlander Caterans",
@@ -43,7 +44,8 @@
       {
         "comment": "Caledonian Mormaers",
         "id": 3021,
-        "ava": "3"
+        "ava": "3",
+        "note": "Fireteam: Haris may 1 3rd Grey Rifle"
       },
       {
         "comment": "S.A.S.",
@@ -60,7 +62,8 @@
         "comment": "45th Highlanders",
         "id": 3013,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with William Wallace Lieutenant"
       },
       {
         "comment": "2nd Irregular Cameronians Reg.",
@@ -91,7 +94,8 @@
         "comment": "William Wallace",
         "id": 3029,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Lieutenant may join any Fireteam: Core or Haris"
       },
       {
         "comment": "Intel Spec-Ops",
@@ -102,7 +106,8 @@
         "comment": "Volunteer Intel Isobel McGregor",
         "id": 3032,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Volunteers and up to 1 3rd Grey Rifle"
       },
       {
         "comment": "McMurrough",

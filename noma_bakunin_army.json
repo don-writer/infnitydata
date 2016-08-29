@@ -32,7 +32,8 @@
       {
         "comment": "Reverend Healers",
         "id": 5007,
-        "ava": "3"
+        "ava": "3",
+        "note": "1 Healer may join a Fireteam: Core of Moiras or a Fireteam: Haris of Custodiers"
       },
       {
         "comment": "Sin-Eater Observants",
@@ -88,7 +89,8 @@
       {
         "comment": "Reverend Superior CASSANDRA KUSANAGI",
         "id": 5039,
-        "ava": "1"
+        "ava": "1",
+        "note": "Kusanagi may join a Fireteam: Core of Moiras + 1 Healer or a Fireteam: Haris of Custodiers"
       },
       {
         "comment": "Zoe",

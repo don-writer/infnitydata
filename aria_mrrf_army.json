@@ -16,7 +16,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Options with Inferior Infiltration may not join a Fireteam: Core"
       },
       {
         "comment": "Para-Commandos",
@@ -117,7 +118,8 @@
         "comment": "Brigadier Jacques Bruant",
         "id": 3034,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Métros"
       },
       {
         "comment": "Margot Berthier, Mirage-5",

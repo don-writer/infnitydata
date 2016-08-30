@@ -8,15 +8,15 @@
         "comment": "Keisotsu",
         "id": 2001,
         "ava": "T",
-        "linkable": true,
-        "note": "Fireteam: Core may include 1 Kempeitai and/or Yuriko Oda",
         "childs": [
           {
             "comment": "Lieutenant costs 1 SWC in JSA",
             "id": 9,
             "swc": "1"
           }
-        ]
+        ],
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 Kempeitai and/or Yuriko Oda"
       },
       {
         "comment": "Kempeitai",
@@ -61,7 +61,7 @@
       {
         "comment": "Shikami",
         "id": 2049,
-        "ava": "2",
+        "ava": "2"
       },
       {
         "comment": "Ninjas",

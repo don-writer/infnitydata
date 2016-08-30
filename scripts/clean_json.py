@@ -22,7 +22,7 @@ sort_order = [
 'comment', 'id', 'army', 'sectorial', 'isc', 'name', 'abbr', 'units', 'sharedAva', 'image', 
 'optionSpecific', 'type', 'imp', 'irr', 'cube', 'hackable', 'mov', 'cc', 'bs', 'ph', 'wip', 'arm',
 'bts', 'w', 'wtype', 's', 'ava', 'code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw', 
-'ccw', 'independent', 'profiles', 'childs', 'hide', 'linkable'
+'ccw', 'independent', 'profiles', 'childs', 'hide', 'linkable', 'note'
 ]
 
 
@@ -50,5 +50,6 @@ data = unitsort(data)
 print "Writing to: " + filename
 with codecs.open(filename, 'w', encoding='utf-8') as outfile:
     json.dump(data, outfile, indent=2, separators=(',', ': '), ensure_ascii=False)
+    outfile.write('\n')
     
 

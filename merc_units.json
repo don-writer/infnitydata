@@ -25,6 +25,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -35,11 +36,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Rifle"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -50,11 +51,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "AP CCW",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -65,11 +66,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "AP CCW"
+        ]
       },
       {
         "id": 4,
+        "name": "DA CCW",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -80,11 +81,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "DA CCW"
+        ]
       },
       {
         "id": 5,
+        "name": "Shock CCW",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -95,8 +96,7 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Shock CCW"
+        ]
       }
     ]
   },
@@ -126,6 +126,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Rifle",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -136,11 +137,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ],
-        "name": "Rifle"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -150,11 +151,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "AP Rifle",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -164,11 +165,11 @@
         "ccw": [
           "CCW",
           "Breaker Pistol (2)"
-        ],
-        "name": "AP Rifle"
+        ]
       },
       {
         "id": 4,
+        "name": "E/Mauler",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -179,11 +180,11 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ],
-        "name": "E/Mauler"
+        ]
       },
       {
         "id": 5,
+        "name": "Submachine Gun",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -194,8 +195,7 @@
         "ccw": [
           "CCW",
           "Pistol"
-        ],
-        "name": "Submachine Gun"
+        ]
       }
     ]
   },
@@ -224,6 +224,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -237,11 +238,11 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Assault Hacker",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -254,11 +255,11 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Assault Hacker"
+        ]
       },
       {
         "id": 3,
+        "name": "Light Grenade Launcher",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -271,11 +272,11 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Light Grenade Launcher"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire",
         "cost": "25",
         "swc": "1.5",
         "spec": [
@@ -287,11 +288,11 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 5,
+        "name": "Boarding Shotgun",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -302,11 +303,11 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 6,
+        "name": "Killer Hacker",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -319,8 +320,7 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Killer Hacker"
+        ]
       }
     ]
   },
@@ -351,6 +351,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "T2 Sniper Rifle",
         "cost": "24",
         "swc": "1",
         "spec": [],
@@ -360,11 +361,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "T2 Sniper Rifle"
+        ]
       },
       {
         "id": 2,
+        "name": "Sniper Rifle",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -374,8 +375,7 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Sniper Rifle"
+        ]
       }
     ]
   },
@@ -407,6 +407,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Chain Rifle",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -417,8 +418,7 @@
         ],
         "ccw": [
           "Templar CCW (AP+DA)"
-        ],
-        "name": "Chain Rifle"
+        ]
       }
     ]
   },
@@ -449,6 +449,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -461,11 +462,11 @@
           "CCW",
           "Electric Pulse",
           "Knife"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 2,
+        "name": "Combi",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -478,8 +479,7 @@
           "CCW",
           "Electric Pulse",
           "Knife"
-        ],
-        "name": "Combi"
+        ]
       }
     ]
   },
@@ -512,6 +512,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -523,8 +524,7 @@
           "Pistol",
           "EXP CCW",
           "Knife"
-        ],
-        "name": "Combi"
+        ]
       }
     ]
   },
@@ -556,6 +556,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Chain Rifle",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -567,8 +568,7 @@
           "AP CCW",
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Chain Rifle"
+        ]
       }
     ]
   },
@@ -599,6 +599,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -609,8 +610,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Doctor"
+        ]
       }
     ]
   },
@@ -640,6 +640,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Viral Rifle",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -651,8 +652,7 @@
         "ccw": [
           "Pistol",
           "Electric Pulse"
-        ],
-        "name": "Viral Rifle"
+        ]
       }
     ]
   },
@@ -684,6 +684,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Breaker Combi",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -696,11 +697,11 @@
           "Pistol",
           "AP CCW",
           "E/M CCW"
-        ],
-        "name": "Breaker Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -713,11 +714,11 @@
           "Pistol",
           "AP CCW",
           "E/M CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "Breaker Combi Haris",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -732,11 +733,11 @@
           "Pistol",
           "AP CCW",
           "E/M CCW"
-        ],
-        "name": "Breaker Combi Haris"
+        ]
       },
       {
         "id": 4,
+        "name": "Boarding Shotgun Haris",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -749,8 +750,7 @@
           "Pistol",
           "AP CCW",
           "E/M CCW"
-        ],
-        "name": "Boarding Shotgun Haris"
+        ]
       }
     ]
   },
@@ -779,6 +779,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Hacker",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -789,8 +790,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Hacker"
+        ]
       }
     ]
   },
@@ -820,6 +820,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "ADHL",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -831,11 +832,11 @@
           "Pistol",
           "Knife",
           "D-Charges"
-        ],
-        "name": "ADHL"
+        ]
       },
       {
         "id": 2,
+        "name": "Blitzen",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -846,11 +847,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Blitzen"
+        ]
       },
       {
         "id": 3,
+        "name": "MULTI Sniper Rifle",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -860,11 +861,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -874,11 +875,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 5,
+        "name": "Engineer ADHL",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -892,11 +893,11 @@
           "Pistol",
           "Knife",
           "D-Charges"
-        ],
-        "name": "Engineer ADHL"
+        ]
       },
       {
         "id": 6,
+        "name": "Engineer Blitzen",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -909,11 +910,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Engineer Blitzen"
+        ]
       },
       {
         "id": 7,
+        "name": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -927,8 +928,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Doctor"
+        ]
       }
     ]
   },
@@ -1003,6 +1003,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Contender",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1015,8 +1016,7 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Contender"
+        ]
       }
     ]
   },
@@ -1123,6 +1123,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Mk12",
         "cost": "68",
         "swc": "1.5",
         "spec": [],
@@ -1132,8 +1133,7 @@
         ],
         "ccw": [
           "CCW"
-        ],
-        "name": "Mk12"
+        ]
       }
     ]
   },
@@ -1204,14 +1204,14 @@
     "childs": [
       {
         "id": 1,
+        "name": "Spitfire",
         "cost": "62",
         "swc": "2",
         "spec": [],
         "bsw": [
           "Spitfire"
         ],
-        "ccw": [],
-        "name": "Spitfire"
+        "ccw": []
       }
     ]
   },
@@ -1240,6 +1240,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Sixth Sense",
         "cost": "3",
         "swc": "0",
         "spec": [
@@ -1251,11 +1252,11 @@
         "ccw": [
           "Stun Pistol",
           "Knife"
-        ],
-        "name": "Sixth Sense"
+        ]
       },
       {
         "id": 2,
+        "name": "Aerocam",
         "cost": "3",
         "swc": "0",
         "spec": [
@@ -1267,8 +1268,7 @@
         "ccw": [
           "Stun Pistol",
           "Knife"
-        ],
-        "name": "Aerocam"
+        ]
       }
     ]
   },
@@ -1298,6 +1298,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1307,11 +1308,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1321,11 +1322,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "Sniper Rifle",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -1335,11 +1336,11 @@
         "ccw": [
           "Breaker Pistol (2)",
           "Knife"
-        ],
-        "name": "Sniper Rifle"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -1349,8 +1350,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Spitfire"
+        ]
       }
     ]
   },
@@ -1382,6 +1382,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1392,11 +1393,11 @@
         "ccw": [
           "Pistol",
           "Monofilament CCW"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1407,8 +1408,7 @@
         "ccw": [
           "Pistol",
           "Monofilament CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       }
     ]
   },
@@ -1438,6 +1438,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Breaker Rifle",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1447,11 +1448,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Breaker Rifle"
+        ]
       },
       {
         "id": 2,
+        "name": "Combi",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1462,11 +1463,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 3,
+        "name": "Boarding Shotgun",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1477,8 +1478,7 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       }
     ]
   },
@@ -1505,6 +1505,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Hacker",
         "cost": "19",
         "swc": "1",
         "spec": [
@@ -1516,11 +1517,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 2,
+        "name": "Defensive Hacking Device",
         "cost": "17",
         "swc": "0.5",
         "spec": [
@@ -1532,8 +1533,7 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Defensive Hacking Device"
+        ]
       }
     ]
   },
@@ -1596,6 +1596,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Minelayer",
         "cost": "42",
         "swc": "1.5",
         "spec": [
@@ -1610,11 +1611,11 @@
           "Breaker Pistol (2)",
           "Shock CCW",
           "Knife"
-        ],
-        "name": "Minelayer"
+        ]
       },
       {
         "id": 2,
+        "name": "MSV 1",
         "cost": "45",
         "swc": "1.5",
         "spec": [
@@ -1628,8 +1629,7 @@
           "Breaker Pistol (2)",
           "Shock CCW",
           "Knife"
-        ],
-        "name": "MSV 1"
+        ]
       }
     ]
   },
@@ -1671,6 +1671,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Dual SMG",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1681,11 +1682,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Dual SMG"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1696,11 +1697,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "Dual Chain Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1711,11 +1712,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Dual Chain Rifle"
+        ]
       },
       {
         "id": 4,
+        "name": "SMG",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -1726,11 +1727,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "SMG"
+        ]
       },
       {
         "id": 5,
+        "name": "Red Fury",
         "cost": "24",
         "swc": "1",
         "spec": [],
@@ -1741,8 +1742,7 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Red Fury"
+        ]
       }
     ]
   }

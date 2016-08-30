@@ -28,6 +28,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "MULTI",
         "cost": "73",
         "swc": "0",
         "spec": [],
@@ -38,11 +39,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "MULTI"
+        ]
       },
       {
         "id": 2,
+        "name": "MULTI Lieutenant",
         "cost": "73",
         "swc": "0",
         "spec": [
@@ -55,11 +56,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "MULTI Lieutenant"
+        ]
       },
       {
         "id": 3,
+        "name": "Spitfire",
         "cost": "75",
         "swc": "2.5",
         "spec": [],
@@ -70,11 +71,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire Lieutenant",
         "cost": "75",
         "swc": "2.5",
         "spec": [
@@ -87,8 +88,7 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Spitfire Lieutenant"
+        ]
       }
     ]
   },
@@ -122,6 +122,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "MULTI",
         "cost": "74",
         "swc": "0",
         "spec": [],
@@ -133,11 +134,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "MULTI"
+        ]
       },
       {
         "id": 2,
+        "name": "MULTI Lieutenant",
         "cost": "74",
         "swc": "0",
         "spec": [
@@ -151,11 +152,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "MULTI Lieutenant"
+        ]
       },
       {
         "id": 3,
+        "name": "Spitfire",
         "cost": "75",
         "swc": "2.5",
         "spec": [],
@@ -166,11 +167,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire Lieutenant",
         "cost": "75",
         "swc": "2.5",
         "spec": [
@@ -183,8 +184,7 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Spitfire Lieutenant"
+        ]
       }
     ]
   },
@@ -215,6 +215,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "MULTI",
         "cost": "68",
         "swc": "0",
         "spec": [],
@@ -225,11 +226,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "MULTI"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "68",
         "swc": "0",
         "spec": [
@@ -242,11 +243,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Lieutenant"
+        ]
       },
       {
         "id": 3,
+        "name": "Hacker",
         "cost": "72",
         "swc": "0.5",
         "spec": [
@@ -259,11 +260,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire",
         "cost": "70",
         "swc": "2",
         "spec": [],
@@ -274,11 +275,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 5,
+        "name": "Hacker Lieutenant",
         "cost": "72",
         "swc": "0.5",
         "spec": [
@@ -292,8 +293,7 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Hacker Lieutenant"
+        ]
       }
     ]
   },
@@ -324,6 +324,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -332,11 +333,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Paramedic",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -348,11 +349,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Paramedic"
+        ]
       },
       {
         "id": 3,
+        "name": "MULTI Sniper Rifle",
         "cost": "21",
         "swc": "1.5",
         "spec": [],
@@ -361,11 +362,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       },
       {
         "id": 4,
+        "name": "Light Grenade Launcher",
         "cost": "17",
         "swc": "1",
         "spec": [],
@@ -375,11 +376,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Light Grenade Launcher"
+        ]
       },
       {
         "id": 5,
+        "name": "HMG",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -388,8 +389,7 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "HMG"
+        ]
       }
     ]
   },
@@ -426,6 +426,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -434,8 +435,7 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Combi"
+        ]
       }
     ]
   },
@@ -467,6 +467,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -478,11 +479,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "35",
         "swc": "2",
         "spec": [
@@ -496,11 +497,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Lieutenant"
+        ]
       },
       {
         "id": 3,
+        "name": "Observer",
         "cost": "36",
         "swc": "0",
         "spec": [
@@ -514,11 +515,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Observer"
+        ]
       },
       {
         "id": 4,
+        "name": "Hacker",
         "cost": "40",
         "swc": "0.5",
         "spec": [
@@ -531,11 +532,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 5,
+        "name": "MULTI Sniper Rifle",
         "cost": "42",
         "swc": "1.5",
         "spec": [],
@@ -546,11 +547,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       },
       {
         "id": 6,
+        "name": "Boarding Shotgun",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -562,11 +563,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 7,
+        "name": "Killer Hacker",
         "cost": "37",
         "swc": "0",
         "spec": [
@@ -579,9 +580,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Killer Hacker"
-      },
+        ]
+      }
     ]
   },
   {
@@ -650,6 +650,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -660,11 +661,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant+Devabot",
         "cost": "27",
         "swc": "0",
         "profile": "1",
@@ -678,11 +679,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Lieutenant+Devabot"
+        ]
       },
       {
         "id": 3,
+        "name": "Spitfire+MSV",
         "cost": "33",
         "swc": "1",
         "spec": [
@@ -695,11 +696,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Spitfire+MSV"
+        ]
       },
       {
         "id": 4,
+        "name": "Sensor",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -712,11 +713,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Sensor"
+        ]
       },
       {
         "id": 5,
+        "name": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -729,11 +730,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 6,
+        "name": "Devabot",
         "cost": "27",
         "swc": "0",
         "profile": "1",
@@ -745,11 +746,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Devabot"
+        ]
       },
       {
         "id": 7,
+        "name": "Lieutenant",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -762,11 +763,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Lieutenant"
+        ]
       },
       {
         "id": 8,
+        "name": "Sensor+Lieutenant",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -780,8 +781,7 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Sensor+Lieutenant"
+        ]
       }
     ]
   },
@@ -813,6 +813,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -821,11 +822,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -834,11 +835,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "HMG",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -847,11 +848,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "HMG"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -860,8 +861,7 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Spitfire"
+        ]
       }
     ]
   },
@@ -895,6 +895,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Repeater",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -903,8 +904,7 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Repeater"
+        ]
       }
     ]
   },
@@ -937,6 +937,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "MULTI HMG",
         "cost": "116",
         "swc": "3",
         "spec": [],
@@ -947,11 +948,11 @@
         ],
         "ccw": [
           "AP CCW"
-        ],
-        "name": "MULTI HMG"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "120",
         "swc": "3",
         "spec": [
@@ -965,8 +966,7 @@
         ],
         "ccw": [
           "AP CCW"
-        ],
-        "name": "Lieutenant"
+        ]
       }
     ]
   },
@@ -999,6 +999,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi Lieutenant",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -1012,11 +1013,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Combi Lieutenant"
+        ]
       },
       {
         "id": 2,
+        "name": "BSG Chain of Command",
         "cost": "35",
         "swc": "1",
         "spec": [
@@ -1030,11 +1031,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "BSG Chain of Command"
+        ]
       },
       {
         "id": 3,
+        "name": "Combi Chain of Command",
         "cost": "36",
         "swc": "1",
         "spec": [
@@ -1048,11 +1049,11 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "Combi Chain of Command"
+        ]
       },
       {
         "id": 4,
+        "name": "BSG Lieutenant",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -1066,8 +1067,7 @@
         "ccw": [
           "AP CCW",
           "Pistol"
-        ],
-        "name": "BSG Lieutenant"
+        ]
       }
     ]
   },
@@ -1098,6 +1098,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1109,11 +1110,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -1127,11 +1128,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 3,
+        "name": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -1143,11 +1144,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 4,
+        "name": "Chain Rifle",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -1159,11 +1160,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "Chain Rifle"
+        ]
       },
       {
         "id": 5,
+        "name": "Spitfire",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -1175,11 +1176,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 6,
+        "name": "DA CCW",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -1191,8 +1192,7 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "DA CCW"
+        ]
       }
     ]
   },
@@ -1224,6 +1224,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Antipersonnel Mines",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -1234,11 +1235,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Antipersonnel Mines"
+        ]
       },
       {
         "id": 2,
+        "name": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -1250,11 +1251,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 3,
+        "name": "Minelayer",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -1267,11 +1268,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Minelayer"
+        ]
       },
       {
         "id": 4,
+        "name": "MULTI Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -1281,11 +1282,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       },
       {
         "id": 5,
+        "name": "Monofilament Mines",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1296,11 +1297,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Monofilament Mines"
+        ]
       },
       {
         "id": 6,
+        "name": "Killer Hacker",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -1312,11 +1313,11 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Killer Hacker"
+        ]
       },
       {
         "id": 7,
+        "name": "Observer",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -1329,9 +1330,8 @@
         "ccw": [
           "Knife",
           "Pistol"
-        ],
-        "name": "Observer"
-      },
+        ]
+      }
     ]
   },
   {
@@ -1361,12 +1361,12 @@
     "childs": [
       {
         "id": 1,
+        "name": "AI Beacon",
         "cost": "4",
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": [],
-        "name": "AI Beacon"
+        "ccw": []
       }
     ]
   },
@@ -1398,6 +1398,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "ODD MULTI",
         "cost": "55",
         "swc": "0",
         "spec": [
@@ -1411,11 +1412,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "ODD MULTI"
+        ]
       },
       {
         "id": 2,
+        "name": "ODD Spitfire",
         "cost": "57",
         "swc": "1.5",
         "spec": [
@@ -1429,11 +1430,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "ODD Spitfire"
+        ]
       },
       {
         "id": 3,
+        "name": "Duo MULTI",
         "cost": "51",
         "swc": "0",
         "spec": [
@@ -1448,11 +1449,11 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Duo MULTI"
+        ]
       },
       {
         "id": 4,
+        "name": "Duo Spitfire",
         "cost": "53",
         "swc": "1.5",
         "spec": [
@@ -1467,8 +1468,7 @@
         "ccw": [
           "EXP CCW",
           "Pistol"
-        ],
-        "name": "Duo Spitfire"
+        ]
       }
     ]
   },
@@ -1499,6 +1499,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Minesweeper",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -1508,11 +1509,11 @@
         "bsw": [],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Minesweeper"
+        ]
       },
       {
         "id": 2,
+        "name": "Combi",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -1524,11 +1525,11 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 3,
+        "name": "EVO",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -1537,8 +1538,7 @@
         "bsw": [],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "EVO"
+        ]
       }
     ]
   },
@@ -1568,6 +1568,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Smart Missile Launcher",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -1576,8 +1577,7 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Smart Missile Launcher"
+        ]
       }
     ]
   },
@@ -1609,6 +1609,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Doctor+Engineer",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1619,8 +1620,7 @@
           "D-Charges",
           "Knife",
           "Pistol"
-        ],
-        "name": "Doctor+Engineer"
+        ]
       }
     ]
   },
@@ -1651,14 +1651,14 @@
     "childs": [
       {
         "id": 1,
+        "name": "Servant",
         "cost": "3",
         "swc": "0",
         "spec": [],
         "bsw": [],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "Servant"
+        ]
       }
     ]
   },
@@ -1691,6 +1691,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "HMG",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -1699,8 +1700,7 @@
         ],
         "ccw": [
           "Electric Pulse"
-        ],
-        "name": "HMG"
+        ]
       }
     ]
   },
@@ -1731,6 +1731,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Doctor",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -1744,11 +1745,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Doctor"
+        ]
       },
       {
         "id": 2,
+        "name": "Engineer",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -1762,11 +1763,11 @@
           "Pistol",
           "Knife",
           "D-Charges"
-        ],
-        "name": "Engineer"
+        ]
       },
       {
         "id": 3,
+        "name": "Hacker",
         "cost": "14",
         "swc": "0.5",
         "spec": [
@@ -1779,8 +1780,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Hacker"
+        ]
       }
     ]
   },
@@ -1812,6 +1812,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Hacker",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -1824,11 +1825,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 2,
+        "name": "MULTI Sniper Rifle",
         "cost": "24",
         "swc": "1.5",
         "spec": [],
@@ -1839,8 +1840,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       }
     ]
   },
@@ -1871,6 +1871,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Spitfire",
         "cost": "21",
         "swc": "2",
         "spec": [],
@@ -1881,8 +1882,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Spitfire"
+        ]
       }
     ]
   },
@@ -1913,6 +1913,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Hacker",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -1925,11 +1926,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Hacker"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -1940,11 +1941,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "Chain Rifle",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -1955,11 +1956,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Chain Rifle"
+        ]
       },
       {
         "id": 4,
+        "name": "HMG",
         "cost": "37",
         "swc": "1.5",
         "spec": [],
@@ -1970,11 +1971,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "HMG"
+        ]
       },
       {
         "id": 5,
+        "name": "Combi (AP CCW)",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -1985,11 +1986,11 @@
         "ccw": [
           "Pistol",
           "AP CCW"
-        ],
-        "name": "Combi (AP CCW)"
+        ]
       },
       {
         "id": 6,
+        "name": "Combi (DA CCW)",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -2000,8 +2001,7 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Combi (DA CCW)"
+        ]
       }
     ]
   },
@@ -2029,12 +2029,12 @@
     "childs": [
       {
         "id": 1,
+        "name": "Spec-Ops",
         "cost": "0",
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": [],
-        "name": "Spec-Ops"
+        "ccw": []
       }
     ]
   },
@@ -2066,6 +2066,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Infiltrator",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -2079,11 +2080,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Infiltrator"
+        ]
       },
       {
         "id": 2,
+        "name": "Enomotarchos",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -2098,8 +2099,7 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Enomotarchos"
+        ]
       }
     ]
   },
@@ -2128,6 +2128,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Submachine Gun",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -2140,11 +2141,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Submachine Gun"
+        ]
       },
       {
         "id": 2,
+        "name": "Combi",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2155,11 +2156,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 3,
+        "name": "HMG",
         "cost": "22",
         "swc": "1.5",
         "spec": [],
@@ -2170,11 +2171,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "HMG"
+        ]
       },
       {
         "id": 4,
+        "name": "Light Rocket Launcher",
         "cost": "15",
         "swc": "1",
         "spec": [],
@@ -2185,11 +2186,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Light Rocket Launcher"
+        ]
       },
       {
         "id": 5,
+        "name": "Engineer",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -2203,11 +2204,11 @@
           "Pistol",
           "Knife",
           "D-Charges"
-        ],
-        "name": "Engineer"
+        ]
       },
       {
         "id": 6,
+        "name": "Observer",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -2221,11 +2222,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Observer"
+        ]
       },
       {
         "id": 7,
+        "name": "Paramedic",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -2239,11 +2240,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Paramedic"
+        ]
       },
       {
         "id": 8,
+        "name": "Marksman Rifle",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -2254,11 +2255,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Marksman Rifle"
+        ]
       },
       {
         "id": 9,
+        "name": "Feuerbach",
         "cost": "22",
         "swc": "1.5",
         "spec": [],
@@ -2269,8 +2270,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Feuerbach"
+        ]
       }
     ]
   },
@@ -2300,6 +2300,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Mk12",
         "cost": "29",
         "swc": "0.5",
         "spec": [
@@ -2311,11 +2312,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Mk12"
+        ]
       },
       {
         "id": 2,
+        "name": "MULTI Sniper Rifle",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -2325,11 +2326,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       },
       {
         "id": 3,
+        "name": "Missile Launcher",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -2339,8 +2340,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Missile Launcher"
+        ]
       }
     ]
   },
@@ -2374,6 +2374,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Mk12",
         "cost": "40",
         "swc": "0",
         "spec": [],
@@ -2385,11 +2386,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Mk12"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "40",
         "swc": "0",
         "spec": [
@@ -2403,8 +2404,7 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Lieutenant"
+        ]
       }
     ]
   },
@@ -2436,6 +2436,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Spitfire",
         "cost": "25",
         "swc": "1.5",
         "spec": [],
@@ -2446,11 +2447,11 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "25",
         "swc": "1.5",
         "spec": [
@@ -2463,8 +2464,7 @@
         "ccw": [
           "Pistol",
           "CCW"
-        ],
-        "name": "Lieutenant"
+        ]
       }
     ]
   },
@@ -2473,7 +2473,6 @@
     "army": "Aleph",
     "isc": "Atalanta",
     "name": "Atalanta",
-    "ava": "1",
     "type": "MI",
     "imp": "",
     "irr": "",
@@ -2487,6 +2486,7 @@
     "bts": "6",
     "w": "1",
     "s": "2",
+    "ava": "1",
     "spec": [
       "Multispectral Visor L2",
       "V: Courage"
@@ -2494,6 +2494,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "MULTI Sniper Rifle",
         "cost": "39",
         "swc": "1.5",
         "spec": [
@@ -2505,8 +2506,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "MULTI Sniper Rifle"
+        ]
       }
     ]
   },
@@ -2538,6 +2538,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Mk12",
         "cost": "43",
         "swc": "0",
         "spec": [],
@@ -2548,11 +2549,11 @@
         "ccw": [
           "Assault Pistol",
           "DA CCW"
-        ],
-        "name": "Mk12"
+        ]
       },
       {
         "id": 2,
+        "name": "Mk12 Lieutenant",
         "cost": "43",
         "swc": "0",
         "spec": [
@@ -2565,11 +2566,11 @@
         "ccw": [
           "Assault Pistol",
           "DA CCW"
-        ],
-        "name": "Mk12 Lieutenant"
+        ]
       },
       {
         "id": 3,
+        "name": "MULTI",
         "cost": "42",
         "swc": "0",
         "spec": [],
@@ -2580,11 +2581,11 @@
         "ccw": [
           "Assault Pistol",
           "DA CCW"
-        ],
-        "name": "MULTI"
+        ]
       },
       {
         "id": 4,
+        "name": "MULTI Lieutenant",
         "cost": "42",
         "swc": "0",
         "spec": [
@@ -2597,8 +2598,7 @@
         "ccw": [
           "Assault Pistol",
           "DA CCW"
-        ],
-        "name": "MULTI Lieutenant"
+        ]
       }
     ]
   },
@@ -2633,6 +2633,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "38",
         "swc": "0.5",
         "spec": [],
@@ -2644,11 +2645,11 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "38",
         "swc": "0.5",
         "spec": [
@@ -2662,8 +2663,7 @@
         "ccw": [
           "Pistol",
           "DA CCW"
-        ],
-        "name": "Lieutenant"
+        ]
       }
     ]
   },
@@ -2696,6 +2696,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Heavy Rocket Launcher",
         "cost": "40",
         "swc": "2",
         "spec": [],
@@ -2707,11 +2708,11 @@
         "ccw": [
           "Heavy Pistol",
           "DA CCW"
-        ],
-        "name": "Heavy Rocket Launcher"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "40",
         "swc": "2",
         "spec": [
@@ -2725,8 +2726,7 @@
         "ccw": [
           "Heavy Pistol",
           "DA CCW"
-        ],
-        "name": "Lieutenant"
+        ]
       }
     ]
   },
@@ -2760,6 +2760,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -2770,11 +2771,11 @@
         "ccw": [
           "AP Heavy Pistol",
           "EXP CCW"
-        ],
-        "name": "Combi"
+        ]
       },
       {
         "id": 2,
+        "name": "Lieutenant",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -2787,8 +2788,7 @@
         "ccw": [
           "AP Heavy Pistol",
           "EXP CCW"
-        ],
-        "name": "Lieutenant"
+        ]
       }
     ]
   },
@@ -2844,6 +2844,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Amazon Warrioress",
         "cost": "41",
         "swc": "0",
         "spec": [],
@@ -2855,8 +2856,7 @@
         "ccw": [
           "Pistol",
           "Monofilament CCW"
-        ],
-        "name": "Amazon Warrioress"
+        ]
       }
     ]
   },
@@ -2886,6 +2886,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Hacker",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2898,8 +2899,7 @@
         "ccw": [
           "Assault Pistol",
           "Knife"
-        ],
-        "name": "Hacker"
+        ]
       }
     ]
   },
@@ -2928,6 +2928,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "ADHL Engineer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -2941,11 +2942,11 @@
           "Knife",
           "Breaker Pistol (2)",
           "D-Charges"
-        ],
-        "name": "ADHL Engineer"
+        ]
       },
       {
         "id": 2,
+        "name": "Doctor",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -2960,11 +2961,11 @@
         "ccw": [
           "Knife",
           "Breaker Pistol (2)"
-        ],
-        "name": "Doctor"
+        ]
       },
       {
         "id": 3,
+        "name": "Flammenspeer Engineer",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2978,8 +2979,7 @@
           "Knife",
           "Breaker Pistol (2)",
           "D-Charges"
-        ],
-        "name": "Flammenspeer Engineer"
+        ]
       }
     ]
   },
@@ -3010,6 +3010,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Feuerbach X-Visor",
         "cost": "41",
         "swc": "1.5",
         "spec": [
@@ -3022,11 +3023,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Feuerbach X-Visor"
+        ]
       },
       {
         "id": 2,
+        "name": "Feuerbach MSV 2",
         "cost": "44",
         "swc": "2",
         "spec": [
@@ -3039,11 +3040,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Feuerbach MSV 2"
+        ]
       },
       {
         "id": 3,
+        "name": "K1 Sniper",
         "cost": "43",
         "swc": "1.5",
         "spec": [
@@ -3056,8 +3057,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "K1 Sniper"
+        ]
       }
     ]
   },
@@ -3170,6 +3170,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Combi (1 Devabot)",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -3181,11 +3182,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Combi (1 Devabot)"
+        ]
       },
       {
         "id": 2,
+        "name": "Combi (2 Devabots)",
         "cost": "42",
         "swc": "0",
         "profile": "1",
@@ -3198,11 +3199,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Combi (2 Devabots)"
+        ]
       },
       {
         "id": 3,
+        "name": "Red Fury (1 Devabot)",
         "cost": "39",
         "swc": "1",
         "spec": [],
@@ -3213,11 +3214,11 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Red Fury (1 Devabot)"
+        ]
       },
       {
         "id": 4,
+        "name": "Red Fury (2 Devabots)",
         "cost": "45",
         "swc": "1",
         "profile": "1",
@@ -3229,8 +3230,7 @@
         "ccw": [
           "Pistol",
           "Shock CCW"
-        ],
-        "name": "Red Fury (2 Devabots)"
+        ]
       }
     ]
   },
@@ -3338,6 +3338,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "HD (1 Devabot)",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -3350,11 +3351,11 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ],
-        "name": "HD (1 Devabot)"
+        ]
       },
       {
         "id": 2,
+        "name": "HD (2 Devabots)",
         "cost": "39",
         "swc": "0.5",
         "profile": "1",
@@ -3368,11 +3369,11 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ],
-        "name": "HD (2 Devabots)"
+        ]
       },
       {
         "id": 3,
+        "name": "AHD (1 Devabot)",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -3385,11 +3386,11 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ],
-        "name": "AHD (1 Devabot)"
+        ]
       },
       {
         "id": 4,
+        "name": "AHD (2 Devabots)",
         "cost": "37",
         "swc": "0.5",
         "profile": "1",
@@ -3403,11 +3404,11 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ],
-        "name": "AHD (2 Devabots)"
+        ]
       },
       {
         "id": 5,
+        "name": "AHD (1 Devabot)",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -3420,11 +3421,11 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ],
-        "name": "AHD (1 Devabot)"
+        ]
       },
       {
         "id": 6,
+        "name": "AHD (2 Devabots)",
         "cost": "34",
         "swc": "0.5",
         "profile": "1",
@@ -3438,8 +3439,7 @@
         "ccw": [
           "Pistol",
           "E/M CCW"
-        ],
-        "name": "AHD (2 Devabots)"
+        ]
       }
     ]
   },
@@ -3471,6 +3471,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Engineer",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -3483,8 +3484,7 @@
         "ccw": [
           "Knife",
           "Breaker Pistol (2)"
-        ],
-        "name": "Engineer"
+        ]
       }
     ]
   },
@@ -3519,6 +3519,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Plasma",
         "cost": "71",
         "swc": "0",
         "spec": [
@@ -3532,11 +3533,11 @@
         "ccw": [
           "Heavy Pistol",
           "EXP CCW"
-        ],
-        "name": "Plasma"
+        ]
       },
       {
         "id": 2,
+        "name": "Spitfire",
         "cost": "70",
         "swc": "2",
         "spec": [
@@ -3550,11 +3551,11 @@
         "ccw": [
           "Heavy Pistol",
           "EXP CCW"
-        ],
-        "name": "Spitfire"
+        ]
       },
       {
         "id": 3,
+        "name": "Plasma Lieutenant",
         "cost": "71",
         "swc": "0",
         "spec": [
@@ -3569,11 +3570,11 @@
         "ccw": [
           "Heavy Pistol",
           "EXP CCW"
-        ],
-        "name": "Plasma Lieutenant"
+        ]
       },
       {
         "id": 4,
+        "name": "Spitfire Lieutenant",
         "cost": "70",
         "swc": "2",
         "spec": [
@@ -3588,8 +3589,7 @@
         "ccw": [
           "Heavy Pistol",
           "EXP CCW"
-        ],
-        "name": "Spitfire Lieutenant"
+        ]
       }
     ]
   },
@@ -3619,6 +3619,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "HMG",
         "cost": "25",
         "swc": "2",
         "spec": [],
@@ -3629,11 +3630,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "HMG"
+        ]
       },
       {
         "id": 2,
+        "name": "Heavy Rocket Launcher",
         "cost": "20",
         "swc": "2",
         "spec": [],
@@ -3645,8 +3646,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Heavy Rocket Launcher"
+        ]
       }
     ]
   },
@@ -3677,6 +3677,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Mk12",
         "cost": "17",
         "swc": "0.5",
         "spec": [
@@ -3689,11 +3690,11 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Mk12"
+        ]
       },
       {
         "id": 2,
+        "name": "Observer",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -3707,8 +3708,7 @@
         "ccw": [
           "Pistol",
           "Knife"
-        ],
-        "name": "Observer"
+        ]
       }
     ]
   },
@@ -3743,6 +3743,7 @@
     "childs": [
       {
         "id": 1,
+        "name": "Submachine Gun",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -3755,11 +3756,11 @@
           "Breaker Pistol",
           "DA CCW",
           "Knife"
-        ],
-        "name": "Submachine Gun"
+        ]
       },
       {
         "id": 2,
+        "name": "Boarding Shotgun",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -3771,11 +3772,11 @@
           "Breaker Pistol",
           "DA CCW",
           "Knife"
-        ],
-        "name": "Boarding Shotgun"
+        ]
       },
       {
         "id": 3,
+        "name": "Combi",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -3787,8 +3788,7 @@
           "Breaker Pistol",
           "DA CCW",
           "Knife"
-        ],
-        "name": "Combi"
+        ]
       }
     ]
   }

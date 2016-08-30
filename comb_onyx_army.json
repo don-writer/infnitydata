@@ -57,6 +57,7 @@
       {
         "comment": "Umbra Samaritan",
         "id": 6052,
+        "ava": "3",
         "childs": [
           {
             "comment": "Lieutenant - SWC cost is only 0 in Onyx",
@@ -64,7 +65,6 @@
             "swc": "0"
           }
         ],
-        "ava": "3",
         "note": "Fireteam: Core with Rodoks<br>Fireteam: Haris with 2 Xeodrons"
       },
       {

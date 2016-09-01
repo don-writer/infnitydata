@@ -1045,7 +1045,7 @@
     "max_mod": "0",
     "cc": "No",
     "template": "Impact Template (Circular)",
-    "note": "Anti-materiel, Guided"
+    "note": "Anti-materiel"
   },
   {
     "name": "Smart Missile Launcher (Guided Mode)",
@@ -1062,7 +1062,7 @@
     "max_mod": "--",
     "cc": "No",
     "template": "Impact Template (Circular)",
-    "note": "Anti-materiel"
+    "note": "Anti-materiel, Guided"
   },
   {
     "name": "HMC",

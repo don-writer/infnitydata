@@ -90,7 +90,14 @@
       },
       {
         "comment": "Kurgat Reg. of Assault Engineers",
-        "id": 6022
+        "id": 6022,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Rasyat Diplomatic Division",
@@ -146,7 +153,14 @@
       },
       {
         "comment": "Yaogat Strike Infantry",
-        "id": 6036
+        "id": 6036,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Zerat Special Missions Regiment",

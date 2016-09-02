@@ -137,7 +137,14 @@
       },
       {
         "comment": "Imperial Agent, Pheasant Rank",
-        "id": 2029
+        "id": 2029,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Aragoto Senkenbutai",
@@ -160,7 +167,14 @@
       },
       {
         "comment": "Karakuri Special Project",
-        "id": 2033
+        "id": 2033,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Su-Jian Immediate Action Unit",

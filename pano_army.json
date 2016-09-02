@@ -20,6 +20,11 @@
             "comment": "HMG Lieutenant is only available in Shock Army of Acontecimento",
             "id": 1,
             "hide": true
+          },
+          {
+            "comment": "Haris is only available in Shock Army of Acontecimento",
+            "id": 9,
+            "hide": true
           }
         ]
       },
@@ -33,7 +38,14 @@
       },
       {
         "comment": "Orc Troops",
-        "id": 1006
+        "id": 1006,
+        "childs": [
+          {
+            "comment": "Haris is only available in sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Knights Hospitaller",

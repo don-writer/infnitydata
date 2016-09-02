@@ -166,7 +166,14 @@
       },
       {
         "comment": "Riot Grrls",
-        "id": 5041
+        "id": 5041,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Vortex Spec-Ops",
@@ -178,7 +185,14 @@
       },
       {
         "comment": "Wildcats, Polyvalent Tactical Unit",
-        "id": 5044
+        "id": 5044,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Gecko",

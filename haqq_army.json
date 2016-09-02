@@ -102,7 +102,14 @@
       },
       {
         "comment": "Asawira Regiment",
-        "id": 4025
+        "id": 4025,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Azra'il",
@@ -126,7 +133,14 @@
       },
       {
         "comment": "Hassassin Muyibs",
-        "id": 4031
+        "id": 4031,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 10,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hussein Al-Djabel",
@@ -142,7 +156,14 @@
       },
       {
         "comment": "Odalisques",
-        "id": 4035
+        "id": 4035,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Saladin, O-12 Liaison Officer",
@@ -166,11 +187,25 @@
       },
       {
         "comment": "Sekban",
-        "id": 4041
+        "id": 4041,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 5,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hassassin Govads",
-        "id": 4042
+        "id": 4042,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Zhayedan Intervention Troops",

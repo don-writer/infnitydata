@@ -4512,6 +4512,7 @@
     "isc": "Taskmasters, Bakunin SWAST Team",
     "name": "Taskmaster",
     "ava": "2",
+    "spec": [],
     "profiles": [
       {
         "id": 1,

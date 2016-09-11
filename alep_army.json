@@ -3,6 +3,7 @@
     "id": 7999,
     "army": "Aleph",
     "name": "Aleph",
+    "legacy_name": "Aleph",
     "units": [
       {
         "comment": "Achilles",

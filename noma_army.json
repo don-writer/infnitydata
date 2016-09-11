@@ -3,6 +3,7 @@
     "id": 5999,
     "army": "Nomads",
     "name": "Nomads",
+    "legacy_name": "Nomads",
     "units": [
       {
         "comment": "Alguaciles",

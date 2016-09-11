@@ -3,6 +3,7 @@
     "id": 1996,
     "army": "PanOceania",
     "name": "Military Orders",
+    "legacy_name": "Military Orders",
     "units": [
       {
         "comment": "Fusiliers",

@@ -3,6 +3,7 @@
     "id": 3996,
     "army": "Ariadna",
     "name": "USAriadna Ranger Force",
+    "legacy_name": "USAriadna Ranger Force",
     "abbr": "USAriadna",
     "units": [
       {

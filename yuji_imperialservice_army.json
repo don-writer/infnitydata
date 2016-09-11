@@ -3,6 +3,7 @@
     "id": 2997,
     "army": "Yu Jing",
     "name": "Imperial Service",
+    "legacy_name": "Imperial Service",
     "units": [
       {
         "comment": "Celestial Guard",

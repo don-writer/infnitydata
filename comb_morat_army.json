@@ -3,6 +3,7 @@
     "id": 6997,
     "army": "Combined Army",
     "name": "Morat Aggression Force",
+    "legacy_name": "Morat Aggression Force",
     "units": [
       {
         "comment": "Morat Vanguard Infantry",

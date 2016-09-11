@@ -3,6 +3,7 @@
     "id": 1997,
     "army": "PanOceania",
     "name": "Neoterran Capitaline Army",
+    "legacy_name": "Neoterran Capitaline Army",
     "abbr": "Neoterran",
     "units": [
       {

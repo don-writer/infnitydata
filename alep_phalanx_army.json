@@ -3,6 +3,7 @@
     "id": 7998,
     "army": "Aleph",
     "name": "Steel Phalanx",
+    "legacy_name": "Steel Phalanx",
     "units": [
       {
         "comment": "Myrmidons",

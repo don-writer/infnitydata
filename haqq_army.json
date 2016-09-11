@@ -3,6 +3,7 @@
     "id": 4999,
     "army": "Haqqislam",
     "name": "Haqqislam",
+    "legacy_name": "Haqqislam",
     "units": [
       {
         "comment": "Daylami Infantry",

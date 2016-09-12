@@ -2,6 +2,7 @@
   {
     "id": 1996,
     "army": "PanOceania",
+    "army_id": 1999,
     "name": "Military Orders",
     "legacy_name": "Military Orders",
     "units": [

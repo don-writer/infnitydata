@@ -214,7 +214,7 @@
     "w": 2
   },
   "extraweapons": {
-    "Aleph": {
+    "7999": {
       "AP CCW": 1,
       "Assault Pistol": 3,
       "Boarding Shotgun": 2,
@@ -228,7 +228,7 @@
       "Spitfire": 6,
       "Stun Pistol": 1
     },
-    "Ariadna": {
+    "3999": {
       "AP CCW": 1,
       "AP HMG": 9,
       "AP Sniper Rifle": 5,
@@ -242,7 +242,7 @@
       "Stun Pistol": 1,
       "T2 Rifle": 5
     },
-    "Combined Army": {
+    "6999": {
       "Boarding Shotgun": 2,
       "Contender": 4,
       "EXP CCW": 1,
@@ -256,7 +256,7 @@
       "Spitfire": 6,
       "Stun Pistol": 1
     },
-    "Haqqislam": {
+    "4999": {
       "Boarding Shotgun": 2,
       "Contender": 4,
       "EXP CCW": 1,
@@ -270,7 +270,7 @@
       "Viral Rifle": 5,
       "Viral Sniper Rifle": 6
     },
-    "Nomads": {
+    "5999": {
       "AP CCW": 1,
       "Assault Pistol": 3,
       "Boarding Shotgun": 2,
@@ -284,7 +284,7 @@
       "Spitfire": 6,
       "Stun Pistol": 1
     },
-    "PanOceania": {
+    "1999": {
       "AP CCW": 1,
       "Assault Pistol": 3,
       "Boarding Shotgun": 2,
@@ -298,7 +298,7 @@
       "Spitfire": 6,
       "Stun Pistol": 1
     },
-    "Tohaa": {
+    "8999": {
       "Adhesive Launcher": 3,
       "Flammenspeer": 4,
       "HMG": 8,
@@ -312,7 +312,7 @@
       "Viral Combi Rifle": 5,
       "Vulkan Shotgun": 3
     },
-    "Yu Jing": {
+    "2999": {
       "AP CCW": 1,
       "Assault Pistol": 3,
       "Boarding Shotgun": 2,

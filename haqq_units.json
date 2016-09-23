@@ -1119,86 +1119,59 @@
   {
     "id": 4009,
     "army": "Haqqislam",
-    "isc": "Ahl Fassed",
-    "legacy_isc": "Ahl Fassed",
-    "name": "Fassed",
+    "isc": "Al Fasid",
+    "legacy_isc": "Al Fasid",
+    "name": "Fasid",
     "type": "HI",
     "imp": "",
     "irr": "",
     "cube": "X",
     "hackable": "X",
-    "mov": "4-4",
+    "mov": "4-2",
     "cc": "15",
     "bs": "13",
     "ph": "14",
     "wip": "14",
-    "arm": "4",
-    "bts": "3",
+    "arm": "5",
+    "bts": "6",
     "w": "2",
-    "s": "2",
+    "s": "5",
     "ava": "2",
     "spec": [],
     "childs": [
       {
         "id": 1,
-        "name": "AP Rifle",
+        "name": "Heavy Rocket Launcher",
         "legacy_code": "Default",
-        "cost": "34",
-        "swc": "0",
+        "cost": "45",
+        "swc": "2",
         "spec": [],
         "bsw": [
-          "AP Rifle",
-          "Light Flamethrower"
+          "Heavy Rocket Launcher",
+          "Submachine Gun",
+          "Antipersonnel Mines"
         ],
         "ccw": [
-          "CCW",
-          "Pistol"
+          "Knife",
+          "Heavy Pistol"
         ]
       },
       {
         "id": 2,
         "name": "HMG",
         "legacy_code": "HMG",
-        "cost": "41",
+        "cost": "53",
         "swc": "2",
         "spec": [],
         "bsw": [
-          "HMG"
+          "HMG",
+          "Smoke Light Grenade Launcher",
+          "Light Grenade Launcher",
+          "Antipersonnel Mines"
         ],
         "ccw": [
-          "CCW",
-          "Pistol"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
-        "cost": "32",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Boarding Shotgun"
-        ],
-        "ccw": [
-          "CCW",
-          "Pistol"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Panzerfaust",
-        "legacy_code": "Panzerfaust",
-        "cost": "36",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "AP Rifle",
-          "Panzerfaust"
-        ],
-        "ccw": [
-          "CCW",
-          "Pistol"
+          "Knife",
+          "Heavy Pistol"
         ]
       }
     ]

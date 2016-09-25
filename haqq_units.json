@@ -1137,7 +1137,11 @@
     "w": "2",
     "s": "5",
     "ava": "2",
-    "spec": [],
+    "spec": [
+      "Minelayer",
+      "Sixth Sense L1",
+      "Veteran L1"
+    ],
     "childs": [
       {
         "id": 1,

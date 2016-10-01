@@ -861,6 +861,20 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 7,
+        "name": "Marksman",
+        "cost": "29",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Shock Marksman Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },

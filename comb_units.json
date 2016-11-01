@@ -4589,6 +4589,23 @@
           "CCW",
           "Pistol"
         ]
+      },
+      {
+        "id": 10,
+        "name": "Combi TinBot",
+        "cost": "38",
+        "swc": "0",
+        "spec": [
+          "TinBot A (Deflector L1)"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       }
     ]
   },

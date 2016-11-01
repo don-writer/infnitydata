@@ -230,9 +230,7 @@
     "w": "1",
     "s": "2",
     "ava": "2",
-    "spec": [
-      "X Visor"
-    ],
+    "spec": [],
     "childs": [
       {
         "id": 1,
@@ -1092,6 +1090,7 @@
         "bts": "6",
         "w": "3",
         "s": "7",
+        "hackable": "X",
         "spec": [
           "ECM",
           "V: Courage",
@@ -1122,6 +1121,7 @@
         "bts": "3",
         "w": "1",
         "s": "2",
+        "hackable": "",
         "ava": "1",
         "spec": [
           "CH: Mimetism",
@@ -1154,6 +1154,7 @@
         "arm": "0",
         "bts": "0",
         "w": "1",
+        "hackable": "",
         "ava": "",
         "spec": [
           "Pilot",

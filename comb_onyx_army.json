@@ -71,7 +71,14 @@
       {
         "comment": "Suryats",
         "id": 6048,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "Haris is only available in MAF",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Xeodron",

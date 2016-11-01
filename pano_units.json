@@ -375,7 +375,7 @@
         "id": 3,
         "name": "Boarding Shotgun",
         "legacy_code": "Boarding Shotgun",
-        "cost": "17",
+        "cost": "19",
         "swc": "0",
         "spec": [
           "Number 2"
@@ -4695,7 +4695,7 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "Multispectral Visor L1",
+      "Multispectral Visor L2",
       "Religious Troop"
     ],
     "childs": [

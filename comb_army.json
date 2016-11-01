@@ -209,7 +209,14 @@
       },
       {
         "comment": "Suryats",
-        "id": 6048
+        "id": 6048,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Oznat",

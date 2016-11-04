@@ -227,12 +227,12 @@
       },
       {
         "id": 3,
-        "name": "K1 Tinbot",
-        "legacy_code": "K1 Tinbot",
+        "name": "K1 TinBot",
+        "legacy_code": "K1 TinBot",
         "cost": "17",
         "swc": "0.5",
         "spec": [
-          "Tinbot A (Deflector L1)"
+          "TinBot A (Deflector L1)"
         ],
         "bsw": [
           "K1 Combi Rifle"
@@ -885,12 +885,12 @@
       },
       {
         "id": 3,
-        "name": "Sepsitor Tinbot",
-        "legacy_code": "Sepsitor Tinbot",
+        "name": "Sepsitor TinBot",
+        "legacy_code": "Sepsitor TinBot",
         "cost": "78",
         "swc": "0.5",
         "spec": [
-          "Tinbot A (Deflector L1)"
+          "TinBot A (Deflector L1)"
         ],
         "bsw": [
           "Nanopulser",
@@ -979,12 +979,12 @@
       },
       {
         "id": 8,
-        "name": "Sepsitor Tinbot Lieutenant",
-        "legacy_code": "Sepsitor Tinbot Lieutenant",
+        "name": "Sepsitor TinBot Lieutenant",
+        "legacy_code": "Sepsitor TinBot Lieutenant",
         "cost": "78",
         "swc": "0",
         "spec": [
-          "Tinbot A (Deflector L1)",
+          "TinBot A (Deflector L1)",
           "Lieutenant"
         ],
         "bsw": [

@@ -1065,12 +1065,12 @@
       },
       {
         "id": 5,
-        "name": "Tinbot",
-        "legacy_code": "Tinbot",
+        "name": "TinBot",
+        "legacy_code": "TinBot",
         "cost": "37",
         "swc": "0.5",
         "spec": [
-          "Tinbot B (Deflector L2)"
+          "TinBot B (Deflector L2)"
         ],
         "bsw": [
           "Combi Rifle"
@@ -4076,11 +4076,11 @@
       },
       {
         "id": 5,
-        "name": "Boarding Shotgun Tinbot",
+        "name": "Boarding Shotgun TinBot",
         "cost": "30",
         "swc": "0",
         "spec": [
-          "Tinbot B (Deflector L2)"
+          "TinBot B (Deflector L2)"
         ],
         "bsw": [
           "Boarding Shotgun",

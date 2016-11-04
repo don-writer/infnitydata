@@ -754,12 +754,12 @@
       },
       {
         "id": 2,
-        "name": "Tinbot",
-        "legacy_code": "Tinbot",
+        "name": "TinBot",
+        "legacy_code": "TinBot",
         "cost": "30",
         "swc": "0.5",
         "spec": [
-          "Tinbot B (Deflector L2)"
+          "TinBot B (Deflector L2)"
         ],
         "bsw": [
           "Combi Rifle"
@@ -1117,7 +1117,7 @@
         "cost": "33",
         "swc": "0.5",
         "spec": [
-          "Tinbot B (Deflector L2)"
+          "TinBot B (Deflector L2)"
         ],
         "bsw": [
           "Boarding Shotgun"
@@ -1560,12 +1560,12 @@
       },
       {
         "id": 2,
-        "name": "Tinbot",
-        "legacy_code": "Tinbot",
+        "name": "TinBot",
+        "legacy_code": "TinBot",
         "cost": "60",
         "swc": "0.5",
         "spec": [
-          "Tinbot B (Deflector L2)"
+          "TinBot B (Deflector L2)"
         ],
         "bsw": [
           "Nanopulser",
@@ -1628,13 +1628,13 @@
       },
       {
         "id": 6,
-        "name": "Tinbot Lieutenant",
-        "legacy_code": "Tinbot Lieutenant",
+        "name": "TinBot Lieutenant",
+        "legacy_code": "TinBot Lieutenant",
         "cost": "60",
         "swc": "0",
         "spec": [
           "Lieutenant",
-          "Tinbot B (Deflector L2)"
+          "TinBot B (Deflector L2)"
         ],
         "bsw": [
           "Nanopulser",

@@ -2,18 +2,29 @@
   {
     "id": 2998,
     "army": "Yu Jing",
+    "army_id": 2999,
     "name": "Japanese Sectorial Army",
+    "legacy_name": "Japanese Sectorial Army",
     "units": [
       {
         "comment": "Keisotsu",
         "id": 2001,
         "ava": "T",
-        "linkable": true
+        "childs": [
+          {
+            "comment": "Lieutenant costs 1 SWC in JSA",
+            "id": 9,
+            "swc": "1"
+          }
+        ],
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 Kempeitai and/or Yuriko Oda"
       },
       {
         "comment": "Kempeitai",
         "id": 2028,
-        "ava": "2"
+        "ava": "2",
+        "note": "1 Kempeitai may join a Fireteam: Core of Keisotsu"
       },
       {
         "comment": "Aragoto Senkenbutai",
@@ -21,31 +32,37 @@
         "ava": "4"
       },
       {
-        "comment": "Karakuri Special Project",
-        "id": 2033,
-        "ava": "3",
-        "linkable": true
-      },
-      {
-        "comment": "Domaru Butai",
-        "id": 2023,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Haramaki Zensenbutai",
-        "id": 2032,
-        "ava": "6",
-        "linkable": true
-      },
-      {
         "comment": "Raiden Seibutai",
         "id": 2046,
         "ava": "4"
       },
       {
+        "comment": "Karakuri Special Project",
+        "id": 2033,
+        "ava": "3"
+      },
+      {
+        "comment": "Domaru Butai",
+        "id": 2023,
+        "ava": "5",
+        "linkable": true,
+        "note": "Fireteam: Core may include Neko Oyama"
+      },
+      {
+        "comment": "Haramaki Zensenbutai",
+        "id": 2032,
+        "ava": "6",
+        "linkable": true,
+        "note": "Fireteam: Core requires 1 or 2 Domaru and/or Neko Oyama"
+      },
+      {
         "comment": "O-Yoroi Kidobutai",
         "id": 2035,
+        "ava": "2"
+      },
+      {
+        "comment": "Shikami",
+        "id": 2049,
         "ava": "2"
       },
       {
@@ -69,15 +86,16 @@
         "ava": "1"
       },
       {
-        "comment": "Asuka Kisaragi",
-        "id": 2047,
-        "ava": "1"
-      },
-      {
         "comment": "Domaru Takeshi \"Neko\" Oyama",
         "id": 2041,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "May join a Fireteam: Core of Domaru or Haramaki"
+      },
+      {
+        "comment": "Asuka Kisaragi",
+        "id": 2047,
+        "ava": "1"
       },
       {
         "comment": "Yáoxiè Rui Shi",
@@ -128,7 +146,8 @@
         "comment": "Keisotsu Guǐ Fēng Yuriko Oda",
         "id": 2044,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Keisotsu"
       },
       {
         "comment": "Warcor",

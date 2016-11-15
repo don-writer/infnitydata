@@ -2,7 +2,9 @@
   {
     "id": 4998,
     "army": "Haqqislam",
+    "army_id": 4999,
     "name": "Qapu Khalqi",
+    "legacy_name": "Qapu Khalqi",
     "units": [
       {
         "comment": "Ghulam",
@@ -17,18 +19,6 @@
         "linkable": true
       },
       {
-        "comment": "KTS, Kaplan Tactical Services",
-        "id": 4039,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Sekban",
-        "id": 4041,
-        "ava": "5",
-        "linkable": true
-      },
-      {
         "comment": "Bashi Bazouk",
         "id": 4027,
         "ava": "4"
@@ -37,6 +27,13 @@
         "comment": "Hafza Unit",
         "id": 4028,
         "ava": "4",
+        "linkable": true,
+        "note": "Up to 2 Hafza can join any non-Mercenary Fireteam: Core"
+      },
+      {
+        "comment": "Sekban",
+        "id": 4041,
+        "ava": "5",
         "linkable": true
       },
       {
@@ -48,8 +45,7 @@
       {
         "comment": "Azra'il",
         "id": 4026,
-        "ava": "3",
-        "linkable": true
+        "ava": "3"
       },
       {
         "comment": "Janissaries",
@@ -61,6 +57,18 @@
         "comment": "Al Hawwa' Unit",
         "id": 4024,
         "ava": "3"
+      },
+      {
+        "comment": "Druze Shock Teams",
+        "id": 4046,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "KTS, Kaplan Tactical Services",
+        "id": 4039,
+        "ava": "5",
+        "linkable": true
       },
       {
         "comment": "Rafiq Remote",
@@ -126,12 +134,6 @@
         "comment": "Yuan Yuan",
         "id": 9001,
         "ava": "3"
-      },
-      {
-        "comment": "Druze Shock Teams",
-        "id": 9003,
-        "ava": "4",
-        "linkable": true
       },
       {
         "comment": "Scarface",

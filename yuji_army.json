@@ -3,6 +3,7 @@
     "id": 2999,
     "army": "Yu Jing",
     "name": "Yu Jing",
+    "legacy_name": "Yu Jing",
     "units": [
       {
         "comment": "Keisotsu",
@@ -137,7 +138,14 @@
       },
       {
         "comment": "Imperial Agent, Pheasant Rank",
-        "id": 2029
+        "id": 2029,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Aragoto Senkenbutai",
@@ -160,7 +168,14 @@
       },
       {
         "comment": "Karakuri Special Project",
-        "id": 2033
+        "id": 2033,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Su-Jian Immediate Action Unit",
@@ -256,6 +271,10 @@
       {
         "comment": "Kǎnrèn Counter-Insurgency Group",
         "id": 2048
+      },
+      {
+        "comment": "Shikami",
+        "id": 2049
       },
       {
         "comment": "Authorized Bounty Hunters",

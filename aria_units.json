@@ -3,6 +3,7 @@
     "id": 3001,
     "army": "Ariadna",
     "isc": "Line Kazak",
+    "legacy_isc": "Line Kazak",
     "name": "Line Kazak",
     "type": "LI",
     "imp": "",
@@ -22,8 +23,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -37,8 +38,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "9",
         "swc": "0",
         "spec": [
@@ -54,8 +55,8 @@
       },
       {
         "id": 3,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -72,8 +73,8 @@
       },
       {
         "id": 4,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -89,8 +90,8 @@
       },
       {
         "id": 5,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "17",
         "swc": "1.5",
         "spec": [],
@@ -104,8 +105,8 @@
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "16",
         "swc": "0.5",
         "spec": [],
@@ -119,8 +120,8 @@
       },
       {
         "id": 7,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "13",
         "swc": "1",
         "spec": [],
@@ -135,8 +136,8 @@
       },
       {
         "id": 8,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
+        "legacy_code": "AP HMG",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -154,6 +155,7 @@
     "id": 3002,
     "army": "Ariadna",
     "isc": "Para-Commandos",
+    "legacy_isc": "Para-Commandos",
     "name": "Para-Commando",
     "type": "LI",
     "imp": "",
@@ -168,7 +170,7 @@
     "bts": "0",
     "w": "1",
     "s": "2",
-    "ava": "4",
+    "ava": "3",
     "spec": [
       "AD: Parachutist",
       "CH: Mimetism"
@@ -176,8 +178,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -191,8 +193,8 @@
       },
       {
         "id": 2,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -208,8 +210,8 @@
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -223,8 +225,8 @@
       },
       {
         "id": 4,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "24",
         "swc": "1",
         "spec": [],
@@ -239,8 +241,8 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -254,8 +256,8 @@
       },
       {
         "id": 6,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -273,6 +275,7 @@
     "id": 3003,
     "army": "Ariadna",
     "isc": "Kazak Spetsnazs",
+    "legacy_isc": "Kazak Spetsnazs",
     "name": "Kazak Spetsnaz",
     "type": "LI",
     "imp": "",
@@ -295,8 +298,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "HMG",
+        "legacy_code": "Default",
         "cost": "38",
         "swc": "1.5",
         "spec": [
@@ -313,8 +316,8 @@
       },
       {
         "id": 2,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [
@@ -331,8 +334,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "33",
         "swc": "0",
         "spec": [
@@ -351,8 +354,8 @@
       },
       {
         "id": 4,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
+        "legacy_code": "Rifle",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -375,6 +378,7 @@
     "id": 3004,
     "army": "Ariadna",
     "isc": "USAriadna Grunts",
+    "legacy_isc": "USAriadna Grunts",
     "name": "USAriadna Grunt",
     "type": "MI",
     "imp": "",
@@ -396,8 +400,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -411,8 +415,8 @@
       },
       {
         "id": 2,
-        "code": "LGL Lieutenant",
-        "codename": "",
+        "name": "LGL Lieutenant",
+        "legacy_code": "LGL Lieutenant",
         "cost": "14",
         "swc": "1",
         "spec": [
@@ -429,8 +433,8 @@
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "10",
         "swc": "1",
         "spec": [
@@ -446,8 +450,8 @@
       },
       {
         "id": 4,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -464,8 +468,8 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -481,8 +485,8 @@
       },
       {
         "id": 6,
-        "code": "Inferior Infiltration",
-        "codename": "",
+        "name": "Inferior Infiltration",
+        "legacy_code": "Inferior Infiltration",
         "cost": "11",
         "swc": "0.5",
         "spec": [
@@ -499,8 +503,8 @@
       },
       {
         "id": 7,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -516,8 +520,8 @@
       },
       {
         "id": 8,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "14",
         "swc": "1",
         "spec": [],
@@ -532,8 +536,8 @@
       },
       {
         "id": 9,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -547,8 +551,8 @@
       },
       {
         "id": 10,
-        "code": "Heavy Flamethrower",
-        "codename": "",
+        "name": "Heavy Flamethrower",
+        "legacy_code": "Heavy Flamethrower",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -567,6 +571,7 @@
     "id": 3005,
     "army": "Ariadna",
     "isc": "TankHunters",
+    "legacy_isc": "TankHunters",
     "name": "TankHunter",
     "type": "MI",
     "imp": "",
@@ -589,8 +594,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
+        "name": "AP Rifle",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -606,8 +611,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "25",
         "swc": "1",
         "spec": [
@@ -625,8 +630,8 @@
       },
       {
         "id": 3,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -640,8 +645,8 @@
       },
       {
         "id": 4,
-        "code": "Autocannon",
-        "codename": "",
+        "name": "Autocannon",
+        "legacy_code": "Autocannon",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -656,8 +661,8 @@
       },
       {
         "id": 5,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
+        "legacy_code": "AP HMG",
         "cost": "35",
         "swc": "1.5",
         "spec": [],
@@ -675,7 +680,8 @@
   {
     "id": 3006,
     "army": "Ariadna",
-    "isc": "Minutemen",
+    "isc": "5th Minutemen 'Ohio'",
+    "legacy_isc": "Minutemen",
     "name": "Minuteman",
     "type": "HI",
     "imp": "",
@@ -694,14 +700,14 @@
     "spec": [
       "Multiterrain",
       "Shock Immunity",
-      "Kinematica L1",
+      "Kinematika L1",
       "Not Hackable"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -716,8 +722,8 @@
       },
       {
         "id": 2,
-        "code": "HMG Lieutenant",
-        "codename": "",
+        "name": "HMG Lieutenant",
+        "legacy_code": "HMG Lieutenant",
         "cost": "34",
         "swc": "1",
         "spec": [
@@ -733,8 +739,8 @@
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -751,8 +757,8 @@
       },
       {
         "id": 4,
-        "code": "Marksman",
-        "codename": "",
+        "name": "Marksman",
+        "legacy_code": "Marksman",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -770,8 +776,8 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -788,8 +794,8 @@
       },
       {
         "id": 6,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -804,8 +810,8 @@
       },
       {
         "id": 7,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -820,8 +826,8 @@
       },
       {
         "id": 8,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
+        "legacy_code": "AP HMG",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -839,6 +845,7 @@
     "id": 3007,
     "army": "Ariadna",
     "isc": "Moblots",
+    "legacy_isc": "Moblots",
     "name": "Moblot",
     "type": "HI",
     "imp": "",
@@ -862,8 +869,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -878,8 +885,8 @@
       },
       {
         "id": 2,
-        "code": "Sapper",
-        "codename": "",
+        "name": "Sapper",
+        "legacy_code": "Sapper",
         "cost": "31",
         "swc": "2",
         "spec": [
@@ -895,8 +902,8 @@
       },
       {
         "id": 3,
-        "code": "Infiltrator AP",
-        "codename": "",
+        "name": "Infiltrator AP",
+        "legacy_code": "Infiltrator AP",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -914,8 +921,8 @@
       },
       {
         "id": 4,
-        "code": "HMG Lieutenant",
-        "codename": "",
+        "name": "HMG Lieutenant",
+        "legacy_code": "HMG Lieutenant",
         "cost": "29",
         "swc": "1",
         "spec": [
@@ -931,8 +938,8 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -949,8 +956,8 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -968,8 +975,8 @@
       },
       {
         "id": 7,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
+        "legacy_code": "Engineer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -987,8 +994,8 @@
       },
       {
         "id": 8,
-        "code": "Infiltration",
-        "codename": "",
+        "name": "Infiltration",
+        "legacy_code": "Infiltration",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -1006,8 +1013,8 @@
       },
       {
         "id": 9,
-        "code": "Mimetism",
-        "codename": "Mimetism",
+        "name": "Mimetism",
+        "legacy_code": "Mimetism",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -1024,8 +1031,8 @@
       },
       {
         "id": 10,
-        "code": "Panzerfaust",
-        "codename": "",
+        "name": "Panzerfaust",
+        "legacy_code": "Panzerfaust",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1040,8 +1047,8 @@
       },
       {
         "id": 11,
-        "code": "AP Rifle",
-        "codename": "",
+        "name": "AP Rifle",
+        "legacy_code": "AP Rifle",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1056,8 +1063,8 @@
       },
       {
         "id": 12,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -1075,6 +1082,7 @@
     "id": 3008,
     "army": "Ariadna",
     "isc": "Veteran Kazaks",
+    "legacy_isc": "Veteran Kazaks",
     "name": "Veteran Kazak",
     "type": "HI",
     "imp": "",
@@ -1099,8 +1107,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
+        "name": "AP Rifle",
+        "legacy_code": "Default",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -1115,8 +1123,8 @@
       },
       {
         "id": 2,
-        "code": "X Visor",
-        "codename": "",
+        "name": "X Visor",
+        "legacy_code": "X Visor",
         "cost": "38",
         "swc": "0",
         "spec": [
@@ -1133,8 +1141,8 @@
       },
       {
         "id": 3,
-        "code": "AP HMG Lieutenant",
-        "codename": "",
+        "name": "AP HMG Lieutenant",
+        "legacy_code": "AP HMG Lieutenant",
         "cost": "47",
         "swc": "1",
         "spec": [
@@ -1150,8 +1158,8 @@
       },
       {
         "id": 4,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "37",
         "swc": "0",
         "spec": [
@@ -1168,8 +1176,8 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "38",
         "swc": "0",
         "spec": [
@@ -1186,8 +1194,8 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -1205,8 +1213,8 @@
       },
       {
         "id": 7,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -1220,8 +1228,8 @@
       },
       {
         "id": 8,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
+        "legacy_code": "AP HMG",
         "cost": "47",
         "swc": "2",
         "spec": [],
@@ -1239,6 +1247,7 @@
     "id": 3009,
     "army": "Ariadna",
     "isc": "Foxtrot",
+    "legacy_isc": "Foxtrot",
     "name": "Foxtrot",
     "type": "SK",
     "imp": "",
@@ -1262,8 +1271,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1278,8 +1287,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "17",
         "swc": "2",
         "spec": [
@@ -1296,8 +1305,8 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -1314,8 +1323,8 @@
       },
       {
         "id": 4,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "24",
         "swc": "0.5",
         "spec": [],
@@ -1330,8 +1339,8 @@
       },
       {
         "id": 5,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -1346,8 +1355,8 @@
       },
       {
         "id": 6,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1366,6 +1375,7 @@
     "id": 3010,
     "army": "Ariadna",
     "isc": "Hardcases",
+    "legacy_isc": "Hardcases",
     "name": "Hardcase Frontiersman",
     "type": "SK",
     "imp": "",
@@ -1389,8 +1399,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Tactical Bow",
+        "name": "Tactical Bow",
+        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1405,8 +1415,8 @@
       },
       {
         "id": 2,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
+        "legacy_code": "Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1425,6 +1435,7 @@
     "id": 3011,
     "army": "Ariadna",
     "isc": "S.A.S.",
+    "legacy_isc": "S.A.S.",
     "name": "S.A.S.",
     "type": "SK",
     "imp": "",
@@ -1443,15 +1454,15 @@
     "spec": [
       "CH: Camouflage",
       "Infiltration",
-      "Kinematica L1",
+      "Kinematika L1",
       "Martial Arts L2",
       "Multiterrain"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Assault Pistol",
-        "codename": "CRAP",
+        "name": "Assault Pistol",
+        "legacy_code": "Assault Pistol",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1467,8 +1478,8 @@
       },
       {
         "id": 2,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1484,8 +1495,8 @@
       },
       {
         "id": 3,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1500,8 +1511,8 @@
       },
       {
         "id": 4,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "23",
         "swc": "2",
         "spec": [
@@ -1518,8 +1529,8 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -1536,8 +1547,8 @@
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "30",
         "swc": "0.5",
         "spec": [],
@@ -1552,8 +1563,8 @@
       },
       {
         "id": 7,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1572,6 +1583,7 @@
     "id": 3012,
     "army": "Ariadna",
     "isc": "Scouts",
+    "legacy_isc": "Scouts",
     "name": "Scout",
     "type": "SK",
     "imp": "",
@@ -1596,8 +1608,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Ojotnik",
+        "name": "Ojotnik",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1613,8 +1625,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -1632,8 +1644,8 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -1651,8 +1663,8 @@
       },
       {
         "id": 4,
-        "code": "AP Sniper Rifle",
-        "codename": "",
+        "name": "AP Sniper Rifle",
+        "legacy_code": "AP Sniper Rifle",
         "cost": "29",
         "swc": "1",
         "spec": [],
@@ -1667,8 +1679,8 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1684,8 +1696,8 @@
       },
       {
         "id": 6,
-        "code": "E/Mauler",
-        "codename": "",
+        "name": "E/Mauler",
+        "legacy_code": "E/Mauler",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1705,6 +1717,7 @@
     "id": 3013,
     "army": "Ariadna",
     "isc": "45th Highlanders",
+    "legacy_isc": "45th Highlanders",
     "name": "Highlander",
     "type": "WB",
     "imp": "X",
@@ -1727,8 +1740,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1743,8 +1756,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1759,8 +1772,8 @@
       },
       {
         "id": 3,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -1779,6 +1792,7 @@
     "id": 3014,
     "army": "Ariadna",
     "isc": "Irmandinhos",
+    "legacy_isc": "Irmandinhos",
     "name": "Irmandinho",
     "type": "WB",
     "imp": "X",
@@ -1802,8 +1816,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1819,8 +1833,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -1836,8 +1850,8 @@
       },
       {
         "id": 3,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -1856,15 +1870,16 @@
   {
     "id": 3015,
     "army": "Ariadna",
-    "isc": "Assault Pack Controller",
-    "name": "Assault Pack",
+    "isc": "Antipode Assault Pack",
+    "legacy_isc": "Assault Pack Controller",
+    "name": "Assault Pack Handler",
     "image": "Assault Pack",
     "ava": "1",
     "spec": [],
     "profiles": [
       {
         "id": 1,
-        "name": "Controller",
+        "name": "Handler",
         "type": "WB",
         "imp": "",
         "irr": "",
@@ -1909,7 +1924,7 @@
           "Antipode",
           "CH: Camouflage",
           "Jungle Terrain",
-          "Kinematica L2",
+          "Kinematika L2",
           "Sensor",
           "Super-Jump"
         ],
@@ -1943,7 +1958,7 @@
           "Antipode",
           "CH: Camouflage",
           "Jungle Terrain",
-          "Kinematica L2",
+          "Kinematika L2",
           "Sensor",
           "Super-Jump"
         ],
@@ -1977,7 +1992,7 @@
           "Antipode",
           "CH: Camouflage",
           "Jungle Terrain",
-          "Kinematica L2",
+          "Kinematika L2",
           "Sensor",
           "Super-Jump"
         ],
@@ -1994,8 +2009,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Assault Pack",
+        "name": "Assault Pack",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -2014,6 +2029,7 @@
     "id": 3016,
     "army": "Ariadna",
     "isc": "Kazak Doktor",
+    "legacy_isc": "Kazak Doktor",
     "name": "Kazak Doktor",
     "type": "LI",
     "imp": "",
@@ -2036,8 +2052,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor",
+        "name": "Doctor",
+        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -2055,6 +2071,7 @@
     "id": 3017,
     "army": "Ariadna",
     "isc": "112, Emergency Service",
+    "legacy_isc": "112, Emergency Service",
     "name": "112",
     "type": "LI",
     "imp": "",
@@ -2078,8 +2095,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor",
+        "name": "Doctor",
+        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -2097,6 +2114,7 @@
     "id": 3018,
     "army": "Ariadna",
     "isc": "2nd Irregular Cameronians Reg.",
+    "legacy_isc": "2nd Irregular Cameronians Reg.",
     "name": "Cameronian",
     "type": "WB",
     "imp": "X",
@@ -2120,8 +2138,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -2139,14 +2157,15 @@
   {
     "id": 3019,
     "army": "Ariadna",
-    "isc": "3rd Highlander Greys",
+    "isc": "3rd Highlander Grey Rifles",
+    "legacy_isc": "3rd Highlander Greys",
     "name": "Highlander Grey",
     "type": "HI",
     "imp": "F",
     "irr": "",
     "cube": "",
     "mov": "4-4",
-    "cc": "16",
+    "cc": "18",
     "bs": "13",
     "ph": "13",
     "wip": "12",
@@ -2163,8 +2182,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -2183,15 +2202,16 @@
       },
       {
         "id": 2,
-        "code": "T2 Boarding Shotgun",
-        "codename": "",
+        "name": "T2 Boarding Shotgun",
+        "legacy_code": "T2 Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Smoke Grenades",
           "T2 Boarding Shotgun",
-          "Grenades"
+          "Grenades",
+          "D-Charges"
         ],
         "ccw": [
           "CCW",
@@ -2200,8 +2220,8 @@
       },
       {
         "id": 3,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
+        "legacy_code": "AP HMG",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -2216,8 +2236,8 @@
       },
       {
         "id": 4,
-        "code": "T2 Rifle",
-        "codename": "",
+        "name": "T2 Rifle",
+        "legacy_code": "T2 Rifle",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -2234,8 +2254,8 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -2256,6 +2276,7 @@
     "id": 3020,
     "army": "Ariadna",
     "isc": "9th Wulver Grenadiers",
+    "legacy_isc": "9th Wulver Grenadiers",
     "name": "Wulver",
     "type": "WB",
     "imp": "F",
@@ -2280,8 +2301,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mk12",
+        "name": "Mk12",
+        "legacy_code": "Default",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -2296,8 +2317,8 @@
       },
       {
         "id": 2,
-        "code": "Heavy Shotgun",
-        "codename": "",
+        "name": "Heavy Shotgun",
+        "legacy_code": "Heavy Shotgun",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -2312,11 +2333,28 @@
       },
       {
         "id": 3,
-        "code": "T2 Rifle",
-        "codename": "",
+        "name": "T2 Rifle",
+        "legacy_code": "T2 Rifle",
         "cost": "33",
         "swc": "0",
         "spec": [],
+        "bsw": [
+          "Grenades",
+          "T2 Rifle"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Haris",
+        "cost": "34",
+        "swc": "1",
+        "spec": [
+          "Fireteam: Haris"
+        ],
         "bsw": [
           "Grenades",
           "T2 Rifle"
@@ -2332,6 +2370,7 @@
     "id": 3021,
     "army": "Ariadna",
     "isc": "Caledonian Mormaers",
+    "legacy_isc": "Caledonian Mormaers",
     "name": "Caledonian Mormaer",
     "type": "HI",
     "imp": "",
@@ -2355,8 +2394,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant AP HMG",
-        "codename": "",
+        "name": "Lieutenant AP HMG",
+        "legacy_code": "Lieutenant AP HMG",
         "cost": "42",
         "swc": "2",
         "spec": [
@@ -2372,9 +2411,9 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "32",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "33",
         "swc": "0",
         "spec": [
           "Lieutenant",
@@ -2390,8 +2429,8 @@
       },
       {
         "id": 3,
-        "code": "AP HMG",
-        "codename": "",
+        "name": "AP HMG",
+        "legacy_code": "AP HMG",
         "cost": "42",
         "swc": "2",
         "spec": [],
@@ -2405,15 +2444,31 @@
       },
       {
         "id": 4,
-        "code": "Default",
-        "codename": "T2 Rifle",
-        "cost": "32",
+        "name": "T2 Rifle",
+        "legacy_code": "Default",
+        "cost": "33",
         "swc": "0",
         "spec": [
           "X Visor"
         ],
         "bsw": [
           "T2 Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Haris",
+        "cost": "43",
+        "swc": "2.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "AP HMG"
         ],
         "ccw": [
           "Knife",
@@ -2426,8 +2481,8 @@
     "id": 3022,
     "army": "Ariadna",
     "isc": "Caledonian Volunteers",
+    "legacy_isc": "Caledonian Volunteers",
     "name": "Volunteer",
-    "sharedAva": "Ariadna Militia",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2443,13 +2498,14 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Multiterrain (Mountain and Jungle)"
+      "Jungle Terrain",
+      "Mountain Terrain"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "8",
         "swc": "2",
         "spec": [
@@ -2465,8 +2521,8 @@
       },
       {
         "id": 2,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -2483,8 +2539,8 @@
       },
       {
         "id": 3,
-        "code": "Camo Light Grenade Launcher",
-        "codename": "",
+        "name": "Camo Light Grenade Launcher",
+        "legacy_code": "Camo Light Grenade Launcher",
         "cost": "13",
         "swc": "1",
         "spec": [
@@ -2502,8 +2558,8 @@
       },
       {
         "id": 4,
-        "code": "Camo D-Charges",
-        "codename": "",
+        "name": "Camo D-Charges",
+        "legacy_code": "Camo D-Charges",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -2521,8 +2577,8 @@
       },
       {
         "id": 5,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "10",
         "swc": "0.5",
         "spec": [],
@@ -2537,8 +2593,8 @@
       },
       {
         "id": 6,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -2552,8 +2608,8 @@
       },
       {
         "id": 7,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -2568,8 +2624,8 @@
       },
       {
         "id": 8,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -2587,6 +2643,7 @@
     "id": 3023,
     "army": "Ariadna",
     "isc": "Chasseurs",
+    "legacy_isc": "Chasseurs",
     "name": "Chasseur",
     "type": "SK",
     "imp": "",
@@ -2611,8 +2668,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -2630,8 +2687,8 @@
       },
       {
         "id": 2,
-        "code": "Minelayer",
-        "codename": "",
+        "name": "Minelayer",
+        "legacy_code": "Minelayer",
         "cost": "20",
         "swc": "0.5",
         "spec": [
@@ -2649,8 +2706,8 @@
       },
       {
         "id": 3,
-        "code": "ADHL",
-        "codename": "",
+        "name": "ADHL",
+        "legacy_code": "ADHL",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -2666,8 +2723,8 @@
       },
       {
         "id": 4,
-        "code": "AP Sniper Rifle",
-        "codename": "",
+        "name": "AP Sniper Rifle",
+        "legacy_code": "AP Sniper Rifle",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -2681,8 +2738,8 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -2702,6 +2759,7 @@
     "id": 3024,
     "army": "Ariadna",
     "isc": "Dozers, Field Engineers",
+    "legacy_isc": "Dozers, Field Engineers",
     "name": "Dozer",
     "type": "LI",
     "imp": "",
@@ -2724,8 +2782,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Mul Control",
-        "codename": "",
+        "name": "Mul Control",
+        "legacy_code": "Mul Control",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -2742,8 +2800,8 @@
       },
       {
         "id": 2,
-        "code": "Akrylat K",
-        "codename": "",
+        "name": "Akrylat-Kanone",
+        "legacy_code": "Akrylat K",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2758,8 +2816,8 @@
       },
       {
         "id": 3,
-        "code": "Default",
-        "codename": "Engineer",
+        "name": "Engineer",
+        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -2778,6 +2836,7 @@
     "id": 3025,
     "army": "Ariadna",
     "isc": "Highlander Caterans",
+    "legacy_isc": "Highlander Caterans",
     "name": "Cateran",
     "type": "LI",
     "imp": "",
@@ -2801,9 +2860,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "T2 Sniper Rifle",
-        "codename": "",
-        "cost": "21",
+        "name": "T2 Sniper Rifle",
+        "legacy_code": "T2 Sniper Rifle",
+        "cost": "24",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -2816,9 +2875,9 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Sniper Rifle",
-        "cost": "20",
+        "name": "Sniper Rifle",
+        "legacy_code": "Default",
+        "cost": "21",
         "swc": "0.5",
         "spec": [],
         "bsw": [
@@ -2835,6 +2894,7 @@
     "id": 3026,
     "army": "Ariadna",
     "isc": "Loup-Garous",
+    "legacy_isc": "Loup-Garous",
     "name": "Loup-Garou",
     "type": "LI",
     "imp": "",
@@ -2857,8 +2917,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -2872,8 +2932,8 @@
       },
       {
         "id": 2,
-        "code": "Flash Light Grenade Launcher",
-        "codename": "",
+        "name": "Flash Light Grenade Launcher",
+        "legacy_code": "Flash Light Grenade Launcher",
         "cost": "22",
         "swc": "1.5",
         "spec": [],
@@ -2888,8 +2948,8 @@
       },
       {
         "id": 3,
-        "code": "ADHL",
-        "codename": "",
+        "name": "ADHL",
+        "legacy_code": "ADHL",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -2905,8 +2965,8 @@
       },
       {
         "id": 4,
-        "code": "Default",
-        "codename": "Viral",
+        "name": "Viral",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -2925,8 +2985,8 @@
     "id": 3027,
     "army": "Ariadna",
     "isc": "Métros",
+    "legacy_isc": "Métros",
     "name": "Métro",
-    "sharedAva": "Ariadna Militia",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2947,8 +3007,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "8",
         "swc": "2",
         "spec": [
@@ -2964,8 +3024,8 @@
       },
       {
         "id": 2,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -2982,8 +3042,8 @@
       },
       {
         "id": 3,
-        "code": "Camo Light Grenade Launcher",
-        "codename": "",
+        "name": "Camo Light Grenade Launcher",
+        "legacy_code": "Camo Light Grenade Launcher",
         "cost": "15",
         "swc": "1",
         "spec": [
@@ -3001,8 +3061,8 @@
       },
       {
         "id": 4,
-        "code": "Camo D.E.P.",
-        "codename": "",
+        "name": "Camo D.E.P.",
+        "legacy_code": "Camo D.E.P.",
         "cost": "12",
         "swc": "0.5",
         "spec": [
@@ -3020,8 +3080,8 @@
       },
       {
         "id": 5,
-        "code": "Camo D-Charges",
-        "codename": "",
+        "name": "Camo D-Charges",
+        "legacy_code": "Camo D-Charges",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -3039,8 +3099,8 @@
       },
       {
         "id": 6,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "12",
         "swc": "0.5",
         "spec": [],
@@ -3055,8 +3115,8 @@
       },
       {
         "id": 7,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -3070,8 +3130,8 @@
       },
       {
         "id": 8,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -3089,11 +3149,12 @@
     "id": 3028,
     "army": "Ariadna",
     "isc": "Traktor Mul, Artillery and Support Regiment",
+    "legacy_isc": "Traktor Mul, Artillery and Support Regiment",
     "name": "Traktor Mul",
     "type": "REM",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "4-4",
     "cc": "8",
@@ -3112,8 +3173,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Uragan",
-        "codename": "",
+        "name": "Uragan",
+        "legacy_code": "Uragan",
         "cost": "18",
         "swc": "1",
         "spec": [
@@ -3128,8 +3189,8 @@
       },
       {
         "id": 2,
-        "code": "Katyusha",
-        "codename": "",
+        "name": "Katyusha",
+        "legacy_code": "Katyusha",
         "cost": "11",
         "swc": "1",
         "spec": [],
@@ -3142,8 +3203,8 @@
       },
       {
         "id": 3,
-        "code": "Default",
-        "codename": "Minesweeper",
+        "name": "Minesweeper",
+        "legacy_code": "Default",
         "cost": "5",
         "swc": "0",
         "spec": [
@@ -3160,6 +3221,7 @@
     "id": 3029,
     "army": "Ariadna",
     "isc": "William Wallace",
+    "legacy_isc": "William Wallace",
     "name": "Wallace",
     "type": "WB",
     "imp": "F",
@@ -3184,8 +3246,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "35",
         "swc": "0",
         "spec": [
@@ -3203,8 +3265,8 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -3224,6 +3286,7 @@
     "id": 3030,
     "army": "Ariadna",
     "isc": "Zouaves",
+    "legacy_isc": "Zouaves",
     "name": "Zouave",
     "type": "LI",
     "imp": "",
@@ -3246,8 +3309,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "20",
         "swc": "1",
         "spec": [
@@ -3264,8 +3327,8 @@
       },
       {
         "id": 2,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "22",
         "swc": "0.5",
         "spec": [
@@ -3283,8 +3346,8 @@
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3300,8 +3363,8 @@
       },
       {
         "id": 4,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "30",
         "swc": "1.5",
         "spec": [
@@ -3317,8 +3380,8 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -3335,8 +3398,8 @@
       },
       {
         "id": 6,
-        "code": "Light Grenade Launcher",
-        "codename": "",
+        "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -3351,8 +3414,8 @@
       },
       {
         "id": 7,
-        "code": "E/Mauler",
-        "codename": "",
+        "name": "E/Mauler",
+        "legacy_code": "E/Mauler",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -3368,8 +3431,8 @@
       },
       {
         "id": 8,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "20",
         "swc": "0.5",
         "spec": [],
@@ -3388,6 +3451,7 @@
     "id": 3031,
     "army": "Ariadna",
     "isc": "Van Zant",
+    "legacy_isc": "Van Zant",
     "name": "Van Zant",
     "type": "LI",
     "imp": "",
@@ -3412,8 +3476,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP Rifle",
+        "name": "AP Rifle",
+        "legacy_code": "Default",
         "cost": "38",
         "swc": "0",
         "spec": [],
@@ -3427,8 +3491,8 @@
       },
       {
         "id": 2,
-        "code": "Executive Order",
-        "codename": "",
+        "name": "Executive Order",
+        "legacy_code": "Executive Order",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -3448,6 +3512,7 @@
     "id": 3032,
     "army": "Ariadna",
     "isc": "Volunteer Intel Isobel McGregor",
+    "legacy_isc": "Volunteer Intel Isobel McGregor",
     "name": "Isobel McGregor",
     "image": "Intel Spec-Ops",
     "type": "LI",
@@ -3471,8 +3536,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0.5",
         "spec": [],
@@ -3489,8 +3554,8 @@
       },
       {
         "id": 2,
-        "code": "T2 Rifle",
-        "codename": "",
+        "name": "T2 Rifle",
+        "legacy_code": "T2 Rifle",
         "cost": "26",
         "swc": "0.5",
         "spec": [],
@@ -3511,6 +3576,7 @@
     "id": 3033,
     "army": "Ariadna",
     "isc": "Uxia McNeill",
+    "legacy_isc": "Uxia McNeill",
     "name": "Uxia McNeill",
     "image": "S.A.S.",
     "type": "SK",
@@ -3535,8 +3601,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "S.A.S. CP",
+        "name": "S.A.S. CP",
+        "legacy_code": "Default",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -3557,14 +3623,14 @@
       },
       {
         "id": 2,
-        "code": "Covert Action",
-        "codename": "",
+        "name": "Covert Action",
+        "legacy_code": "Covert Action",
         "cost": "27",
         "swc": "0",
         "spec": [
           "CH: Limited Camouflage",
           "Superior Infiltration",
-          "Specialist Troop"
+          "Specialist Operative"
         ],
         "bsw": [
           "Boarding Shotgun",
@@ -3583,6 +3649,7 @@
     "id": 3034,
     "army": "Ariadna",
     "isc": "Brigadier Jacques Bruant",
+    "legacy_isc": "Brigadier Jacques Bruant",
     "name": "Jacques Bruant",
     "image": "Metros",
     "type": "LI",
@@ -3607,8 +3674,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Molotok",
+        "name": "Molotok",
+        "legacy_code": "Default",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -3623,8 +3690,8 @@
       },
       {
         "id": 2,
-        "code": "Inferior Infiltration",
-        "codename": "",
+        "name": "Inferior Infiltration",
+        "legacy_code": "Inferior Infiltration",
         "cost": "31",
         "swc": "1",
         "spec": [
@@ -3641,8 +3708,8 @@
       },
       {
         "id": 3,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "28",
         "swc": "1",
         "spec": [
@@ -3663,6 +3730,7 @@
     "id": 3035,
     "army": "Ariadna",
     "isc": "Scot (2nd Battalion)",
+    "legacy_isc": "Scot (2nd Battalion)",
     "name": "Scot 2nd",
     "sharedAva": "Scot",
     "image": "The Scots Guards",
@@ -3682,13 +3750,14 @@
     "ava": "2",
     "spec": [
       "V: Courage",
+      "Multiterrain",
       "CH: Camouflage"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Submachine Gun",
+        "name": "Submachine Gun",
+        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3703,8 +3772,8 @@
       },
       {
         "id": 2,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
+        "legacy_code": "Molotok",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -3718,8 +3787,8 @@
       },
       {
         "id": 3,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -3730,6 +3799,20 @@
           "Knife",
           "Assault Pistol"
         ]
+      },
+      {
+        "id": 4,
+        "name": "AP Marksman",
+        "cost": "27",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "AP Marksman Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -3737,6 +3820,7 @@
     "id": 3036,
     "army": "Ariadna",
     "isc": "Scot (1st Battalion)",
+    "legacy_isc": "Scot (1st Battalion)",
     "name": "Scot 1st",
     "sharedAva": "Scot",
     "image": "The Scots Guards",
@@ -3755,16 +3839,20 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "V: Courage"
+      "V: Courage",
+      "Multiterrain",
+      "Fireteam: Duo"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "AP Marksman",
-        "codename": "",
-        "cost": "23",
+        "name": "AP Marksman Observer",
+        "legacy_code": "AP Marksman",
+        "cost": "24",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "Forward Observer"
+        ],
         "bsw": [
           "AP Marksman Rifle"
         ],
@@ -3775,11 +3863,13 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Submachine Gun",
-        "cost": "18",
+        "name": "Submachine Gun Observer",
+        "legacy_code": "Default",
+        "cost": "19",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "Forward Observer"
+        ],
         "bsw": [
           "Submachine Gun (2)",
           "D.E.P."
@@ -3791,8 +3881,8 @@
       },
       {
         "id": 3,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
+        "legacy_code": "Molotok",
         "cost": "26",
         "swc": "1.5",
         "spec": [],
@@ -3806,8 +3896,8 @@
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -3821,8 +3911,8 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -3842,6 +3932,7 @@
     "id": 3037,
     "army": "Ariadna",
     "isc": "Briscard",
+    "legacy_isc": "Briscard",
     "name": "Briscard",
     "type": "MI",
     "imp": "",
@@ -3865,8 +3956,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Marksman Rifle",
+        "name": "Marksman Rifle",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -3880,8 +3971,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -3897,8 +3988,8 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -3914,8 +4005,8 @@
       },
       {
         "id": 4,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -3931,8 +4022,8 @@
       },
       {
         "id": 5,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
+        "name": "Heavy Rocket Launcher",
+        "legacy_code": "Heavy Rocket Launcher",
         "cost": "23",
         "swc": "1.5",
         "spec": [],
@@ -3946,8 +4037,8 @@
       },
       {
         "id": 6,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "25",
         "swc": "1",
         "spec": [],
@@ -3965,6 +4056,7 @@
     "id": 3038,
     "army": "Ariadna",
     "isc": "Margot Berthier, Mirage-5",
+    "legacy_isc": "Margot Berthier, Mirage-5",
     "name": "Margot",
     "image": "Equipe Mirage 5",
     "ava": "1",
@@ -4041,8 +4133,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mirage-5",
+        "name": "Mirage-5",
+        "legacy_code": "Default",
         "cost": "69",
         "swc": "2",
         "spec": [],
@@ -4061,6 +4153,7 @@
     "id": 3039,
     "army": "Ariadna",
     "isc": "Dog-Warriors",
+    "legacy_isc": "Dog-Warriors",
     "name": "Dog-Warrior",
     "ava": "2",
     "spec": [],
@@ -4120,8 +4213,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Dog-Warrior",
+        "name": "Dog-Warrior",
+        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -4140,6 +4233,7 @@
     "id": 3040,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops",
+    "legacy_isc": "Intel Spec-Ops",
     "name": "Intel",
     "type": "SPEC-OPS",
     "imp": "",
@@ -4160,8 +4254,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
+        "name": "Spec-Ops",
+        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -4174,6 +4268,7 @@
     "id": 3041,
     "army": "Ariadna",
     "isc": "Marauders, 5307th Ranger Unit",
+    "legacy_isc": "Marauders, 5307th Ranger Unit",
     "name": "Marauder",
     "type": "MI",
     "imp": "",
@@ -4198,8 +4293,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4214,8 +4309,8 @@
       },
       {
         "id": 2,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
+        "legacy_code": "Molotok",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -4229,8 +4324,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -4245,8 +4340,8 @@
       },
       {
         "id": 4,
-        "code": "Sniper",
-        "codename": "",
+        "name": "Sniper",
+        "legacy_code": "Sniper",
         "cost": "29",
         "swc": "0.5",
         "spec": [
@@ -4262,8 +4357,8 @@
       },
       {
         "id": 5,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
+        "name": "Heavy Rocket Launcher",
+        "legacy_code": "Heavy Rocket Launcher",
         "cost": "26",
         "swc": "1.5",
         "spec": [
@@ -4279,8 +4374,8 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -4298,12 +4393,12 @@
       },
       {
         "id": 7,
-        "code": "Haris",
-        "codename": "",
+        "name": "Haris",
+        "legacy_code": "Haris",
         "cost": "22",
         "swc": "1",
         "spec": [
-          "Haris L1"
+          "Fireteam: Haris"
         ],
         "bsw": [
           "Rifle",
@@ -4316,8 +4411,8 @@
       },
       {
         "id": 8,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4338,6 +4433,7 @@
     "id": 3042,
     "army": "Ariadna",
     "isc": "Mavericks, 9th Motorized Recon Bat.",
+    "legacy_isc": "Mavericks, 9th Motorized Recon Bat.",
     "name": "Maverick",
     "ava": "2",
     "spec": [
@@ -4381,8 +4477,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
+        "legacy_code": "Molotok",
         "cost": "29",
         "swc": "2",
         "spec": [],
@@ -4396,8 +4492,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4411,8 +4507,8 @@
       },
       {
         "id": 3,
-        "code": "Light Rocket Launcher",
-        "codename": "",
+        "name": "Light Rocket Launcher",
+        "legacy_code": "Light Rocket Launcher",
         "cost": "22",
         "swc": "0.5",
         "spec": [],
@@ -4427,8 +4523,8 @@
       },
       {
         "id": 4,
-        "code": "Forward Observer",
-        "codename": "",
+        "name": "Forward Observer",
+        "legacy_code": "Forward Observer",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -4448,6 +4544,7 @@
     "id": 3043,
     "army": "Ariadna",
     "isc": "Devil Dog Teams, 2nd Assault Bat.",
+    "legacy_isc": "Devil Dog Teams, 2nd Assault Bat.",
     "name": "Devil Dog",
     "ava": "1",
     "spec": [],
@@ -4513,8 +4610,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
+        "legacy_code": "Default",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -4529,8 +4626,8 @@
       },
       {
         "id": 2,
-        "code": "Heavy Shotgun",
-        "codename": "",
+        "name": "Heavy Shotgun",
+        "legacy_code": "Heavy Shotgun",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -4548,6 +4645,7 @@
     "id": 3044,
     "army": "Ariadna",
     "isc": "6th Airborne Rangers",
+    "legacy_isc": "6th Airborne Rangers",
     "name": "Airborne Ranger",
     "type": "LI",
     "imp": "",
@@ -4572,8 +4670,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Submachine Gun",
+        "name": "Submachine Gun",
+        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -4588,8 +4686,8 @@
       },
       {
         "id": 2,
-        "code": "Molotok",
-        "codename": "",
+        "name": "Molotok",
+        "legacy_code": "Molotok",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -4604,8 +4702,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -4620,8 +4718,8 @@
       },
       {
         "id": 4,
-        "code": "Rifle",
-        "codename": "",
+        "name": "Rifle",
+        "legacy_code": "Rifle",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -4636,8 +4734,8 @@
       },
       {
         "id": 5,
-        "code": "Forward Observer",
-        "codename": "",
+        "name": "Forward Observer",
+        "legacy_code": "Forward Observer",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4654,8 +4752,8 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "20",
         "swc": "1",
         "spec": [
@@ -4676,6 +4774,7 @@
     "id": 3045,
     "army": "Ariadna",
     "isc": "Desperadoes",
+    "legacy_isc": "Desperadoes",
     "name": "Desperado",
     "ava": "2",
     "spec": [
@@ -4720,8 +4819,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
+        "legacy_code": "Default",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -4736,8 +4835,8 @@
       },
       {
         "id": 2,
-        "code": "Assault Pistol",
-        "codename": "",
+        "name": "Assault Pistol",
+        "legacy_code": "Assault Pistol",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -4752,8 +4851,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -4768,8 +4867,8 @@
       },
       {
         "id": 4,
-        "code": "Submachine Gun",
-        "codename": "",
+        "name": "Submachine Gun",
+        "legacy_code": "Submachine Gun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -4788,6 +4887,7 @@
     "id": 3046,
     "army": "Ariadna",
     "isc": "Col. Yevgueni Voronin",
+    "legacy_isc": "Col. Yevgueni Voronin",
     "name": "Colonel Voronin",
     "type": "LI",
     "imp": "",
@@ -4811,8 +4911,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Rifle",
+        "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4826,8 +4926,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4839,6 +4939,155 @@
         "ccw": [
           "Assault Pistol",
           "AP CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3047,
+    "army": "Ariadna",
+    "isc": "Blackjacks, 10th Heavy Rangers Bat.",
+    "name": "Blackjack",
+    "ava": "1",
+    "spec": [
+      "Heavyweight",
+      "V: Courage"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Full Power",
+        "type": "HI",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-2",
+        "cc": "13",
+        "bs": "13",
+        "ph": "14",
+        "wip": "13",
+        "arm": "5",
+        "bts": "3",
+        "w": "1",
+        "s": "5",
+        "spec": [
+          "Lo-Tech A"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Battle Ravaged",
+        "mov": "4-2",
+        "cc": "12",
+        "bs": "12",
+        "ph": "13",
+        "wip": "13",
+        "arm": "4",
+        "bts": "0",
+        "w": "1",
+        "s": "5",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "AP HMG",
+        "cost": "36",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "AP HMG",
+          "Chest Mines",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sniper",
+        "cost": "36",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "T2 Sniper Rifle",
+          "Submachine Gun",
+          "Chest Mines"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3048,
+    "army": "Ariadna",
+    "isc": "The Unknown Ranger",
+    "name": "Unknown Ranger",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "13",
+    "ph": "13",
+    "wip": "13",
+    "arm": "4",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Mimetism",
+      "Kinematika L1",
+      "Natural Born Warrior",
+      "Scavenger",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Chain of Command",
+        "cost": "41",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "T2 CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Molotok",
+        "cost": "47",
+        "swc": "1.5",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "T2 CCW",
+          "Knife"
         ]
       }
     ]

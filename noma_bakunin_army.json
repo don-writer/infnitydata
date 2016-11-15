@@ -2,7 +2,9 @@
   {
     "id": 5997,
     "army": "Nomads",
+    "army_id": 5999,
     "name": "Bakunin Jurisdictional Command",
+    "legacy_name": "Bakunin Jurisdictional Command",
     "abbr": "Bakunin",
     "units": [
       {
@@ -11,9 +13,9 @@
         "ava": "T",
         "childs": [
           {
-            "comment": "Lieutenant - SWC cost is only 0.5 in Bakunin",
+            "comment": "Lieutenant - SWC cost is only 0 in Bakunin",
             "id": 2,
-            "swc": "0.5"
+            "swc": "0"
           }
         ],
         "linkable": true
@@ -21,25 +23,35 @@
       {
         "comment": "Reverend Moiras",
         "id": 5006,
-        "ava": "4",
+        "ava": "5",
         "linkable": true
       },
       {
         "comment": "Reverend Custodiers",
         "id": 5031,
-        "ava": "3",
-        "linkable": true
+        "ava": "3"
       },
       {
         "comment": "Reverend Healers",
         "id": 5007,
         "ava": "3",
-        "linkable": true
+        "note": "1 Healer may join a Fireteam: Core of Moiras or a Fireteam: Haris of Custodiers"
       },
       {
         "comment": "Sin-Eater Observants",
         "id": 5033,
         "ava": "3"
+      },
+      {
+        "comment": "Riot Grrls",
+        "id": 5041,
+        "ava": "5",
+        "linkable": true
+      },
+      {
+        "comment": "Taskmasters",
+        "id": 5046,
+        "ava": "4"
       },
       {
         "comment": "Prowlers",
@@ -62,12 +74,12 @@
         "ava": "T"
       },
       {
-        "comment": "Bakunin Überfallkommando : Chimera",
+        "comment": "Bakunin Überfallkommando: Chimera",
         "id": 5037,
         "ava": "3"
       },
       {
-        "comment": "Bakunin Überfallkommando : Pupniks",
+        "comment": "Bakunin Überfallkommando: Pupniks",
         "id": 5038,
         "ava": "9"
       },
@@ -80,7 +92,7 @@
         "comment": "Reverend Superior CASSANDRA KUSANAGI",
         "id": 5039,
         "ava": "1",
-        "linkable": true
+        "note": "Kusanagi may join a Fireteam: Core of Moiras + 1 Healer or a Fireteam: Haris of Custodiers"
       },
       {
         "comment": "Zoe",
@@ -141,12 +153,6 @@
         "comment": "Daktaris",
         "id": 5016,
         "ava": "1"
-      },
-      {
-        "comment": "Riot Grrls",
-        "id": 5041,
-        "ava": "5",
-        "linkable": true
       },
       {
         "comment": "Vortex Spec-Ops",

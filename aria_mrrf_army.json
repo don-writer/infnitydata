@@ -2,7 +2,9 @@
   {
     "id": 3997,
     "army": "Ariadna",
+    "army_id": 3999,
     "name": "Merovingian Rapid Response Force",
+    "legacy_name": "Merovingian Rapid Response Force",
     "abbr": "M.R.R.F.",
     "units": [
       {
@@ -16,7 +18,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Options with Inferior Infiltration may not join a Fireteam: Core"
       },
       {
         "comment": "Para-Commandos",
@@ -35,9 +38,15 @@
         "ava": "5"
       },
       {
+        "comment": "Briscard",
+        "id": 3037,
+        "ava": "5",
+        "linkable": true
+      },
+      {
         "comment": "Moblots",
         "id": 3007,
-        "ava": "5",
+        "ava": "4",
         "linkable": true
       },
       {
@@ -111,13 +120,8 @@
         "comment": "Brigadier Jacques Bruant",
         "id": 3034,
         "ava": "1",
-        "linkable": true
-      },
-      {
-        "comment": "Briscard",
-        "id": 3037,
-        "ava": "5",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Métros"
       },
       {
         "comment": "Margot Berthier, Mirage-5",
@@ -137,6 +141,11 @@
       {
         "comment": "Warcor",
         "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Wardrivers",
+        "id": 9021,
         "ava": "1"
       }
     ]

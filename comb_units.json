@@ -3,6 +3,7 @@
     "id": 6001,
     "army": "Combined Army",
     "isc": "Morat Vanguard Infantry",
+    "legacy_isc": "Morat Vanguard Infantry",
     "name": "Morat",
     "type": "LI",
     "imp": "",
@@ -24,8 +25,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -39,8 +40,8 @@
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "22",
         "swc": "0.5",
         "spec": [
@@ -56,8 +57,8 @@
       },
       {
         "id": 3,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "22",
         "swc": "1",
         "spec": [],
@@ -71,8 +72,8 @@
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "19",
         "swc": "1.5",
         "spec": [],
@@ -86,8 +87,8 @@
       },
       {
         "id": 5,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
+        "legacy_code": "Grenadier",
         "cost": "18",
         "swc": "1",
         "spec": [],
@@ -102,8 +103,8 @@
       },
       {
         "id": 6,
-        "code": "K1 Sniper Rifle",
-        "codename": "",
+        "name": "K1 Sniper Rifle",
+        "legacy_code": "K1 Sniper Rifle",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -117,8 +118,8 @@
       },
       {
         "id": 7,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -134,8 +135,8 @@
       },
       {
         "id": 8,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "14",
         "swc": "1",
         "spec": [
@@ -151,8 +152,8 @@
       },
       {
         "id": 9,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -172,6 +173,7 @@
     "id": 6002,
     "army": "Combined Army",
     "isc": "Unidron Batroids",
+    "legacy_isc": "Unidron Batroids",
     "name": "Unidron",
     "type": "REM",
     "imp": "",
@@ -195,8 +197,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Plasma",
+        "name": "Plasma",
+        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -210,8 +212,8 @@
       },
       {
         "id": 2,
-        "code": "K1",
-        "codename": "",
+        "name": "K1",
+        "legacy_code": "K1",
         "cost": "16",
         "swc": "0.5",
         "spec": [],
@@ -225,12 +227,12 @@
       },
       {
         "id": 3,
-        "code": "K1 Tinbot",
-        "codename": "",
+        "name": "K1 TinBot",
+        "legacy_code": "K1 TinBot",
         "cost": "17",
         "swc": "0.5",
         "spec": [
-          "Tinbot A (Deflector L1)"
+          "TinBot A (Deflector L1)"
         ],
         "bsw": [
           "K1 Combi Rifle"
@@ -242,8 +244,8 @@
       },
       {
         "id": 4,
-        "code": "Plasma Sniper Rifle",
-        "codename": "",
+        "name": "Plasma Sniper Rifle",
+        "legacy_code": "Plasma Sniper Rifle",
         "cost": "24",
         "swc": "1.5",
         "spec": [],
@@ -257,8 +259,8 @@
       },
       {
         "id": 5,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "20",
         "swc": "1.5",
         "spec": [],
@@ -273,8 +275,8 @@
       },
       {
         "id": 6,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "18",
         "swc": "1",
         "spec": [],
@@ -288,8 +290,8 @@
       },
       {
         "id": 7,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -309,6 +311,7 @@
     "id": 6003,
     "army": "Combined Army",
     "isc": "Fraacta Drop Unit",
+    "legacy_isc": "Fraacta Drop Unit",
     "name": "Fraacta",
     "imp": "",
     "ava": "2",
@@ -364,8 +367,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -380,8 +383,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -396,8 +399,8 @@
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "35",
         "swc": "1.5",
         "spec": [],
@@ -412,8 +415,8 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -434,6 +437,7 @@
     "id": 6004,
     "army": "Combined Army",
     "isc": "Umbra Legates",
+    "legacy_isc": "Umbra Legates",
     "name": "Umbra Legate",
     "type": "LI",
     "imp": "",
@@ -459,8 +463,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "K1 Combi",
+        "name": "K1 Combi",
+        "legacy_code": "Default",
         "cost": "40",
         "swc": "0",
         "spec": [],
@@ -475,8 +479,8 @@
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -493,8 +497,8 @@
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "41",
         "swc": "1.5",
         "spec": [],
@@ -509,8 +513,8 @@
       },
       {
         "id": 4,
-        "code": "Spitfire Lieutenant",
-        "codename": "",
+        "name": "Spitfire Lieutenant",
+        "legacy_code": "Spitfire Lieutenant",
         "cost": "41",
         "swc": "1.5",
         "spec": [
@@ -527,8 +531,8 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "40",
         "swc": "0.5",
         "spec": [
@@ -549,6 +553,7 @@
     "id": 6005,
     "army": "Combined Army",
     "isc": "Maakrep Trackers Unit",
+    "legacy_isc": "Maakrep Trackers Unit",
     "name": "Maakrep Tracker",
     "type": "MI",
     "imp": "",
@@ -573,8 +578,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -589,8 +594,8 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "33",
         "swc": "1.5",
         "spec": [],
@@ -604,8 +609,8 @@
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "33",
         "swc": "1.5",
         "spec": [],
@@ -619,8 +624,8 @@
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -635,8 +640,8 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "34",
         "swc": "0.5",
         "spec": [
@@ -653,8 +658,8 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "29",
         "swc": "1",
         "spec": [
@@ -675,6 +680,7 @@
     "id": 6006,
     "army": "Combined Army",
     "isc": "Rodok",
+    "legacy_isc": "Rodok",
     "name": "Rodok",
     "type": "MI",
     "imp": "",
@@ -698,8 +704,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -714,8 +720,8 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -729,8 +735,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -745,8 +751,8 @@
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -761,8 +767,8 @@
       },
       {
         "id": 5,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -779,8 +785,8 @@
       },
       {
         "id": 6,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -797,8 +803,8 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant",
-        "codename": "Combi",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "26",
         "swc": "1",
         "spec": [
@@ -819,6 +825,7 @@
     "id": 6007,
     "army": "Combined Army",
     "isc": "The Charontids",
+    "legacy_isc": "The Charontids",
     "name": "Charontid",
     "type": "HI",
     "imp": "",
@@ -842,8 +849,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Plasma",
+        "name": "Plasma",
+        "legacy_code": "Default",
         "cost": "78",
         "swc": "0",
         "spec": [
@@ -860,8 +867,8 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "79",
         "swc": "2",
         "spec": [
@@ -878,12 +885,12 @@
       },
       {
         "id": 3,
-        "code": "Sepsitor Tinbot",
-        "codename": "",
+        "name": "Sepsitor TinBot",
+        "legacy_code": "Sepsitor TinBot",
         "cost": "78",
         "swc": "0.5",
         "spec": [
-          "Tinbot A (Deflector L1)"
+          "TinBot A (Deflector L1)"
         ],
         "bsw": [
           "Nanopulser",
@@ -897,8 +904,8 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "73",
         "swc": "0.5",
         "spec": [
@@ -915,8 +922,8 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "78",
         "swc": "0",
         "spec": [
@@ -934,8 +941,8 @@
       },
       {
         "id": 6,
-        "code": "HMG Lieutenant",
-        "codename": "",
+        "name": "HMG Lieutenant",
+        "legacy_code": "HMG Lieutenant",
         "cost": "79",
         "swc": "2",
         "spec": [
@@ -953,8 +960,8 @@
       },
       {
         "id": 7,
-        "code": "Sepsitor Lieutenant",
-        "codename": "",
+        "name": "Sepsitor Lieutenant",
+        "legacy_code": "Sepsitor Lieutenant",
         "cost": "77",
         "swc": "0",
         "spec": [
@@ -972,12 +979,12 @@
       },
       {
         "id": 8,
-        "code": "Sepsitor Tinbot Lieutenant",
-        "codename": "",
+        "name": "Sepsitor TinBot Lieutenant",
+        "legacy_code": "Sepsitor TinBot Lieutenant",
         "cost": "78",
         "swc": "0",
         "spec": [
-          "Tinbot A (Deflector L1)",
+          "TinBot A (Deflector L1)",
           "Lieutenant"
         ],
         "bsw": [
@@ -992,8 +999,8 @@
       },
       {
         "id": 9,
-        "code": "Hacker Lieutenant",
-        "codename": "",
+        "name": "Hacker Lieutenant",
+        "legacy_code": "Hacker Lieutenant",
         "cost": "73",
         "swc": "0.5",
         "spec": [
@@ -1015,6 +1022,7 @@
     "id": 6008,
     "army": "Combined Army",
     "isc": "Raicho Armoured Brigade",
+    "legacy_isc": "Raicho Armoured Brigade",
     "name": "Raicho",
     "ava": "1",
     "spec": [
@@ -1073,8 +1081,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HFT",
+        "name": "HFT",
+        "legacy_code": "Default",
         "cost": "91",
         "swc": "2",
         "spec": [],
@@ -1086,8 +1094,8 @@
       },
       {
         "id": 2,
-        "code": "Heavy Pistol",
-        "codename": "",
+        "name": "Heavy Pistol",
+        "legacy_code": "Heavy Pistol",
         "cost": "90",
         "swc": "2",
         "spec": [],
@@ -1104,6 +1112,7 @@
     "id": 6009,
     "army": "Combined Army",
     "isc": "Avatar",
+    "legacy_isc": "Avatar",
     "name": "Avatar",
     "type": "TAG",
     "imp": "",
@@ -1129,8 +1138,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Lieutenant",
+        "name": "Lieutenant",
+        "legacy_code": "Default",
         "cost": "137",
         "swc": "3.5",
         "spec": [
@@ -1151,6 +1160,7 @@
     "id": 6010,
     "army": "Combined Army",
     "isc": "The Shrouded",
+    "legacy_isc": "The Shrouded",
     "name": "Shrouded",
     "type": "SK",
     "imp": "",
@@ -1176,8 +1186,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Minelayer",
-        "codename": "",
+        "name": "Minelayer",
+        "legacy_code": "Minelayer",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -1194,8 +1204,8 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -1210,8 +1220,8 @@
       },
       {
         "id": 3,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -1225,8 +1235,8 @@
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1241,8 +1251,8 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -1259,8 +1269,8 @@
       },
       {
         "id": 6,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -1281,6 +1291,7 @@
     "id": 6011,
     "army": "Combined Army",
     "isc": "Malignos",
+    "legacy_isc": "Malignos",
     "name": "Malignos",
     "type": "SK",
     "imp": "",
@@ -1306,8 +1317,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -1322,8 +1333,8 @@
       },
       {
         "id": 2,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "42",
         "swc": "1.5",
         "spec": [],
@@ -1338,8 +1349,8 @@
       },
       {
         "id": 3,
-        "code": "Monofilament",
-        "codename": "",
+        "name": "Monofilament",
+        "legacy_code": "Monofilament",
         "cost": "38",
         "swc": "1",
         "spec": [],
@@ -1354,8 +1365,8 @@
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "Combi",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1370,8 +1381,8 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "41",
         "swc": "0.5",
         "spec": [
@@ -1388,8 +1399,8 @@
       },
       {
         "id": 6,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "36",
         "swc": "0",
         "spec": [
@@ -1406,8 +1417,8 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "35",
         "swc": "2",
         "spec": [
@@ -1428,6 +1439,7 @@
     "id": 6012,
     "army": "Combined Army",
     "isc": "Speculo Killers",
+    "legacy_isc": "Speculo Killers",
     "name": "Speculo Killer",
     "type": "SK",
     "imp": "",
@@ -1454,8 +1466,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "35",
         "swc": "1",
         "spec": [],
@@ -1471,8 +1483,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "34",
         "swc": "1",
         "spec": [],
@@ -1492,6 +1504,7 @@
     "id": 6013,
     "army": "Combined Army",
     "isc": "Dāturazi Witch-Soldiers",
+    "legacy_isc": "Dāturazi Witch-Soldiers",
     "name": "Dāturazi",
     "type": "WB",
     "imp": "X",
@@ -1516,8 +1529,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1532,8 +1545,8 @@
       },
       {
         "id": 2,
-        "code": "AP CCW",
-        "codename": "",
+        "name": "AP CCW",
+        "legacy_code": "AP CCW",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1548,8 +1561,8 @@
       },
       {
         "id": 3,
-        "code": "DA CCW",
-        "codename": "",
+        "name": "DA CCW",
+        "legacy_code": "DA CCW",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1564,8 +1577,8 @@
       },
       {
         "id": 4,
-        "code": "Chain Rifle",
-        "codename": "",
+        "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1581,8 +1594,8 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -1597,8 +1610,8 @@
       },
       {
         "id": 6,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
+        "legacy_code": "Grenadier",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -1617,6 +1630,7 @@
     "id": 6014,
     "army": "Combined Army",
     "isc": "The Hungries: \"Gakis\"",
+    "legacy_isc": "The Hungries: \"Gakis\"",
     "name": "Gaki",
     "image": "Hungries",
     "type": "WB",
@@ -1641,8 +1655,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AP CCW",
+        "name": "AP CCW",
+        "legacy_code": "Default",
         "cost": "4",
         "swc": "0",
         "spec": [],
@@ -1657,6 +1671,7 @@
     "id": 6015,
     "army": "Combined Army",
     "isc": "The Hungries: \"Pretas\"",
+    "legacy_isc": "The Hungries: \"Pretas\"",
     "name": "Preta",
     "image": "Hungries",
     "type": "WB",
@@ -1681,8 +1696,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Chain Rifle",
+        "name": "Chain Rifle",
+        "legacy_code": "Default",
         "cost": "7",
         "swc": "0",
         "spec": [],
@@ -1699,6 +1714,7 @@
     "id": 6016,
     "army": "Combined Army",
     "isc": "Med-Tech Obsidon Medchanoid",
+    "legacy_isc": "Med-Tech Obsidon Medchanoid",
     "name": "Med-Tech",
     "type": "LI",
     "imp": "",
@@ -1722,8 +1738,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor+Engineer",
+        "name": "Doctor+Engineer",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -1742,6 +1758,7 @@
     "id": 6017,
     "army": "Combined Army",
     "isc": "M-Drone",
+    "legacy_isc": "M-Drone",
     "name": "M-Drone",
     "type": "REM",
     "imp": "",
@@ -1765,14 +1782,14 @@
       "Repeater",
       "Sensor",
       "Deactivator",
-      "Sat-lock",
+      "Sat-Lock",
       "Sniffer"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1789,6 +1806,7 @@
     "id": 6018,
     "army": "Combined Army",
     "isc": "Q-Drone",
+    "legacy_isc": "Q-Drone",
     "name": "Q-Drone",
     "type": "REM",
     "imp": "",
@@ -1814,8 +1832,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "HMG",
+        "legacy_code": "Default",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -1828,8 +1846,8 @@
       },
       {
         "id": 2,
-        "code": "Plasma",
-        "codename": "Plasma",
+        "name": "Plasma",
+        "legacy_code": "Plasma",
         "cost": "25",
         "swc": "1",
         "spec": [],
@@ -1846,6 +1864,7 @@
     "id": 6019,
     "army": "Combined Army",
     "isc": "T-Drone",
+    "legacy_isc": "T-Drone",
     "name": "T-Drone",
     "type": "REM",
     "imp": "",
@@ -1868,8 +1887,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Smart Missile Launcher",
+        "name": "Smart Missile Launcher",
+        "legacy_code": "Default",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -1886,6 +1905,7 @@
     "id": 6020,
     "army": "Combined Army",
     "isc": "R-Drone",
+    "legacy_isc": "R-Drone",
     "name": "R-Drone",
     "type": "REM",
     "imp": "",
@@ -1911,8 +1931,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Repeater",
+        "name": "Repeater",
+        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -1928,13 +1948,13 @@
   {
     "id": 6021,
     "army": "Combined Army",
-    "isc": "Imetron",
-    "name": "Imetron",
-    "image": "skiavoros",
+    "isc": "Ímetron",
+    "legacy_isc": "Imetron",
+    "name": "Ímetron",
     "type": "N/A",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "mov": "0-0",
     "cc": "0",
     "bs": "0",
@@ -1953,15 +1973,13 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "AI Beacon",
+        "name": "AI Beacon",
+        "legacy_code": "Default",
         "cost": "4",
         "swc": "0",
         "spec": [],
         "bsw": [],
-        "ccw": [
-          "Electric Pulse"
-        ]
+        "ccw": []
       }
     ]
   },
@@ -1969,6 +1987,7 @@
     "id": 6022,
     "army": "Combined Army",
     "isc": "Kurgat Reg. of Assault Engineers",
+    "legacy_isc": "Kurgat Reg. of Assault Engineers",
     "name": "Kurgat",
     "type": "LI",
     "imp": "",
@@ -1991,10 +2010,10 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Autocannon",
+        "name": "Autocannon",
+        "legacy_code": "Default",
         "cost": "28",
-        "swc": "1.5",
+        "swc": "1",
         "spec": [],
         "bsw": [
           "Antipersonnel Mines",
@@ -2008,8 +2027,8 @@
       },
       {
         "id": 2,
-        "code": "Mk12",
-        "codename": "",
+        "name": "Mk12",
+        "legacy_code": "Mk12",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -2025,14 +2044,32 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "17",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Antipersonnel Mines",
           "Boarding Shotgun"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Haris",
+        "cost": "24",
+        "swc": "1",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Antipersonnel Mines",
+          "Mk12"
         ],
         "ccw": [
           "D-Charges",
@@ -2046,6 +2083,7 @@
     "id": 6023,
     "army": "Combined Army",
     "isc": "Rasyat Diplomatic Division",
+    "legacy_isc": "Rasyat Diplomatic Division",
     "name": "Rasyat",
     "type": "MI",
     "imp": "",
@@ -2063,20 +2101,19 @@
     "ava": "1",
     "spec": [
       "AD: Combat Jump",
-      "Morat"
+      "Morat",
+      "Natural Born Warrior"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
-        "spec": [
-          "Martial Arts L3"
-        ],
+        "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "Combi Rifle"
         ],
         "ccw": [
@@ -2087,53 +2124,47 @@
       },
       {
         "id": 2,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "34",
         "swc": "1.5",
-        "spec": [
-          "Natural Born Warrior"
-        ],
+        "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "Spitfire"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 3,
-        "code": "E/Mitter",
-        "codename": "",
-        "cost": "30",
+        "name": "E/Mitter",
+        "legacy_code": "E/Mitter",
+        "cost": "31",
         "swc": "0",
-        "spec": [
-          "Natural Born Warrior"
-        ],
+        "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "E/Mitter",
           "Combi Rifle"
         ],
         "ccw": [
           "Pistol",
           "D-Charges",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "Boarding Shotgun",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "28",
         "swc": "0",
-        "spec": [
-          "Martial Arts L3"
-        ],
+        "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "Boarding Shotgun"
         ],
         "ccw": [
@@ -2148,14 +2179,14 @@
     "id": 6024,
     "army": "Combined Army",
     "isc": "Shasvastii Aswangs",
+    "legacy_isc": "Shasvastii Aswangs",
     "name": "Aswang",
-    "image": "shasvastii expeditionary force",
     "type": "LI",
     "imp": "",
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "17",
+    "cc": "21",
     "bs": "12",
     "ph": "13",
     "wip": "13",
@@ -2166,15 +2197,15 @@
     "ava": "3",
     "spec": [
       "CH: Camouflage",
-      "S: Protheion",
+      "Protheion L2",
       "Shasvastii"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "25",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "26",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2188,9 +2219,9 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "25",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "26",
         "swc": "1",
         "spec": [
           "Lieutenant"
@@ -2206,9 +2237,9 @@
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
-        "cost": "30",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
+        "cost": "31",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -2221,9 +2252,9 @@
       },
       {
         "id": 4,
-        "code": "Boarding Shotgun",
-        "codename": "",
-        "cost": "24",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
+        "cost": "25",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2241,8 +2272,8 @@
     "id": 6025,
     "army": "Combined Army",
     "isc": "Shasvastii Cadmus",
+    "legacy_isc": "Shasvastii Cadmus",
     "name": "Cadmus",
-    "image": "shasvastii expeditionary force",
     "ava": "2",
     "spec": [],
     "profiles": [
@@ -2297,8 +2328,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -2312,8 +2343,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -2327,8 +2358,8 @@
       },
       {
         "id": 3,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
+        "legacy_code": "Grenadier",
         "cost": "27",
         "swc": "1",
         "spec": [],
@@ -2347,8 +2378,8 @@
     "id": 6026,
     "army": "Combined Army",
     "isc": "Shasvastii Gwailos",
+    "legacy_isc": "Shasvastii Gwailos",
     "name": "Gwailo",
-    "image": "shasvastii expeditionary force",
     "type": "MI",
     "imp": "",
     "irr": "",
@@ -2370,8 +2401,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Boarding Shotgun Lieutenant",
-        "codename": "",
+        "name": "Boarding Shotgun Lieutenant",
+        "legacy_code": "Boarding Shotgun Lieutenant",
         "cost": "21",
         "swc": "1",
         "spec": [
@@ -2387,8 +2418,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "26",
         "swc": "1",
         "spec": [
@@ -2404,8 +2435,8 @@
       },
       {
         "id": 3,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -2421,8 +2452,8 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -2436,8 +2467,8 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun",
-        "codename": "Boarding Shotgun",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -2451,8 +2482,8 @@
       },
       {
         "id": 6,
-        "code": "Default",
-        "codename": "MULTI",
+        "name": "MULTI",
+        "legacy_code": "Default",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -2466,8 +2497,8 @@
       },
       {
         "id": 7,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
+        "name": "Heavy Rocket Launcher",
+        "legacy_code": "Heavy Rocket Launcher",
         "cost": "23",
         "swc": "1.5",
         "spec": [
@@ -2487,8 +2518,8 @@
     "id": 6027,
     "army": "Combined Army",
     "isc": "Shasvastii Haiduks",
+    "legacy_isc": "Shasvastii Haiduks",
     "name": "Haiduk",
-    "image": "shasvastii expeditionary force",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2510,8 +2541,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "MULTI Sniper Rifle",
+        "name": "MULTI Sniper Rifle",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "1.5",
         "spec": [],
@@ -2525,8 +2556,8 @@
       },
       {
         "id": 2,
-        "code": "Smart MULTI Sniper Rifle",
-        "codename": "",
+        "name": "Smart MULTI Sniper Rifle",
+        "legacy_code": "Smart MULTI Sniper Rifle",
         "cost": "23",
         "swc": "2",
         "spec": [],
@@ -2544,8 +2575,8 @@
     "id": 6028,
     "army": "Combined Army",
     "isc": "Shasvastii Noctifers",
+    "legacy_isc": "Shasvastii Noctifers",
     "name": "Noctifer",
-    "image": "shasvastii expeditionary force",
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2568,8 +2599,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -2583,8 +2614,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "24",
         "swc": "1",
         "spec": [
@@ -2600,8 +2631,8 @@
       },
       {
         "id": 3,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -2617,8 +2648,8 @@
       },
       {
         "id": 4,
-        "code": "Missile Launcher",
-        "codename": "",
+        "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -2632,8 +2663,8 @@
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -2651,12 +2682,12 @@
     "id": 6029,
     "army": "Combined Army",
     "isc": "Shasvastii Special Armoured Corp Sphinx",
+    "legacy_isc": "Shasvastii Special Armoured Corp Sphinx",
     "name": "Sphinx",
-    "image": "shasvastii expeditionary force",
     "type": "TAG",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "6-6",
     "cc": "18",
@@ -2678,8 +2709,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spitfire",
+        "name": "Spitfire",
+        "legacy_code": "Default",
         "cost": "106",
         "swc": "2",
         "spec": [],
@@ -2697,8 +2728,8 @@
     "id": 6030,
     "army": "Combined Army",
     "isc": "Shasvastii Seed-Soldiers",
+    "legacy_isc": "Shasvastii Seed-Soldiers",
     "name": "Seed-Soldier",
-    "image": "shasvastii expeditionary force",
     "ava": "2",
     "spec": [],
     "profiles": [
@@ -2748,8 +2779,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2764,8 +2795,8 @@
       },
       {
         "id": 2,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
+        "legacy_code": "Grenadier",
         "cost": "15",
         "swc": "1",
         "spec": [],
@@ -2780,8 +2811,8 @@
       },
       {
         "id": 3,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -2798,8 +2829,8 @@
       },
       {
         "id": 4,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -2820,8 +2851,8 @@
     "id": 6031,
     "army": "Combined Army",
     "isc": "Shasvastii Corax Hasht",
-    "name": "Shasvastii Corax Hasht",
-    "image": "shasvastii expeditionary force",
+    "legacy_isc": "Shasvastii Corax Hasht",
+    "name": "Corax Hasht",
     "ava": "1",
     "spec": [],
     "profiles": [
@@ -2874,8 +2905,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spitfire",
+        "name": "Spitfire",
+        "legacy_code": "Default",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -2893,11 +2924,12 @@
     "id": 6032,
     "army": "Combined Army",
     "isc": "Skiávoros",
+    "legacy_isc": "Skiávoros",
     "name": "Skiávoro",
     "type": "MI",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "mov": "4-2",
     "cc": "17",
     "bs": "13",
@@ -2918,8 +2950,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Sepsitor Lieutenant",
-        "codename": "",
+        "name": "Sepsitor Lieutenant",
+        "legacy_code": "Sepsitor Lieutenant",
         "cost": "64",
         "swc": "1",
         "spec": [
@@ -2937,8 +2969,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "52",
         "swc": "0",
         "spec": [
@@ -2955,8 +2987,8 @@
       },
       {
         "id": 3,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "60",
         "swc": "0.5",
         "spec": [
@@ -2973,8 +3005,8 @@
       },
       {
         "id": 4,
-        "code": "Sepsitor",
-        "codename": "",
+        "name": "Sepsitor",
+        "legacy_code": "Sepsitor",
         "cost": "64",
         "swc": "0",
         "spec": [],
@@ -2990,8 +3022,8 @@
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "51",
         "swc": "1.5",
         "spec": [],
@@ -3006,8 +3038,8 @@
       },
       {
         "id": 6,
-        "code": "Default",
-        "codename": "Plasma",
+        "name": "Plasma",
+        "legacy_code": "Default",
         "cost": "52",
         "swc": "0",
         "spec": [],
@@ -3026,11 +3058,12 @@
     "id": 6033,
     "army": "Combined Army",
     "isc": "Slave Drones",
+    "legacy_isc": "Slave Drones",
     "name": "Slave Drone",
     "type": "REM",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "6-4",
     "cc": "8",
@@ -3049,8 +3082,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Servant",
+        "name": "Servant",
+        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -3065,6 +3098,7 @@
     "id": 6034,
     "army": "Combined Army",
     "isc": "Sogarat Tempest Regiment",
+    "legacy_isc": "Sogarat Tempest Regiment",
     "name": "Sogarat",
     "type": "HI",
     "imp": "",
@@ -3072,7 +3106,7 @@
     "cube": "X",
     "hackable": "X",
     "mov": "4-4",
-    "cc": "19",
+    "cc": "20",
     "bs": "13",
     "ph": "15",
     "wip": "13",
@@ -3088,10 +3122,10 @@
     "childs": [
       {
         "id": 1,
-        "code": "Feuerbach Lieutenant",
-        "codename": "",
+        "name": "Feuerbach Lieutenant",
+        "legacy_code": "Feuerbach Lieutenant",
         "cost": "57",
-        "swc": "2",
+        "swc": "1.5",
         "spec": [
           "Lieutenant"
         ],
@@ -3105,8 +3139,8 @@
       },
       {
         "id": 2,
-        "code": "Feuerbach",
-        "codename": "",
+        "name": "Feuerbach",
+        "legacy_code": "Feuerbach",
         "cost": "57",
         "swc": "1.5",
         "spec": [],
@@ -3120,15 +3154,15 @@
       },
       {
         "id": 3,
-        "code": "HMG Lieutenant",
-        "codename": "",
+        "name": "AP HMG Lieutenant",
+        "legacy_code": "HMG Lieutenant",
         "cost": "56",
-        "swc": "2.5",
+        "swc": "2",
         "spec": [
           "Lieutenant"
         ],
         "bsw": [
-          "HMG"
+          "AP HMG"
         ],
         "ccw": [
           "AP CCW",
@@ -3137,13 +3171,13 @@
       },
       {
         "id": 4,
-        "code": "Default",
-        "codename": "HMG",
+        "name": "AP HMG",
+        "legacy_code": "Default",
         "cost": "56",
         "swc": "2",
         "spec": [],
         "bsw": [
-          "HMG"
+          "AP HMG"
         ],
         "ccw": [
           "AP CCW",
@@ -3156,12 +3190,12 @@
     "id": 6035,
     "army": "Combined Army",
     "isc": "The Anathematics",
+    "legacy_isc": "The Anathematics",
     "name": "Anathematic",
-    "image": "Skiavoros",
     "type": "HI",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "4-4",
     "cc": "17",
@@ -3181,8 +3215,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "82",
         "swc": "0",
         "spec": [
@@ -3199,8 +3233,8 @@
       },
       {
         "id": 2,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "88",
         "swc": "0.5",
         "spec": [
@@ -3217,8 +3251,8 @@
       },
       {
         "id": 3,
-        "code": "Sepsitor",
-        "codename": "",
+        "name": "Sepsitor",
+        "legacy_code": "Sepsitor",
         "cost": "88",
         "swc": "2",
         "spec": [],
@@ -3234,8 +3268,8 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "81",
         "swc": "2",
         "spec": [],
@@ -3250,8 +3284,8 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Plasma",
+        "name": "Plasma",
+        "legacy_code": "Default",
         "cost": "82",
         "swc": "0",
         "spec": [],
@@ -3263,6 +3297,24 @@
           "Pistol",
           "Monofilament CCW"
         ]
+      },
+      {
+        "id": 6,
+        "name": "Hacker Lieutenant",
+        "cost": "88",
+        "swc": "0.5",
+        "spec": [
+          "EI Hacking Device",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Plasma Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW"
+        ]
       }
     ]
   },
@@ -3270,6 +3322,7 @@
     "id": 6036,
     "army": "Combined Army",
     "isc": "Yaogat Strike Infantry",
+    "legacy_isc": "Yaogat Strike Infantry",
     "name": "Yaogat",
     "type": "MI",
     "imp": "",
@@ -3292,8 +3345,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0.5",
         "spec": [],
@@ -3308,9 +3361,9 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "28",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "29",
         "swc": "1",
         "spec": [
           "Lieutenant"
@@ -3326,8 +3379,8 @@
       },
       {
         "id": 3,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -3341,8 +3394,8 @@
       },
       {
         "id": 4,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -3356,8 +3409,8 @@
       },
       {
         "id": 5,
-        "code": "Boarding Shotgun, Grenades",
-        "codename": "",
+        "name": "Boarding Shotgun, Grenades",
+        "legacy_code": "Boarding Shotgun, Grenades",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -3372,13 +3425,49 @@
       },
       {
         "id": 6,
-        "code": "Grenades",
-        "codename": "",
-        "cost": "28",
-        "swc": "0",
-        "spec": [],
+        "name": "Hacker",
+        "legacy_code": "Grenades",
+        "cost": "36",
+        "swc": "0.5",
+        "spec": [
+          "EI Hacking Device"
+        ],
         "bsw": [
           "Combi Rifle",
+          "Grenades"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Haris",
+        "cost": "30",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Number 2",
+        "cost": "28",
+        "swc": "0",
+        "spec": [
+          "Number 2"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
           "Grenades"
         ],
         "ccw": [
@@ -3392,6 +3481,7 @@
     "id": 6037,
     "army": "Combined Army",
     "isc": "Zerat Special Missions Regiment",
+    "legacy_isc": "Zerat Special Missions Regiment",
     "name": "Zerat",
     "type": "SK",
     "imp": "",
@@ -3416,8 +3506,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3434,8 +3524,8 @@
       },
       {
         "id": 2,
-        "code": "MULTI Sniper Rifle",
-        "codename": "",
+        "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -3450,8 +3540,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "Boarding Shotgun",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -3467,8 +3557,8 @@
       },
       {
         "id": 4,
-        "code": "E/Mitter",
-        "codename": "",
+        "name": "E/Mitter",
+        "legacy_code": "E/Mitter",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3484,14 +3574,32 @@
       },
       {
         "id": 5,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Combi Rifle",
           "Light Flamethrower",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Observer",
+        "cost": "22",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Grenades",
           "Antipersonnel Mines"
         ],
         "ccw": [
@@ -3505,9 +3613,10 @@
     "id": 6038,
     "army": "Combined Army",
     "isc": "Cadmus-Naish Agent Sheskiin",
+    "legacy_isc": "Cadmus-Naish Agent Sheskiin",
     "name": "Sheskiin",
     "type": "LI",
-    "imp": "F",
+    "imp": "",
     "irr": "",
     "cube": "X",
     "mov": "6-4",
@@ -3524,22 +3633,23 @@
       "Nanoscreen",
       "V: No Wound Incapacitation",
       "Shasvastii",
-      "S: Protheion",
-      "Kinematika L1"
+      "Protheion L3",
+      "Kinematika L2",
+      "Free Agent"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "39",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "50",
         "swc": "1",
         "spec": [
           "Lieutenant"
         ],
         "bsw": [
           "MULTI Rifle",
-          "Nanopulser"
+          "Pulzar"
         ],
         "ccw": [
           "D-Charges",
@@ -3549,14 +3659,48 @@
       },
       {
         "id": 2,
-        "code": "Default",
-        "codename": "MULTI",
-        "cost": "39",
+        "name": "MULTI",
+        "legacy_code": "Default",
+        "cost": "50",
         "swc": "0",
         "spec": [],
         "bsw": [
           "MULTI Rifle",
-          "Nanopulser"
+          "Pulzar"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Red Fury Lieutenant",
+        "cost": "51",
+        "swc": "1",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Red Fury",
+          "Pulzar"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Red Fury",
+        "cost": "51",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Red Fury",
+          "Pulzar"
         ],
         "ccw": [
           "D-Charges",
@@ -3570,6 +3714,7 @@
     "id": 6039,
     "army": "Combined Army",
     "isc": "Treitak Spec-Ops",
+    "legacy_isc": "Treitak Spec-Ops",
     "name": "Treitak",
     "type": "SPEC-OPS",
     "imp": "",
@@ -3590,8 +3735,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
+        "name": "Spec-Ops",
+        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -3604,7 +3749,8 @@
     "id": 6040,
     "army": "Combined Army",
     "isc": "Treitak Anyat",
-    "name": "Treitak Anyat",
+    "legacy_isc": "Treitak Anyat",
+    "name": "Anyat",
     "image": "Treitak Spec-Ops",
     "type": "LI",
     "imp": "",
@@ -3628,14 +3774,14 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "K1 Combi",
+        "name": "K1 Combi",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
         "bsw": [
           "K1 Combi Rifle",
-          "Chain-colt",
+          "Chain-Colt",
           "Smoke Grenades",
           "E/M Grenades"
         ],
@@ -3650,6 +3796,7 @@
     "id": 6041,
     "army": "Combined Army",
     "isc": "Corax Spec-Ops",
+    "legacy_isc": "Corax Spec-Ops",
     "name": "Corax",
     "image": "shasvastii expeditionary force",
     "type": "SPEC-OPS",
@@ -3671,8 +3818,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
+        "name": "Spec-Ops",
+        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -3685,12 +3832,12 @@
     "id": 6042,
     "army": "Combined Army",
     "isc": "Ikadron Batroids",
+    "legacy_isc": "Ikadron Batroids",
     "name": "Ikadron",
-    "image": "Skiavoros",
     "type": "REM",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "6-2",
     "cc": "7",
@@ -3703,18 +3850,19 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "G: Autotool",
-      "Baggage",
-      "Repeater"
+      "G: Autotool"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Baggage",
+        "name": "Baggage",
+        "legacy_code": "Default",
         "cost": "9",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "Baggage",
+          "Repeater"
+        ],
         "bsw": [
           "Light Flamethrower (2)",
           "Flash Pulse"
@@ -3730,13 +3878,14 @@
     "id": 6043,
     "army": "Combined Army",
     "isc": "Ko Dali",
+    "legacy_isc": "Ko Dali",
     "name": "Ko Dali",
     "type": "MI",
     "imp": "",
     "irr": "",
     "cube": "X",
     "mov": "4-2",
-    "cc": "15",
+    "cc": "18",
     "bs": "14",
     "ph": "13",
     "wip": "13",
@@ -3748,13 +3897,13 @@
     "spec": [
       "Multispectral Visor L2",
       "AD: Combat Jump / Multiterrain",
-      "S: Protheion"
+      "Protheion L1"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -3774,9 +3923,9 @@
     "id": 6044,
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Seed-Embryo)",
+    "legacy_isc": "Shasvastii Caliban (Seed-Embryo)",
     "name": "Caliban",
     "sharedAva": "Shasvastii Caliban",
-    "image": "shasvastii expeditionary force",
     "ava": "2",
     "spec": [],
     "profiles": [
@@ -3828,8 +3977,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3845,8 +3994,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -3861,8 +4010,8 @@
       },
       {
         "id": 3,
-        "code": "Feuerbach",
-        "codename": "",
+        "name": "Feuerbach",
+        "legacy_code": "Feuerbach",
         "cost": "28",
         "swc": "2",
         "spec": [],
@@ -3876,8 +4025,8 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -3895,8 +4044,8 @@
       },
       {
         "id": 5,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
+        "legacy_code": "Engineer",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -3914,8 +4063,8 @@
       },
       {
         "id": 6,
-        "code": "Engineer Boarding Shotgun",
-        "codename": "",
+        "name": "Engineer Boarding Shotgun",
+        "legacy_code": "Engineer Boarding Shotgun",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -3936,9 +4085,9 @@
     "id": 6045,
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Infiltration)",
+    "legacy_isc": "Shasvastii Caliban (Infiltration)",
     "name": "Caliban",
     "sharedAva": "Shasvastii Caliban",
-    "image": "shasvastii expeditionary force",
     "ava": "2",
     "spec": [],
     "profiles": [
@@ -3991,8 +4140,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -4008,8 +4157,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -4024,8 +4173,8 @@
       },
       {
         "id": 3,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
+        "legacy_code": "Engineer",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -4043,8 +4192,8 @@
       },
       {
         "id": 4,
-        "code": "Engineer Boarding Shotgun",
-        "codename": "",
+        "name": "Engineer Boarding Shotgun",
+        "legacy_code": "Engineer Boarding Shotgun",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -4065,9 +4214,9 @@
     "id": 6046,
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Developed)",
+    "legacy_isc": "Shasvastii Caliban (Developed)",
     "name": "Caliban D",
     "sharedAva": "Shasvastii Caliban",
-    "image": "shasvastii expeditionary force",
     "type": "MI",
     "imp": "",
     "irr": "",
@@ -4089,8 +4238,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -4106,8 +4255,8 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -4122,8 +4271,8 @@
       },
       {
         "id": 3,
-        "code": "Feuerbach",
-        "codename": "",
+        "name": "Feuerbach",
+        "legacy_code": "Feuerbach",
         "cost": "29",
         "swc": "2",
         "spec": [],
@@ -4137,8 +4286,8 @@
       },
       {
         "id": 4,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -4156,8 +4305,8 @@
       },
       {
         "id": 5,
-        "code": "Engineer",
-        "codename": "",
+        "name": "Engineer",
+        "legacy_code": "Engineer",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -4175,8 +4324,8 @@
       },
       {
         "id": 6,
-        "code": "Engineer Boarding Shotgun",
-        "codename": "",
+        "name": "Engineer Boarding Shotgun",
+        "legacy_code": "Engineer Boarding Shotgun",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -4197,6 +4346,7 @@
     "id": 6047,
     "army": "Combined Army",
     "isc": "Raktorak",
+    "legacy_isc": "Raktorak",
     "name": "Raktorak",
     "type": "MI",
     "imp": "",
@@ -4214,14 +4364,15 @@
     "ava": "1",
     "spec": [
       "Morat",
-      "Jungle Terrain"
+      "Jungle Terrain",
+      "Specialist Operative"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "22",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "23",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4235,13 +4386,27 @@
       },
       {
         "id": 2,
-        "code": "Vulkan",
-        "codename": "",
+        "name": "Vulkan",
+        "legacy_code": "Vulkan",
         "cost": "22",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Vulkan Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Red Fury",
+        "cost": "26",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Red Fury"
         ],
         "ccw": [
           "Pistol",
@@ -4254,6 +4419,7 @@
     "id": 6048,
     "army": "Combined Army",
     "isc": "Suryats",
+    "legacy_isc": "Suryats",
     "name": "Suryat",
     "type": "HI",
     "imp": "",
@@ -4273,14 +4439,14 @@
     "spec": [
       "Morat",
       "Jungle Terrain",
-      "V: Courage"
+      "Fireteam: Duo"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Vulkan",
-        "cost": "39",
+        "name": "Vulkan",
+        "legacy_code": "Default",
+        "cost": "37",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4293,9 +4459,9 @@
       },
       {
         "id": 2,
-        "code": "Combi",
-        "codename": "",
-        "cost": "39",
+        "name": "Combi",
+        "legacy_code": "Combi",
+        "cost": "37",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4309,9 +4475,9 @@
       },
       {
         "id": 3,
-        "code": "MULTI",
-        "codename": "",
-        "cost": "43",
+        "name": "MULTI",
+        "legacy_code": "MULTI",
+        "cost": "41",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4325,24 +4491,25 @@
       },
       {
         "id": 4,
-        "code": "Heavy Rocket Launcher",
-        "codename": "",
-        "cost": "41",
+        "name": "Heavy Rocket Launcher",
+        "legacy_code": "Heavy Rocket Launcher",
+        "cost": "39",
         "swc": "2",
         "spec": [],
         "bsw": [
-          "Heavy Rocket Launcher"
+          "Heavy Rocket Launcher",
+          "Light Shotgun"
         ],
         "ccw": [
           "CCW",
-          "Assault Pistol"
+          "Pistol"
         ]
       },
       {
         "id": 5,
-        "code": "HMG",
-        "codename": "",
-        "cost": "46",
+        "name": "HMG",
+        "legacy_code": "HMG",
+        "cost": "44",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -4355,9 +4522,9 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "43",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "41",
         "swc": "1",
         "spec": [
           "Lieutenant"
@@ -4373,15 +4540,67 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant HMG",
-        "codename": "",
-        "cost": "46",
+        "name": "Lieutenant HMG",
+        "legacy_code": "Lieutenant HMG",
+        "cost": "45",
         "swc": "2",
         "spec": [
-          "Lieutenant"
+          "Lieutenant",
+          "TinBot A (Deflector L1)"
         ],
         "bsw": [
           "HMG"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "HMG TinBot",
+        "cost": "45",
+        "swc": "2",
+        "spec": [
+          "TinBot A (Deflector L1)"
+        ],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Haris",
+        "cost": "38",
+        "swc": "1",
+        "spec": [
+          "Fireteam: Haris",
+          "TinBot A (Deflector L1)"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Combi TinBot",
+        "cost": "38",
+        "swc": "0",
+        "spec": [
+          "TinBot A (Deflector L1)"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower"
         ],
         "ccw": [
           "CCW",
@@ -4394,12 +4613,13 @@
     "id": 6049,
     "army": "Combined Army",
     "isc": "Oznat",
+    "legacy_isc": "Oznat",
     "name": "Oznat",
     "type": "WB",
-    "imp": "I",
+    "imp": "X",
     "irr": "",
     "cube": "X",
-    "mov": "4-4",
+    "mov": "6-4",
     "cc": "21",
     "bs": "11",
     "ph": "13",
@@ -4417,9 +4637,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "20",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "18",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4433,8 +4653,8 @@
       },
       {
         "id": 2,
-        "code": "Vulkan Shotgun",
-        "codename": "",
+        "name": "Vulkan Shotgun",
+        "legacy_code": "Vulkan Shotgun",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -4453,6 +4673,7 @@
     "id": 6050,
     "army": "Combined Army",
     "isc": "Kornak Gazarot",
+    "legacy_isc": "Kornak Gazarot",
     "name": "Kornak",
     "type": "MI",
     "imp": "F",
@@ -4473,13 +4694,14 @@
       "Strategos L1",
       "V: No Wound Incapacitation",
       "Kinematika L1",
-      "Berserk"
+      "Berserk",
+      "Fireteam: Haris"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mk12",
+        "name": "Mk12",
+        "legacy_code": "Default",
         "cost": "41",
         "swc": "0",
         "spec": [],
@@ -4494,8 +4716,8 @@
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "41",
         "swc": "1",
         "spec": [
@@ -4516,11 +4738,12 @@
     "id": 6051,
     "army": "Combined Army",
     "isc": "E-Drone",
+    "legacy_isc": "E-Drone",
     "name": "E-Drone",
     "type": "REM",
     "imp": "",
     "irr": "",
-    "cube": "R",
+    "cube": "",
     "hackable": "X",
     "mov": "6-4",
     "cc": "8",
@@ -4533,16 +4756,16 @@
     "s": "3",
     "ava": "2",
     "spec": [
-      "EVO Repeater",
+      "EVO Hacking Device: UPGRADES: Exile, Goodnight",
       "G: Remote Presence",
       "Multiterrain"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "20",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "28",
         "swc": "0.5",
         "bsw": [
           "Combi Rifle"
@@ -4557,6 +4780,7 @@
     "id": 6052,
     "army": "Combined Army",
     "isc": "Umbra Samaritans",
+    "legacy_isc": "Umbra Samaritans",
     "name": "Umbra Samaritan",
     "type": "LI",
     "imp": "",
@@ -4573,7 +4797,7 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Fireteam: Haris L1",
+      "Fireteam: Haris",
       "Hyper-Dynamics L1",
       "Kinematika L2",
       "Protheion L4",
@@ -4583,8 +4807,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Breaker Combi",
+        "name": "Breaker Combi",
+        "legacy_code": "Default",
         "cost": "40",
         "swc": "0",
         "spec": [],
@@ -4599,8 +4823,8 @@
       },
       {
         "id": 2,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "44",
         "swc": "1",
         "spec": [],
@@ -4615,8 +4839,8 @@
       },
       {
         "id": 3,
-        "code": "Hacker",
-        "codename": "",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -4633,8 +4857,8 @@
       },
       {
         "id": 4,
-        "code": "Breaker Combi Lieutenant",
-        "codename": "",
+        "name": "Breaker Combi Lieutenant",
+        "legacy_code": "Breaker Combi Lieutenant",
         "cost": "40",
         "swc": "0.5",
         "spec": [
@@ -4651,8 +4875,8 @@
       },
       {
         "id": 5,
-        "code": "Spitfire Lieutenant",
-        "codename": "",
+        "name": "Spitfire Lieutenant",
+        "legacy_code": "Spitfire Lieutenant",
         "cost": "44",
         "swc": "1",
         "spec": [
@@ -4666,6 +4890,265 @@
           "Pistol",
           "Vorpal CCW"
         ]
+      }
+    ]
+  },
+  {
+    "id": 6053,
+    "army": "Combined Army",
+    "isc": "Nexus Operatives",
+    "name": "Nexus",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Hyper-Dynamics L1",
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Specialist",
+        "cost": "16",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hacker",
+        "cost": "24",
+        "swc": "0.5",
+        "spec": [
+          "EI Hacking Device",
+          "Nullifier"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Spitfire",
+        "cost": "26",
+        "swc": "1",
+        "spec": [
+          "Nanoscreen"
+        ],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Specialist Lieutenant",
+        "cost": "16",
+        "swc": "1",
+        "spec": [
+          "Specialist Operative",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hacker Lieutenant",
+        "cost": "24",
+        "swc": "0.5",
+        "spec": [
+          "EI Hacking Device",
+          "Nullifier",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Spitfire Lieutenant",
+        "cost": "26",
+        "swc": "1",
+        "spec": [
+          "Nanoscreen",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6054,
+    "army": "Combined Army",
+    "isc": "Xeodron Batroids",
+    "name": "Xeodron",
+    "type": "TAG",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "13",
+    "ph": "13",
+    "wip": "13",
+    "arm": "5",
+    "bts": "6",
+    "w": "3",
+    "s": "6",
+    "ava": "1",
+    "spec": [
+      "Bioimmunity",
+      "G: Remote Presence",
+      "Super-Jump"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Red Fury",
+        "cost": "59",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Red Fury",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Heavy Pistol"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "K1 Combi",
+        "cost": "59",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "K1 Combi Rifle",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Heavy Pistol"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "MULTI Rifle",
+        "cost": "58",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Heavy Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6055,
+    "army": "Combined Army",
+    "isc": "Overdron Batroids",
+    "name": "Overdron",
+    "type": "TAG",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "13",
+    "ph": "14",
+    "wip": "13",
+    "arm": "6",
+    "bts": "6",
+    "w": "3",
+    "s": "6",
+    "ava": "1",
+    "spec": [
+      "ECM",
+      "G: Remote Presence",
+      "TinBot D (Albedo)",
+      "TinBot A (Deflector L1)"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "HMC",
+        "cost": "74",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "HMC"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Dual Plasma Sniper",
+        "cost": "69",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Plasma Sniper Rifle (2)"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 3,
+        "name": "Dual HRL",
+        "cost": "57",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher (2)"
+        ],
+        "ccw": []
       }
     ]
   }

@@ -3,6 +3,7 @@
     "id": 8001,
     "army": "Tohaa",
     "isc": "Kamael Light Infantry",
+    "legacy_isc": "Kamael Light Infantry",
     "name": "Kamael",
     "type": "LI",
     "imp": "",
@@ -19,13 +20,13 @@
     "s": "2",
     "ava": "T",
     "spec": [
-      "Fireteam: Tohaa"
+      "Fireteam: Triad"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -39,8 +40,8 @@
       },
       {
         "id": 2,
-        "code": "Spitfire",
-        "codename": "Spitfire",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "18",
         "swc": "1",
         "spec": [],
@@ -54,8 +55,8 @@
       },
       {
         "id": 3,
-        "code": "Grenadier",
-        "codename": "",
+        "name": "Grenadier",
+        "legacy_code": "Grenadier",
         "cost": "16",
         "swc": "1",
         "spec": [],
@@ -70,10 +71,10 @@
       },
       {
         "id": 4,
-        "code": "Sniper Rifle",
-        "codename": "",
-        "cost": "15",
-        "swc": "1",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
+        "cost": "16",
+        "swc": "0.5",
         "spec": [],
         "bsw": [
           "Sniper Rifle"
@@ -85,12 +86,12 @@
       },
       {
         "id": 5,
-        "code": "Hacker",
-        "codename": "",
-        "cost": "18",
-        "swc": "1",
+        "name": "Hacker",
+        "legacy_code": "Hacker",
+        "cost": "16",
+        "swc": "0.5",
         "spec": [
-          "Defensive Hacking Device"
+          "White Hacking Device"
         ],
         "bsw": [
           "Combi Rifle"
@@ -102,8 +103,8 @@
       },
       {
         "id": 6,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -119,8 +120,8 @@
       },
       {
         "id": 7,
-        "code": "Paramedic",
-        "codename": "",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -136,8 +137,8 @@
       },
       {
         "id": 8,
-        "code": "Lieutenant",
-        "codename": "",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -157,6 +158,7 @@
     "id": 8002,
     "army": "Tohaa",
     "isc": "Sakiel Regiment",
+    "legacy_isc": "Sakiel Regiment",
     "name": "Sakiel",
     "ava": "6",
     "spec": [],
@@ -164,7 +166,7 @@
       {
         "id": 1,
         "type": "LI",
-        "imp": "I",
+        "imp": "F",
         "irr": "",
         "cube": "X",
         "mov": "4-4",
@@ -177,8 +179,8 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
-          "Fireteam: Tohaa",
+          "Symbiont Armor",
+          "Fireteam: Triad",
           "V: Courage"
         ],
         "bsw": [],
@@ -186,9 +188,9 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
-        "imp": "I",
+        "imp": "F",
         "irr": " ",
         "cube": "X",
         "mov": "4-4",
@@ -202,7 +204,8 @@
         "s": "2",
         "ava": " ",
         "spec": [
-          "Fireteam: Tohaa",
+          "Symbiont Armor",
+          "Fireteam: Triad",
           "V: Courage"
         ],
         "bsw": [],
@@ -212,14 +215,14 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "SWG",
-        "cost": "20",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "18",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Combi Rifle",
-          "Swarm Grenades"
+          "Nimbus Plus Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -228,8 +231,8 @@
       },
       {
         "id": 2,
-        "code": "Null",
-        "codename": "",
+        "name": "Nullifier",
+        "legacy_code": "Null",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -245,8 +248,8 @@
       },
       {
         "id": 3,
-        "code": "Light Rocket Launcher",
-        "codename": "",
+        "name": "Light Rocket Launcher",
+        "legacy_code": "Light Rocket Launcher",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -261,14 +264,14 @@
       },
       {
         "id": 4,
-        "code": "Viral",
-        "codename": "",
-        "cost": "26",
+        "name": "Viral",
+        "legacy_code": "Viral",
+        "cost": "24",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Viral Combi Rifle",
-          "Swarm Grenades"
+          "Nimbus Plus Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -277,8 +280,8 @@
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "23",
         "swc": "1.5",
         "spec": [],
@@ -292,16 +295,16 @@
       },
       {
         "id": 6,
-        "code": "Paramedic",
-        "codename": "",
-        "cost": "22",
+        "name": "Paramedic",
+        "legacy_code": "Paramedic",
+        "cost": "20",
         "swc": "0",
         "spec": [
           "MediKit"
         ],
         "bsw": [
           "Combi Rifle",
-          "Swarm Grenades"
+          "Nimbus Plus Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -310,16 +313,33 @@
       },
       {
         "id": 7,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "26",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "24",
         "swc": "0",
         "spec": [
           "Lieutenant"
         ],
         "bsw": [
           "Viral Combi Rifle",
-          "Swarm Grenades"
+          "Nimbus Plus Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Observer",
+        "cost": "19",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Nimbus Plus Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -332,6 +352,7 @@
     "id": 8003,
     "army": "Tohaa",
     "isc": "Ectros Regiment",
+    "legacy_isc": "Ectros Regiment",
     "name": "Ectros",
     "ava": "4",
     "spec": [],
@@ -344,7 +365,7 @@
         "cube": "X",
         "hackable": "X",
         "mov": "4-4",
-        "cc": "17",
+        "cc": "19",
         "bs": "13",
         "ph": "14",
         "wip": "13",
@@ -353,23 +374,24 @@
         "w": "2",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
-          "Fireteam: Tohaa",
-          "Poison"
+          "Symbiont Armor",
+          "Fireteam: Triad",
+          "V: Courage",
+          "Kinematika L1"
         ],
         "bsw": [],
         "ccw": []
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "",
         "irr": " ",
         "cube": "X",
         "hackable": "",
         "mov": "4-4",
-        "cc": "17",
+        "cc": "19",
         "bs": "12",
         "ph": "11",
         "wip": "13",
@@ -379,8 +401,9 @@
         "s": "2",
         "ava": " ",
         "spec": [
-          "Fireteam: Tohaa",
-          "Poison"
+          "Symbiont Armor",
+          "Fireteam: Triad",
+          "V: Courage"
         ],
         "bsw": [],
         "ccw": []
@@ -389,9 +412,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Viral",
-        "cost": "49",
+        "name": "Viral",
+        "legacy_code": "Default",
+        "cost": "43",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -400,14 +423,14 @@
         ],
         "ccw": [
           "Pistol",
-          "CCW"
+          "Shock CCW"
         ]
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
-        "cost": "51",
+        "name": "HMG",
+        "legacy_code": "HMG",
+        "cost": "45",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -416,14 +439,14 @@
         ],
         "ccw": [
           "Pistol",
-          "CCW"
+          "Shock CCW"
         ]
       },
       {
         "id": 3,
-        "code": "Vulkan",
-        "codename": "",
-        "cost": "44",
+        "name": "Vulkan",
+        "legacy_code": "Vulkan",
+        "cost": "38",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -432,14 +455,14 @@
         ],
         "ccw": [
           "Pistol",
-          "CCW"
+          "Shock CCW"
         ]
       },
       {
         "id": 4,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "49",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "43",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -450,7 +473,7 @@
         ],
         "ccw": [
           "Pistol",
-          "CCW"
+          "Shock CCW"
         ]
       }
     ]
@@ -459,6 +482,7 @@
     "id": 8004,
     "army": "Tohaa",
     "isc": "Clipsos Infiltrators",
+    "legacy_isc": "Clipsos Infiltrators",
     "name": "Clipsos",
     "type": "SK",
     "imp": "",
@@ -482,8 +506,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Mines",
+        "name": "Mines",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -498,14 +522,14 @@
       },
       {
         "id": 2,
-        "code": "SWG",
-        "codename": "",
-        "cost": "26",
-        "swc": "0.5",
+        "name": "Nimbus",
+        "legacy_code": "SWG",
+        "cost": "24",
+        "swc": "0",
         "spec": [],
         "bsw": [
           "Combi Rifle",
-          "Swarm Grenades"
+          "Nimbus Plus Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -514,10 +538,10 @@
       },
       {
         "id": 3,
-        "code": "Null",
-        "codename": "",
-        "cost": "24",
-        "swc": "1",
+        "name": "Nullifier",
+        "legacy_code": "Null",
+        "cost": "23",
+        "swc": "0.5",
         "spec": [
           "Nullifier"
         ],
@@ -531,8 +555,8 @@
       },
       {
         "id": 4,
-        "code": "Sniper Rifle",
-        "codename": "",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -546,8 +570,8 @@
       },
       {
         "id": 5,
-        "code": "Minelayer",
-        "codename": "",
+        "name": "Minelayer",
+        "legacy_code": "Minelayer",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -564,8 +588,8 @@
       },
       {
         "id": 6,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -586,6 +610,7 @@
     "id": 8005,
     "army": "Tohaa",
     "isc": "Tohaa Diplomatic Delegates",
+    "legacy_isc": "Tohaa Diplomatic Delegates",
     "name": "Diplomatic Delegate",
     "type": "LI",
     "imp": "",
@@ -605,13 +630,13 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Specialist",
+        "name": "Specialist",
+        "legacy_code": "Default",
         "cost": "5",
         "swc": "0",
         "spec": [
-          "i-Khol L1",
-          "Specialist Troop"
+          "I-Kohl L1",
+          "Specialist Operative"
         ],
         "bsw": [
           "Nanopulser",
@@ -628,6 +653,7 @@
     "id": 8006,
     "army": "Tohaa",
     "isc": "Gao-Rael",
+    "legacy_isc": "Gao-Rael",
     "name": "Gao-Rael",
     "ava": "4",
     "spec": [],
@@ -640,42 +666,43 @@
         "irr": "",
         "cube": "X",
         "mov": "4-2",
-        "cc": "15",
+        "cc": "16",
         "bs": "12",
         "ph": "12",
-        "wip": "13",
+        "wip": "14",
         "arm": "2",
         "bts": "3",
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
+          "Symbiont Armor",
           "Multispectral Visor L2",
-          "Fireteam: Tohaa"
+          "Fireteam: Triad"
         ],
         "bsw": [],
         "ccw": []
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "imp": "",
         "irr": " ",
         "cube": "X",
         "mov": "4-4",
-        "cc": "15",
+        "cc": "16",
         "bs": "12",
         "ph": "11",
-        "wip": "13",
+        "wip": "14",
         "arm": "0",
         "bts": "0",
         "w": "1",
         "s": "2",
         "ava": " ",
         "spec": [
+          "Symbiont Armor",
           "Multispectral Visor L2",
-          "Fireteam: Tohaa"
+          "Fireteam: Triad"
         ],
         "bsw": [],
         "ccw": []
@@ -684,9 +711,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "31",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "28",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -700,14 +727,13 @@
       },
       {
         "id": 2,
-        "code": "Boarding Shotgun",
-        "codename": "",
-        "cost": "32",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
+        "cost": "26",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Boarding Shotgun",
-          "Swarm Grenades"
+          "Boarding Shotgun"
         ],
         "ccw": [
           "Pistol",
@@ -716,9 +742,9 @@
       },
       {
         "id": 3,
-        "code": "Sniper Rifle",
-        "codename": "",
-        "cost": "33",
+        "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
+        "cost": "31",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -731,9 +757,9 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
-        "cost": "36",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
+        "cost": "33",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -746,9 +772,9 @@
       },
       {
         "id": 5,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "31",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "28",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -768,6 +794,7 @@
     "id": 8007,
     "army": "Tohaa",
     "isc": "Gao-Tarsos",
+    "legacy_isc": "Gao-Tarsos",
     "name": "Gao-Tarsos",
     "ava": "3",
     "spec": [],
@@ -779,7 +806,7 @@
         "irr": "",
         "cube": "X",
         "mov": "4-2",
-        "cc": "15",
+        "cc": "17",
         "bs": "12",
         "ph": "12",
         "wip": "13",
@@ -788,7 +815,7 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
+          "Symbiont Armor",
           "AD: Combat Jump"
         ],
         "bsw": [],
@@ -796,7 +823,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "ph": "11",
@@ -804,7 +831,9 @@
         "w": "1",
         "s": "2",
         "ava": " ",
-        "spec": [],
+        "spec": [
+          "Symbiont Armor"
+        ],
         "bsw": [],
         "ccw": []
       }
@@ -812,9 +841,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "31",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "28",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -822,15 +851,15 @@
         ],
         "ccw": [
           "Pistol",
-          "Knife",
+          "CCW",
           "D-Charges"
         ]
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
-        "cost": "39",
+        "name": "HMG",
+        "legacy_code": "HMG",
+        "cost": "36",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -838,14 +867,14 @@
         ],
         "ccw": [
           "Pistol",
-          "Knife"
+          "CCW"
         ]
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
-        "cost": "30",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
+        "cost": "27",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -853,18 +882,17 @@
         ],
         "ccw": [
           "Pistol",
-          "Knife",
+          "CCW",
           "D-Charges"
         ]
       },
       {
         "id": 4,
-        "code": "Param",
-        "codename": "",
-        "cost": "33",
+        "name": "Paramedic",
+        "legacy_code": "Param",
+        "cost": "30",
         "swc": "0",
         "spec": [
-          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -872,7 +900,7 @@
         ],
         "ccw": [
           "Pistol",
-          "Knife",
+          "CCW",
           "D-Charges"
         ]
       }
@@ -881,7 +909,8 @@
   {
     "id": 8008,
     "army": "Tohaa",
-    "isc": "Gorgos",
+    "isc": "Gorgos Squad",
+    "legacy_isc": "Gorgos",
     "name": "Gorgos",
     "ava": "1",
     "spec": [],
@@ -898,41 +927,50 @@
         "bs": "14",
         "ph": "16",
         "wip": "13",
-        "arm": "6",
+        "arm": "7",
         "bts": "9",
         "w": "3",
         "wtype": "w",
         "s": "7",
         "spec": [
-          "Symbiont Armour",
-          "ECM"
+          "Symbiont Armor",
+          "Advanced ECM",
+          "Kinematika L1"
         ],
         "bsw": [
-          "Flammenspeer (2)"
+          "AP Spitfire",
+          "Flammenspeer",
+          "Pulzar"
         ],
         "ccw": []
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "hackable": "",
         "mov": "4-4",
         "cc": "15",
         "bs": "12",
         "ph": "11",
-        "arm": "0",
+        "arm": "1",
         "bts": "0",
         "w": "1",
         "s": "2",
         "ava": " ",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       },
       {
         "id": 3,
-        "name": "Chaksa Peripheral",
+        "name": "Chaksa Peripheral A",
+        "optionSpecific": "X",
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -942,7 +980,7 @@
         "cc": "12",
         "bs": "11",
         "ph": "12",
-        "wip": "13",
+        "wip": "11",
         "arm": "0",
         "bts": "0",
         "w": "1",
@@ -953,7 +991,7 @@
         ],
         "bsw": [
           "Light Shotgun",
-          "Flash Grenades"
+          "Stun Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -963,22 +1001,66 @@
           "cost": "7",
           "swc": "0"
         }
+      },
+      {
+        "id": 4,
+        "name": "Chaksa Peripheral B",
+        "optionSpecific": "X",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "",
+        "mov": "6-4",
+        "cc": "12",
+        "bs": "11",
+        "ph": "12",
+        "wip": "11",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "CH: Mimetism",
+          "G: Synchronized"
+        ],
+        "bsw": [
+          "Pulzar"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ],
+        "independent": {
+          "cost": "4",
+          "swc": "0"
+        }
       }
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spitfire",
-        "cost": "81",
+        "name": "Shotgun Peripheral",
+        "legacy_code": "Default",
+        "cost": "86",
         "swc": "2",
+        "profile": "2",
         "spec": [],
-        "bsw": [
-          "Spitfire",
-          "Nanopulser"
-        ],
+        "bsw": [],
         "ccw": [
           "Viral CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pulzar Peripheral",
+        "cost": "82",
+        "swc": "2",
+        "profile": "3",
+        "spec": [],
+        "bsw": [],
+        "ccw": [
+          "Shock CCW"
         ]
       }
     ]
@@ -987,6 +1069,7 @@
     "id": 8009,
     "army": "Tohaa",
     "isc": "Makaul",
+    "legacy_isc": "Makaul",
     "name": "Makaul",
     "type": "WB",
     "imp": "X",
@@ -1003,21 +1086,21 @@
     "s": "2",
     "ava": "6",
     "spec": [
-      "i-Khol L1",
+      "I-Kohl L1",
       "Martial Arts L2",
       "Kinematika L2",
-      "Fireteam: Tohaa"
+      "Fireteam: Triad"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "HFT",
+        "name": "Viral CCW",
+        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "Heavy Flamethrower"
         ],
         "ccw": [
@@ -1027,30 +1110,29 @@
       },
       {
         "id": 2,
-        "code": "Swarm",
-        "codename": "",
-        "cost": "16",
+        "name": "DA CCW",
+        "legacy_code": "Swarm",
+        "cost": "13",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
-          "Heavy Flamethrower",
-          "Swarm Grenades"
+          "Eclipse Grenades",
+          "Heavy Flamethrower"
         ],
         "ccw": [
           "Pistol",
-          "Viral CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "19",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "Boarding Shotgun"
         ],
         "ccw": [
@@ -1060,13 +1142,13 @@
       },
       {
         "id": 4,
-        "code": "Combi",
-        "codename": "",
+        "name": "Combi",
+        "legacy_code": "Combi",
         "cost": "20",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Zero-V Smoke Grenades",
+          "Eclipse Grenades",
           "Combi Rifle"
         ],
         "ccw": [
@@ -1079,7 +1161,8 @@
   {
     "id": 8010,
     "army": "Tohaa",
-    "isc": "Kumotail",
+    "isc": "Kumotail Bioengineers",
+    "legacy_isc": "Kumotail",
     "name": "Kumotail",
     "type": "LI",
     "imp": "",
@@ -1097,14 +1180,15 @@
     "ava": "2",
     "spec": [
       "Doctor",
+      "MediKit",
       "Engineer",
-      "Fireteam: Tohaa"
+      "Fireteam: Triad"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Doctor+Engineer",
+        "name": "Doctor+Engineer",
+        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1123,6 +1207,7 @@
     "id": 8011,
     "army": "Tohaa",
     "isc": "Chaksa Auxiliars",
+    "legacy_isc": "Chaksa Auxiliars",
     "name": "Auxiliar",
     "type": "LI",
     "imp": "",
@@ -1144,8 +1229,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Baggage",
+        "name": "Baggage",
+        "legacy_code": "Default",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -1162,8 +1247,8 @@
       },
       {
         "id": 2,
-        "code": "HMG",
-        "codename": "",
+        "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "25",
         "swc": "1",
         "spec": [
@@ -1180,13 +1265,13 @@
       },
       {
         "id": 3,
-        "code": "Smart Rocket Launcher",
-        "codename": "",
+        "name": "Smart Heavy Rocket Launcher",
+        "legacy_code": "Smart Rocket Launcher",
         "cost": "15",
         "swc": "1",
         "spec": [],
         "bsw": [
-          "Smart Rocket Launcher"
+          "Smart Heavy Rocket Launcher"
         ],
         "ccw": [
           "Pistol",
@@ -1199,6 +1284,7 @@
     "id": 8012,
     "army": "Tohaa",
     "isc": "Chaksa Servant",
+    "legacy_isc": "Chaksa Servant",
     "name": "Servant",
     "type": "LI",
     "imp": "",
@@ -1207,7 +1293,7 @@
     "mov": "4-4",
     "cc": "12",
     "bs": "10",
-    "ph": "12",
+    "ph": "11",
     "wip": "13",
     "arm": "0",
     "bts": "0",
@@ -1222,14 +1308,14 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Servant",
+        "name": "Servant",
+        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
         "bsw": [],
         "ccw": [
-          "Hedgehog Weapon"
+          "Electric Pulse"
         ]
       }
     ]
@@ -1238,6 +1324,7 @@
     "id": 8013,
     "army": "Tohaa",
     "isc": "Neema Saatar",
+    "legacy_isc": "Neema Saatar",
     "name": "Neema",
     "image": "Ectros Regiment",
     "ava": "1",
@@ -1246,7 +1333,7 @@
       {
         "id": 1,
         "type": "HI",
-        "imp": "I",
+        "imp": "F",
         "irr": "",
         "cube": "X",
         "hackable": "X",
@@ -1260,20 +1347,20 @@
         "w": "2",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
+          "Symbiont Armor",
           "Martial Arts L2",
-          "Fireteam: Tohaa",
-          "Poison"
+          "Fireteam: Triad",
+          "Kinematika L1"
         ],
         "bsw": [],
         "ccw": []
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "hackable": "",
-        "cc": "18",
+        "cc": "21",
         "bs": "12",
         "ph": "12",
         "arm": "0",
@@ -1283,8 +1370,8 @@
         "ava": " ",
         "spec": [
           "Martial Arts L2",
-          "Fireteam: Tohaa",
-          "Poison"
+          "Fireteam: Triad",
+          "Symbiont Armor"
         ],
         "bsw": [],
         "ccw": []
@@ -1293,38 +1380,72 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Light Rocket Launcher",
-        "cost": "42",
-        "swc": "0.5",
+        "name": "Breaker Combi",
+        "legacy_code": "Default",
+        "cost": "41",
+        "swc": "0",
         "spec": [],
         "bsw": [
-          "Combi Rifle",
-          "Light Rocket Launcher",
+          "Breaker Combi Rifle",
+          "Panzerfaust",
           "Nanopulser"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Shock CCW"
         ]
       },
       {
         "id": 2,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "42",
-        "swc": "0",
+        "name": "Breaker Combi Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "46",
+        "swc": "-1",
         "spec": [
-          "Lieutenant"
+          "Lieutenant",
+          "Advanced Command"
         ],
         "bsw": [
-          "Combi Rifle",
-          "Light Rocket Launcher",
+          "Breaker Combi Rifle",
+          "Panzerfaust",
           "Nanopulser"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sptifire",
+        "cost": "43",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Spitfire",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Spitfire Lieutenant",
+        "cost": "48",
+        "swc": "1.5",
+        "spec": [
+          "Lieutenant",
+          "Advanced Command"
+        ],
+        "bsw": [
+          "Spitfire",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Shock CCW"
         ]
       }
     ]
@@ -1333,6 +1454,7 @@
     "id": 8014,
     "army": "Tohaa",
     "isc": "Hatail Spec-Ops",
+    "legacy_isc": "Hatail Spec-Ops",
     "name": "Hatail",
     "type": "SPEC-OPS",
     "imp": "",
@@ -1353,8 +1475,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Spec-Ops",
+        "name": "Spec-Ops",
+        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -1367,6 +1489,7 @@
     "id": 8015,
     "army": "Tohaa",
     "isc": "Hatail Aelis Keesan",
+    "legacy_isc": "Hatail Aelis Keesan",
     "name": "Hatail Aelis Keesan",
     "image": "Hatail Spec-Ops",
     "type": "LI",
@@ -1385,15 +1508,15 @@
     "ava": "1",
     "spec": [
       "Defensive Hacking Device",
-      "Fireteam: Tohaa",
+      "Fireteam: Triad",
       "Regeneration",
       "Sensor"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Viral Combi",
+        "name": "Viral Combi",
+        "legacy_code": "Default",
         "cost": "33",
         "swc": "0.5",
         "spec": [],
@@ -1410,8 +1533,8 @@
       },
       {
         "id": 2,
-        "code": "K1 Combi",
-        "codename": "",
+        "name": "K1 Combi",
+        "legacy_code": "K1 Combi",
         "cost": "32",
         "swc": "0.5",
         "spec": [],
@@ -1432,6 +1555,7 @@
     "id": 8016,
     "army": "Tohaa",
     "isc": "Nikoul Ambush Unit",
+    "legacy_isc": "Nikoul Ambush Unit",
     "name": "Nikoul",
     "ava": "2",
     "spec": [],
@@ -1452,7 +1576,7 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
+          "Symbiont Armor",
           "Multispectral Visor L1",
           "Sapper"
         ],
@@ -1461,16 +1585,16 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
-        "ph": "11",
         "arm": "0",
         "bts": "0",
         "w": "1",
         "s": "2",
         "ava": " ",
         "spec": [
+          "Symbiont Armor",
           "Multispectral Visor L1",
           "Sapper"
         ],
@@ -1481,9 +1605,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Viral Sniper Rifle",
-        "cost": "30",
+        "name": "Viral Sniper Rifle",
+        "legacy_code": "Default",
+        "cost": "28",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -1496,9 +1620,9 @@
       },
       {
         "id": 2,
-        "code": "Minelayer",
-        "codename": "",
-        "cost": "32",
+        "name": "Minelayer",
+        "legacy_code": "Minelayer",
+        "cost": "30",
         "swc": "1.5",
         "spec": [
           "Minelayer"
@@ -1518,6 +1642,7 @@
     "id": 8017,
     "army": "Tohaa",
     "isc": "Kotail Mobile Unit",
+    "legacy_isc": "Kotail Mobile Unit",
     "name": "Kotail",
     "ava": "4",
     "spec": [],
@@ -1538,7 +1663,7 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
+          "Symbiont Armor",
           "Super-Jump",
           "V: Courage",
           "Holoprojector L2"
@@ -1548,7 +1673,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "ph": "10",
@@ -1558,6 +1683,7 @@
         "s": "2",
         "ava": " ",
         "spec": [
+          "Symbiont Armor",
           "V: Courage"
         ],
         "bsw": [],
@@ -1567,8 +1693,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
+        "name": "Combi",
+        "legacy_code": "Default",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -1583,8 +1709,8 @@
       },
       {
         "id": 2,
-        "code": "Dual Combi",
-        "codename": "",
+        "name": "Dual Combi",
+        "legacy_code": "Dual Combi",
         "cost": "32",
         "swc": "0.5",
         "spec": [],
@@ -1598,8 +1724,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1614,9 +1740,9 @@
       },
       {
         "id": 4,
-        "code": "Spitfire",
-        "codename": "",
-        "cost": "35",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
+        "cost": "36",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -1629,8 +1755,8 @@
       },
       {
         "id": 5,
-        "code": "Observer",
-        "codename": "",
+        "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "33",
         "swc": "0",
         "spec": [
@@ -1651,6 +1777,7 @@
     "id": 8018,
     "army": "Tohaa",
     "isc": "Rasail Boarding Team",
+    "legacy_isc": "Rasail Boarding Team",
     "name": "Rasail",
     "ava": "4",
     "spec": [],
@@ -1671,7 +1798,7 @@
         "w": "2",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
+          "Symbiont Armor",
           "Nanoscreen",
           "V: Courage"
         ],
@@ -1680,7 +1807,7 @@
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "cc": "15",
@@ -1691,7 +1818,9 @@
         "w": "1",
         "s": "2",
         "ava": " ",
-        "spec": [],
+        "spec": [
+          "Symbiont Armor"
+        ],
         "bsw": [],
         "ccw": []
       },
@@ -1706,7 +1835,7 @@
         "cc": "12",
         "bs": "11",
         "ph": "12",
-        "wip": "13",
+        "wip": "11",
         "arm": "0",
         "bts": "0",
         "w": "1",
@@ -1731,9 +1860,9 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Combi",
-        "cost": "37",
+        "name": "Combi",
+        "legacy_code": "Default",
+        "cost": "34",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1747,9 +1876,9 @@
       },
       {
         "id": 2,
-        "code": "Viral Combi",
-        "codename": "",
-        "cost": "42",
+        "name": "Viral Combi",
+        "legacy_code": "Viral Combi",
+        "cost": "39",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1762,9 +1891,9 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun",
-        "codename": "",
-        "cost": "38",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
+        "cost": "35",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1778,9 +1907,9 @@
       },
       {
         "id": 4,
-        "code": "Dual Contenders",
-        "codename": "",
-        "cost": "39",
+        "name": "Dual Contenders",
+        "legacy_code": "Dual Contenders",
+        "cost": "36",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1794,9 +1923,9 @@
       },
       {
         "id": 5,
-        "code": "Spitfire",
-        "codename": "",
-        "cost": "42",
+        "name": "Spitfire",
+        "legacy_code": "Spitfire",
+        "cost": "39",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -1809,9 +1938,9 @@
       },
       {
         "id": 6,
-        "code": "Lieutenant",
-        "codename": "",
-        "cost": "37",
+        "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
+        "cost": "34",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -1827,9 +1956,9 @@
       },
       {
         "id": 7,
-        "code": "Viral Combi Lieutenant",
-        "codename": "",
-        "cost": "42",
+        "name": "Viral Combi Lieutenant",
+        "legacy_code": "Viral Combi Lieutenant",
+        "cost": "39",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -1844,9 +1973,9 @@
       },
       {
         "id": 8,
-        "code": "Spitfire Lieutenant",
-        "codename": "",
-        "cost": "42",
+        "name": "Spitfire Lieutenant",
+        "legacy_code": "Spitfire Lieutenant",
+        "cost": "39",
         "swc": "2",
         "spec": [
           "Lieutenant"
@@ -1865,6 +1994,7 @@
     "id": 8019,
     "army": "Tohaa",
     "isc": "Kaeltar Specialists",
+    "legacy_isc": "Kaeltar Specialists",
     "name": "Kaeltar",
     "type": "LI",
     "imp": "",
@@ -1881,13 +2011,14 @@
     "s": "2",
     "ava": "2",
     "spec": [
+      "Fireteam: Triad",
       "Corahtar Discipline L1"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "SymbioMate Shotgun",
+        "name": "SymbioMate Shotgun",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -1905,8 +2036,8 @@
       },
       {
         "id": 2,
-        "code": "SymbioMate Combi",
-        "codename": "",
+        "name": "SymbioMate Combi",
+        "legacy_code": "SymbioMate Combi",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -1924,8 +2055,8 @@
       },
       {
         "id": 3,
-        "code": "SymbioBomb Shotgun",
-        "codename": "",
+        "name": "SymbioBomb Shotgun",
+        "legacy_code": "SymbioBomb Shotgun",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -1942,8 +2073,8 @@
       },
       {
         "id": 4,
-        "code": "SymbioBomb Combi",
-        "codename": "",
+        "name": "SymbioBomb Combi",
+        "legacy_code": "SymbioBomb Combi",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -1963,14 +2094,15 @@
   {
     "id": 8020,
     "army": "Tohaa",
-    "isc": "Igao",
+    "isc": "Igao Unit",
+    "legacy_isc": "Igao",
     "name": "Igao",
     "type": "SK",
     "imp": "F",
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "20",
+    "cc": "22",
     "bs": "11",
     "ph": "13",
     "wip": "13",
@@ -1984,34 +2116,35 @@
       "CH: Camouflage",
       "Multiterrain",
       "Infiltration",
-      "Kinematika L1"
+      "Kinematika L1",
+      "I-Kohl L1"
     ],
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "Boarding Shotgun",
+        "name": "Boarding Shotgun",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Flash Grenades",
+          "Stun Grenades",
           "Boarding Shotgun"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 2,
-        "code": "Combi",
-        "codename": "",
-        "cost": "26",
+        "name": "Combi",
+        "legacy_code": "Combi",
+        "cost": "27",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Flash Grenades",
+          "Stun Grenades",
           "Combi Rifle",
           "Nanopulser"
         ],
@@ -2026,10 +2159,11 @@
     "id": 8021,
     "army": "Tohaa",
     "isc": "Kosuil Assault Pioneers",
+    "legacy_isc": "Kosuil Assault Pioneers",
     "name": "Kosuil",
     "ava": "2",
     "spec": [
-      "Fireteam: Tohaa"
+      "Fireteam: Triad"
     ],
     "profiles": [
       {
@@ -2048,22 +2182,26 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour",
-          "Bioimmunity"
+          "Symbiont Armor",
+          "Bioimmunity",
+          "Fireteam: Triad"
         ],
         "bsw": [],
         "ccw": []
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "wip": "13",
         "arm": "0",
         "bts": "0",
         "w": "1",
         "s": "2",
         "ava": " ",
-        "spec": [],
+        "spec": [
+          "Symbiont Armor",
+          "Fireteam: Triad"
+        ],
         "bsw": [],
         "ccw": []
       }
@@ -2071,8 +2209,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "K1 Combi Engineer",
+        "name": "K1 Combi Engineer",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -2090,8 +2228,8 @@
       },
       {
         "id": 2,
-        "code": "Minelayer",
-        "codename": "",
+        "name": "Minelayer",
+        "legacy_code": "Minelayer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -2109,8 +2247,8 @@
       },
       {
         "id": 3,
-        "code": "Boarding Shotgun Engineer",
-        "codename": "",
+        "name": "Boarding Shotgun Engineer",
+        "legacy_code": "Boarding Shotgun Engineer",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2132,6 +2270,7 @@
     "id": 8022,
     "army": "Tohaa",
     "isc": "Kerail Preceptors",
+    "legacy_isc": "Kerail Preceptors",
     "name": "Kerail Preceptor",
     "ava": "2",
     "spec": [],
@@ -2152,14 +2291,14 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "Symbiont Armour"
+          "Symbiont Armor"
         ],
         "bsw": [],
         "ccw": []
       },
       {
         "id": 2,
-        "name": "Inactive Armour",
+        "name": "Inactive Armor",
         "type": "LI",
         "mov": "4-4",
         "cc": "14",
@@ -2194,7 +2333,7 @@
         "spec": [
           "G: Synchronized",
           "Hyper-Dynamics L1",
-          "Kinematica L2",
+          "Kinematika L2",
           "Super-Jump",
           "V: Dogged"
         ],
@@ -2229,7 +2368,7 @@
         "spec": [
           "G: Synchronized",
           "Hyper-Dynamics L1",
-          "Kinematica L2",
+          "Kinematika L2",
           "Super-Jump",
           "V: Dogged"
         ],
@@ -2282,8 +2421,8 @@
     "childs": [
       {
         "id": 1,
-        "code": "Default",
-        "codename": "1 Surda",
+        "name": "1 Surda",
+        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "profile": "2",
@@ -2299,8 +2438,8 @@
       },
       {
         "id": 2,
-        "code": "2 Surdas",
-        "codename": "",
+        "name": "2 Surdas",
+        "legacy_code": "2 Surdas",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -2319,8 +2458,8 @@
       },
       {
         "id": 3,
-        "code": "Combi, Mutan",
-        "codename": "",
+        "name": "Combi, Mutan",
+        "legacy_code": "Combi, Mutan",
         "cost": "30",
         "swc": "0",
         "profile": "4",
@@ -2336,8 +2475,8 @@
       },
       {
         "id": 4,
-        "code": "Light Shotgun, Mutan",
-        "codename": "",
+        "name": "Light Shotgun, Mutan",
+        "legacy_code": "Light Shotgun, Mutan",
         "cost": "25",
         "swc": "0",
         "profile": "4",
@@ -2349,6 +2488,450 @@
         "ccw": [
           "Pistol",
           "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8023,
+    "army": "Tohaa",
+    "isc": "Sukeul Commandos",
+    "name": "Sukeul",
+    "ava": "4",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "16",
+        "bs": "13",
+        "ph": "11",
+        "wip": "13",
+        "arm": "2",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Symbiont Armor",
+          "CH: Mimetism",
+          "Fireteam: Triad",
+          "Multiterrain",
+          "Stealth",
+          "V: Courage",
+          "Veteran L1"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Inactive Armor",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "16",
+        "bs": "13",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Symbiont Armor",
+          "Fireteam: Triad",
+          "Multiterrain",
+          "Stealth",
+          "V: Courage",
+          "Veteran L1"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Observer",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "K1 Combi Rifle",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Observer Nullifier",
+        "cost": "33",
+        "swc": "0",
+        "spec": [
+          "Forward Observer",
+          "Nullifier"
+        ],
+        "bsw": [
+          "K1 Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "HMG",
+        "cost": "35",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "HMG",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "K1 Sniper",
+        "cost": "34",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "K1 Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Missile Launcher",
+        "cost": "36",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Missile Launcher",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Lieutenant",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+          "Forward Observer",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "K1 Combi Rifle",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8024,
+    "army": "Tohaa",
+    "isc": "Kaauri Sentinels",
+    "name": "Kaauri",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "12",
+    "bs": "11",
+    "ph": "10",
+    "wip": "13",
+    "arm": "0",
+    "bts": "3",
+    "w": "1",
+    "wtype": "str",
+    "s": "1",
+    "ava": "4",
+    "spec": [
+      "Multispectral Visor L1",
+      "Biometric Visor L2",
+      "Sixth Sense L2"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Submachine Gun",
+        "cost": "12",
+        "swc": "0",
+        "spec": [
+          "Nullifier"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Nanopulser (2)"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "15",
+        "swc": "0",
+        "spec": [
+          "Nullifier"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sniper",
+        "cost": "19",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Combi",
+        "cost": "17",
+        "swc": "0",
+        "spec": [
+          "Nullifier",
+          "Pheroware Tactics: Nimbus Sphere"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8025,
+    "army": "Tohaa",
+    "isc": "Taqeul Officers",
+    "name": "Taqeul",
+    "ava": "2",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "MI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-2",
+        "cc": "14",
+        "bs": "13",
+        "ph": "11",
+        "wip": "14",
+        "arm": "3",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Symbiont Armor",
+          "Regeneration",
+          "V: Courage"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Inactive Armor",
+        "type": "LI",
+        "imp": "",
+        "irr": " ",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "13",
+        "bs": "13",
+        "ph": "10",
+        "wip": "14",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": " ",
+        "spec": [
+          "Symbiont Armor",
+          "Regeneration",
+          "V: Courage"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 3,
+        "name": "SymbioBug",
+        "type": "",
+        "mov": "6-4 ",
+        "cc": "",
+        "bs": "",
+        "ph": "",
+        "wip": "",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Chain of Command Combi",
+        "cost": "34",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "SymbioBugs"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chain of Command Viral",
+        "cost": "40",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Viral Combi Rifle",
+          "SymbioBugs"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chain of Command Spitfire",
+        "cost": "40",
+        "swc": "1.5",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Spitfire",
+          "SymbioBugs"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Lieutenant Combi",
+        "cost": "34",
+        "swc": "0",
+        "spec": [
+          "Lieutenant",
+          "Advanced Command"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "SymbioBugs"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Lieutenant Viral",
+        "cost": "40",
+        "swc": "0",
+        "spec": [
+          "Lieutenant",
+          "Advanced Command"
+        ],
+        "bsw": [
+          "Viral Combi Rifle",
+          "SymbioBugs"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Lieutenant Spitfire",
+        "cost": "40",
+        "swc": "1.5",
+        "spec": [
+          "Lieutenant",
+          "Advanced Command"
+        ],
+        "bsw": [
+          "Spitfire",
+          "SymbioBugs"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
         ]
       }
     ]

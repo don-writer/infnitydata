@@ -2,34 +2,26 @@
   {
     "id": 3996,
     "army": "Ariadna",
+    "army_id": 3999,
     "name": "USAriadna Ranger Force",
+    "legacy_name": "USAriadna Ranger Force",
     "abbr": "USAriadna",
     "units": [
-      {
-        "comment": "112, Emergency Service",
-        "id": 3017,
-        "ava": "2"
-      },
-      {
-        "comment": "Dozers, Field Engineers",
-        "id": 3024,
-        "ava": "1"
-      },
-      {
-        "comment": "Intel Spec-Ops",
-        "id": 3040,
-        "ava": "1"
-      },
-      {
-        "comment": "Van Zant",
-        "id": 3031,
-        "ava": "1"
-      },
       {
         "comment": "USAriadna Grunts",
         "id": 3004,
         "ava": "T",
         "linkable": true
+      },
+      {
+        "comment": "6th Airborne Rangers",
+        "id": 3044,
+        "ava": "4"
+      },
+      {
+        "comment": "Mavericks, 9th Motorized Recon Bat.",
+        "id": 3042,
+        "ava": "5"
       },
       {
         "comment": "Marauders, 5307th Ranger Unit",
@@ -38,20 +30,15 @@
         "linkable": true
       },
       {
-        "comment": "Mavericks, 9th Motorized Recon Bat.",
-        "id": 3042,
-        "ava": "5"
-      },
-      {
         "comment": "Minutemen",
         "id": 3006,
         "ava": "5",
         "linkable": true
       },
       {
-        "comment": "Traktor Mul, Artillery and Support Regiment",
-        "id": 3028,
-        "ava": "2"
+        "comment": "Blackjacks",
+        "id": 3047,
+        "ava": "3"
       },
       {
         "comment": "Foxtrot",
@@ -69,18 +56,48 @@
         "ava": "3"
       },
       {
-        "comment": "6th Airborne Rangers",
-        "id": 3044,
-        "ava": "4"
-      },
-      {
         "comment": "Desperadoes",
         "id": 3045,
         "ava": "6"
       },
       {
+        "comment": "112, Emergency Service",
+        "id": 3017,
+        "ava": "2"
+      },
+      {
+        "comment": "Dozers, Field Engineers",
+        "id": 3024,
+        "ava": "1"
+      },
+      {
+        "comment": "Traktor Mul, Artillery and Support Regiment",
+        "id": 3028,
+        "ava": "2"
+      },
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3040,
+        "ava": "1"
+      },
+      {
+        "comment": "Van Zant",
+        "id": 3031,
+        "ava": "1"
+      },
+      {
+        "comment": "Unknown Ranger",
+        "id": 3048,
+        "ava": "1"
+      },
+      {
         "comment": "Warcor",
         "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Wardrivers",
+        "id": 9021,
         "ava": "1"
       }
     ]

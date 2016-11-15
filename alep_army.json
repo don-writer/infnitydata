@@ -3,6 +3,7 @@
     "id": 7999,
     "army": "Aleph",
     "name": "Aleph",
+    "legacy_name": "Aleph",
     "units": [
       {
         "comment": "Achilles",
@@ -175,6 +176,18 @@
       {
         "comment": "Hector, Homeridae's Champion",
         "id": 7043
+      },
+      {
+        "comment": "Posthumans Proxy Mk.4",
+        "id": 7044
+      },
+      {
+        "comment": "Posthumans Proxy Mk.5",
+        "id": 7045
+      },
+      {
+        "comment": "Andromeda, Sophistes of the Steel Phalanx",
+        "id": 7046
       },
       {
         "comment": "Authorized Bounty Hunters",

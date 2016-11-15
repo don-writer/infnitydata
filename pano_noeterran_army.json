@@ -2,7 +2,9 @@
   {
     "id": 1997,
     "army": "PanOceania",
+    "army_id": 1999,
     "name": "Neoterran Capitaline Army",
+    "legacy_name": "Neoterran Capitaline Army",
     "abbr": "Neoterran",
     "units": [
       {
@@ -17,14 +19,24 @@
         "linkable": true
       },
       {
+        "comment": "Hexas, Strategic Security Division",
+        "id": 1025,
+        "ava": "3"
+      },
+      {
         "comment": "Neoterra Bolts",
         "id": 1050,
         "ava": "T",
         "linkable": true
       },
       {
-        "comment": "Hexas, Strategic Security Division",
-        "id": 1025,
+        "comment": "Black Friars",
+        "id": 1051,
+        "ava": "1"
+      },
+      {
+        "comment": "Orc Troop",
+        "id": 1006,
         "ava": "3"
       },
       {
@@ -45,6 +57,11 @@
       {
         "comment": "Clausewitz Uhlans",
         "id": 1037,
+        "ava": "2"
+      },
+      {
+        "comment": "Locusts",
+        "id": 1052,
         "ava": "2"
       },
       {
@@ -116,7 +133,8 @@
         "comment": "Fusilier Indigo Bipandra",
         "id": 1046,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Fusiliers"
       },
       {
         "comment": "Mercenary - CSU, Corporate Security Unit",

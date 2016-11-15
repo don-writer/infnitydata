@@ -12,6 +12,19 @@
       "upgrades": []
     },
     {
+      "name": "Hacking Device: UPGRADE: Expel",
+      "groups": [
+        "CLAW-1",
+        "SWORD-1",
+        "SHIELD-1",
+        "GADGET-1",
+        "GADGET-2"
+      ],
+      "upgrades": [
+        "Expel"
+      ]
+    },
+    {
       "name": "EI Hacking Device",
       "groups": [
         "CLAW-1",
@@ -49,6 +62,24 @@
         "Cybermask",
         "Sucker Punch",
         "White Noise"
+      ]
+    },
+    {
+      "name": "Hacking Device Plus: UPGRADE: Redrum",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "SWORD-1",
+        "SHIELD-1",
+        "SHIELD-2",
+        "GADGET-1",
+        "GADGET-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Sucker Punch",
+        "White Noise",
+        "Redrum"
       ]
     },
     {
@@ -95,6 +126,108 @@
         "Stop!",
         "Goodnight"
       ]
+    },
+    {
+      "name": "Assault Hacking Device: UPGRADE: Trinity",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "CLAW-3"
+      ],
+      "upgrades": [
+        "Trinity"
+      ]
+    },
+    {
+      "name": "Assault Hacking Device: UPGRADE: Icebreaker",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "CLAW-3"
+      ],
+      "upgrades": [
+        "Icebreaker"
+      ]
+    },
+    {
+      "name": "EVO Hacking Device",
+      "groups": [
+        "SWORD-1",
+        "SHIELD-1",
+        "SHIELD-2",
+        "GADGET-1",
+        "GADGET-2",
+        "GADGET-EVO"
+      ],
+      "upgrades": []
+    },
+    {
+      "name": "EVO Hacking Device: UPGRADES: Exile, Goodnight",
+      "groups": [
+        "SWORD-1",
+        "SHIELD-1",
+        "SHIELD-2",
+        "GADGET-1",
+        "GADGET-2",
+        "GADGET-EVO"
+      ],
+      "upgrades": [
+        "Exile",
+        "Goodnight"
+      ]
+    },
+    {
+      "name": "Killer Hacking Device",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask"
+      ]
+    },
+    {
+      "name": "Killer Hacking Device: UPGRADE: Maestro",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Maestro"
+      ]
+    },
+    {
+      "name": "Killer Hacking Device: UPGRADE: Lightning",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Lightning"
+      ]
+    },
+    {
+      "name": "EI Killer Hacking Device",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Maestro"
+      ]
+    },
+    {
+      "name": "White Hacking Device",
+      "groups": [
+        "SHIELD-1",
+        "SHIELD-2",
+        "SHIELD-3",
+        "GADGET-1"
+      ],
+      "upgrades": []
     }
   ],
   "Hacking Program Groups": [
@@ -126,6 +259,14 @@
       "name": "SWORD-1",
       "programs": [
         "Brain Blast"
+      ]
+    },
+    {
+      "name": "SWORD-2",
+      "programs": [
+        "Redrum",
+        "Skullbuster",
+        "Trinity"
       ]
     },
     {
@@ -162,6 +303,15 @@
       "programs": [
         "Assisted Fire",
         "Enhanced Reaction"
+      ]
+    },
+    {
+      "name": "GADGET-EVO",
+      "programs": [
+        "Kaleidoscope",
+        "Overclock",
+        "Reboot",
+        "TeamPro"
       ]
     }
   ],
@@ -264,7 +414,7 @@
       "opp mod": "0",
       "damage": "13",
       "burst": "2",
-      "ammo": "",
+      "ammo": "DT",
       "target": "TAG, HI, REM, Hacker",
       "effect": "IMM-1 state",
       "skill": "Short Skill/ARO",
@@ -499,13 +649,160 @@
       "name": "Goodnight",
       "range": "Hacking Area",
       "att mod": "+3",
-      "opp mod": "0",
+      "opp mod": "--",
       "damage": "16",
       "burst": "2",
       "ammo": "Breaker",
       "target": "Unconscious G: Remote Presence",
-      "effect": "Dead",
+      "effect": "State: Dead",
       "skill": "Short Skill",
+      "special": ""
+    },
+    {
+      "name": "Redrum",
+      "range": "Hacking Area",
+      "att mod": "0",
+      "opp mod": "-3",
+      "damage": "16",
+      "burst": "2",
+      "ammo": "DT",
+      "target": "Hacker",
+      "effect": "Loss of 1 Wound/STR",
+      "skill": "Short Skill/ARO",
+      "special": ""
+    },
+    {
+      "name": "Skullbuster",
+      "range": "Hacking Area",
+      "att mod": "+3",
+      "opp mod": "0",
+      "damage": "16",
+      "burst": "2",
+      "ammo": "Breaker",
+      "target": "Hacker",
+      "effect": "Loss of 1 Wound/STR",
+      "skill": "Short Skill/ARO",
+      "special": ""
+    },
+    {
+      "name": "Trinity",
+      "range": "Hacking Area",
+      "att mod": "0",
+      "opp mod": "0",
+      "damage": "16",
+      "burst": "3",
+      "ammo": "Shock",
+      "target": "Hacker",
+      "effect": "Loss of 1 Wound/STR",
+      "skill": "Short Skill/ARO",
+      "special": ""
+    },
+    {
+      "name": "Kaleidoscope",
+      "range": "Table",
+      "att mod": "--",
+      "opp mod": "--",
+      "damage": "--",
+      "burst": "1",
+      "ammo": "",
+      "target": "Hacker",
+      "effect": "Target imposes a WIP-3 MOD",
+      "skill": "Entire Order",
+      "special": "2 Turns; Supportware",
+      "hide_mods": 1
+    },
+    {
+      "name": "Overclock",
+      "range": "Table",
+      "att mod": "--",
+      "opp mod": "--",
+      "damage": "--",
+      "burst": "1",
+      "ammo": "",
+      "target": "REMs with Repeater",
+      "effect": "All targets gain B2 in ARO",
+      "skill": "Entire Order",
+      "special": "2 Turns; Supportware",
+      "hide_mods": 1
+    },
+    {
+      "name": "Reboot",
+      "range": "Table",
+      "att mod": "--",
+      "opp mod": "--",
+      "damage": "--",
+      "burst": "1",
+      "ammo": "",
+      "target": "TAG, HI, REM, Hacker",
+      "effect": "In FtF roll targets impose a WIP-3 MOD when declaring Reset",
+      "skill": "Entire Order",
+      "special": "2 Turns; Supportware",
+      "hide_mods": 1
+    },
+    {
+      "name": "TeamPro",
+      "range": "Table",
+      "att mod": "--",
+      "opp mod": "--",
+      "damage": "--",
+      "burst": "1",
+      "ammo": "",
+      "target": "Fireteams",
+      "effect": "Allows naming a new Team Leader and the use of Fireteam: Duo in Generic Armies",
+      "skill": "Entire Order",
+      "special": "Supportware",
+      "hide_mods": 1
+    },
+    {
+      "name": "Exile",
+      "range": "Hacking Area",
+      "att mod": "0",
+      "opp mod": "0",
+      "damage": "16",
+      "burst": "1",
+      "ammo": "BTS",
+      "target": "Fireteam Member",
+      "effect": "State: Isolated; Fireteam cancellation",
+      "skill": "Short Skill/ARO",
+      "special": ""
+    },
+    {
+      "name": "Icebreaker",
+      "range": "Hacking Area",
+      "att mod": "0",
+      "opp mod": "0",
+      "damage": "12",
+      "burst": "2",
+      "ammo": "*",
+      "target": "TAG, HI, REM, Hacker",
+      "effect": "State: IMM-1",
+      "skill": "Short Skill/ARO",
+      "special": "Reduces enemy BTS to 0"
+    },
+    {
+      "name": "Lightning",
+      "range": "Hacking Area",
+      "att mod": "0",
+      "opp mod": "-6",
+      "damage": "15",
+      "burst": "2",
+      "ammo": "Breaker",
+      "target": "Hacker",
+      "effect": "Loss of 1 Wound/STR",
+      "skill": "Short Skill/ARO",
+      "special": ""
+    },
+    {
+      "name": "Maestro",
+      "range": "Hacking Area",
+      "att mod": "+3",
+      "opp mod": "-3",
+      "damage": "14",
+      "burst": "2",
+      "ammo": "Breaker",
+      "target": "Hacker",
+      "effect": "State: Unconscious",
+      "skill": "Short Skill/ARO",
       "special": ""
     }
   ]

@@ -3,7 +3,6 @@
     "id": 9999,
     "army": "Mercenary",
     "name": "Mercenary",
-    "legacy_name": "Mercenary",
     "units": [
       {
         "comment": "Yuan Yuan",

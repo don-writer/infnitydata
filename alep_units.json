@@ -3,6 +3,7 @@
     "id": 7001,
     "army": "Aleph",
     "isc": "Achilles",
+    "legacy_isc": "Achilles",
     "name": "Achilles",
     "type": "HI",
     "imp": "F",
@@ -29,6 +30,7 @@
       {
         "id": 1,
         "name": "MULTI",
+        "legacy_code": "Default",
         "cost": "73",
         "swc": "0",
         "spec": [],
@@ -44,6 +46,7 @@
       {
         "id": 2,
         "name": "MULTI Lieutenant",
+        "legacy_code": "MULTI Lieutenant",
         "cost": "73",
         "swc": "0",
         "spec": [
@@ -61,6 +64,7 @@
       {
         "id": 3,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "75",
         "swc": "2.5",
         "spec": [],
@@ -76,6 +80,7 @@
       {
         "id": 4,
         "name": "Spitfire Lieutenant",
+        "legacy_code": "Spitfire Lieutenant",
         "cost": "75",
         "swc": "2.5",
         "spec": [
@@ -96,6 +101,7 @@
     "id": 7002,
     "army": "Aleph",
     "isc": "Achilles v2 (Hoplite Armor)",
+    "legacy_isc": "Achilles v2 (Hoplite Armor)",
     "name": "Achilles v2",
     "type": "HI",
     "imp": "F",
@@ -123,6 +129,7 @@
       {
         "id": 1,
         "name": "MULTI",
+        "legacy_code": "Default",
         "cost": "74",
         "swc": "0",
         "spec": [],
@@ -139,6 +146,7 @@
       {
         "id": 2,
         "name": "MULTI Lieutenant",
+        "legacy_code": "MULTI Lieutenant",
         "cost": "74",
         "swc": "0",
         "spec": [
@@ -157,6 +165,7 @@
       {
         "id": 3,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "75",
         "swc": "2.5",
         "spec": [],
@@ -172,6 +181,7 @@
       {
         "id": 4,
         "name": "Spitfire Lieutenant",
+        "legacy_code": "Spitfire Lieutenant",
         "cost": "75",
         "swc": "2.5",
         "spec": [
@@ -192,6 +202,7 @@
     "id": 7003,
     "army": "Aleph",
     "isc": "Asuras",
+    "legacy_isc": "Asuras",
     "name": "Asura",
     "type": "HI",
     "imp": "",
@@ -216,6 +227,7 @@
       {
         "id": 1,
         "name": "MULTI",
+        "legacy_code": "Default",
         "cost": "68",
         "swc": "0",
         "spec": [],
@@ -231,6 +243,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "68",
         "swc": "0",
         "spec": [
@@ -248,6 +261,7 @@
       {
         "id": 3,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "72",
         "swc": "0.5",
         "spec": [
@@ -265,6 +279,7 @@
       {
         "id": 4,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "70",
         "swc": "2",
         "spec": [],
@@ -301,6 +316,7 @@
     "id": 7004,
     "army": "Aleph",
     "isc": "Dakini Tacbots",
+    "legacy_isc": "Dakini Tacbots",
     "name": "Dakini Tacbot",
     "type": "REM",
     "imp": "",
@@ -325,6 +341,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -338,6 +355,7 @@
       {
         "id": 2,
         "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -354,6 +372,7 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "21",
         "swc": "1.5",
         "spec": [],
@@ -367,6 +386,7 @@
       {
         "id": 4,
         "name": "Light Grenade Launcher",
+        "legacy_code": "Light Grenade Launcher",
         "cost": "17",
         "swc": "1",
         "spec": [],
@@ -381,6 +401,7 @@
       {
         "id": 5,
         "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -397,6 +418,7 @@
     "id": 7005,
     "army": "Aleph",
     "isc": "Daleth Rebots",
+    "legacy_isc": "Daleth Rebots",
     "name": "Daleth Rebot",
     "type": "REM",
     "imp": "",
@@ -427,6 +449,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -443,6 +466,7 @@
     "id": 7006,
     "army": "Aleph",
     "isc": "Dasyus",
+    "legacy_isc": "Dasyus",
     "name": "Dasyu",
     "type": "SK",
     "imp": "",
@@ -468,6 +492,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -484,6 +509,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "35",
         "swc": "2",
         "spec": [
@@ -502,6 +528,7 @@
       {
         "id": 3,
         "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "36",
         "swc": "0",
         "spec": [
@@ -520,6 +547,7 @@
       {
         "id": 4,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "40",
         "swc": "0.5",
         "spec": [
@@ -537,6 +565,7 @@
       {
         "id": 5,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "42",
         "swc": "1.5",
         "spec": [],
@@ -552,6 +581,7 @@
       {
         "id": 6,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -588,6 +618,7 @@
     "id": 7007,
     "army": "Aleph",
     "isc": "Deva Functionaries",
+    "legacy_isc": "Deva Functionaries",
     "name": "Deva",
     "ava": "4",
     "spec": [],
@@ -651,6 +682,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -666,6 +698,7 @@
       {
         "id": 2,
         "name": "Lieutenant+Devabot",
+        "legacy_code": "Lieutenant+Devabot",
         "cost": "27",
         "swc": "0",
         "profile": "1",
@@ -684,6 +717,7 @@
       {
         "id": 3,
         "name": "Spitfire+MSV",
+        "legacy_code": "Spitfire+MSV",
         "cost": "33",
         "swc": "1",
         "spec": [
@@ -701,6 +735,7 @@
       {
         "id": 4,
         "name": "Sensor",
+        "legacy_code": "Sensor",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -718,6 +753,7 @@
       {
         "id": 5,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -735,6 +771,7 @@
       {
         "id": 6,
         "name": "Devabot",
+        "legacy_code": "Devabot",
         "cost": "27",
         "swc": "0",
         "profile": "1",
@@ -789,6 +826,7 @@
     "id": 7008,
     "army": "Aleph",
     "isc": "Garuda Tacbots",
+    "legacy_isc": "Garuda Tacbots",
     "name": "Garuda Tacbot",
     "type": "REM",
     "imp": "",
@@ -814,6 +852,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -827,6 +866,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -840,6 +880,7 @@
       {
         "id": 3,
         "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -869,6 +910,7 @@
     "id": 7009,
     "army": "Aleph",
     "isc": "Lamedh Rebots",
+    "legacy_isc": "Lamedh Rebots",
     "name": "Lamedh Rebot",
     "type": "REM",
     "imp": "",
@@ -896,6 +938,7 @@
       {
         "id": 1,
         "name": "Repeater",
+        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -912,6 +955,7 @@
     "id": 7010,
     "army": "Aleph",
     "isc": "Maruts",
+    "legacy_isc": "Maruts",
     "name": "Marut",
     "type": "TAG",
     "imp": "",
@@ -938,6 +982,7 @@
       {
         "id": 1,
         "name": "MULTI HMG",
+        "legacy_code": "Default",
         "cost": "116",
         "swc": "3",
         "spec": [],
@@ -953,6 +998,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "120",
         "swc": "3",
         "spec": [
@@ -974,6 +1020,7 @@
     "id": 7011,
     "army": "Aleph",
     "isc": "Myrmidon Officer",
+    "legacy_isc": "Myrmidon Officer",
     "name": "Myrmidon Officer",
     "type": "WB",
     "imp": "F",
@@ -1000,6 +1047,7 @@
       {
         "id": 1,
         "name": "Combi Lieutenant",
+        "legacy_code": "Default",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -1018,6 +1066,7 @@
       {
         "id": 2,
         "name": "BSG Chain of Command",
+        "legacy_code": "Chain of Command",
         "cost": "35",
         "swc": "1",
         "spec": [
@@ -1036,6 +1085,7 @@
       {
         "id": 3,
         "name": "Combi Chain of Command",
+        "legacy_code": "CoC Combi",
         "cost": "36",
         "swc": "1",
         "spec": [
@@ -1054,6 +1104,7 @@
       {
         "id": 4,
         "name": "BSG Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -1075,6 +1126,7 @@
     "id": 7012,
     "army": "Aleph",
     "isc": "Myrmidons",
+    "legacy_isc": "Myrmidons",
     "name": "Myrmidon",
     "type": "WB",
     "imp": "F",
@@ -1099,6 +1151,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1115,6 +1168,7 @@
       {
         "id": 2,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -1133,6 +1187,7 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -1149,6 +1204,7 @@
       {
         "id": 4,
         "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -1165,6 +1221,7 @@
       {
         "id": 5,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -1181,6 +1238,7 @@
       {
         "id": 6,
         "name": "DA CCW",
+        "legacy_code": "DA CCW",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -1200,6 +1258,7 @@
     "id": 7013,
     "army": "Aleph",
     "isc": "Nagas",
+    "legacy_isc": "Nagas",
     "name": "Naga",
     "type": "SK",
     "imp": "",
@@ -1225,6 +1284,7 @@
       {
         "id": 1,
         "name": "Antipersonnel Mines",
+        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -1240,6 +1300,7 @@
       {
         "id": 2,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -1256,6 +1317,7 @@
       {
         "id": 3,
         "name": "Minelayer",
+        "legacy_code": "Minelayer",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -1273,6 +1335,7 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -1287,6 +1350,7 @@
       {
         "id": 5,
         "name": "Monofilament Mines",
+        "legacy_code": "Monofilament Mines",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1339,6 +1403,7 @@
     "id": 7014,
     "army": "Aleph",
     "isc": "Netrods",
+    "legacy_isc": "Netrods",
     "name": "Netrod",
     "type": "N/A",
     "imp": "",
@@ -1363,6 +1428,7 @@
       {
         "id": 1,
         "name": "AI Beacon",
+        "legacy_code": "Default",
         "cost": "4",
         "swc": "0",
         "spec": [],
@@ -1375,6 +1441,7 @@
     "id": 7015,
     "army": "Aleph",
     "isc": "Patroclus",
+    "legacy_isc": "Patroclus",
     "name": "Patroclus",
     "type": "MI",
     "imp": "",
@@ -1400,6 +1467,7 @@
       {
         "id": 1,
         "name": "ODD MULTI",
+        "legacy_code": "Default",
         "cost": "55",
         "swc": "0",
         "spec": [
@@ -1418,6 +1486,7 @@
       {
         "id": 2,
         "name": "ODD Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "57",
         "swc": "1.5",
         "spec": [
@@ -1477,6 +1546,7 @@
     "id": 7016,
     "army": "Aleph",
     "isc": "Probots",
+    "legacy_isc": "Probots",
     "name": "Probot",
     "type": "REM",
     "imp": "",
@@ -1501,6 +1571,7 @@
       {
         "id": 1,
         "name": "Minesweeper",
+        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -1515,6 +1586,7 @@
       {
         "id": 2,
         "name": "Combi",
+        "legacy_code": "Combi",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -1531,6 +1603,7 @@
       {
         "id": 3,
         "name": "EVO",
+        "legacy_code": "EVO",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -1547,6 +1620,7 @@
     "id": 7017,
     "army": "Aleph",
     "isc": "Samekh Rebots",
+    "legacy_isc": "Samekh Rebots",
     "name": "Samekh Rebot",
     "type": "REM",
     "imp": "",
@@ -1570,6 +1644,7 @@
       {
         "id": 1,
         "name": "Smart Missile Launcher",
+        "legacy_code": "Default",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -1586,6 +1661,7 @@
     "id": 7018,
     "army": "Aleph",
     "isc": "Sophotects",
+    "legacy_isc": "Sophotects",
     "name": "Sophotect",
     "type": "LI",
     "imp": "",
@@ -1611,6 +1687,7 @@
       {
         "id": 1,
         "name": "Doctor+Engineer",
+        "legacy_code": "Default",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1629,6 +1706,7 @@
     "id": 7019,
     "army": "Aleph",
     "isc": "Yudbots",
+    "legacy_isc": "Yudbots",
     "name": "Yudbot",
     "type": "REM",
     "imp": "",
@@ -1653,6 +1731,7 @@
       {
         "id": 1,
         "name": "Servant",
+        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -1667,6 +1746,7 @@
     "id": 7020,
     "army": "Aleph",
     "isc": "Zayin Rebots",
+    "legacy_isc": "Zayin Rebots",
     "name": "Zayin Rebot",
     "type": "REM",
     "imp": "",
@@ -1693,6 +1773,7 @@
       {
         "id": 1,
         "name": "HMG",
+        "legacy_code": "Default",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -1709,6 +1790,7 @@
     "id": 7021,
     "army": "Aleph",
     "isc": "Posthumans Proxy Mk.1",
+    "legacy_isc": "Posthumans Proxy Mk.1",
     "name": "Proxy Mk.1",
     "type": "LI",
     "imp": "",
@@ -1733,6 +1815,7 @@
       {
         "id": 1,
         "name": "Doctor",
+        "legacy_code": "Doctor",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -1751,6 +1834,7 @@
       {
         "id": 2,
         "name": "Engineer",
+        "legacy_code": "Engineer",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -1769,6 +1853,7 @@
       {
         "id": 3,
         "name": "Hacker",
+        "legacy_code": "Default",
         "cost": "14",
         "swc": "0.5",
         "spec": [
@@ -1789,6 +1874,7 @@
     "id": 7022,
     "army": "Aleph",
     "isc": "Posthumans Proxy Mk.2",
+    "legacy_isc": "Posthumans Proxy Mk.2",
     "name": "Proxy Mk.2",
     "type": "SK",
     "imp": "",
@@ -1814,6 +1900,7 @@
       {
         "id": 1,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -1831,6 +1918,7 @@
       {
         "id": 2,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "1.5",
         "spec": [],
@@ -1849,6 +1937,7 @@
     "id": 7023,
     "army": "Aleph",
     "isc": "Posthumans Proxy Mk.3",
+    "legacy_isc": "Posthumans Proxy Mk.3",
     "name": "Proxy Mk.3",
     "image": "Post humans",
     "type": "HI",
@@ -1873,6 +1962,7 @@
       {
         "id": 1,
         "name": "Spitfire",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "2",
         "spec": [],
@@ -1891,6 +1981,7 @@
     "id": 7024,
     "army": "Aleph",
     "isc": "Ekdromoi",
+    "legacy_isc": "Ekdromoi",
     "name": "Ekdromos",
     "type": "LI",
     "imp": "F",
@@ -1915,6 +2006,7 @@
       {
         "id": 1,
         "name": "Hacker",
+        "legacy_code": "Hacker",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -1932,6 +2024,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -1947,6 +2040,7 @@
       {
         "id": 3,
         "name": "Chain Rifle",
+        "legacy_code": "Chain Rifle",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -1962,6 +2056,7 @@
       {
         "id": 4,
         "name": "HMG",
+        "legacy_code": "HMG",
         "cost": "37",
         "swc": "1.5",
         "spec": [],
@@ -1977,6 +2072,7 @@
       {
         "id": 5,
         "name": "Combi (AP CCW)",
+        "legacy_code": "Combi",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -1992,6 +2088,7 @@
       {
         "id": 6,
         "name": "Combi (DA CCW)",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -2010,6 +2107,7 @@
     "id": 7025,
     "army": "Aleph",
     "isc": "Chandra Spec-Ops",
+    "legacy_isc": "Chandra Spec-Ops",
     "name": "Chandra",
     "type": "SPEC-OPS",
     "imp": "",
@@ -2031,6 +2129,7 @@
       {
         "id": 1,
         "name": "Spec-Ops",
+        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -2043,6 +2142,7 @@
     "id": 7026,
     "army": "Aleph",
     "isc": "Chandra Sergeant Thrasymedes",
+    "legacy_isc": "Chandra Sergeant Thrasymedes",
     "name": "Chandra Sergeant Thrasymedes",
     "image": "Chandra Spec-Ops",
     "type": "MI",
@@ -2068,6 +2168,7 @@
       {
         "id": 1,
         "name": "Infiltrator",
+        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -2086,6 +2187,7 @@
       {
         "id": 2,
         "name": "Enomotarchos",
+        "legacy_code": "Light Rocket Launcher",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -2108,6 +2210,7 @@
     "id": 7027,
     "army": "Aleph",
     "isc": "Thorakitai",
+    "legacy_isc": "Thorakitai",
     "name": "Thorakites",
     "type": "MI",
     "imp": "F",
@@ -2130,6 +2233,7 @@
       {
         "id": 1,
         "name": "Submachine Gun",
+        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -2147,6 +2251,7 @@
       {
         "id": 2,
         "name": "Combi",
+        "legacy_code": "Combi",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2162,6 +2267,7 @@
       {
         "id": 3,
         "name": "HMG",
+        "legacy_code": "Spitfire",
         "cost": "22",
         "swc": "1.5",
         "spec": [],
@@ -2177,6 +2283,7 @@
       {
         "id": 4,
         "name": "Light Rocket Launcher",
+        "legacy_code": "Light Rocket Launcher",
         "cost": "15",
         "swc": "1",
         "spec": [],
@@ -2192,6 +2299,7 @@
       {
         "id": 5,
         "name": "Engineer",
+        "legacy_code": "Engineer",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -2210,6 +2318,7 @@
       {
         "id": 6,
         "name": "Observer",
+        "legacy_code": "Observer",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -2228,6 +2337,7 @@
       {
         "id": 7,
         "name": "Paramedic",
+        "legacy_code": "Paramedic",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -2279,6 +2389,7 @@
     "id": 7028,
     "army": "Aleph",
     "isc": "Agêma Marksman",
+    "legacy_isc": "Agema Marksman",
     "name": "Agêma",
     "type": "MI",
     "imp": "",
@@ -2302,6 +2413,7 @@
       {
         "id": 1,
         "name": "Mk12",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0.5",
         "spec": [
@@ -2318,6 +2430,7 @@
       {
         "id": 2,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -2332,6 +2445,7 @@
       {
         "id": 3,
         "name": "Missile Launcher",
+        "legacy_code": "Missile Launcher",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -2349,6 +2463,7 @@
     "id": 7029,
     "army": "Aleph",
     "isc": "Eudoros",
+    "legacy_isc": "Eudoros",
     "name": "Eudoros",
     "type": "WB",
     "imp": "I",
@@ -2376,6 +2491,7 @@
       {
         "id": 1,
         "name": "Mk12",
+        "legacy_code": "Default",
         "cost": "40",
         "swc": "0",
         "spec": [],
@@ -2392,6 +2508,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "40",
         "swc": "0",
         "spec": [
@@ -2413,6 +2530,7 @@
     "id": 7030,
     "army": "Aleph",
     "isc": "Nesaie Alkê",
+    "legacy_isc": "Nesaie Alke",
     "name": "Alkê",
     "type": "MI",
     "imp": "F",
@@ -2438,6 +2556,7 @@
       {
         "id": 1,
         "name": "Spitfire",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "1.5",
         "spec": [],
@@ -2453,6 +2572,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "25",
         "swc": "1.5",
         "spec": [
@@ -2473,6 +2593,7 @@
     "id": 7031,
     "army": "Aleph",
     "isc": "Atalanta",
+    "legacy_isc": "Atalanta",
     "name": "Atalanta",
     "type": "MI",
     "imp": "",
@@ -2496,6 +2617,7 @@
       {
         "id": 1,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "Default",
         "cost": "39",
         "swc": "1.5",
         "spec": [
@@ -2515,6 +2637,7 @@
     "id": 7032,
     "army": "Aleph",
     "isc": "Diomedes",
+    "legacy_isc": "Diomedes",
     "name": "Diomedes",
     "type": "LI",
     "imp": "F",
@@ -2540,6 +2663,7 @@
       {
         "id": 1,
         "name": "Mk12",
+        "legacy_code": "Default",
         "cost": "43",
         "swc": "0",
         "spec": [],
@@ -2555,6 +2679,7 @@
       {
         "id": 2,
         "name": "Mk12 Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "43",
         "swc": "0",
         "spec": [
@@ -2607,6 +2732,7 @@
     "id": 7033,
     "army": "Aleph",
     "isc": "Machaon",
+    "legacy_isc": "Machaon",
     "name": "Machaon",
     "type": "WB",
     "imp": "F",
@@ -2635,6 +2761,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "38",
         "swc": "0.5",
         "spec": [],
@@ -2651,6 +2778,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "38",
         "swc": "0.5",
         "spec": [
@@ -2672,6 +2800,7 @@
     "id": 7034,
     "army": "Aleph",
     "isc": "Phoenix",
+    "legacy_isc": "Phoenix",
     "name": "Phoenix",
     "type": "WB",
     "imp": "",
@@ -2698,6 +2827,7 @@
       {
         "id": 1,
         "name": "Heavy Rocket Launcher",
+        "legacy_code": "Default",
         "cost": "40",
         "swc": "2",
         "spec": [],
@@ -2714,6 +2844,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "40",
         "swc": "2",
         "spec": [
@@ -2735,6 +2866,7 @@
     "id": 7035,
     "army": "Aleph",
     "isc": "Ajax",
+    "legacy_isc": "Ajax",
     "name": "Ajax",
     "type": "HI",
     "imp": "I",
@@ -2762,6 +2894,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -2777,6 +2910,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
+        "legacy_code": "Lieutenant",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -2797,6 +2931,7 @@
     "id": 7036,
     "army": "Aleph",
     "isc": "Penthesilea",
+    "legacy_isc": "Penthesilea",
     "name": "Penthesilea",
     "ava": "1",
     "spec": [],
@@ -2846,6 +2981,7 @@
       {
         "id": 1,
         "name": "Amazon Warrioress",
+        "legacy_code": "Default",
         "cost": "41",
         "swc": "0",
         "spec": [],
@@ -2865,6 +3001,7 @@
     "id": 7037,
     "army": "Aleph",
     "isc": "Thamyris",
+    "legacy_isc": "Thamyris",
     "name": "Thamyris",
     "type": "LI",
     "imp": "",
@@ -2888,6 +3025,7 @@
       {
         "id": 1,
         "name": "Hacker",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2908,6 +3046,7 @@
     "id": 7038,
     "army": "Aleph",
     "isc": "Dactyls",
+    "legacy_isc": "Dactyls",
     "name": "Dactyl",
     "type": "LI",
     "imp": "",
@@ -2930,6 +3069,7 @@
       {
         "id": 1,
         "name": "ADHL Engineer",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -2948,6 +3088,7 @@
       {
         "id": 2,
         "name": "Doctor",
+        "legacy_code": "Doctor",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -2967,6 +3108,7 @@
       {
         "id": 3,
         "name": "Flammenspeer Engineer",
+        "legacy_code": "Flammenspeer",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2988,6 +3130,7 @@
     "id": 7039,
     "army": "Aleph",
     "isc": "Teucer",
+    "legacy_isc": "Teucer",
     "name": "Teucer",
     "type": "MI",
     "imp": "",
@@ -3012,6 +3155,7 @@
       {
         "id": 1,
         "name": "Feuerbach X-Visor",
+        "legacy_code": "Default",
         "cost": "41",
         "swc": "1.5",
         "spec": [
@@ -3029,6 +3173,7 @@
       {
         "id": 2,
         "name": "Feuerbach MSV 2",
+        "legacy_code": "Feuerbach MSV 2",
         "cost": "44",
         "swc": "2",
         "spec": [
@@ -3046,6 +3191,7 @@
       {
         "id": 3,
         "name": "K1 Sniper",
+        "legacy_code": "K1 Sniper",
         "cost": "43",
         "swc": "1.5",
         "spec": [
@@ -3066,6 +3212,7 @@
     "id": 7040,
     "army": "Aleph",
     "isc": "Drakios",
+    "legacy_isc": "Drakios",
     "name": "Drakios",
     "ava": "1",
     "spec": [],
@@ -3172,6 +3319,7 @@
       {
         "id": 1,
         "name": "Combi (1 Devabot)",
+        "legacy_code": "Default",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -3188,6 +3336,7 @@
       {
         "id": 2,
         "name": "Combi (2 Devabots)",
+        "legacy_code": "2 Devabots",
         "cost": "42",
         "swc": "0",
         "profile": "1",
@@ -3239,6 +3388,7 @@
     "id": 7041,
     "army": "Aleph",
     "isc": "Scylla",
+    "legacy_isc": "Scylla",
     "name": "Scylla",
     "ava": "1",
     "spec": [],
@@ -3340,6 +3490,7 @@
       {
         "id": 1,
         "name": "HD (1 Devabot)",
+        "legacy_code": "Default",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -3357,6 +3508,7 @@
       {
         "id": 2,
         "name": "HD (2 Devabots)",
+        "legacy_code": "HD, 2 Devabots",
         "cost": "39",
         "swc": "0.5",
         "profile": "1",
@@ -3375,6 +3527,7 @@
       {
         "id": 3,
         "name": "AHD (1 Devabot)",
+        "legacy_code": "AHD, 1 Devabot",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -3392,6 +3545,7 @@
       {
         "id": 4,
         "name": "AHD (2 Devabots)",
+        "legacy_code": "AHD, 2 Devabots",
         "cost": "37",
         "swc": "0.5",
         "profile": "1",
@@ -3448,6 +3602,7 @@
     "id": 7042,
     "army": "Aleph",
     "isc": "Acmon, Sergeant of Dactyls",
+    "legacy_isc": "Acmon, Sergeant of Dactyls",
     "name": "Acmon",
     "type": "LI",
     "imp": "",
@@ -3473,6 +3628,7 @@
       {
         "id": 1,
         "name": "Engineer",
+        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -3493,6 +3649,7 @@
     "id": 7043,
     "army": "Aleph",
     "isc": "Hector, Homerid Champion",
+    "legacy_isc": "Hector, Homeridae's Champion",
     "name": "Hector",
     "type": "HI",
     "imp": "",
@@ -3521,6 +3678,7 @@
       {
         "id": 1,
         "name": "Plasma",
+        "legacy_code": "Default",
         "cost": "71",
         "swc": "0",
         "spec": [
@@ -3539,6 +3697,7 @@
       {
         "id": 2,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "70",
         "swc": "2",
         "spec": [
@@ -3557,6 +3716,7 @@
       {
         "id": 3,
         "name": "Plasma Lieutenant",
+        "legacy_code": "Plasma Lieutenant",
         "cost": "71",
         "swc": "0",
         "spec": [
@@ -3576,6 +3736,7 @@
       {
         "id": 4,
         "name": "Spitfire Lieutenant",
+        "legacy_code": "Spitfire Lieutenant",
         "cost": "70",
         "swc": "2",
         "spec": [

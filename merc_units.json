@@ -3,6 +3,7 @@
     "id": 9001,
     "army": "Mercenary",
     "isc": "Yuan Yuan",
+    "legacy_isc": "Yuan Yuan",
     "name": "Yuan Yuan",
     "type": "WB",
     "imp": "X",
@@ -26,6 +27,7 @@
       {
         "id": 1,
         "name": "Rifle",
+        "legacy_code": "Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -41,6 +43,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -56,6 +59,7 @@
       {
         "id": 3,
         "name": "AP CCW",
+        "legacy_code": "AP CCW",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -71,6 +75,7 @@
       {
         "id": 4,
         "name": "DA CCW",
+        "legacy_code": "DA CCW",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -86,6 +91,7 @@
       {
         "id": 5,
         "name": "Shock CCW",
+        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -104,6 +110,7 @@
     "id": 9002,
     "army": "Mercenary",
     "isc": "Bashi Bazouks",
+    "legacy_isc": "Bashi Bazouk",
     "name": "Bashi Bazouk",
     "type": "LI",
     "imp": "",
@@ -127,6 +134,7 @@
       {
         "id": 1,
         "name": "Rifle",
+        "legacy_code": "Default",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -142,6 +150,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -156,6 +165,7 @@
       {
         "id": 3,
         "name": "AP Rifle",
+        "legacy_code": "AP Rifle",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -170,6 +180,7 @@
       {
         "id": 4,
         "name": "E/Mauler",
+        "legacy_code": "E/Mauler",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -203,6 +214,7 @@
     "id": 9003,
     "army": "Mercenary",
     "isc": "Druze Shock Teams",
+    "legacy_isc": "Druze Shock Teams",
     "name": "Shock",
     "type": "MI",
     "imp": "",
@@ -223,6 +235,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -241,6 +254,7 @@
       {
         "id": 2,
         "name": "Assault Hacker",
+        "legacy_code": "Hacker",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -258,6 +272,7 @@
       {
         "id": 3,
         "name": "Light Grenade Launcher",
+        "legacy_code": "LGL",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -275,6 +290,7 @@
       {
         "id": 4,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "25",
         "swc": "1.5",
         "spec": [
@@ -326,6 +342,7 @@
     "id": 9004,
     "army": "Mercenary",
     "isc": "Highlander Caterans",
+    "legacy_isc": "Highlander Caterans",
     "name": "Cateran",
     "type": "LI",
     "imp": "",
@@ -350,6 +367,7 @@
       {
         "id": 1,
         "name": "T2 Sniper Rifle",
+        "legacy_code": "T2 Sniper Rifle",
         "cost": "24",
         "swc": "1",
         "spec": [],
@@ -364,6 +382,7 @@
       {
         "id": 2,
         "name": "Sniper Rifle",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -381,6 +400,7 @@
     "id": 9005,
     "army": "Mercenary",
     "isc": "McMurrough",
+    "legacy_isc": "McMurrough",
     "name": "McMurrough",
     "type": "WB",
     "imp": "X",
@@ -406,6 +426,7 @@
       {
         "id": 1,
         "name": "Chain Rifle",
+        "legacy_code": "Default",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -424,6 +445,7 @@
     "id": 9006,
     "army": "Mercenary",
     "isc": "Kempeitai",
+    "legacy_isc": "Kempeitai",
     "name": "Kempei",
     "type": "LI",
     "imp": "",
@@ -448,6 +470,7 @@
       {
         "id": 1,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -465,6 +488,7 @@
       {
         "id": 2,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -485,6 +509,7 @@
     "id": 9007,
     "army": "Mercenary",
     "isc": "Saito Tōgan",
+    "legacy_isc": "Saito Tōgan",
     "name": "Saito Tōgan",
     "type": "SK",
     "imp": "",
@@ -511,6 +536,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -530,6 +556,7 @@
     "id": 9008,
     "army": "Mercenary",
     "isc": "Miyamoto Mushashi",
+    "legacy_isc": "Miyamoto Mushashi",
     "name": "Miyamoto Mushashi",
     "type": "WB",
     "imp": "",
@@ -555,6 +582,7 @@
       {
         "id": 1,
         "name": "Chain Rifle",
+        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -574,6 +602,7 @@
     "id": 9009,
     "army": "Mercenary",
     "isc": "Avicenna, Mercenary Doctor",
+    "legacy_isc": "Avicenna",
     "name": "Avicenna",
     "type": "LI",
     "imp": "",
@@ -598,6 +627,7 @@
       {
         "id": 1,
         "name": "Doctor",
+        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -616,6 +646,7 @@
     "id": 9010,
     "army": "Mercenary",
     "isc": "Father Lucien Sforza",
+    "legacy_isc": "Father Lucien Sforza",
     "name": "Sforza",
     "type": "LI",
     "imp": "",
@@ -639,6 +670,7 @@
       {
         "id": 1,
         "name": "Viral Rifle",
+        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -658,6 +690,7 @@
     "id": 9011,
     "army": "Mercenary",
     "isc": "Señor Massacre",
+    "legacy_isc": "Señor Massacre",
     "name": "Señor Massacre",
     "type": "WB",
     "imp": "F",
@@ -683,6 +716,7 @@
       {
         "id": 1,
         "name": "Breaker Combi",
+        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -700,6 +734,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -756,6 +791,7 @@
     "id": 9012,
     "army": "Mercenary",
     "isc": "Valerya Gromoz, Mercenary Hacker",
+    "legacy_isc": "Valerya Gromoz, Mercenary Hacker",
     "name": "Valerya Gromoz",
     "type": "LI",
     "imp": "",
@@ -778,6 +814,7 @@
       {
         "id": 1,
         "name": "Hacker",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -796,6 +833,7 @@
     "id": 9013,
     "army": "Mercenary",
     "isc": "Kaplan Tactical Services (KTS)",
+    "legacy_isc": "KTS, Kaplan Tactical Services",
     "name": "Kaplan",
     "type": "LI",
     "imp": "",
@@ -819,6 +857,7 @@
       {
         "id": 1,
         "name": "ADHL",
+        "legacy_code": "ADHL",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -835,6 +874,7 @@
       {
         "id": 2,
         "name": "Blitzen",
+        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -850,6 +890,7 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle",
+        "legacy_code": "MULTI Sniper Rifle",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -864,6 +905,7 @@
       {
         "id": 4,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -878,6 +920,7 @@
       {
         "id": 5,
         "name": "Engineer ADHL",
+        "legacy_code": "Engineer ADHL",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -896,6 +939,7 @@
       {
         "id": 6,
         "name": "Engineer Blitzen",
+        "legacy_code": "Engineer Blitzen",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -913,6 +957,7 @@
       {
         "id": 7,
         "name": "Doctor",
+        "legacy_code": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -934,6 +979,7 @@
     "id": 9014,
     "army": "Mercenary",
     "isc": "Yojimbo, Sword for Hire",
+    "legacy_isc": "Yojimbo",
     "name": "Yojimbo",
     "ava": "1",
     "spec": [],
@@ -1002,6 +1048,7 @@
       {
         "id": 1,
         "name": "Contender",
+        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -1022,6 +1069,7 @@
     "id": 9015,
     "army": "Mercenary",
     "isc": "Scarface",
+    "legacy_isc": "Scarface",
     "name": "Scarface",
     "ava": "1",
     "spec": [],
@@ -1033,7 +1081,6 @@
         "imp": "F",
         "irr": "",
         "cube": "X",
-        "hackable": "X",
         "mov": "6-4",
         "cc": "19",
         "bs": "13",
@@ -1043,6 +1090,7 @@
         "bts": "6",
         "w": "3",
         "s": "7",
+        "hackable": "X",
         "spec": [
           "ECM",
           "V: Courage",
@@ -1064,7 +1112,6 @@
         "imp": "",
         "irr": "",
         "cube": "X",
-        "hackable": "",
         "mov": "4-4",
         "cc": "13",
         "bs": "11",
@@ -1074,6 +1121,7 @@
         "bts": "3",
         "w": "1",
         "s": "2",
+        "hackable": "",
         "ava": "1",
         "spec": [
           "CH: Mimetism",
@@ -1098,7 +1146,6 @@
         "id": 3,
         "name": "Pilot",
         "type": "LI",
-        "hackable": "",
         "mov": "4-4",
         "cc": "15",
         "bs": "12",
@@ -1107,6 +1154,7 @@
         "arm": "0",
         "bts": "0",
         "w": "1",
+        "hackable": "",
         "ava": "",
         "spec": [
           "Pilot",
@@ -1125,6 +1173,7 @@
       {
         "id": 1,
         "name": "Mk12",
+        "legacy_code": "Default",
         "cost": "68",
         "swc": "1.5",
         "spec": [],
@@ -1142,6 +1191,7 @@
     "id": 9016,
     "army": "Mercenary",
     "isc": "Anaconda",
+    "legacy_isc": "Anaconda",
     "name": "Anaconda",
     "ava": "1",
     "spec": [],
@@ -1206,6 +1256,7 @@
       {
         "id": 1,
         "name": "Spitfire",
+        "legacy_code": "Default",
         "cost": "62",
         "swc": "2",
         "spec": [],
@@ -1220,6 +1271,7 @@
     "id": 9017,
     "army": "Mercenary",
     "isc": "Warcor",
+    "legacy_isc": "Warcor",
     "name": "Warcor",
     "type": "LI",
     "imp": "",
@@ -1242,6 +1294,7 @@
       {
         "id": 1,
         "name": "Sixth Sense",
+        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [
@@ -1258,6 +1311,7 @@
       {
         "id": 2,
         "name": "Aerocam",
+        "legacy_code": "Aerocam",
         "cost": "3",
         "swc": "0",
         "spec": [
@@ -1277,6 +1331,7 @@
     "id": 9018,
     "army": "Mercenary",
     "isc": "Authorized Bounty Hunters",
+    "legacy_isc": "Authorized Bounty Hunters",
     "name": "Bounty Hunter",
     "type": "LI",
     "imp": "",
@@ -1300,6 +1355,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1314,6 +1370,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1328,6 +1385,7 @@
       {
         "id": 3,
         "name": "Sniper Rifle",
+        "legacy_code": "Sniper Rifle",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -1342,6 +1400,7 @@
       {
         "id": 4,
         "name": "Spitfire",
+        "legacy_code": "Spitfire",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -1359,6 +1418,7 @@
     "id": 9019,
     "army": "Mercenary",
     "isc": "Miranda Ashcroft",
+    "legacy_isc": "Miranda Ashcroft",
     "name": "Miranda Ashcroft",
     "image": "Authorized Bounty Hunters",
     "type": "LI",
@@ -1384,6 +1444,7 @@
       {
         "id": 1,
         "name": "Combi",
+        "legacy_code": "Default",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1399,6 +1460,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1417,6 +1479,7 @@
     "id": 9020,
     "army": "Mercenary",
     "isc": "CSU, Corporate Security Unit",
+    "legacy_isc": "CSU, Corporate Security Unit",
     "name": "CSU",
     "type": "LI",
     "imp": "",
@@ -1440,6 +1503,7 @@
       {
         "id": 1,
         "name": "Breaker Rifle",
+        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1454,6 +1518,7 @@
       {
         "id": 2,
         "name": "Combi",
+        "legacy_code": "Combi",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1469,6 +1534,7 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1487,6 +1553,7 @@
     "id": 9021,
     "army": "Mercenary",
     "isc": "Wardrivers",
+    "legacy_isc": "Wardrivers",
     "name": "Wardriver",
     "type": "LI",
     "imp": "",
@@ -1507,6 +1574,7 @@
       {
         "id": 1,
         "name": "Hacker",
+        "legacy_code": "Default",
         "cost": "19",
         "swc": "1",
         "spec": [
@@ -1523,6 +1591,7 @@
       {
         "id": 2,
         "name": "Defensive Hacking Device",
+        "legacy_code": "Defensive Hacking Device",
         "cost": "17",
         "swc": "0.5",
         "spec": [
@@ -1542,6 +1611,7 @@
     "id": 9022,
     "army": "Mercenary",
     "isc": "Armand 'Le Muet'",
+    "legacy_isc": "Armand 'Le Muet'",
     "name": "Armand",
     "ava": "1",
     "spec": [],
@@ -1598,6 +1668,7 @@
       {
         "id": 1,
         "name": "Minelayer",
+        "legacy_code": "Default",
         "cost": "42",
         "swc": "1.5",
         "spec": [
@@ -1617,6 +1688,7 @@
       {
         "id": 2,
         "name": "MSV 1",
+        "legacy_code": "MSV 1",
         "cost": "45",
         "swc": "1.5",
         "spec": [
@@ -1638,6 +1710,7 @@
     "id": 9023,
     "army": "Mercenary",
     "isc": "Krakot Renegades, Morat Fugitives",
+    "legacy_isc": "Krakot Renegades, Morat Fugitives",
     "name": "Krakot",
     "ava": "2",
     "spec": [
@@ -1673,6 +1746,7 @@
       {
         "id": 1,
         "name": "Dual SMG",
+        "legacy_code": "Dual SMG",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1688,6 +1762,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
+        "legacy_code": "Boarding Shotgun",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1703,6 +1778,7 @@
       {
         "id": 3,
         "name": "Dual Chain Rifle",
+        "legacy_code": "Dual Chain Rifle",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1718,6 +1794,7 @@
       {
         "id": 4,
         "name": "SMG",
+        "legacy_code": "SMG",
         "cost": "15",
         "swc": "0",
         "spec": [],

@@ -15,5 +15,5 @@ file_list = [
 ]
 
 for file in file_list:
-	os.system("scripts\\remove_legacy.py " + file)
+	os.system("scripts\\rename_codes.py " + file)
 	os.system("scripts\\clean_json.py " + file)

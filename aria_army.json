@@ -3,6 +3,7 @@
     "id": 3999,
     "army": "Ariadna",
     "name": "Ariadna",
+    "legacy_name": "Ariadna",
     "units": [
       {
         "comment": "Line Kazak",

@@ -2,7 +2,9 @@
   {
     "id": 1996,
     "army": "PanOceania",
+    "army_id": 1999,
     "name": "Military Orders",
+    "legacy_name": "Military Orders",
     "units": [
       {
         "comment": "Fusiliers",
@@ -18,30 +20,63 @@
           {
             "comment": "Infiltrator MULTI Sniper Rifle",
             "id": 1,
-            "swc": "1.5"
+            "hide": true
           },
           {
             "comment": "Infiltrator Observer",
             "id": 2,
-            "swc": "0"
+            "hide": true
           },
           {
             "comment": "MSV L2",
             "id": 3,
-            "swc": "1.5"
+            "hide": true
           },
           {
             "comment": "Hacker",
             "id": 4,
-            "swc": "0.5"
+            "hide": true
           },
           {
             "comment": "Combi Rifle + Auxbot",
             "id": 5,
-            "swc": "0"
+            "hide": true
+          },
+          {
+            "comment": "HRL + Auxbot",
+            "id": 11,
+            "hide": true
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Specialist Sergeants cannot be members of a Fireteam"
+      },
+      {
+        "comment": "Spec. Sergeants",
+        "id": 1031,
+        "ava": "T"
+      },
+      {
+        "comment": "Crusader Brethren",
+        "id": 1048,
+        "ava": "4",
+        "childs": [
+          {
+            "comment": "HMG",
+            "id": 2,
+            "swc": "1.5"
+          },
+          {
+            "comment": "Spitfire",
+            "id": 5,
+            "swc": "1.5"
+          }
+        ]
+      },
+      {
+        "comment": "Black Friars",
+        "id": 1051,
+        "ava": "2"
       },
       {
         "comment": "Knights Hospitaller",
@@ -53,18 +88,6 @@
         "comment": "Knights of Montesa",
         "id": 1033,
         "ava": "4"
-      },
-      {
-        "comment": "Crusader Brethren",
-        "id": 1048,
-        "ava": "4",
-        "childs": [
-          {
-            "comment": "HMG",
-            "id": 2,
-            "swc": "1.5"
-          }
-        ]
       },
       {
         "comment": "Knights Of Santiago",
@@ -80,19 +103,19 @@
       {
         "comment": "Teutonic Knights",
         "id": 1035,
-        "ava": "4",
-        "linkable": true
-      },
-      {
-        "comment": "Magister Knights",
-        "id": 1036,
-        "ava": "6",
-        "linkable": true
+        "ava": "4"
       },
       {
         "comment": "Father-Knights",
         "id": 1008,
         "ava": "3"
+      },
+      {
+        "comment": "Magister Knights",
+        "id": 1036,
+        "ava": "6",
+        "linkable": true,
+        "note": "Fireteam: Core requires 1-2 Knights Hospitaller or 1-2 Knights of Santiago"
       },
       {
         "comment": "Seraphs",
@@ -103,13 +126,15 @@
         "comment": "Father-Officer Gabriele De Fersen",
         "id": 1029,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Joan and 0-3 Knights Hospitaller"
       },
       {
         "comment": "Joan of Arc",
         "id": 1022,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Knights Hospitaller or Knights of Santiago"
       },
       {
         "comment": "Joan of Arc 2.0 (Mobility Armor)",
@@ -176,13 +201,15 @@
         "comment": "Fusilier Indigo Bipandra",
         "id": 1046,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Fusiliers"
       },
       {
         "comment": "Indigo Brother Konstantinos",
         "id": 1047,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Order Sergeants (non-specialist version only)"
       },
       {
         "comment": "Warcor",

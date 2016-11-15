@@ -3,6 +3,7 @@
     "id": 3999,
     "army": "Ariadna",
     "name": "Ariadna",
+    "legacy_name": "Ariadna",
     "units": [
       {
         "comment": "Line Kazak",
@@ -82,11 +83,25 @@
       },
       {
         "comment": "9th Wulver Grenadiers",
-        "id": 3020
+        "id": 3020,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Caledonian Mormaers",
-        "id": 3021
+        "id": 3021,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 5,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Caledonian Volunteers",
@@ -172,7 +187,14 @@
       },
       {
         "comment": "Marauders, 5307th Ranger Unit",
-        "id": 3041
+        "id": 3041,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Mavericks, 9th Motorized Recon Bat.",
@@ -193,6 +215,14 @@
       {
         "comment": "Col. Yevgueni Voronin",
         "id": 3046
+      },
+      {
+        "comment": "Blackjacks",
+        "id": 3047
+      },
+      {
+        "comment": "Unknown Ranger",
+        "id": 3048
       },
       {
         "comment": "Wardrivers",

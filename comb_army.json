@@ -3,6 +3,7 @@
     "id": 6999,
     "army": "Combined Army",
     "name": "Combined Army",
+    "legacy_name": "Combined Army",
     "units": [
       {
         "comment": "Morat Vanguard Infantry",
@@ -90,7 +91,14 @@
       },
       {
         "comment": "Kurgat Reg. of Assault Engineers",
-        "id": 6022
+        "id": 6022,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Rasyat Diplomatic Division",
@@ -146,7 +154,14 @@
       },
       {
         "comment": "Yaogat Strike Infantry",
-        "id": 6036
+        "id": 6036,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Zerat Special Missions Regiment",
@@ -194,7 +209,14 @@
       },
       {
         "comment": "Suryats",
-        "id": 6048
+        "id": 6048,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Oznat",
@@ -211,6 +233,18 @@
       {
         "comment": "Umbra Samaritans",
         "id": 6052
+      },
+      {
+        "comment": "Nexus Operatives",
+        "id": 6053
+      },
+      {
+        "comment": "Xeodron Batroids",
+        "id": 6054
+      },
+      {
+        "comment": "Overdron Batroids",
+        "id": 6055
       },
       {
         "comment": "Armand 'Le Muet'",

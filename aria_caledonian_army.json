@@ -2,7 +2,9 @@
   {
     "id": 3998,
     "army": "Ariadna",
+    "army_id": 3999,
     "name": "Caledonian Highlander Army",
+    "legacy_name": "Caledonian Highlander Army",
     "abbr": "Caledonian Army",
     "units": [
       {
@@ -11,22 +13,18 @@
         "ava": "T",
         "childs": [
           {
+            "comment": "LT is 0 SWC in CHA",
             "id": 1,
-            "swc": 0
+            "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 3rd Grey Rifle"
       },
       {
         "comment": "Highlander Caterans",
         "id": 3025,
-        "ava": "6"
-      },
-      {
-        "comment": "3rd Highlander Greys",
-        "id": 3019,
-        "ava": "5",
-        "linkable": true
+        "ava": "4"
       },
       {
         "comment": "Scot (2nd Battalion)",
@@ -40,9 +38,16 @@
         "linkable": true
       },
       {
+        "comment": "3rd Highlander Greys",
+        "id": 3019,
+        "ava": "5",
+        "linkable": true
+      },
+      {
         "comment": "Caledonian Mormaers",
         "id": 3021,
-        "ava": "5"
+        "ava": "3",
+        "note": "Fireteam: Haris may 1 3rd Grey Rifle"
       },
       {
         "comment": "S.A.S.",
@@ -59,7 +64,8 @@
         "comment": "45th Highlanders",
         "id": 3013,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with William Wallace Lieutenant"
       },
       {
         "comment": "2nd Irregular Cameronians Reg.",
@@ -74,7 +80,7 @@
       {
         "comment": "112, Emergency Service",
         "id": 3017,
-        "ava": "3"
+        "ava": "2"
       },
       {
         "comment": "Dozers, Field Engineers",
@@ -90,7 +96,8 @@
         "comment": "William Wallace",
         "id": 3029,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Lieutenant may join any Fireteam: Core or Haris"
       },
       {
         "comment": "Intel Spec-Ops",
@@ -101,7 +108,8 @@
         "comment": "Volunteer Intel Isobel McGregor",
         "id": 3032,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Volunteers and up to 1 3rd Grey Rifle"
       },
       {
         "comment": "McMurrough",
@@ -111,6 +119,11 @@
       {
         "comment": "Warcor",
         "id": 9017,
+        "ava": "1"
+      },
+      {
+        "comment": "Wardrivers",
+        "id": 9021,
         "ava": "1"
       }
     ]

@@ -2,7 +2,9 @@
   {
     "id": 4997,
     "army": "Haqqislam",
+    "army_id": 4999,
     "name": "Hassassin Bahram",
+    "legacy_name": "Hassassin Bahram",
     "units": [
       {
         "comment": "Daylami Infantry",
@@ -22,9 +24,9 @@
         "linkable": true
       },
       {
-        "comment": "Hassassin Farzans",
-        "id": 4029,
-        "ava": "3"
+        "comment": "Hassassin Barid",
+        "id": 4040,
+        "ava": "2"
       },
       {
         "comment": "Hassassin Muyibs",
@@ -47,7 +49,12 @@
         "comment": "Asawira Regiment",
         "id": 4025,
         "ava": "4",
-        "linkable": true
+        "note": "Fireteam: Haris may include up to 2 Muyibs"
+      },
+      {
+        "comment": "Hassassin Ayyar",
+        "id": 4047,
+        "ava": "2"
       },
       {
         "comment": "Hassassin Fiday",
@@ -55,9 +62,9 @@
         "ava": "2"
       },
       {
-        "comment": "Hassassin Barid",
-        "id": 4040,
-        "ava": "2"
+        "comment": "Hassassin Farzans",
+        "id": 4029,
+        "ava": "3"
       },
       {
         "comment": "Muttawi'ah",
@@ -72,7 +79,7 @@
       {
         "comment": "Rafiq Remote",
         "id": 4017,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Shihab Remote",
@@ -113,7 +120,8 @@
         "comment": "Hassassin Husam Yasbir",
         "id": 4038,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Muyibs"
       },
       {
         "comment": "Warcor",

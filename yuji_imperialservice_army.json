@@ -2,49 +2,55 @@
   {
     "id": 2997,
     "army": "Yu Jing",
+    "army_id": 2999,
     "name": "Imperial Service",
+    "legacy_name": "Imperial Service",
     "units": [
       {
         "comment": "Celestial Guard",
         "id": 2022,
         "ava": "T",
-        "linkable": true
-      },
-      {
-        "comment": "Zhànying Imperial Agents",
-        "id": 2003,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Imperial Agent, Pheasant Rank",
-        "id": 2029,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Imperial Agents, Crane Rank",
-        "id": 2031,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Wu Ming",
-        "id": 2007,
-        "ava": "5",
-        "linkable": true
-      },
-      {
-        "comment": "Hsien",
-        "id": 2010,
-        "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Core with up to 3 Crane; Control Device profile may Core with 1-4 Kuang Shi"
       },
       {
         "comment": "Bao Troop",
         "id": 2045,
         "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Core with 1 Pheasant and up to 4 Bao; may join Pheasant Haris"
+      },
+      {
+        "comment": "Zhànying Imperial Agents",
+        "id": 2003,
+        "ava": "4",
+        "note": "1 Hsien may join Haris; may join Wu Ming Core"
+      },
+      {
+        "comment": "Imperial Agent, Pheasant Rank",
+        "id": 2029,
+        "ava": "4",
+        "note": "Core with 1 Pheasant and up to 4 Bao; Bao may join Haris"
+      },
+      {
+        "comment": "Imperial Agents, Crane Rank",
+        "id": 2031,
+        "ava": "5",
+        "linkable": true,
+        "note": "Core with Celestial Guard and up to 3 Crane"
+      },
+      {
+        "comment": "Wu Ming",
+        "id": 2007,
+        "ava": "5",
+        "linkable": true,
+        "note": "Core with up to 1 Zhanying"
+      },
+      {
+        "comment": "Hsien",
+        "id": 2010,
+        "ava": "4",
+        "note": "1 may join Zhanying Haris"
       },
       {
         "comment": "Su-Jian Immediate Action Unit",
@@ -57,15 +63,21 @@
         "ava": "1"
       },
       {
+        "comment": "Kǎnrèn Counter-Insurgency Group",
+        "id": 2048,
+        "ava": "3"
+      },
+      {
         "comment": "Kuang Shi",
         "id": 2027,
         "ava": "8",
-        "linkable": true
+        "linkable": true,
+        "note": "Core with 1 Celestial Guard Kuang Shi Control Device"
       },
       {
         "comment": "Dakini Tacbots",
         "id": 7004,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Garuda Tacbots",
@@ -133,14 +145,9 @@
         "ava": "1"
       },
       {
-        "comment": "Kǎnrèn Counter-Insurgency Group",
-        "id": 2048,
-        "ava": "3"
-      },
-      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
-        "ava": "3"
+        "ava": "2"
       },
       {
         "comment": "Warcor",

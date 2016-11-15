@@ -3,6 +3,7 @@
     "id": 5999,
     "army": "Nomads",
     "name": "Nomads",
+    "legacy_name": "Nomads",
     "units": [
       {
         "comment": "Alguaciles",
@@ -166,7 +167,14 @@
       },
       {
         "comment": "Riot Grrls",
-        "id": 5041
+        "id": 5041,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Vortex Spec-Ops",
@@ -178,11 +186,22 @@
       },
       {
         "comment": "Wildcats, Polyvalent Tactical Unit",
-        "id": 5044
+        "id": 5044,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Gecko",
         "id": 5045
+      },
+      {
+        "comment": "Taskmaster",
+        "id": 5046
       },
       {
         "comment": "Authorized Bounty Hunters",

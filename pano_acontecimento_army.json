@@ -2,7 +2,9 @@
   {
     "id": 1998,
     "army": "PanOceania",
+    "army_id": 1999,
     "name": "Shock Army of Acontecimento",
+    "legacy_name": "Shock Army of Acontecimento",
     "abbr": "Acontecimento",
     "units": [
       {
@@ -26,14 +28,13 @@
       {
         "comment": "Bagh-Mari",
         "id": 1003,
-        "ava": "4",
+        "ava": "5",
         "linkable": true
       },
       {
-        "comment": "Lieutenant Stephen Rao",
-        "id": 1049,
-        "ava": "1",
-        "linkable": true
+        "comment": "Orc Troops",
+        "id": 1006,
+        "ava": "3"
       },
       {
         "comment": "Guarda de Assalto",
@@ -61,13 +62,30 @@
         "ava": "2"
       },
       {
+        "comment": "Teucer",
+        "id": 7039,
+        "ava": "1"
+      },
+      {
         "comment": "Kirpal Singh, Akalis Sergeant",
         "id": 1042,
         "ava": "1"
       },
       {
-        "comment": "Toni Macayana, Tikbalangs Lieutenant",
-        "id": 1043,
+        "comment": "Lieutenant Stephen Rao",
+        "id": 1049,
+        "ava": "1",
+        "linkable": true,
+        "note": "May join a Fireteam: Core or Haris of Bagh Mari"
+      },
+      {
+        "comment": "Drakios",
+        "id": 7040,
+        "ava": "1"
+      },
+      {
+        "comment": "Scylla",
+        "id": 7041,
         "ava": "1"
       },
       {
@@ -88,12 +106,12 @@
       {
         "comment": "Fugazi Dronbot",
         "id": 1021,
-        "ava": "2"
+        "ava": "3"
       },
       {
         "comment": "Armbots: Bulleteers",
         "id": 1040,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Armbots: Peacemakers",

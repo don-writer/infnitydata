@@ -2,14 +2,15 @@
   {
     "id": 6998,
     "army": "Combined Army",
+    "army_id": 6999,
     "name": "Shasvastii Expeditionary Force",
+    "legacy_name": "Shasvastii Expeditionary Force",
     "abbr": "Shasvastii Exped. Force",
     "units": [
       {
         "comment": "Shasvastii Seed-Soldiers",
         "id": 6030,
-        "ava": "T",
-        "linkable": true
+        "ava": "T"
       },
       {
         "comment": "Shasvastii Cadmus",
@@ -41,16 +42,16 @@
       {
         "comment": "Shasvastii Gwailos",
         "id": 6026,
-        "ava": "4",
+        "ava": "5",
         "childs": [
           {
             "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 0,
+            "id": 1,
             "swc": "0"
           },
           {
             "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 1,
+            "id": 2,
             "swc": "0"
           }
         ],
@@ -65,7 +66,8 @@
       {
         "comment": "Shasvastii Caliban (Infiltration)",
         "id": 6045,
-        "ava": "5"
+        "ava": "5",
+        "note": "Caliban with Infiltration cannot join a Fireteam"
       },
       {
         "comment": "Shasvastii Caliban (Developed)",
@@ -76,7 +78,7 @@
       {
         "comment": "The Shrouded",
         "id": 6010,
-        "ava": "3"
+        "ava": "4"
       },
       {
         "comment": "Malignos",
@@ -121,7 +123,7 @@
       {
         "comment": "E-Drone",
         "id": 6051,
-        "ava": "2"
+        "ava": "1"
       },
       {
         "comment": "Slave Drones",
@@ -144,7 +146,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "May join any Fireteam: Core"
       },
       {
         "comment": "Corax Spec-Ops",
@@ -160,7 +163,8 @@
         "comment": "Shasvastii Corax Hasht",
         "id": 6031,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Caliban or Gwailo"
       }
     ]
   }

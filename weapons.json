@@ -233,7 +233,7 @@
     "note": ""
   },
   {
-    "name": "CrazyKoala",
+    "name": "CrazyKoalas",
     "burst": "1",
     "ammo": "Shock",
     "damage": "15",
@@ -247,7 +247,42 @@
     "max_mod": "--",
     "cc": "No",
     "template": "No",
-    "note": ""
+    "uses": "2",
+    "note": "Deployable, Non-Lootable"
+  },
+  {
+    "name": "MadTraps",
+    "burst": "1",
+    "ammo": "Adhesive",
+    "damage": "--",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "No",
+    "note": "Deployable, Non-Lootable"
+  },
+  {
+    "name": "SymbioBugs",
+    "burst": "1",
+    "ammo": "Pheromonic",
+    "damage": "13",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "No",
+    "note": "Deployable, Non-Lootable"
   },
   {
     "name": "Assault Pistol",
@@ -480,6 +515,8 @@
   },
   {
     "name": "D-Charges",
+    "mode": "(Deployable Mode)",
+    "alt_profile": "D-Charges (CC Mode)",
     "burst": "1",
     "ammo": "AP+EXP",
     "damage": "14",
@@ -495,6 +532,24 @@
     "template": "No",
     "uses": "3",
     "note": "Anti-materiel, Deployable"
+  },
+  {
+    "name": "D-Charges (CC Mode)",
+    "burst": "1",
+    "ammo": "AP+EXP",
+    "damage": "14",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "Yes",
+    "template": "No",
+    "uses": "3",
+    "note": "CC(-3)"
   },
   {
     "name": "D.E.P.",
@@ -684,21 +739,40 @@
     "max_mod": "--",
     "cc": "Yes",
     "template": "No",
-    "note": "2 Turns, IMM-2, Non-Lootable, Non-Lethal"
+    "note": "2 Turns, Automatic (7), State: IMM-2, Non-Lootable, Non-Lethal"
   },
   {
     "name": "Feuerbach",
+    "mode": "(Burst Mode)",
+    "alt_profile": "Feuerbach (Explosive Mode)",
     "burst": "2",
     "ammo": "AP+DA",
     "damage": "14",
     "short_dist": "8",
-    "short_mod": "0",
-    "medium_dist": "24",
-    "medium_mod": "3",
+    "short_mod": "-3",
+    "medium_dist": "16",
+    "medium_mod": "0",
     "long_dist": "32",
-    "long_mod": "0",
+    "long_mod": "+3",
     "max_dist": "48",
-    "max_mod": "-6",
+    "max_mod": "0",
+    "cc": "No",
+    "template": "No",
+    "note": "Anti-materiel"
+  },
+  {
+    "name": "Feuerbach (Explosive Mode)",
+    "burst": "1",
+    "ammo": "EXP",
+    "damage": "14",
+    "short_dist": "8",
+    "short_mod": "-3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "32",
+    "long_mod": "+3",
+    "max_dist": "48",
+    "max_mod": "0",
     "cc": "No",
     "template": "No",
     "note": "Anti-materiel"
@@ -903,7 +977,7 @@
   },
   {
     "name": "Smart MULTI Sniper Rifle (Anti-materiel Mode)",
-    "alt_profile": "Smart MULTI Sniper Rifle (Guided Mode)",
+    "alt_profile": "Smart MULTI Sniper Rifle (Stun Mode)",
     "burst": "2",
     "ammo": "DA",
     "damage": "15",
@@ -918,6 +992,24 @@
     "cc": "No",
     "template": "No",
     "note": "Anti-materiel, Medium MULTI"
+  },
+  {
+    "name": "Smart MULTI Sniper Rifle (Stun Mode)",
+    "alt_profile": "Smart MULTI Sniper Rifle (Guided Mode)",
+    "burst": "1",
+    "ammo": "Stun",
+    "damage": "15",
+    "short_dist": "8",
+    "short_mod": "-3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "48",
+    "long_mod": "3",
+    "max_dist": "96",
+    "max_mod": "-3",
+    "cc": "No",
+    "template": "No",
+    "note": "Medium MULTI, Non-Lethal"
   },
   {
     "name": "Smart MULTI Sniper Rifle (Guided Mode)",
@@ -953,7 +1045,7 @@
     "max_mod": "0",
     "cc": "No",
     "template": "Impact Template (Circular)",
-    "note": "Anti-materiel, Guided"
+    "note": "Anti-materiel"
   },
   {
     "name": "Smart Missile Launcher (Guided Mode)",
@@ -970,7 +1062,7 @@
     "max_mod": "--",
     "cc": "No",
     "template": "Impact Template (Circular)",
-    "note": "Anti-materiel"
+    "note": "Anti-materiel, Guided"
   },
   {
     "name": "HMC",
@@ -994,6 +1086,7 @@
   },
   {
     "name": "HMC (Anti-Materiel Mode)",
+    "alt_profile": "HMC (Stun Mode)",
     "burst": "1",
     "ammo": "DA",
     "damage": "15",
@@ -1008,6 +1101,23 @@
     "cc": "No",
     "template": "No",
     "note": "Anti-materiel, Light MULTI, Non-Lootable"
+  },
+  {
+    "name": "HMC (Stun Mode)",
+    "burst": "1",
+    "ammo": "Stun",
+    "damage": "15",
+    "short_dist": "8",
+    "short_mod": "-3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "32",
+    "long_mod": "3",
+    "max_dist": "48",
+    "max_mod": "0",
+    "cc": "No",
+    "template": "No",
+    "note": "Light MULTI, Non-Lethal, Non-Lootable"
   },
   {
     "name": "HMG",
@@ -1062,9 +1172,9 @@
     "note": "Non-Lootable, Speculative Fire"
   },
   {
-    "name": "Smart Rocket Launcher",
+    "name": "Smart Heavy Rocket Launcher",
     "mode": "(Blast Mode)",
-    "alt_profile": "Smart Rocket Launcher (Guided Mode)",
+    "alt_profile": "Smart Heavy Rocket Launcher (Guided Mode)",
     "burst": "2",
     "ammo": "FIRE",
     "damage": "14",
@@ -1081,7 +1191,7 @@
     "note": ""
   },
   {
-    "name": "Smart Rocket Launcher (Guided Mode)",
+    "name": "Smart Heavy Rocket Launcher (Guided Mode)",
     "burst": "1",
     "ammo": "FIRE",
     "damage": "14",
@@ -1348,6 +1458,7 @@
   },
   {
     "name": "MULTI HMG (Anti-Materiel Mode)",
+    "alt_profile": "MULTI HMG (Stun Mode)",
     "burst": "1",
     "ammo": "EXP",
     "damage": "15",
@@ -1362,6 +1473,23 @@
     "cc": "No",
     "template": "No",
     "note": "Anti-materiel, Heavy MULTI, Non-Lootable"
+  },
+  {
+    "name": "MULTI HMG (Stun Mode)",
+    "burst": "1",
+    "ammo": "Stun",
+    "damage": "15",
+    "short_dist": "8",
+    "short_mod": "-3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "32",
+    "long_mod": "3",
+    "max_dist": "48",
+    "max_mod": "-3",
+    "cc": "No",
+    "template": "No",
+    "note": "Heavy MULTI, Non-Lethal, Non-Lootable"
   },
   {
     "name": "MULTI Rifle",
@@ -1385,6 +1513,7 @@
   },
   {
     "name": "MULTI Rifle (Anti-Materiel Mode)",
+    "alt_profile": "MULTI Rifle (Stun Mode)",
     "burst": "1",
     "ammo": "DA",
     "damage": "13",
@@ -1399,6 +1528,23 @@
     "cc": "No",
     "template": "No",
     "note": "Anti-materiel, Light MULTI"
+  },
+  {
+    "name": "MULTI Rifle (Stun Mode)",
+    "burst": "1",
+    "ammo": "Stun",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "3",
+    "medium_dist": "16",
+    "medium_mod": "3",
+    "long_dist": "32",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "note": "Light MULTI, Non-Lethal"
   },
   {
     "name": "MULTI Sniper Rifle",
@@ -1421,6 +1567,7 @@
   },
   {
     "name": "MULTI Sniper Rifle (Anti-Materiel Mode)",
+    "alt_profile": "MULTI Sniper Rifle (Stun Mode)",
     "burst": "2",
     "ammo": "DA",
     "damage": "15",
@@ -1437,7 +1584,24 @@
     "note": "Anti-materiel, Medium MULTI"
   },
   {
-    "name": "Marker",
+    "name": "MULTI Sniper Rifle (Stun Mode)",
+    "burst": "1",
+    "ammo": "Stun",
+    "damage": "15",
+    "short_dist": "8",
+    "short_mod": "-3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "48",
+    "long_mod": "3",
+    "max_dist": "96",
+    "max_mod": "-3",
+    "cc": "No",
+    "template": "No",
+    "note": "Medium MULTI, Non-Lethal"
+  },
+  {
+    "name": "Pitcher",
     "burst": "1",
     "ammo": "Dep. Repeater",
     "damage": "--",
@@ -1445,7 +1609,7 @@
     "short_mod": "0",
     "medium_dist": "16",
     "medium_mod": "3",
-    "long_dist": "32",
+    "long_dist": "24",
     "long_mod": "-3",
     "max_dist": "48",
     "max_mod": "-6",
@@ -1611,7 +1775,7 @@
     "max_mod": "--",
     "cc": "No",
     "template": "No",
-    "note": ""
+    "note": "Non-Lethal"
   },
   {
     "name": "Stun Pistol (CC Mode)",
@@ -1628,7 +1792,7 @@
     "max_mod": "--",
     "cc": "Yes",
     "template": "No",
-    "note": ""
+    "note": "Non-Lethal"
   },
   {
     "name": "Pistol",
@@ -2003,6 +2167,24 @@
     "note": ""
   },
   {
+    "name": "AP Spitfire",
+    "burst": "4",
+    "ammo": "AP",
+    "damage": "14",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "24",
+    "medium_mod": "3",
+    "long_dist": "32",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "suppressive": "Yes",
+    "note": ""
+  },
+  {
     "name": "Suppressive Fire",
     "burst": "3",
     "ammo": "*",
@@ -2021,8 +2203,28 @@
   },
   {
     "name": "Submachine Gun",
+    "mode": "(AP Mode)",
+    "alt_profile": "Submachine Gun (Shock Mode)",
     "burst": "3",
     "ammo": "AP",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "24",
+    "long_mod": "-3",
+    "max_dist": "32",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "suppressive": "Yes",
+    "note": ""
+  },
+  {
+    "name": "Submachine Gun (Shock Mode)",
+    "burst": "3",
+    "ammo": "Shock",
     "damage": "13",
     "short_dist": "8",
     "short_mod": "3",
@@ -2140,7 +2342,7 @@
     "max_mod": "--",
     "cc": "Yes",
     "template": "No",
-    "note": ""
+    "note": "Anti-materiel"
   },
   {
     "name": "Uragan MRL",
@@ -2285,41 +2487,6 @@
     "note": ""
   },
   {
-    "name": "Eclipse Grenades",
-    "burst": "1",
-    "ammo": "Eclipse",
-    "damage": "--",
-    "short_dist": "8",
-    "short_mod": "3",
-    "medium_dist": "16",
-    "medium_mod": "-3",
-    "long_dist": "--",
-    "long_mod": "--",
-    "max_dist": "--",
-    "max_mod": "--",
-    "attr": "PH",
-    "cc": "No",
-    "template": "Impact Template (Circular)",
-    "note": "Non-lethal, Special Dodge, Speculative Fire, Targetless"
-  },
-  {
-    "name": "Eclipse Light Grenade Launcher",
-    "burst": "1",
-    "ammo": "Eclipse",
-    "damage": "--",
-    "short_dist": "8",
-    "short_mod": "0",
-    "medium_dist": "16",
-    "medium_mod": "3",
-    "long_dist": "24",
-    "long_mod": "-3",
-    "max_dist": "48",
-    "max_mod": "-6",
-    "cc": "No",
-    "template": "Impact Template (Circular)",
-    "note": "Non-lethal, Special Dodge, Speculative Fire, Targetless"
-  },
-  {
     "name": "Marksman Rifle",
     "burst": "3",
     "ammo": "N",
@@ -2356,7 +2523,25 @@
     "note": ""
   },
   {
-    "name": "Chain-colt",
+    "name": "Shock Marksman Rifle",
+    "burst": "3",
+    "ammo": "Shock",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "-3",
+    "medium_dist": "24",
+    "medium_mod": "3",
+    "long_dist": "40",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "suppressive": "Yes",
+    "note": ""
+  },
+  {
+    "name": "Chain-Colt",
     "burst": "1",
     "ammo": "N",
     "damage": "13",
@@ -2600,7 +2785,7 @@
     "attr": "PH",
     "cc": "No",
     "template": "Impact Template (Circular)",
-    "note": "Speculative Fire"
+    "note": "Non-Lethal, Speculative Fire"
   },
   {
     "name": "Chest Mines",
@@ -2673,6 +2858,111 @@
     "max_mod": "--",
     "attr": "PH",
     "cc": "No",
+    "template": "No",
+    "note": ""
+  },
+  {
+    "name": "Eclipse Grenades",
+    "burst": "1",
+    "ammo": "Eclipse",
+    "damage": "--",
+    "short_dist": "8",
+    "short_mod": "3",
+    "medium_dist": "16",
+    "medium_mod": "-3",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "attr": "PH",
+    "cc": "No",
+    "template": "Impact Template (Circular)",
+    "note": "Non-lethal, Reflective, Special Dodge, Speculative Fire, Targetless"
+  },
+  {
+    "name": "Eclipse Light Grenade Launcher",
+    "burst": "1",
+    "ammo": "Eclipse",
+    "damage": "--",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "16",
+    "medium_mod": "3",
+    "long_dist": "24",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "Impact Template (Circular)",
+    "note": "Non-lethal, Reflective, Special Dodge, Speculative Fire, Targetless"
+  },
+  {
+    "name": "Red Fury",
+    "burst": "4",
+    "ammo": "Shock",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "24",
+    "medium_mod": "3",
+    "long_dist": "40",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "suppressive": "Yes",
+    "note": ""
+  },
+  {
+    "name": "T2 CCW",
+    "burst": "1",
+    "ammo": "T2",
+    "damage": "PH",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "Yes",
+    "template": "No",
+    "note": ""
+  },
+  {
+    "name": "Viral Pistol",
+    "alt_profile": "Viral Pistol (CC Mode)",
+    "burst": "2",
+    "ammo": "Viral",
+    "damage": "12",
+    "short_dist": "8",
+    "short_mod": "3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "24",
+    "long_mod": "-6",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "No",
+    "note": ""
+  },
+  {
+    "name": "Viral Pistol (CC Mode)",
+    "burst": "1",
+    "ammo": "Viral",
+    "damage": "12",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "Yes",
     "template": "No",
     "note": ""
   }

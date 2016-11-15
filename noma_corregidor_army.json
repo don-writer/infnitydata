@@ -2,13 +2,21 @@
   {
     "id": 5998,
     "army": "Nomads",
+    "army_id": 5999,
     "name": "Corregidor Jurisdictional Command",
+    "legacy_name": "Corregidor Jurisdictional Command",
     "abbr": "Corregidor",
     "units": [
       {
         "comment": "Alguaciles",
         "id": 5001,
         "ava": "T",
+        "linkable": true
+      },
+      {
+        "comment": "Wildcats, Polyvalent Tactical Unit",
+        "id": 5044,
+        "ava": "5",
         "linkable": true
       },
       {
@@ -20,12 +28,6 @@
         "comment": "Hellcats",
         "id": 5004,
         "ava": "5"
-      },
-      {
-        "comment": "Wildcats, Polyvalent Tactical Unit",
-        "id": 5044,
-        "ava": "5",
-        "linkable": true
       },
       {
         "comment": "Intruders",
@@ -49,20 +51,21 @@
         "ava": "4"
       },
       {
-        "comment": "Corregidor Bandits",
-        "id": 5013,
-        "ava": "3"
-      },
-      {
         "comment": "Moran, Maasai Hunter",
         "id": 5029,
+        "ava": "2"
+      },
+      {
+        "comment": "Corregidor Bandits",
+        "id": 5013,
         "ava": "2"
       },
       {
         "comment": "Corregidor Jaguars",
         "id": 5015,
         "ava": "5",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core of Señor Massacre and up to 4 Jaguars<br>Fireteam: Haris of Señor Massacre and 2 Jaguars"
       },
       {
         "comment": "Carlota Kowalsky, Tomcats Sergeant",
@@ -107,12 +110,12 @@
       {
         "comment": "Salyut Zonds",
         "id": 5032,
-        "ava": "2"
+        "ava": "1"
       },
       {
         "comment": "Clockmakers",
         "id": 5017,
-        "ava": "1"
+        "ava": "2"
       },
       {
         "comment": "Daktaris",
@@ -128,7 +131,8 @@
         "comment": "Alguacil Vortex Lupe Balboa",
         "id": 5043,
         "ava": "1",
-        "linkable": true
+        "linkable": true,
+        "note": "Fireteam: Core with Alguaciles"
       },
       {
         "comment": "Warcor",

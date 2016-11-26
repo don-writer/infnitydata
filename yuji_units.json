@@ -3968,6 +3968,7 @@
         "mov": "8-2",
         "cc": "8",
         "bs": "12",
+        "wtype": "str",
         "s": "3",
         "spec": [
           "Climbing Plus",

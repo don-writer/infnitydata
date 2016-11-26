@@ -52,7 +52,7 @@
         "note": "Fireteam: Haris may include up to 2 Muyibs"
       },
       {
-        "comment": "Hassassin Ayyar",
+        "comment": "Hassassin Áyyār",
         "id": 4047,
         "ava": "2"
       },
@@ -127,16 +127,11 @@
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"
-      }
+      },
       {
         "comment": "Avicenna",
         "id": 9009,
         "ava": "1"
-      }
-      {
-        "comment": "Áyyār",
-        "id": 4046,
-        "ava": "2"
       }
     ]
   }

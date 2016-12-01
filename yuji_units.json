@@ -5237,5 +5237,77 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2050,
+    "army": "Yu Jing",
+    "isc": "Guǐ Fēng Xi Zhuang",
+    "name": "Xi Zhuang",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "14",
+        "bs": "12",
+        "ph": "10",
+        "wip": "14",
+        "arm": "2",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Shock Immunity",
+          "Number 2",
+          "Forward Observer"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "MadTrap",
+        "type": " ",
+        "hackable": "",
+        "mov": "6-4 ",
+        "cc": " ",
+        "bs": " ",
+        "ph": " ",
+        "wip": " ",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "ava": " ",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MadTraps",
+        "cost": "20",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower",
+          "MadTraps"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

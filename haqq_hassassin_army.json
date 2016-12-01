@@ -124,6 +124,13 @@
         "note": "Fireteam: Core with Muyibs"
       },
       {
+        "comment": "Husam Operative Leila Sharif",
+        "id": 4048,
+        "ava": "1",
+        "linkable": true,
+        "note": "Counts as Ghulam or Muyib for Fireteam composition"
+      },
+      {
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"

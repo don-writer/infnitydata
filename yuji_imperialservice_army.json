@@ -145,6 +145,13 @@
         "ava": "1"
       },
       {
+        "comment": "Guǐ Fēng Xi Zhuang",
+        "id": 2050,
+        "ava": "1",
+        "linkable": true,
+        "note": "Counts as Celestial Guard for Fireteam composition"
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "2"

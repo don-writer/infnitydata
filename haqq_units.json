@@ -4691,5 +4691,46 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4048,
+    "army": "Haqqislam",
+    "isc": "Husam Operative Leila Sharif",
+    "name": "Leila Sharif",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Killer Hacker",
+        "cost": "20",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Shock Marksman Rifle"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

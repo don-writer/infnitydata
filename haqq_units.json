@@ -1983,6 +1983,7 @@
     "isc": "Tarik Mansuri",
     "legacy_isc": "Tarik Mansuri",
     "name": "Tarik Mansuri",
+    "image": 4005,
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -2089,7 +2090,7 @@
     "legacy_isc": "Kasym Beg",
     "name": "Kasym Beg",
     "sharedAva": "Kasym Beg",
-    "image": "Kum Motorized Troops",
+    "image": 4014,
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -2159,7 +2160,7 @@
     "legacy_isc": "Kasym Beg (Lieutenant)",
     "name": "Kasym Beg Lt.",
     "sharedAva": "Kasym Beg",
-    "image": "Kum Motorized Troops",
+    "image": 4014,
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -3141,7 +3142,7 @@
     "isc": "Hussein Al-Djabel",
     "legacy_isc": "Hussein Al-Djabel",
     "name": "Al-Djabel",
-    "image": "Hassassin Fiday",
+    "image": 4013,
     "type": "SK",
     "imp": "",
     "irr": "",
@@ -3515,7 +3516,7 @@
     "isc": "Hassassin Husam Yasbir",
     "legacy_isc": "Hassassin Husam Yasbir",
     "name": "Hassassin Husam Yasbir",
-    "image": "Husam Spec-Ops",
+    "image": 4037,
     "type": "LI",
     "imp": "",
     "irr": "",
@@ -4356,7 +4357,7 @@
     "isc": "Zamira Nazarova",
     "legacy_isc": "Zamira Nazarova",
     "name": "Zamira",
-    "image": "Kum Motorized Troops",
+    "image": 4014,
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -4421,7 +4422,7 @@
     "isc": "Zuleyka Nazarova",
     "legacy_isc": "Zuleyka Nazarova",
     "name": "Zuleyka",
-    "image": "Kum Motorized Troops",
+    "image": 4014,
     "ava": "1",
     "spec": [
       "V: Dogged"
@@ -4486,6 +4487,7 @@
     "isc": "Druze Shock Teams",
     "legacy_isc": "Druze Shock Teams",
     "name": "Shock",
+    "image": 9003,
     "type": "MI",
     "imp": "",
     "irr": "",

@@ -100,7 +100,7 @@
     {
       "name": "Revitalis",
       "type": "Support",
-      "range": "",
+      "range": "Self",
       "att mod": "0",
       "opp mod": "0",
       "damage": "--",
@@ -109,6 +109,6 @@
       "target": "User in Active Symbiont Armor state",
       "effect": "Recover 1 W of Active Symbiont profile",
       "skill": "Short Skill/ARO",
-      "special": "1 Turn; NFB; Reflective"
+      "special": ""
     }
-];
+]

@@ -3366,7 +3366,8 @@
     "spec": [
       "Mechanized Deployment",
       "Religious Troop",
-      "Fireteam: Duo"
+      "Fireteam: Duo",
+      "Assault"
     ],
     "childs": [
       {
@@ -3383,7 +3384,7 @@
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
+          "Breaker Pistol",
           "Shock CCW"
         ]
       },
@@ -3400,7 +3401,7 @@
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
+          "Breaker Pistol",
           "Shock CCW"
         ]
       },
@@ -3416,7 +3417,7 @@
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
+          "Breaker Pistol",
           "Shock CCW"
         ]
       },
@@ -3432,7 +3433,7 @@
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
+          "Breaker Pistol",
           "Shock CCW"
         ]
       },
@@ -3440,7 +3441,7 @@
         "id": 5,
         "name": "Spitfire Lieutenant",
         "cost": "50",
-        "swc": "0",
+        "swc": "2",
         "spec": [
           "Lieutenant"
         ],
@@ -3449,7 +3450,7 @@
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
+          "Breaker Pistol",
           "Shock CCW"
         ]
       },
@@ -3465,7 +3466,7 @@
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
+          "Breaker Pistol",
           "Shock CCW"
         ]
       }

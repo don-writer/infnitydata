@@ -1428,24 +1428,62 @@
     "isc": "Squalos",
     "legacy_isc": "Squalos",
     "name": "Squalo",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "18",
-    "bs": "15",
-    "ph": "17",
-    "wip": "12",
-    "arm": "8",
-    "bts": "6",
-    "w": "3",
-    "s": "7",
     "ava": "2",
-    "spec": [
-      "Advanced ECM",
-      "G: Remote Presence"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "18",
+        "bs": "15",
+        "ph": "17",
+        "wip": "12",
+        "arm": "8",
+        "bts": "6",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "Advanced ECM",
+          "G: Remote Presence"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {
@@ -1501,24 +1539,62 @@
     "isc": "Dragoes",
     "legacy_isc": "Dragoes",
     "name": "Dragao",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "18",
-    "bs": "15",
-    "ph": "17",
-    "wip": "12",
-    "arm": "8",
-    "bts": "6",
-    "w": "3",
-    "s": "7",
     "ava": "1",
-    "spec": [
-      "ECM",
-      "G: Remote Presence"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "18",
+        "bs": "15",
+        "ph": "17",
+        "wip": "12",
+        "arm": "8",
+        "bts": "6",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "G: Remote Presence"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {
@@ -1542,26 +1618,64 @@
     "isc": "Cutters",
     "legacy_isc": "Cutters",
     "name": "Cutter",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "18",
-    "bs": "15",
-    "ph": "17",
-    "wip": "12",
-    "arm": "8",
-    "bts": "6",
-    "w": "3",
-    "s": "7",
     "ava": "1",
-    "spec": [
-      "Aquatic Terrain",
-      "CH: TO Camouflage",
-      "ECM",
-      "G: Remote Presence"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "18",
+        "bs": "15",
+        "ph": "17",
+        "wip": "12",
+        "arm": "8",
+        "bts": "6",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "Aquatic Terrain",
+          "CH: TO Camouflage",
+          "ECM",
+          "G: Remote Presence"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {
@@ -1598,25 +1712,63 @@
     "isc": "Jotums",
     "legacy_isc": "Jotums",
     "name": "Jotum",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "18",
-    "bs": "15",
-    "ph": "18",
-    "wip": "13",
-    "arm": "10",
-    "bts": "9",
-    "w": "3",
-    "s": "7",
-    "ava": "2",
-    "spec": [
-      "ECM",
-      "G: Remote Presence",
-      "Mountain Terrain"
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "18",
+        "bs": "15",
+        "ph": "18",
+        "wip": "13",
+        "arm": "10",
+        "bts": "9",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "G: Remote Presence",
+          "Mountain Terrain"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {
@@ -3743,25 +3895,63 @@
     "isc": "Clausewitz Uhlans",
     "legacy_isc": "Clausewitz Uhlans",
     "name": "Uhlan",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "15",
-    "bs": "15",
-    "ph": "15",
-    "wip": "12",
-    "arm": "6",
-    "bts": "6",
-    "w": "3",
-    "s": "6",
     "ava": "1",
-    "spec": [
-      "CH: Camouflage",
-      "G: Remote Presence",
-      "ECM"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "15",
+        "bs": "15",
+        "ph": "15",
+        "wip": "12",
+        "arm": "6",
+        "bts": "6",
+        "w": "3",
+        "s": "6",
+        "spec": [
+          "CH: Camouflage",
+          "G: Remote Presence",
+          "ECM"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {
@@ -3785,27 +3975,66 @@
     "isc": "Tikbalangs",
     "legacy_isc": "Tikbalangs, Armoured Chasseurs of Acontecimento",
     "name": "Tikbalang",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "17",
-    "bs": "15",
-    "ph": "15",
-    "wip": "12",
-    "arm": "6",
-    "bts": "6",
-    "w": "3",
-    "s": "6",
     "ava": "1",
-    "spec": [
-      "CH: Mimetism",
-      "Climbing Plus",
-      "G: Remote Presence",
-      "Jungle Terrain",
-      "ECM"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "17",
+        "bs": "15",
+        "ph": "15",
+        "wip": "12",
+        "arm": "6",
+        "bts": "6",
+        "w": "3",
+        "s": "6",
+        "ava": "1",
+        "spec": [
+          "CH: Mimetism",
+          "Climbing Plus",
+          "G: Remote Presence",
+          "Jungle Terrain",
+          "ECM"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {
@@ -3891,6 +4120,36 @@
           "cost": "4",
           "swc": "0"
         }
+      },
+      {
+        "id": 3,
+        "name": "Crabbot",
+        "isc": "Crabbot Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
       }
     ],
     "childs": [

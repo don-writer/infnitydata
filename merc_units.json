@@ -1154,11 +1154,13 @@
         "arm": "0",
         "bts": "0",
         "w": "1",
+        "s": "2",
         "hackable": "",
         "ava": "",
         "spec": [
           "Pilot",
-          "V: Courage"
+          "V: Courage",
+          "Specialist Operative"
         ],
         "bsw": [
           "Light Shotgun"

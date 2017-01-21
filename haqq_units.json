@@ -1247,9 +1247,13 @@
         "s": "2",
         "ava": " ",
         "spec": [
-          "Pilot"
+          "Pilot",
+          "Paramedic",
+          "MediKit"
         ],
-        "bsw": [],
+        "bsw": [
+          "Light Shotgun"
+        ],
         "ccw": [
           "Knife",
           "Pistol"

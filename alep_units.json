@@ -957,26 +957,64 @@
     "isc": "Maruts",
     "legacy_isc": "Maruts",
     "name": "Marut",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "18",
-    "bs": "15",
-    "ph": "17",
-    "wip": "15",
-    "arm": "8",
-    "bts": "9",
-    "w": "3",
-    "s": "7",
     "ava": "1",
-    "spec": [
-      "ECM",
-      "G: Remote Presence",
-      "Multispectral Visor L2",
-      "Multiterrain"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "18",
+        "bs": "15",
+        "ph": "17",
+        "wip": "15",
+        "arm": "8",
+        "bts": "9",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "G: Remote Presence",
+          "Multispectral Visor L2",
+          "Multiterrain"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Karkata",
+        "isc": "Karkata Ancillary Remote Unit",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Remote Presence",
+          "Specialist Operative",
+          "Remote Pilot"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Knife"
+        ]
+      }
     ],
     "childs": [
       {

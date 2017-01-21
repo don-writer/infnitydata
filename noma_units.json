@@ -1184,9 +1184,12 @@
         "s": "2",
         "ava": " ",
         "spec": [
-          "Pilot"
+          "Pilot",
+          "Specialist Operative"
         ],
-        "bsw": [],
+        "bsw": [
+          "Submachine Gun"
+        ],
         "ccw": [
           "Knife",
           "Pistol"
@@ -1274,9 +1277,12 @@
         "s": "2",
         "ava": " ",
         "spec": [
-          "Pilot"
+          "Pilot",
+          "Killer Hacking Device"
         ],
-        "bsw": [],
+        "bsw": [
+          "Contender"
+        ],
         "ccw": [
           "Knife",
           "Pistol"
@@ -4466,12 +4472,13 @@
         "ava": " ",
         "spec": [
           "Pilot",
-          "Zero-G"
+          "Zero-G",
+          "Specialist Operative"
         ],
         "bsw": [],
         "ccw": [
           "Knife",
-          "Assault Pistol"
+          "Assault Pistol (2)"
         ]
       }
     ],

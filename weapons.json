@@ -528,7 +528,7 @@
     "long_mod": "--",
     "max_dist": "--",
     "max_mod": "--",
-    "cc": "Yes",
+    "cc": "No",
     "template": "No",
     "uses": "3",
     "note": "Anti-materiel, Deployable"

@@ -1328,7 +1328,7 @@
     "isc": "Neema Saatar",
     "legacy_isc": "Neema Saatar",
     "name": "Neema",
-    "image": "Ectros Regiment",
+    "image": 8003,
     "ava": "1",
     "spec": [],
     "profiles": [
@@ -1493,7 +1493,7 @@
     "isc": "Hatail Aelis Keesan",
     "legacy_isc": "Hatail Aelis Keesan",
     "name": "Hatail Aelis Keesan",
-    "image": "Hatail Spec-Ops",
+    "image": 8014,
     "type": "LI",
     "imp": "",
     "irr": "",

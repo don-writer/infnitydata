@@ -2788,6 +2788,23 @@
     "note": "Non-Lethal, Speculative Fire"
   },
   {
+    "name": "Stun Light Grenade Launcher",
+    "burst": "1",
+    "ammo": "Stun",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "16",
+    "medium_mod": "3",
+    "long_dist": "24",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "Impact Template (Circular)",
+    "note": "Non-lethal, Speculative Fire"
+  },
+  {
     "name": "Chest Mines",
     "alt_profile": "Chest Mines (CC Mode)",
     "burst": "1",

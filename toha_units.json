@@ -958,7 +958,9 @@
         "w": "1",
         "s": "2",
         "ava": " ",
-        "spec": [],
+        "spec": [
+          "Specialist Operative"
+        ],
         "bsw": [
           "Spitfire"
         ],

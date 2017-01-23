@@ -4053,7 +4053,7 @@
   {
     "id": 3038,
     "army": "Ariadna",
-    "isc": "Margot Berthier, Mirage-5",
+    "isc": "Equipe Mirage-5",
     "legacy_isc": "Margot Berthier, Mirage-5",
     "name": "Margot",
     "ava": "1",
@@ -4061,7 +4061,7 @@
     "profiles": [
       {
         "id": 1,
-        "isc": "Margot Berthier, Mirage-5",
+        "isc": "Margot Berthier",
         "name": "Margot",
         "type": "HI",
         "imp": "",
@@ -4091,7 +4091,7 @@
       },
       {
         "id": 2,
-        "isc": "Duroc, Mirage-5",
+        "isc": "Duroc",
         "name": "Duroc",
         "type": "WB",
         "imp": "X",

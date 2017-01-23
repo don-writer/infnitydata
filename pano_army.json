@@ -247,6 +247,27 @@
       {
         "comment": "Krakot Renegades, Morat Fugitives",
         "id": 9023
+      },
+      {
+        "comment": "Scarface (ITS Season 8)",
+        "id": 9015,
+        "ava": "1"
+      },
+      {
+        "comment": "Bit & Kiss! (ITS Season 8)",
+        "id": 9024
+      },
+      {
+        "comment": "Cypher (ITS Season 8)",
+        "id": 9025
+      },
+      {
+        "comment": "Switch (ITS Season 8)",
+        "id": 9026
+      },
+      {
+        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
+        "id": 9027
       }
     ]
   }

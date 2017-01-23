@@ -1156,10 +1156,13 @@
         "arm": "0",
         "bts": "0",
         "w": "1",
+        "s": "2",
+        "hackable": "",
         "ava": "",
         "spec": [
           "Pilot",
-          "V: Courage"
+          "V: Courage",
+          "Specialist Operative"
         ],
         "bsw": [
           "Light Shotgun"
@@ -1822,6 +1825,320 @@
           "Pistol",
           "Shock CCW"
         ]
+      }
+    ]
+  },
+  {
+    "id": 9024,
+    "army": "Mercenary",
+    "isc": "Bit & Kiss!",
+    "name": "Bit",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "X",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "11",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "White Hacking Device"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Kiss!",
+        "type": "REM",
+        "imp": "",
+        "irr": "X",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "8",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "3",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Synchronized",
+          "Repeater"
+        ],
+        "bsw": [
+          "Adhesive Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ],
+        "independent": {
+          "cost": "4",
+          "swc": "0"
+        }
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "White Hacker",
+        "cost": "14",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Stun Light Grenade Launcher",
+          "FastPanda"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9025,
+    "army": "Mercenary",
+    "isc": "Cypher",
+    "name": "Cypher",
+    "type": "LI",
+    "imp": "",
+    "irr": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "10",
+    "ph": "12",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Assault Hacking Device",
+      "Repeater",
+      "CH: Mimetism"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Assault Hacker",
+        "cost": "19",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "E/Marat (2)",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Knife",
+          "Stun Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9026,
+    "army": "Mercenary",
+    "isc": "Switch",
+    "name": "Switch",
+    "type": "LI",
+    "imp": "",
+    "irr": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "11",
+    "ph": "11",
+    "wip": "13",
+    "arm": "0",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Killer Hacking Device",
+      "Holoprojector L1",
+      "Stealth"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Killer Hacker",
+        "cost": "14",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "E/Mitter (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Stun Pistol (2)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9027,
+    "army": "Mercenary",
+    "isc": "ALIVE Anti-establishment Group",
+    "name": "Cypher",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "13",
+        "bs": "10",
+        "ph": "12",
+        "wip": "14",
+        "arm": "3",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Assault Hacking Device",
+          "Repeater",
+          "CH: Mimetism"
+        ],
+        "bsw": [
+          "E/Marat (2)",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Knife",
+          "Stun Pistol"
+        ],
+        "independent": {
+          "cost": "20",
+          "swc": "0.5",
+        }
+      },
+      {
+        "id": 2,
+        "name": "Bit",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "12",
+        "bs": "11",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "White Hacking Device"
+        ],
+        "bsw": [
+          "Stun Light Grenade Launcher",
+          "Pitcher",
+          "FastPanda"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ],
+        "independent": {
+          "cost": "15",
+          "swc": "0.5",
+        }
+      },
+      {
+        "id": 3,
+        "name": "Kiss!",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "8",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "3",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "G: Synchronized",
+          "Repeater"
+        ],
+        "bsw": [
+          "Adhesive Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ],
+        "independent": {
+          "cost": "4",
+          "swc": "0"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Switch",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "13",
+        "bs": "11",
+        "ph": "11",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": "1",
+        "spec": [
+          "Killer Hacking Device",
+          "Holoprojector L1",
+          "Stealth"
+        ],
+        "bsw": [
+          "E/Mitter (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Stun Pistol (2)"
+        ],
+        "independent": {
+          "cost": "15",
+          "swc": "0"
+        }
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "ALIVE",
+        "cost": "50",
+        "swc": "1",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
       }
     ]
   }

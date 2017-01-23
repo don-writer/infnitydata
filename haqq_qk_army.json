@@ -111,6 +111,13 @@
         "ava": "1"
       },
       {
+        "comment": "Husam Operative Leila Sharif",
+        "id": 4048,
+        "ava": "1",
+        "linkable": true,
+        "note": "Counts as Ghulam or Muyib for Fireteam composition"
+      },
+      {
         "comment": "Alguaciles",
         "id": 5001,
         "ava": "4"
@@ -139,6 +146,22 @@
         "comment": "Scarface",
         "id": 9015,
         "ava": "1"
+      },
+      {
+        "comment": "Bit & Kiss! (ITS Season 8)",
+        "id": 9024
+      },
+      {
+        "comment": "Cypher (ITS Season 8)",
+        "id": 9025
+      },
+      {
+        "comment": "Switch (ITS Season 8)",
+        "id": 9026
+      },
+      {
+        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
+        "id": 9027
       }
     ]
   }

@@ -1025,9 +1025,7 @@
     "legacy_isc": "Raicho Armoured Brigade",
     "name": "Raicho",
     "ava": "1",
-    "spec": [
-      "Morat"
-    ],
+    "spec": [],
     "profiles": [
       {
         "id": 1,
@@ -1047,6 +1045,7 @@
         "w": "3",
         "s": "7",
         "spec": [
+          "Morat",
           "ECM",
           "Manned"
         ],
@@ -1061,7 +1060,7 @@
         "mov": "4-4",
         "cc": "13",
         "bs": "12",
-        "ph": "11",
+        "ph": "12",
         "wip": "12",
         "arm": "0",
         "bts": "0",
@@ -1069,12 +1068,15 @@
         "s": "2",
         "ava": "",
         "spec": [
-          "Pilot"
+          "Morat",
+          "Pilot",
+          "Specialist Operative"
         ],
         "bsw": [],
         "ccw": [
-          "Pistol",
-          "Knife"
+          "Heavy Pistol (2)",
+          "Knife",
+          "D-Charges"
         ]
       }
     ],
@@ -1114,26 +1116,60 @@
     "isc": "Avatar",
     "legacy_isc": "Avatar",
     "name": "Avatar",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "M",
-    "hackable": "X",
-    "mov": "6-4",
-    "cc": "18",
-    "bs": "15",
-    "ph": "17",
-    "wip": "17",
-    "arm": "9",
-    "bts": "9",
-    "w": "3",
-    "s": "7",
     "ava": "1",
-    "spec": [
-      "ECM",
-      "G: Mnemonica",
-      "ODD: Optical Disruptor",
-      "Immunity: POS"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "M",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "18",
+        "bs": "15",
+        "ph": "17",
+        "wip": "17",
+        "arm": "9",
+        "bts": "9",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "G: Mnemonica",
+          "ODD: Optical Disruptor",
+          "Immunity: POS"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Staldron",
+        "isc": "Staldron Remote Ancillary Unit",
+        "type": "REM",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "10",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "ava": "",
+        "spec": [
+          "G: Remote Presence",
+          "Remote Pilot",
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": []
+      }
     ],
     "childs": [
       {
@@ -2683,27 +2719,61 @@
     "isc": "Shasvastii Special Armoured Corp Sphinx",
     "legacy_isc": "Shasvastii Special Armoured Corp Sphinx",
     "name": "Sphinx",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "6-6",
-    "cc": "18",
-    "bs": "14",
-    "ph": "16",
-    "wip": "13",
-    "arm": "6",
-    "bts": "6",
-    "w": "3",
-    "s": "6",
     "ava": "1",
-    "spec": [
-      "CH: TO Camouflage",
-      "Climbing Plus",
-      "ECM",
-      "G: Remote Presence",
-      "Multiterrain"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-6",
+        "cc": "18",
+        "bs": "14",
+        "ph": "16",
+        "wip": "13",
+        "arm": "6",
+        "bts": "6",
+        "w": "3",
+        "s": "6",
+        "spec": [
+          "CH: TO Camouflage",
+          "Climbing Plus",
+          "ECM",
+          "G: Remote Presence",
+          "Multiterrain"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Scindron",
+        "isc": "Scindron Remote Ancillary Unit",
+        "type": "REM",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "10",
+        "bs": "10",
+        "ph": "10",
+        "wip": "10",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "ava": "",
+        "spec": [
+          "G: Remote Presence",
+          "Remote Pilot",
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": []
+      }
     ],
     "childs": [
       {
@@ -5027,25 +5097,59 @@
     "army": "Combined Army",
     "isc": "Xeodron Batroids",
     "name": "Xeodron",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "4-4",
-    "cc": "14",
-    "bs": "13",
-    "ph": "13",
-    "wip": "13",
-    "arm": "5",
-    "bts": "6",
-    "w": "3",
-    "s": "6",
     "ava": "1",
-    "spec": [
-      "Bioimmunity",
-      "G: Remote Presence",
-      "Super-Jump"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "14",
+        "bs": "13",
+        "ph": "13",
+        "wip": "13",
+        "arm": "5",
+        "bts": "6",
+        "w": "3",
+        "s": "6",
+        "spec": [
+          "Bioimmunity",
+          "G: Remote Presence",
+          "Super-Jump"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Staldron",
+        "isc": "Staldron Remote Ancillary Unit",
+        "type": "REM",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "10",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "ava": "",
+        "spec": [
+          "G: Remote Presence",
+          "Remote Pilot",
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": []
+      }
     ],
     "childs": [
       {
@@ -5097,26 +5201,60 @@
     "army": "Combined Army",
     "isc": "Overdron Batroids",
     "name": "Overdron",
-    "type": "TAG",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "hackable": "X",
-    "mov": "4-4",
-    "cc": "14",
-    "bs": "13",
-    "ph": "14",
-    "wip": "13",
-    "arm": "6",
-    "bts": "6",
-    "w": "3",
-    "s": "6",
     "ava": "1",
-    "spec": [
-      "ECM",
-      "G: Remote Presence",
-      "TinBot D (Albedo)",
-      "TinBot A (Deflector L1)"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "TAG",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "14",
+        "bs": "13",
+        "ph": "14",
+        "wip": "13",
+        "arm": "6",
+        "bts": "6",
+        "w": "3",
+        "s": "6",
+        "spec": [
+          "ECM",
+          "G: Remote Presence",
+          "TinBot D (Albedo)",
+          "TinBot A (Deflector L1)"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Staldron",
+        "isc": "Staldron Remote Ancillary Unit",
+        "type": "REM",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "10",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "1",
+        "ava": "",
+        "spec": [
+          "G: Remote Presence",
+          "Remote Pilot",
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": []
+      }
     ],
     "childs": [
       {

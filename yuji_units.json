@@ -1715,9 +1715,12 @@
         "s": "2",
         "ava": " ",
         "spec": [
-          "Pilot"
+          "Pilot",
+          "Specialist Operative"
         ],
-        "bsw": [],
+        "bsw": [
+          "Light Flamethrower"
+        ],
         "ccw": [
           "Pistol",
           "Knife"
@@ -4069,9 +4072,12 @@
         "ava": " ",
         "spec": [
           "Martial Arts L1",
-          "Pilot"
+          "Pilot",
+          "Forward Observer"
         ],
-        "bsw": [],
+        "bsw": [
+          "Contender"
+        ],
         "ccw": [
           "Pistol",
           "CCW"

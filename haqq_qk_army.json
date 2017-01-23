@@ -111,6 +111,13 @@
         "ava": "1"
       },
       {
+        "comment": "Husam Operative Leila Sharif",
+        "id": 4048,
+        "ava": "1",
+        "linkable": true,
+        "note": "Counts as Ghulam or Muyib for Fireteam composition"
+      },
+      {
         "comment": "Alguaciles",
         "id": 5001,
         "ava": "4"

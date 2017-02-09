@@ -1168,7 +1168,9 @@
         "bsw": [
           "Flash Pulse"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife"
+        ]
       }
     ],
     "childs": [
@@ -2772,7 +2774,9 @@
         "bsw": [
           "Flash Pulse"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife"
+        ]
       }
     ],
     "childs": [
@@ -5148,7 +5152,9 @@
         "bsw": [
           "Flash Pulse"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife"
+        ]
       }
     ],
     "childs": [
@@ -5253,7 +5259,9 @@
         "bsw": [
           "Flash Pulse"
         ],
-        "ccw": []
+        "ccw": [
+          "Knife"
+        ]
       }
     ],
     "childs": [

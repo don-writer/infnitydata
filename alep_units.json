@@ -3598,7 +3598,7 @@
       },
       {
         "id": 5,
-        "name": "AHD (1 Devabot)",
+        "name": "KHD (1 Devabot)",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -3615,7 +3615,7 @@
       },
       {
         "id": 6,
-        "name": "AHD (2 Devabots)",
+        "name": "KHD (2 Devabots)",
         "cost": "34",
         "swc": "0.5",
         "profile": "1",

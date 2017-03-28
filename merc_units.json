@@ -2141,5 +2141,48 @@
         "ccw": []
       }
     ]
+  },
+  {
+    "id": 9028,
+    "army": "Mercenary",
+    "isc": "Knauf, Outlaw Sniper",
+    "name": "Knauf",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "19",
+    "bs": "13",
+    "ph": "11",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multispectral Visor L1",
+      "CH: Mimetism",
+      "Multiterrain",
+      "Marksmanship L1",
+      "Stealth"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Sniper",
+        "cost": "32",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "MULTI Sniper Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
+      }
+    ]
   }
 ]

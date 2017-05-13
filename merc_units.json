@@ -2184,5 +2184,49 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9029,
+    "army": "Mercenary",
+    "isc": "Major Lunah, ex-Ariesteia! Sniper",
+    "name": "Major Lunah",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "17",
+    "bs": "12",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Limited Camouflage",
+      "CH: Mimetism",
+      "Multiterrain",
+      "Marksmanship LX",
+      "Stealth",
+      "Religious Troop"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Viral Sniper",
+        "cost": "29",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Viral Sniper Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
   }
 ]

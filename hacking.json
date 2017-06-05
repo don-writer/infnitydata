@@ -83,6 +83,24 @@
       ]
     },
     {
+      "name": "Hacking Device Plus: UPGRADE: Maestro",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "SWORD-1",
+        "SHIELD-1",
+        "SHIELD-2",
+        "GADGET-1",
+        "GADGET-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Sucker Punch",
+        "White Noise",
+        "Maestro"
+      ]
+    },
+    {
       "name": "Assault Hacking Device",
       "groups": [
         "CLAW-1",

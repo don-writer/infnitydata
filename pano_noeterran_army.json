@@ -137,6 +137,11 @@
         "note": "Fireteam: Core with Fusiliers"
       },
       {
+        "comment": "Tech-Bees, Maintenance Battalions",
+        "id": 1053,
+        "ava": "1"
+      },
+      {
         "comment": "Mercenary - CSU, Corporate Security Unit",
         "id": 9020,
         "ava": "2"

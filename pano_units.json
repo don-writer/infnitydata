@@ -4336,7 +4336,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-2",
-    "cc": "16",
+    "cc": "19",
     "bs": "13",
     "ph": "12",
     "wip": "13",
@@ -5102,6 +5102,46 @@
         "ccw": [
           "Pistol",
           "Shock CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "army": "PanOceania",
+    "isc": "Tech-Bees, Maintenance Battalions",
+    "name": "Tech-Bee",
+    "type": "LI",
+    "imp": "",
+    "irr": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "12",
+    "bs": "11",
+    "ph": "10",
+    "wip": "12",
+    "arm": "0",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Remote Assistant",
+        "cost": "5",
+        "swc": "0",
+        "spec": [
+          "Remote Assistant L1",
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
           "Knife"
         ]
       }

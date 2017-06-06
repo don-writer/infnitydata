@@ -3598,7 +3598,7 @@
       },
       {
         "id": 5,
-        "name": "AHD (1 Devabot)",
+        "name": "KHD (1 Devabot)",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -3615,7 +3615,7 @@
       },
       {
         "id": 6,
-        "name": "AHD (2 Devabots)",
+        "name": "KHD (2 Devabots)",
         "cost": "34",
         "swc": "0.5",
         "profile": "1",
@@ -3986,6 +3986,65 @@
         "ccw": [
           "Breaker Pistol",
           "DA CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7047,
+    "army": "Aleph",
+    "isc": "Danavas Hackers",
+    "name": "Danavas Hacker",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "11",
+    "ph": "11",
+    "wip": "15",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Assault Hacker",
+        "cost": "23",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device: UPGRADE: Icebreaker"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Pitcher"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hacker Plus",
+        "cost": "25",
+        "swc": "0.5",
+        "spec": [
+          "Hacking Device Plus: UPGRADE: Maestro"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Pitcher"
+        ],
+        "ccw": [
+          "Breaker Pistol",
           "Knife"
         ]
       }

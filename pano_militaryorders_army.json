@@ -212,6 +212,11 @@
         "note": "Fireteam: Core with Order Sergeants (non-specialist version only)"
       },
       {
+        "comment": "Tech-Bees, Maintenance Battalions",
+        "id": 1053,
+        "ava": "1"
+      },
+      {
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"

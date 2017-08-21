@@ -668,9 +668,11 @@
         "id": 3,
         "name": "Spitfire",
         "legacy_code": "Spitfire",
-        "cost": "31",
-        "swc": "1",
-        "spec": [],
+        "cost": "32",
+        "swc": "1.5",
+        "spec": [
+          "Fatality L2"
+        ],
         "bsw": [
           "Spitfire"
         ],
@@ -720,10 +722,11 @@
         "id": 6,
         "name": "Spitfire Lieutenant",
         "legacy_code": "Spitfire Lieutenant",
-        "cost": "31",
-        "swc": "1",
+        "cost": "32",
+        "swc": "1.5",
         "spec": [
-          "Lieutenant"
+          "Lieutenant",
+          "Fatality L2"
         ],
         "bsw": [
           "Spitfire"
@@ -2008,14 +2011,15 @@
       "Religious Troop",
       "Super-Jump",
       "Bioimmunity",
-      "Kinematika L1"
+      "Kinematika L1",
+      "Fatality L2"
     ],
     "childs": [
       {
         "id": 1,
         "name": "AP Rifle",
         "legacy_code": "Default",
-        "cost": "54",
+        "cost": "53",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2033,8 +2037,8 @@
         "id": 2,
         "name": "Spitfire",
         "legacy_code": "Spitfire",
-        "cost": "56",
-        "swc": "2",
+        "cost": "55",
+        "swc": "1.5",
         "spec": [],
         "bsw": [
           "Nanopulser",
@@ -2050,7 +2054,7 @@
         "id": 3,
         "name": "Lieutenant",
         "legacy_code": "Lieutenant",
-        "cost": "54",
+        "cost": "53",
         "swc": "-1",
         "spec": [
           "Lieutenant"
@@ -2070,8 +2074,8 @@
         "id": 4,
         "name": "Spitfire Lieutenant",
         "legacy_code": "Spitfire Lieutenant",
-        "cost": "56",
-        "swc": "2",
+        "cost": "55",
+        "swc": "1.5",
         "spec": [
           "Lieutenant"
         ],

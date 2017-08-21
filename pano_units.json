@@ -333,7 +333,7 @@
     "spec": [
       "CH: Mimetism",
       "Multispectral Visor L1",
-      "Multiterrain (Aquatic, Desert or Jungle)"
+      "Aquatic Terrain / Desert Terrain / Jungle Terrain"
     ],
     "childs": [
       {
@@ -4720,7 +4720,7 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "Multiterrain (Aquatic, Desert or Jungle)",
+      "Aquatic Terrain / Desert Terrain / Jungle Terrain",
       "CH: Mimetism",
       "Multispectral Visor L1"
     ],

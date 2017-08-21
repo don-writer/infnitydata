@@ -4657,5 +4657,129 @@
         ]
       }
     ]
+  },
+  {
+    "id": 5047,
+    "army": "Nomads",
+    "isc": "Kriza Boracs, Special Crisis Unit",
+    "name": "Kriza Borac",
+    "ava": "1",
+    "type": "HI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "18",
+    "bs": "13",
+    "ph": "14",
+    "wip": "13",
+    "arm": "5",
+    "bts": "6",
+    "w": "2",
+    "s": "5",
+    "spec": [
+      "Fireteam: Duo",
+      "Full Auto L2",
+      "V: Courage",
+      "Multiterrain"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle",
+        "cost": "50",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "HMG",
+        "cost": "54",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "360° Mk12",
+        "cost": "63",
+        "swc": "0",
+        "spec": [
+          "360° Visor"
+        ],
+        "bsw": [
+          "Mk12",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "MULTI Rifle Lieutenant",
+        "cost": "50",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "MULTI Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "HMG Lieutenant",
+        "cost": "54",
+        "swc": "2",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "360° Mk12 Lieutenant",
+        "cost": "64",
+        "swc": "0",
+        "spec": [
+          "Lieutenant",
+          "360° Visor"
+        ],
+        "bsw": [
+          "Mk12",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      }
+    ]
   }
 ]

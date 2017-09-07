@@ -127,7 +127,7 @@
         "id": 1029,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Joan and 0-3 Knights Hospitaller"
+        "note": "Counts as Knight Hospitaller for Fireteam composition"
       },
       {
         "comment": "Joan of Arc",
@@ -202,14 +202,14 @@
         "id": 1046,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Fusiliers"
+        "note": "Counts as Fusilier for Fireteam composition"
       },
       {
         "comment": "Indigo Brother Konstantinos",
         "id": 1047,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Order Sergeants (non-specialist version only)"
+        "note": "Counts as Order Sergeant for Fireteam composition (non-specialist version only)"
       },
       {
         "comment": "Tech-Bees, Maintenance Battalions",

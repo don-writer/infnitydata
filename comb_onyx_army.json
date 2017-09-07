@@ -24,7 +24,7 @@
           }
         ],
         "linkable": true,
-        "note": "Fireteam: Core with Unidrons and up to 1 Umbra Legate"
+        "note": "Fireteam: Core with Unidrons and up to 1 Umbra Legate<br>1 Nexus Operative may join a Fireteam: Core of Rodok"
       },
       {
         "comment": "Fraacta Drop Unit",
@@ -53,7 +53,7 @@
         "id": 6004,
         "ava": "3",
         "linkable": true,
-        "note": "Fireteam: Core with Batroids or Rodoks"
+        "note": "1 may join a Fireteam: Core of Batroids or Rodoks"
       },
       {
         "comment": "Umbra Samaritan",
@@ -66,7 +66,7 @@
             "swc": "0"
           }
         ],
-        "note": "Fireteam: Core with Rodoks<br>Fireteam: Haris with 2 Xeodrons"
+        "note": "1 may join a Fireteam: Core of Rodoks<br>Fireteam: Haris with 2 Xeodrons"
       },
       {
         "comment": "Suryats",

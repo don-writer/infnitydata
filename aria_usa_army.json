@@ -11,7 +11,8 @@
         "comment": "USAriadna Grunts",
         "id": 3004,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "note": "Options with Inferior Infiltration may not join a Fireteam"
       },
       {
         "comment": "6th Airborne Rangers",

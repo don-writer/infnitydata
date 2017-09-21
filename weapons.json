@@ -693,7 +693,7 @@
   {
     "name": "E/Mitter",
     "burst": "1",
-    "ammo": "E/M",
+    "ammo": "E/M2",
     "damage": "13",
     "short_dist": "8",
     "short_mod": "0",

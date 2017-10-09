@@ -152,6 +152,17 @@
         "note": "Counts as Celestial Guard for Fireteam composition"
       },
       {
+        "comment": "Miranda Ashcroft (Ashcroft Hunting Party)",
+        "id": 2051,
+        "ava": "1",
+        "note": "Fireteam: Duo with Authorized Bounty Hunters (Ashcroft Hunting Party)"
+      },
+      {
+        "comment": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
+        "id": 2052,
+        "ava": "1",
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "2"

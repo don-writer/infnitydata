@@ -5317,5 +5317,146 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2051,
+    "army": "Yu Jing",
+    "isc": "Miranda Ashcroft (Ashcroft Hunting Party)",
+    "name": "Miranda Ashcroft",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "18",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "ODD: Optical Disruptor",
+      "I-Kohl L1",
+      "Stealth",
+      "Fireteam: Duo",
+      "Specialist Operative"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2052,
+    "army": "Yu Jing",
+    "isc": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
+    "name": "Bounty Hunter",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Booty L2",
+      "Stealth"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "15",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sniper Rifle",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Sniper Rifle"
+        ],
+        "ccw": [
+          "Breaker Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Spitfire",
+        "cost": "22",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

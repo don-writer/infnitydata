@@ -1914,5 +1914,63 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9030,
+    "army": "Mercenary",
+    "isc": "Cube Jäger, Mercenary Recoverers",
+    "name": "Jäger",
+    "type": "LI",
+    "imp": "",
+    "irr": "X",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "MediKit",
+      "AD: Airborne Infiltration",
+      "Shock Immunity",
+      "Paramedic",
+      "Stealth"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "18",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "E/Mitter"
+        ],
+        "ccw": [
+          "Monofilament CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Monofilament CCW",
+          "Pistol"
+        ]
+      }
+    ]
   }
 ]

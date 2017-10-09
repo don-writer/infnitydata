@@ -5458,5 +5458,48 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2053,
+    "army": "Mercenary",
+    "isc": "Father Lucien Sforza, Registered Bounty Hunter",
+    "name": "Sforza",
+    "type": "LI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "17",
+    "bs": "13",
+    "ph": "11",
+    "wip": "13",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L2",
+      "X Visor",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Viral Rifle",
+        "cost": "30",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Viral Rifle",
+          "Adhesive Launcher",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Electric Pulse"
+        ]
+      }
+    ]
   }
 ]

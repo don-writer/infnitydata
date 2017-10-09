@@ -5320,7 +5320,7 @@
   },
   {
     "id": 2051,
-    "army": "Yu Jing",
+    "army": "Mercenary",
     "isc": "Miranda Ashcroft (Ashcroft Hunting Party)",
     "name": "Miranda Ashcroft",
     "type": "LI",
@@ -5379,7 +5379,7 @@
   },
   {
     "id": 2052,
-    "army": "Yu Jing",
+    "army": "Mercenary",
     "isc": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
     "name": "Bounty Hunter",
     "type": "LI",

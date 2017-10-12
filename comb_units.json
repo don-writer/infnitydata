@@ -5299,5 +5299,88 @@
         "ccw": []
       }
     ]
+  },
+  {
+    "id": 6056,
+    "army": "Combined Army",
+    "isc": "Bit & Kiss!",
+    "name": "Bit",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "13",
+        "bs": "11",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "EI Killer Hacking Device: UPGRADE: Expel",
+          "Minelayer"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Kiss!",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "8",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "G: Synchronized",
+          "Repeater"
+        ],
+        "bsw": [
+          "Adhesive Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ],
+        "independent": {
+          "cost": "4",
+          "swc": "0"
+        }
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Hacker",
+        "cost": "19",
+        "swc": "0.5",
+        "spec": [
+          "Deployable Repeater"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Pitcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

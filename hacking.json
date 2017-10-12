@@ -238,6 +238,18 @@
       ]
     },
     {
+      "name": "EI Killer Hacking Device: UPGRADE: Expel",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Maestro",
+        "Expel"
+      ]
+    },
+    {
       "name": "White Hacking Device",
       "groups": [
         "SHIELD-1",

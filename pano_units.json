@@ -181,15 +181,15 @@
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "13",
+    "cc": "15",
     "bs": "13",
-    "ph": "10",
+    "ph": "11",
     "wip": "13",
     "arm": "1",
     "bts": "6",
     "w": "1",
     "s": "2",
-    "ava": "3",
+    "ava": "2",
     "spec": [
       "Aquatic Terrain"
     ],
@@ -198,7 +198,7 @@
         "id": 1,
         "name": "Combi",
         "legacy_code": "Default",
-        "cost": "16",
+        "cost": "20",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -213,7 +213,7 @@
         "id": 2,
         "name": "HMG",
         "legacy_code": "HMG",
-        "cost": "24",
+        "cost": "28",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -228,7 +228,7 @@
         "id": 3,
         "name": "Hacker",
         "legacy_code": "Hacker",
-        "cost": "24",
+        "cost": "28",
         "swc": "0.5",
         "spec": [
           "Hacking Device"
@@ -243,16 +243,14 @@
       },
       {
         "id": 4,
-        "name": "Grenadier",
+        "name": "Heavy Rocket Launcher",
         "legacy_code": "Grenadier",
-        "cost": "22",
-        "swc": "1",
-        "spec": [
-          "X Visor"
-        ],
+        "cost": "23",
+        "swc": "1.5",
+        "spec": [],
         "bsw": [
-          "Light Grenade Launcher",
-          "Combi Rifle"
+          "Heavy Rocket Launcher",
+          "Submachine Gun"
         ],
         "ccw": [
           "Knife",
@@ -263,10 +261,10 @@
         "id": 5,
         "name": "MULTI Sniper Rifle",
         "legacy_code": "MULTI Sniper Rifle",
-        "cost": "27",
+        "cost": "32",
         "swc": "1.5",
         "spec": [
-          "X Visor"
+          "Multispectral Visor L2"
         ],
         "bsw": [
           "MULTI Sniper Rifle"
@@ -278,12 +276,12 @@
       },
       {
         "id": 6,
-        "name": "Lieutenant",
+        "name": "Forward Observer",
         "legacy_code": "Lieutenant",
-        "cost": "16",
-        "swc": "1",
+        "cost": "21",
+        "swc": "0",
         "spec": [
-          "Lieutenant"
+          "Forward Observer"
         ],
         "bsw": [
           "Combi Rifle"
@@ -297,7 +295,7 @@
         "id": 7,
         "name": "Paramedic",
         "legacy_code": "Paramedic",
-        "cost": "18",
+        "cost": "22",
         "swc": "0",
         "spec": [
           "MediKit"

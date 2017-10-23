@@ -1155,8 +1155,8 @@
       },
       {
         "id": 2,
-        "name": "Staldron",
         "isc": "Staldron Remote Ancillary Unit",
+        "name": "Staldron",
         "type": "REM",
         "hackable": "X",
         "mov": "4-4",
@@ -2781,8 +2781,8 @@
       },
       {
         "id": 2,
-        "name": "Scindron",
         "isc": "Scindron Remote Ancillary Unit",
+        "name": "Scindron",
         "type": "REM",
         "hackable": "X",
         "mov": "4-4",
@@ -5182,8 +5182,8 @@
       },
       {
         "id": 2,
-        "name": "Staldron",
         "isc": "Staldron Remote Ancillary Unit",
+        "name": "Staldron",
         "type": "REM",
         "hackable": "X",
         "mov": "4-4",
@@ -5290,8 +5290,8 @@
       },
       {
         "id": 2,
-        "name": "Staldron",
         "isc": "Staldron Remote Ancillary Unit",
+        "name": "Staldron",
         "type": "REM",
         "hackable": "X",
         "mov": "4-4",

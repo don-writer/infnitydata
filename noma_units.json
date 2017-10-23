@@ -1144,7 +1144,7 @@
         "cost": "33",
         "swc": "0",
         "spec": [
-            "Lieutenant"
+          "Lieutenant"
         ],
         "bsw": [
           "Boarding Shotgun"
@@ -4727,7 +4727,6 @@
     "army": "Nomads",
     "isc": "Kriza Boracs, Special Crisis Unit",
     "name": "Kriza Borac",
-    "ava": "1",
     "type": "HI",
     "classification": "Headquarters",
     "imp": "",
@@ -4743,6 +4742,7 @@
     "bts": "6",
     "w": "2",
     "s": "5",
+    "ava": "1",
     "spec": [
       "Fireteam: Duo",
       "Full Auto L2",

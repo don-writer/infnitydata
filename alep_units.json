@@ -998,8 +998,8 @@
       },
       {
         "id": 2,
-        "name": "Karkata",
         "isc": "Karkata Ancillary Remote Unit",
+        "name": "Karkata",
         "type": "REM",
         "classification": "",
         "imp": "",

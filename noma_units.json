@@ -1090,7 +1090,7 @@
       },
       {
         "id": 6,
-        "name": "Lieutenant",
+        "name": "MULTI Lieutenant",
         "legacy_code": "Lieutenant",
         "cost": "39",
         "swc": "0",
@@ -1132,6 +1132,22 @@
         ],
         "bsw": [
           "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "BSG Lieutenant",
+        "cost": "33",
+        "swc": "0",
+        "spec": [
+            "Lieutenant"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
         ],
         "ccw": [
           "Knife",

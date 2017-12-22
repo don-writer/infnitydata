@@ -1,7 +1,7 @@
 [
   {
     "id": 9001,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Yuan Yuan",
     "legacy_isc": "Yuan Yuan",
     "name": "Yuan Yuan",
@@ -109,7 +109,7 @@
   },
   {
     "id": 9002,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Bashi Bazouks",
     "legacy_isc": "Bashi Bazouk",
     "name": "Bashi Bazouk",
@@ -145,7 +145,7 @@
           "Light Shotgun"
         ],
         "ccw": [
-          "CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -160,7 +160,7 @@
           "Boarding Shotgun"
         ],
         "ccw": [
-          "CCW",
+          "Knife",
           "Pistol"
         ]
       },
@@ -214,11 +214,10 @@
   },
   {
     "id": 9003,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Druze Shock Teams",
     "legacy_isc": "Druze Shock Teams",
-    "name": "Shock",
-    "image": 9003,
+    "name": "Druze",
     "type": "MI",
     "classification": "Mercenary",
     "imp": "",
@@ -344,7 +343,7 @@
   },
   {
     "id": 9004,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Highlander Caterans",
     "legacy_isc": "Highlander Caterans",
     "name": "Cateran",
@@ -403,7 +402,7 @@
   },
   {
     "id": 9005,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "McMurrough",
     "legacy_isc": "McMurrough",
     "name": "McMurrough",
@@ -449,7 +448,7 @@
   },
   {
     "id": 9006,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Kempeitai",
     "legacy_isc": "Kempeitai",
     "name": "Kempei",
@@ -514,7 +513,7 @@
   },
   {
     "id": 9007,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Saito Tōgan",
     "legacy_isc": "Saito Tōgan",
     "name": "Saito Tōgan",
@@ -562,7 +561,7 @@
   },
   {
     "id": 9008,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Miyamoto Mushashi",
     "legacy_isc": "Miyamoto Mushashi",
     "name": "Miyamoto Mushashi",
@@ -609,7 +608,7 @@
   },
   {
     "id": 9009,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Avicenna, Mercenary Doctor",
     "legacy_isc": "Avicenna",
     "name": "Avicenna",
@@ -654,7 +653,7 @@
   },
   {
     "id": 9010,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Father Lucien Sforza",
     "legacy_isc": "Father Lucien Sforza",
     "name": "Sforza",
@@ -699,7 +698,7 @@
   },
   {
     "id": 9011,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Señor Massacre",
     "legacy_isc": "Señor Massacre",
     "name": "Señor Massacre",
@@ -801,7 +800,7 @@
   },
   {
     "id": 9012,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Valerya Gromoz, Mercenary Hacker",
     "legacy_isc": "Valerya Gromoz, Mercenary Hacker",
     "name": "Valerya Gromoz",
@@ -844,7 +843,7 @@
   },
   {
     "id": 9013,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Kaplan Tactical Services (KTS)",
     "legacy_isc": "KTS, Kaplan Tactical Services",
     "name": "Kaplan",
@@ -991,7 +990,7 @@
   },
   {
     "id": 9014,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Yojimbo, Sword for Hire",
     "legacy_isc": "Yojimbo",
     "name": "Yojimbo",
@@ -1083,8 +1082,8 @@
   },
   {
     "id": 9015,
-    "army": "Mercenary",
-    "isc": "Scarface",
+    "army": "Non-Aligned Armies",
+    "isc": "Scarface & Cordelia",
     "legacy_isc": "Scarface",
     "name": "Scarface",
     "ava": "1",
@@ -1092,7 +1091,7 @@
     "profiles": [
       {
         "id": 1,
-        "isc": "Scarface",
+        "name": "Scarface",
         "type": "TAG",
         "classification": "Mercenary",
         "imp": "F",
@@ -1123,8 +1122,7 @@
       },
       {
         "id": 2,
-        "isc": "Cordelia",
-        "name": "Cordelia",
+        "name": "Cordelia Turner",
         "type": "LI",
         "imp": "",
         "irr": "",
@@ -1208,7 +1206,7 @@
   },
   {
     "id": 9016,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Anaconda",
     "legacy_isc": "Anaconda",
     "name": "Anaconda",
@@ -1239,10 +1237,7 @@
           "V: Courage",
           "Manned"
         ],
-        "bsw": [
-          "Light Flamethrower",
-          "Panzerfaust"
-        ],
+        "bsw": [],
         "ccw": [
           "CCW"
         ]
@@ -1263,9 +1258,12 @@
         "s": "2",
         "ava": "",
         "spec": [
+          "Operator",
           "V: Courage"
         ],
-        "bsw": [],
+        "bsw": [
+          "Spitfire"
+        ],
         "ccw": [
           "Pistol",
           "Knife"
@@ -1281,7 +1279,22 @@
         "swc": "2",
         "spec": [],
         "bsw": [
-          "Spitfire"
+          "Spitfire",
+          "Light Flamethrower",
+          "Panzerfaust"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "HMG",
+        "cost": "64",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "HMG",
+          "Chain-Colt",
+          "Panzerfaust"
         ],
         "ccw": []
       }
@@ -1289,7 +1302,7 @@
   },
   {
     "id": 9017,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Warcor",
     "legacy_isc": "Warcor",
     "name": "Warcor",
@@ -1350,7 +1363,7 @@
   },
   {
     "id": 9018,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Authorized Bounty Hunters",
     "legacy_isc": "Authorized Bounty Hunters",
     "name": "Bounty Hunter",
@@ -1438,7 +1451,7 @@
   },
   {
     "id": 9019,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Miranda Ashcroft",
     "legacy_isc": "Miranda Ashcroft",
     "name": "Miranda Ashcroft",
@@ -1500,7 +1513,7 @@
   },
   {
     "id": 9020,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "CSU, Corporate Security Unit",
     "legacy_isc": "CSU, Corporate Security Unit",
     "name": "CSU",
@@ -1575,7 +1588,7 @@
   },
   {
     "id": 9021,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Wardrivers",
     "legacy_isc": "Wardrivers",
     "name": "Wardriver",
@@ -1634,7 +1647,7 @@
   },
   {
     "id": 9022,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Armand 'Le Muet'",
     "legacy_isc": "Armand 'Le Muet'",
     "name": "Armand",
@@ -1734,7 +1747,7 @@
   },
   {
     "id": 9023,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Krakot Renegades, Morat Fugitives",
     "legacy_isc": "Krakot Renegades, Morat Fugitives",
     "name": "Krakot",
@@ -1853,7 +1866,7 @@
   },
   {
     "id": 9028,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Knauf, Outlaw Sniper",
     "name": "Knauf",
     "type": "LI",
@@ -1897,7 +1910,7 @@
   },
   {
     "id": 9029,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Major Lunah, ex-Ariesteia! Sniper",
     "name": "Major Lunah",
     "type": "LI",
@@ -1942,7 +1955,7 @@
   },
   {
     "id": 9030,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Cube Jäger, Mercenary Recoverers",
     "name": "Jäger",
     "type": "LI",
@@ -1998,5 +2011,977 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9031,
+    "army": "Non-Aligned Armies",
+    "isc": "Druze Shock Teams",
+    "name": "Druze",
+    "type": "MI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-2",
+    "cc": "15",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "T",
+    "spec": [
+      "Fireteam: Duo",
+      "Fatality L1",
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "23",
+        "swc": "0",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "HMG",
+        "cost": "29",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "HMG",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Combi Haris",
+        "cost": "25",
+        "swc": "1",
+        "spec": [
+          "X Visor",
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Panzerfaust",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Grenadier",
+        "cost": "27",
+        "swc": "0.5",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/M Light Grenade Launcher",
+          "Light Nimbus Grenade Launcher"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "MULTI Sniper",
+        "cost": "32",
+        "swc": "1.5",
+        "spec": [
+          "CH: Mimetism"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Marksman Rifle",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Shock Marksman Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Killer Hacker",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Pitcher",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Assault Hacker",
+        "cost": "28",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Pitcher",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Paramedic",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "X Visor",
+          "MediKit"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Lieutenant",
+        "cost": "23",
+        "swc": "0",
+        "spec": [
+          "X Visor",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9032,
+    "army": "Non-Aligned Armies",
+    "isc": "Security Chief Arslan",
+    "name": "Arslan",
+    "type": "MI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-2",
+    "cc": "16",
+    "bs": "13",
+    "ph": "11",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multispectral Visor L1",
+      "Fireteam: Duo",
+      "Fatality L1",
+      "Hyper-Dynamics L1",
+      "V: No Wound Incapacitation",
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle",
+        "cost": "36",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lieutenant",
+        "cost": "36",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "MULTI Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9033,
+    "army": "Non-Aligned Armies",
+    "isc": "Authorized Bounty Hunters",
+    "name": "Bounty Hunter",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Booty L2",
+      "Stealth",
+      "Fireteam: Duo"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "15",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sniper Rifle",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Sniper Rifle"
+        ],
+        "ccw": [
+          "Breaker Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Spitfire",
+        "cost": "22",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Red Fury",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Red Fury"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9034,
+    "army": "Non-Aligned Armies",
+    "isc": "Bashi Bazouks",
+    "name": "Bashi Bazouk",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "X",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "11",
+    "ph": "10",
+    "wip": "12",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "4",
+    "spec": [
+      "AD: Parachutist / Zero-G",
+      "Holoprojector L2"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Rifle",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "15",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "AP Rifle",
+        "cost": "17",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "AP Rifle"
+        ],
+        "ccw": [
+          "CCW",
+          "Breaker Pistol (2)"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "E/Mauler",
+        "cost": "17",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Submachine Gun",
+        "cost": "12",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Specialist",
+        "cost": "17",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9035,
+    "army": "Non-Aligned Armies",
+    "isc": "Clipper Dronbot",
+    "name": "Clipper Dronbot",
+    "type": "REM",
+    "classification": "Support",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "6-4",
+    "cc": "8",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "0",
+    "bts": "3",
+    "w": "1",
+    "s": "3",
+    "ava": "1",
+    "spec": [
+      "G: Remote Presence"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Smart Missile Launcher",
+        "cost": "18",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Smart Missile Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Missile Launcher",
+        "cost": "17",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Missile Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9036,
+    "army": "Non-Aligned Armies",
+    "isc": "Brawlers, Mercenary Enforcers",
+    "name": "Brawler",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "11",
+    "wip": "12",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "4",
+    "spec": [
+      "Fireteam: Duo"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Rifle",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Heavy Rocket Launcher",
+        "cost": "18",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "MULTI Sniper",
+        "cost": "28",
+        "swc": "1.5",
+        "spec": [
+          "Multispectral Visor L2"
+        ],
+        "bsw": [
+          "MULTI Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Haris",
+        "cost": "17",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Assault Hacker",
+        "cost": "17",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device"
+        ],
+        "bsw": [
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Engineer",
+        "cost": "20",
+        "swc": "0",
+        "spec": [
+          "Engineer"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Doctor",
+        "cost": "20",
+        "swc": "0",
+        "spec": [
+          "Doctor",
+          "MediKit"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Lieutenant",
+        "cost": "16",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9037,
+    "army": "Non-Aligned Armies",
+    "isc": "Saito Tōgan",
+    "name": "Saito Tōgan",
+    "type": "SK",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "24",
+    "bs": "11",
+    "ph": "13",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Martial Arts L4",
+      "CH: TO Camouflage",
+      "Multiterrain",
+      "Kinematika L1",
+      "Infiltration"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "39",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "EXP CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Combi",
+        "cost": "40",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "EXP CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9038,
+    "army": "Non-Aligned Armies",
+    "isc": "Scarface & Cordelia",
+    "name": "Scarface",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Scarface",
+        "type": "TAG",
+        "classification": "Mercenary",
+        "imp": "F",
+        "irr": "",
+        "cube": "X",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "19",
+        "bs": "13",
+        "ph": "15",
+        "wip": "13",
+        "arm": "5",
+        "bts": "6",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "V: Courage",
+          "Manned",
+          "Assault",
+          "Fireteam: Duo"
+        ],
+        "bsw": [],
+        "ccw": [],
+        "independent": {
+          "cost": "57",
+          "swc": "1.5"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Pilot",
+        "type": "LI",
+        "hackable": "",
+        "mov": "4-4",
+        "cc": "15",
+        "bs": "12",
+        "ph": "11",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": "",
+        "spec": [
+          "Pilot",
+          "V: Courage",
+          "Specialist Operative",
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Cordelia Turner",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "hackable": "",
+        "mov": "4-4",
+        "cc": "13",
+        "bs": "11",
+        "ph": "10",
+        "wip": "13",
+        "arm": "1",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "ava": "1",
+        "spec": [
+          "CH: Mimetism",
+          "Engineer",
+          "V: Courage",
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "Knife"
+        ],
+        "independent": {
+          "cost": "17",
+          "swc": "0"
+        }
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Mk12 + HRL",
+        "cost": "74",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Mk12 (2)",
+          "Heavy Rocket Launcher"
+        ],
+        "ccw": [
+          "CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9039,
+    "army": "Non-Aligned Armies",
+    "isc": "Brawler Spec-Ops",
+    "name": "Brawler Spec-Ops",
+    "type": "SPEC-OPS",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "X-X",
+    "cc": "X",
+    "bs": "X",
+    "ph": "X",
+    "wip": "X",
+    "arm": "X",
+    "bts": "X",
+    "w": "X",
+    "ava": "1",
+    "spec": [
+      "Spec-Op"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "0",
+        "swc": "0",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ]
+  },
+  {
+    "id": 9040,
+    "army": "Non-Aligned Armies",
+    "isc": "Brawlers, Mercenary Enforcers",
+    "name": "Brawler",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "11",
+    "wip": "12",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "4",
+    "spec": [
+      "Fireteam: Duo"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "17",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
-]
+ ]

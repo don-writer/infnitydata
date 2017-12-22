@@ -2653,8 +2653,12 @@
         "w": "2",
         "s": "2",
         "ava": " ",
-        "spec": [],
-        "bsw": [],
+        "spec": [
+          "Operator"
+        ],
+        "bsw": [
+          "HMG"
+        ],
         "ccw": [
           "Knife",
           "Pistol"

@@ -1,8 +1,8 @@
 [
   {
     "id": 9999,
-    "army": "Mercenary",
-    "name": "Mercenary",
+    "army": "Non-Aligned Armies",
+    "name": "Non-Aligned Armies",
     "legacy_name": "Mercenary",
     "units": [
       {

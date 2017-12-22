@@ -164,7 +164,20 @@
           }
         ]
       }
-    ]
+    ],
+    "9999": [
+      {
+        "comment": "Brawler Spec-Ops",
+        "id": 9039,
+        "basemodels": [
+          {
+            "comment": "Brawler / Spec-ops (+1 point cost)",
+            "unit_id": 9040,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
   },
   "attributeboost": {
     "cc": [
@@ -325,7 +338,21 @@
       "Nanopulser": 3,
       "Spitfire": 6,
       "Stun Pistol": 1
-    }
+    },
+    "9999": {
+      "Boarding Shotgun": 2,
+      "Contender": 4,
+      "EXP CCW": 1,
+      "Grenades": 3,
+      "HMG": 8,
+      "Nanopulser": 3,
+      "Panzerfaust": 4,
+      "Spitfire": 6,
+      "Stun Pistol": 1,
+      "Viral CCW": 1,
+      "Viral Rifle": 5,
+      "Viral Sniper Rifle": 6
+    },
   },
   "extraspecs": {
     "AD: Inferior Combat Jump": 6,

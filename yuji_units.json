@@ -5374,7 +5374,7 @@
   },
   {
     "id": 2051,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Miranda Ashcroft (Ashcroft Hunting Party)",
     "name": "Miranda Ashcroft",
     "type": "LI",
@@ -5434,7 +5434,7 @@
   },
   {
     "id": 2052,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
     "name": "Bounty Hunter",
     "type": "LI",
@@ -5517,7 +5517,7 @@
   },
   {
     "id": 2053,
-    "army": "Mercenary",
+    "army": "Non-Aligned Armies",
     "isc": "Father Lucien Sforza, Registered Bounty Hunter",
     "name": "Sforza",
     "type": "LI",

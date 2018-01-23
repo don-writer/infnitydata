@@ -224,7 +224,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-2",
-    "cc": "14",
+    "cc": "15",
     "bs": "12",
     "ph": "11",
     "wip": "13",
@@ -233,110 +233,132 @@
     "w": "1",
     "s": "2",
     "ava": "2",
-    "spec": [],
+    "spec": [
+      "Fatality L1",
+      "Veteran L1"
+    ],
     "childs": [
       {
         "id": 1,
         "name": "Combi",
         "legacy_code": "Default",
-        "cost": "20",
+        "cost": "23",
         "swc": "0",
         "spec": [
           "X Visor"
         ],
         "bsw": [
           "Combi Rifle",
-          "D.E.P.",
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 2,
         "name": "Assault Hacker",
         "legacy_code": "Hacker",
-        "cost": "24",
+        "cost": "28",
         "swc": "0.5",
         "spec": [
           "Assault Hacking Device"
         ],
         "bsw": [
           "Combi Rifle",
+          "Pitcher",
           "D-Charges"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 3,
         "name": "Light Grenade Launcher",
         "legacy_code": "LGL",
-        "cost": "23",
+        "cost": "27",
         "swc": "0.5",
         "spec": [
           "X Visor"
         ],
         "bsw": [
           "Combi Rifle",
-          "Light Grenade Launcher"
+          "E/M Light Grenade Launcher",
+          "Light Nimbus Grenade Launcher"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 4,
-        "name": "Spitfire",
+        "name": "HMG",
         "legacy_code": "Spitfire",
-        "cost": "25",
+        "cost": "29",
         "swc": "1.5",
-        "spec": [
-          "X Visor"
-        ],
+        "spec": [],
         "bsw": [
-          "Spitfire"
+          "HMG",
+          "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 5,
-        "name": "Boarding Shotgun",
-        "cost": "19",
+        "name": "Marksman Rifle",
+        "cost": "27",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Boarding Shotgun",
-          "E/M Grenades"
+          "Shock Marksman Rifle",
+          "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 6,
         "name": "Killer Hacker",
-        "cost": "21",
+        "cost": "25",
         "swc": "0",
         "spec": [
           "Killer Hacking Device"
         ],
         "bsw": [
           "Combi Rifle",
+          "Pitcher",
           "D-Charges"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Panzerfaust",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
         ]
       }
     ]
@@ -2109,7 +2131,7 @@
       },
       {
         "id": 5,
-        "name": "Grenadier",
+        "name": "Light Grenade Launcher",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -2134,8 +2156,7 @@
           "CH: Mimetism"
         ],
         "bsw": [
-          "Combi Rifle",
-          "Chain-Colt"
+          "MULTI Sniper Rifle"
         ],
         "ccw": [
           "Viral Pistol",
@@ -2718,7 +2739,7 @@
           "Pistol",
           "Knife"
         ]
-      }
+      },
     ]
   },
   {
@@ -2788,7 +2809,7 @@
   {
     "id": 9038,
     "army": "Non-Aligned Armies",
-    "isc": "Scarface & Cordelia",
+    "isc": "Scarface & Cordelia Private Armored Team",
     "name": "Scarface",
     "ava": "1",
     "spec": [],

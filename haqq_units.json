@@ -1562,7 +1562,8 @@
         ],
         "ccw": [
           "Pistol",
-          "DA CCW"
+          "DA CCW",
+          "Knife"
         ]
       },
       {
@@ -1580,7 +1581,8 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "AP CCW",
+          "Knife"
         ]
       },
       {
@@ -1596,7 +1598,8 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "AP CCW",
+          "Knife"
         ]
       },
       {
@@ -1613,7 +1616,8 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "AP CCW",
+          "Knife"
         ]
       }
     ]

@@ -6,6 +6,7 @@
     "legacy_isc": "Keisotsu",
     "name": "Keisotsu",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -176,6 +177,7 @@
     "legacy_isc": "Zhanshi",
     "name": "Zhanshi",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -349,6 +351,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Veteran",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -373,6 +376,7 @@
         "name": "MadTrap",
         "optionSpecific": "X",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -577,6 +581,7 @@
     "legacy_isc": "Tiger Soldiers",
     "name": "Tiger",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -719,6 +724,7 @@
     "legacy_isc": "Zúyong Invincibles",
     "name": "Zúyong",
     "type": "HI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -925,6 +931,7 @@
     "legacy_isc": "Yan Huo Invincibles",
     "name": "Yan Huo",
     "type": "HI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1045,6 +1052,7 @@
     "legacy_isc": "Wu Ming",
     "name": "Wu Ming",
     "type": "HI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1221,6 +1229,7 @@
     "legacy_isc": "Daofei",
     "name": "Daofei",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1360,6 +1369,7 @@
     "legacy_isc": "Hac Tao",
     "name": "Hac Tao",
     "type": "HI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1523,6 +1533,7 @@
     "legacy_isc": "Hsien",
     "name": "Hsien",
     "type": "HI",
+    "classification": "Headquarters",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1678,6 +1689,7 @@
         "id": 1,
         "name": "Guijia",
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -1769,6 +1781,7 @@
     "legacy_isc": "Guilang",
     "name": "Guilang",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1919,6 +1932,7 @@
     "legacy_isc": "Ninjas",
     "name": "Ninja",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2064,6 +2078,7 @@
     "legacy_isc": "Shaolin Warrior Monks",
     "name": "Shaolin",
     "type": "WB",
+    "classification": "Line",
     "imp": "X",
     "irr": "X",
     "cube": "",
@@ -2188,6 +2203,7 @@
     "legacy_isc": "Yisheng",
     "name": "Yisheng",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2230,6 +2246,7 @@
     "legacy_isc": "Mech-Engineer",
     "name": "Mech-Engineer",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2272,6 +2289,7 @@
     "legacy_isc": "Yáokòng Wèibīng",
     "name": "Wèibīng",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2319,6 +2337,7 @@
     "legacy_isc": "Yáokòng Hùsòng",
     "name": "Hùsòng",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2362,6 +2381,7 @@
     "legacy_isc": "Yáokòng Son-bae",
     "name": "Son-Bae",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2403,6 +2423,7 @@
     "legacy_isc": "Yáokòng Chaīyì",
     "name": "Chaiyi",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2447,6 +2468,7 @@
     "legacy_isc": "Sun Tze",
     "name": "Sun Tze",
     "type": "HI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2551,6 +2573,7 @@
     "legacy_isc": "Celestial Guard",
     "name": "Celestial Guard",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2719,6 +2742,7 @@
     "legacy_isc": "Domaru Butai",
     "name": "Domaru",
     "type": "HI",
+    "classification": "Line",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -2846,6 +2870,7 @@
     "legacy_isc": "Shang Ji",
     "name": "Shang Ji",
     "type": "HI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3006,6 +3031,7 @@
     "legacy_isc": "Yáozăo",
     "name": "Yáozăo",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3046,6 +3072,7 @@
     "legacy_isc": "Yáopú Pangguling",
     "name": "Pangguling",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3120,6 +3147,7 @@
     "legacy_isc": "Kuang Shi",
     "name": "Kuang Shi",
     "type": "LI",
+    "classification": "Line",
     "imp": "X",
     "irr": "",
     "cube": "",
@@ -3178,6 +3206,7 @@
     "legacy_isc": "Kempeitai",
     "name": "Kempei",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3279,6 +3308,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Elite",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -3305,6 +3335,7 @@
         "name": "MadTrap",
         "optionSpecific": "X",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -3465,6 +3496,7 @@
         "id": 1,
         "name": "Aragoto",
         "type": "LI",
+        "classification": "Specially Trained",
         "imp": "I",
         "irr": "",
         "cube": "X",
@@ -3589,6 +3621,7 @@
     "legacy_isc": "Imperial Agents, Crane Rank",
     "name": "Imperial Agent",
     "type": "HI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3730,6 +3763,7 @@
     "legacy_isc": "Haramaki Zensenbutai",
     "name": "Haramaki",
     "type": "HI",
+    "classification": "Line",
     "imp": "X",
     "irr": "",
     "cube": "X",
@@ -3836,6 +3870,7 @@
     "legacy_isc": "Karakuri Special Project",
     "name": "Karakuri",
     "type": "HI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3947,6 +3982,7 @@
         "id": 1,
         "name": "Combat Form",
         "type": "HI",
+        "classification": "Specially Trained",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -4032,6 +4068,7 @@
         "id": 1,
         "name": "O-Yoroi",
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -4087,6 +4124,7 @@
         "id": 3,
         "name": "CrazyKoala",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -4149,6 +4187,7 @@
     "legacy_isc": "Oniwaban",
     "name": "Oniwaban",
     "type": "SK",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4213,6 +4252,7 @@
     "legacy_isc": "Tokusetsu Butai",
     "name": "Tokusetsu",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -4275,6 +4315,7 @@
     "legacy_isc": "Yáoxiè Rui Shi",
     "name": "Rui Shi",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -4318,6 +4359,7 @@
     "legacy_isc": "Yáoxiè Lù Duān",
     "name": "Lù Duān",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -4363,6 +4405,7 @@
     "legacy_isc": "Oniwaban Shinobu Kitsune",
     "name": "Shinobu",
     "type": "SK",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4430,6 +4473,7 @@
     "name": "Oyama",
     "image": 2023,
     "type": "HI",
+    "classification": "Character",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -4498,6 +4542,7 @@
     "name": "Sun Tze v2",
     "image": 2021,
     "type": "MI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4638,6 +4683,7 @@
     "name": "Keisotsu Guǐ Fēng Yuriko Oda",
     "image": 2043,
     "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -4703,6 +4749,7 @@
     "legacy_isc": "Bao Troop",
     "name": "Bao Troop",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4835,6 +4882,7 @@
     "legacy_isc": "Raiden Seibutai",
     "name": "Raiden",
     "type": "MI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4919,6 +4967,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Character",
         "imp": "I",
         "irr": "",
         "cube": "X",
@@ -5003,6 +5052,7 @@
       {
         "id": 1,
         "type": "SK",
+        "classification": "Specially Trained",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -5029,6 +5079,7 @@
         "name": "MadTrap",
         "optionSpecific": "X",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -5167,6 +5218,7 @@
     "isc": "Shikami",
     "name": "Shikami",
     "type": "HI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -5257,6 +5309,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Character",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -5281,6 +5334,7 @@
         "id": 2,
         "name": "MadTrap",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -5314,6 +5368,193 @@
         "ccw": [
           "Pistol",
           "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2051,
+    "army": "Non-Aligned Armies",
+    "isc": "Miranda Ashcroft (Ashcroft Hunting Party)",
+    "name": "Miranda Ashcroft",
+    "type": "LI",
+    "classification": "Support",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "18",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "ODD: Optical Disruptor",
+      "I-Kohl L1",
+      "Stealth",
+      "Fireteam: Duo",
+      "Specialist Operative"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2052,
+    "army": "Non-Aligned Armies",
+    "isc": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
+    "name": "Bounty Hunter",
+    "type": "LI",
+    "classification": "Support",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Booty L2",
+      "Stealth"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "15",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sniper Rifle",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Sniper Rifle"
+        ],
+        "ccw": [
+          "Breaker Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Spitfire",
+        "cost": "22",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2053,
+    "army": "Non-Aligned Armies",
+    "isc": "Father Lucien Sforza, Registered Bounty Hunter",
+    "name": "Sforza",
+    "type": "LI",
+    "classification": "Support",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "17",
+    "bs": "13",
+    "ph": "11",
+    "wip": "13",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L2",
+      "X Visor",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Viral Rifle",
+        "cost": "30",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Viral Rifle",
+          "Adhesive Launcher",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Electric Pulse"
         ]
       }
     ]

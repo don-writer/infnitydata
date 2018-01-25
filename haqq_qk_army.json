@@ -28,7 +28,7 @@
         "id": 4028,
         "ava": "4",
         "linkable": true,
-        "note": "Up to 2 Hafza can join any non-Mercenary Fireteam: Core"
+        "note": "Up to 2 Hafza can join any non-Mercenary Fireteam: Core<br>Up to 1 Hafza can join any non-Mercenary Fireteam: Haris"
       },
       {
         "comment": "Sekban",
@@ -146,22 +146,6 @@
         "comment": "Scarface",
         "id": 9015,
         "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       }
     ]
   }

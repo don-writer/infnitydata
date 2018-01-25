@@ -204,6 +204,10 @@
         "id": 5046
       },
       {
+        "comment": "Kriza Boracs",
+        "id": 5047
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "1"
@@ -228,29 +232,12 @@
         "id": 9023
       },
       {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
-      },
-      {
         "comment": "Knauf",
         "id": 9028
+      },
+      {
+        "comment": "Cube Jäger, Mercenary Recoverers",
+        "id": 9030
       }
     ]
   }

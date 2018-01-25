@@ -247,6 +247,10 @@
         "id": 6055
       },
       {
+        "comment": "Bit & Kiss!",
+        "id": 6056
+      },
+      {
         "comment": "Armand 'Le Muet'",
         "id": 9022,
         "ava": "1"
@@ -254,6 +258,10 @@
       {
         "comment": "Krakot Renegades, Morat Fugitives",
         "id": 9023
+      },
+      {
+        "comment": "Cube Jäger, Mercenary Recoverers",
+        "id": 9030
       }
     ]
   }

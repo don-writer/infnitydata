@@ -6,6 +6,7 @@
     "legacy_isc": "Alguaciles",
     "name": "Alguacil",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -175,6 +176,7 @@
     "legacy_isc": "Grenzers",
     "name": "Grenzer",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -322,6 +324,7 @@
     "legacy_isc": "Securitate",
     "name": "Securitate",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -449,6 +452,7 @@
     "legacy_isc": "Hellcats",
     "name": "Hellcat",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -621,6 +625,7 @@
     "legacy_isc": "Intruders",
     "name": "Intruder",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -753,6 +758,7 @@
     "legacy_isc": "Reverend Moiras",
     "name": "Reverend Moira",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -907,6 +913,7 @@
     "legacy_isc": "Reverend Healers",
     "name": "Reverend Healer",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -984,9 +991,10 @@
     "legacy_isc": "Mobile Brigada",
     "name": "Mobile Brigada",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
-    "cube": "",
+    "cube": "X",
     "hackable": "X",
     "mov": "4-4",
     "cc": "15",
@@ -1082,7 +1090,7 @@
       },
       {
         "id": 6,
-        "name": "Lieutenant",
+        "name": "MULTI Lieutenant",
         "legacy_code": "Lieutenant",
         "cost": "39",
         "swc": "0",
@@ -1129,6 +1137,22 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 9,
+        "name": "BSG Lieutenant",
+        "cost": "33",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -1145,6 +1169,7 @@
         "id": 1,
         "name": "Lizard",
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -1238,6 +1263,7 @@
         "id": 1,
         "name": "Szalamandra",
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -1312,6 +1338,7 @@
     "legacy_isc": "Zeros",
     "name": "Zero",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1477,6 +1504,7 @@
     "legacy_isc": "Spektrs",
     "name": "Spektr",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1606,6 +1634,7 @@
     "legacy_isc": "Corregidor Bandits",
     "name": "Bandit",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "X",
     "cube": "X",
@@ -1755,6 +1784,7 @@
     "legacy_isc": "Die Morlock Gruppe",
     "name": "Morlock",
     "type": "WB",
+    "classification": "Line",
     "imp": "X",
     "irr": "X",
     "cube": "",
@@ -1879,6 +1909,7 @@
     "legacy_isc": "Corregidor Jaguars",
     "name": "Jaguar",
     "type": "WB",
+    "classification": "Line",
     "imp": "F",
     "irr": "",
     "cube": "",
@@ -1954,6 +1985,7 @@
     "legacy_isc": "Daktaris",
     "name": "Daktari",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1996,6 +2028,7 @@
     "legacy_isc": "Clockmakers",
     "name": "Clockmaker",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2038,6 +2071,7 @@
     "legacy_isc": "Interventor",
     "name": "Interventor",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2186,6 +2220,7 @@
     "legacy_isc": "Stempler Zond",
     "name": "Stempler Zond",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "R",
@@ -2234,6 +2269,7 @@
     "legacy_isc": "Reaktion Zond",
     "name": "Reaktion Zond",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "R",
@@ -2278,6 +2314,7 @@
     "legacy_isc": "Vertigo Zond",
     "name": "Vertigo Zond",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "R",
@@ -2319,6 +2356,7 @@
     "legacy_isc": "Meteor Zond",
     "name": "Meteor Zond",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "R",
@@ -2365,6 +2403,7 @@
     "legacy_isc": "Transductor Zond",
     "name": "Transductor Zond",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "R",
@@ -2415,6 +2454,7 @@
         "id": 1,
         "isc": "Zoe",
         "type": "LI",
+        "classification": "Character",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -2502,6 +2542,7 @@
     "legacy_isc": "Bran do Castro, Triple Zero",
     "name": "Bran",
     "type": "SK",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2571,6 +2612,7 @@
         "id": 1,
         "name": "Iguana Squadron",
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -2611,8 +2653,12 @@
         "w": "2",
         "s": "2",
         "ava": " ",
-        "spec": [],
-        "bsw": [],
+        "spec": [
+          "Operator"
+        ],
+        "bsw": [
+          "HMG"
+        ],
         "ccw": [
           "Knife",
           "Pistol"
@@ -2647,6 +2693,7 @@
         "id": 1,
         "name": "Lunokhod Sputniks",
         "type": "REM",
+        "classification": "Support",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -2673,6 +2720,7 @@
         "id": 2,
         "name": "CrazyKoala",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4",
         "cc": " ",
@@ -2735,6 +2783,7 @@
     "legacy_isc": "Moderators from Bakunin",
     "name": "Moderator",
     "type": "LI",
+    "classification": "Garrison",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2895,6 +2944,7 @@
       {
         "id": 1,
         "type": "SK",
+        "classification": "Specially Trained",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -2921,6 +2971,7 @@
         "id": 2,
         "name": "CrazyKoala",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -2999,6 +3050,7 @@
     "legacy_isc": "Prowlers",
     "name": "Prowler",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3096,6 +3148,7 @@
     "legacy_isc": "Reverend Custodiers",
     "name": "Reverend Custodier",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3228,6 +3281,7 @@
     "legacy_isc": "Salyut Zonds",
     "name": "Salyut",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3302,6 +3356,7 @@
     "legacy_isc": "Sin-Eater Observants",
     "name": "Sin-Eater",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3397,6 +3452,7 @@
         "isc": "Tomcats",
         "name": "Tomcat",
         "type": "LI",
+        "classification": "Specially Trained",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -3598,6 +3654,7 @@
     "legacy_isc": "Tsyklon Sputniks",
     "name": "Tsyklon",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3659,6 +3716,7 @@
     "legacy_isc": "Zondbots",
     "name": "Zondbot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3699,6 +3757,7 @@
     "legacy_isc": "Bakunin Überfallkommando : Chimera",
     "name": "Chimera",
     "type": "WB",
+    "classification": "Support",
     "imp": "X",
     "irr": "X",
     "cube": "X",
@@ -3747,6 +3806,7 @@
     "name": "Pupnik",
     "image": 5037,
     "type": "WB",
+    "classification": "Support",
     "imp": "X",
     "irr": "X",
     "cube": "",
@@ -3790,6 +3850,7 @@
     "name": "Kusanagi",
     "image": 5006,
     "type": "MI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3894,6 +3955,7 @@
         "isc": "Carlota Kowalsky, Tomcats Sergeant",
         "name": "Carlota Kowalsky",
         "type": "LI",
+        "classification": "Character",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -3996,6 +4058,7 @@
     "legacy_isc": "Riot Grrls",
     "name": "Riot Grrl",
     "type": "HI",
+    "classification": "Specially Trained",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -4191,6 +4254,7 @@
     "name": "Lupe Balboa",
     "image": 5042,
     "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4237,6 +4301,7 @@
     "legacy_isc": "Wildcats, Polyvalent Tactical Unit",
     "name": "Wildcat",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4428,6 +4493,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -4523,6 +4589,7 @@
       {
         "id": 1,
         "type": "HI",
+        "classification": "Veteran",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -4550,6 +4617,7 @@
         "name": "CrazyKoala",
         "optionSpecific": "X",
         "type": " ",
+        "classification": "",
         "hackable": "",
         "mov": "6-4 ",
         "cc": " ",
@@ -4654,6 +4722,131 @@
         "ccw": [
           "Heavy Pistol",
           "DA CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5047,
+    "army": "Nomads",
+    "isc": "Kriza Boracs, Special Crisis Unit",
+    "name": "Kriza Borac",
+    "type": "HI",
+    "classification": "Headquarters",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "18",
+    "bs": "13",
+    "ph": "14",
+    "wip": "13",
+    "arm": "5",
+    "bts": "6",
+    "w": "2",
+    "s": "5",
+    "ava": "1",
+    "spec": [
+      "Fireteam: Duo",
+      "Full Auto L2",
+      "V: Courage",
+      "Multiterrain"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle",
+        "cost": "50",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "HMG",
+        "cost": "54",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "360° Mk12",
+        "cost": "63",
+        "swc": "0",
+        "spec": [
+          "360° Visor"
+        ],
+        "bsw": [
+          "Mk12",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "MULTI Rifle Lieutenant",
+        "cost": "50",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "MULTI Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "HMG Lieutenant",
+        "cost": "54",
+        "swc": "2",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "360° Mk12 Lieutenant",
+        "cost": "64",
+        "swc": "0",
+        "spec": [
+          "Lieutenant",
+          "360° Visor"
+        ],
+        "bsw": [
+          "Mk12",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "CCW"
         ]
       }
     ]

@@ -121,7 +121,7 @@
         "id": 4038,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Muyibs"
+        "note": "Non-infiltrating option counts as Muyib for Fireteam composition"
       },
       {
         "comment": "Husam Operative Leila Sharif",
@@ -139,27 +139,6 @@
         "comment": "Avicenna",
         "id": 9009,
         "ava": "1"
-      },
-      {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       }
     ]
   }

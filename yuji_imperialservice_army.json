@@ -11,40 +11,40 @@
         "id": 2022,
         "ava": "T",
         "linkable": true,
-        "note": "Core with up to 3 Crane; Control Device profile may Core with 1-4 Kuang Shi"
+        "note": "Fireteam: Core with up to 3 Crane<br>Control Device profile may form Fireteam: Core with 1-4 Kuang Shi"
       },
       {
         "comment": "Bao Troop",
         "id": 2045,
         "ava": "4",
         "linkable": true,
-        "note": "Core with 1 Pheasant and up to 4 Bao; may join Pheasant Haris"
+        "note": "Fireteam: Core with 1 Pheasant and up to 4 Bao<br>Fireteam: Haris with Pheasant"
       },
       {
         "comment": "Zhànying Imperial Agents",
         "id": 2003,
         "ava": "4",
-        "note": "1 Hsien may join Haris; may join Wu Ming Core"
+        "note": "1 Zhanying may join a Fireteam: Core of Wu Ming<br>Fireteam: Haris may include 1 Hsien"
       },
       {
         "comment": "Imperial Agent, Pheasant Rank",
         "id": 2029,
         "ava": "4",
-        "note": "Core with 1 Pheasant and up to 4 Bao; Bao may join Haris"
+        "note": "Fireteam: Core with 1 Pheasant and up to 4 Bao<br>Fireteam: Haris may include Bao"
       },
       {
         "comment": "Imperial Agents, Crane Rank",
         "id": 2031,
         "ava": "5",
         "linkable": true,
-        "note": "Core with Celestial Guard and up to 3 Crane"
+        "note": "Fireteam: Core with Celestial Guard and up to 3 Crane"
       },
       {
         "comment": "Wu Ming",
         "id": 2007,
         "ava": "5",
         "linkable": true,
-        "note": "Core with up to 1 Zhanying"
+        "note": "Fireteam: Core may include 1 Zhanying"
       },
       {
         "comment": "Hsien",
@@ -72,7 +72,7 @@
         "id": 2027,
         "ava": "8",
         "linkable": true,
-        "note": "Core with 1 Celestial Guard Kuang Shi Control Device"
+        "note": "Fireteam: Core with 1 Celestial Guard Kuang Shi Control Device"
       },
       {
         "comment": "Dakini Tacbots",
@@ -152,6 +152,22 @@
         "note": "Counts as Celestial Guard for Fireteam composition"
       },
       {
+        "comment": "Miranda Ashcroft (Ashcroft Hunting Party)",
+        "id": 2051,
+        "ava": "1",
+        "note": "Fireteam: Duo with Authorized Bounty Hunters (Ashcroft Hunting Party)"
+      },
+      {
+        "comment": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
+        "id": 2052,
+        "ava": "1",
+      },
+      {
+        "comment": "Father Lucien Sforza, Registered Bounty Hunter",
+        "id": 2053,
+        "ava": "1",
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "2"
@@ -172,29 +188,13 @@
         "ava": "1"
       },
       {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
-      },
-      {
         "comment": "Major Lunah, ex-Ariesteia! Sniper",
         "id": 9029
+      },
+      {
+        "comment": "Mercenary - CSU, Corporate Security Unit",
+        "id": 9020,
+        "ava": "2"
       }
     ]
   }

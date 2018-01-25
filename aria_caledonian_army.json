@@ -19,7 +19,7 @@
           }
         ],
         "linkable": true,
-        "note": "Fireteam: Core may include 1 3rd Grey Rifle"
+        "note": "Fireteam: Core may include 1 3rd Grey Rifle<br>Options with Inferior Infiltration may not join a Fireteam"
       },
       {
         "comment": "Highlander Caterans",
@@ -47,7 +47,7 @@
         "comment": "Caledonian Mormaers",
         "id": 3021,
         "ava": "3",
-        "note": "Fireteam: Haris may 1 3rd Grey Rifle"
+        "note": "Fireteam: Haris may include 1 3rd Grey Rifle"
       },
       {
         "comment": "S.A.S.",
@@ -109,7 +109,7 @@
         "id": 3032,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Volunteers and up to 1 3rd Grey Rifle"
+        "note": "Counts as Volunteer for Fireteam composition"
       },
       {
         "comment": "McMurrough",
@@ -125,27 +125,6 @@
         "comment": "Wardrivers",
         "id": 9021,
         "ava": "1"
-      },
-      {
-        "comment": "Anaconda (ITS Season 8)",
-        "id": 9016,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       }
     ]
   }

@@ -6,6 +6,7 @@
     "legacy_isc": "Fusiliers",
     "name": "Fusilier",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -175,28 +176,30 @@
     "legacy_isc": "Kamau",
     "name": "Kamau",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "13",
+    "cc": "15",
     "bs": "13",
-    "ph": "10",
+    "ph": "11",
     "wip": "13",
     "arm": "1",
     "bts": "6",
     "w": "1",
     "s": "2",
-    "ava": "3",
+    "ava": "2",
     "spec": [
-      "Aquatic Terrain"
+      "Aquatic Terrain",
+      "CH: Mimetism"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Combi",
         "legacy_code": "Default",
-        "cost": "16",
+        "cost": "20",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -211,7 +214,7 @@
         "id": 2,
         "name": "HMG",
         "legacy_code": "HMG",
-        "cost": "24",
+        "cost": "28",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -226,7 +229,7 @@
         "id": 3,
         "name": "Hacker",
         "legacy_code": "Hacker",
-        "cost": "24",
+        "cost": "28",
         "swc": "0.5",
         "spec": [
           "Hacking Device"
@@ -241,16 +244,14 @@
       },
       {
         "id": 4,
-        "name": "Grenadier",
+        "name": "Heavy Rocket Launcher",
         "legacy_code": "Grenadier",
-        "cost": "22",
-        "swc": "1",
-        "spec": [
-          "X Visor"
-        ],
+        "cost": "23",
+        "swc": "1.5",
+        "spec": [],
         "bsw": [
-          "Light Grenade Launcher",
-          "Combi Rifle"
+          "Heavy Rocket Launcher",
+          "Submachine Gun"
         ],
         "ccw": [
           "Knife",
@@ -261,10 +262,10 @@
         "id": 5,
         "name": "MULTI Sniper Rifle",
         "legacy_code": "MULTI Sniper Rifle",
-        "cost": "27",
+        "cost": "32",
         "swc": "1.5",
         "spec": [
-          "X Visor"
+          "Multispectral Visor L2"
         ],
         "bsw": [
           "MULTI Sniper Rifle"
@@ -276,12 +277,12 @@
       },
       {
         "id": 6,
-        "name": "Lieutenant",
+        "name": "Forward Observer",
         "legacy_code": "Lieutenant",
-        "cost": "16",
-        "swc": "1",
+        "cost": "21",
+        "swc": "0",
         "spec": [
-          "Lieutenant"
+          "Forward Observer"
         ],
         "bsw": [
           "Combi Rifle"
@@ -295,7 +296,7 @@
         "id": 7,
         "name": "Paramedic",
         "legacy_code": "Paramedic",
-        "cost": "18",
+        "cost": "22",
         "swc": "0",
         "spec": [
           "MediKit"
@@ -317,6 +318,7 @@
     "legacy_isc": "Bagh-Mari",
     "name": "Bagh-Mari",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -333,7 +335,7 @@
     "spec": [
       "CH: Mimetism",
       "Multispectral Visor L1",
-      "Multiterrain (Aquatic, Desert or Jungle)"
+      "Aquatic Terrain / Desert Terrain / Jungle Terrain"
     ],
     "childs": [
       {
@@ -500,6 +502,7 @@
     "legacy_isc": "Akalis",
     "name": "Akal",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -605,6 +608,7 @@
     "legacy_isc": "Nisses",
     "name": "Nisse",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -733,6 +737,7 @@
     "legacy_isc": "Orc Troops",
     "name": "Orc",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -918,6 +923,7 @@
     "legacy_isc": "Knights Hospitaller",
     "name": "Knight Hospitaller",
     "type": "HI",
+    "classification": "Elite",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -1090,6 +1096,7 @@
     "legacy_isc": "Father-Knights",
     "name": "Father-Knight",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1265,6 +1272,7 @@
     "legacy_isc": "Aquila Guard",
     "name": "Aquila",
     "type": "HI",
+    "classification": "Headquarters",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1339,6 +1347,7 @@
     "legacy_isc": "Swiss Guard",
     "name": "Swiss Guard",
     "type": "HI",
+    "classification": "Headquarters",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1434,6 +1443,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -1456,8 +1466,8 @@
       },
       {
         "id": 2,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -1545,6 +1555,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -1567,8 +1578,8 @@
       },
       {
         "id": 2,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -1624,6 +1635,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -1648,8 +1660,8 @@
       },
       {
         "id": 2,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -1718,6 +1730,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -1741,8 +1754,8 @@
       },
       {
         "id": 2,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -1810,6 +1823,7 @@
     "legacy_isc": "Croc Men",
     "name": "Croc Man",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1960,6 +1974,7 @@
     "legacy_isc": "Trauma-Doc",
     "name": "Trauma-Doc",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2002,6 +2017,7 @@
     "legacy_isc": "Machinist",
     "name": "Machinist",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2044,6 +2060,7 @@
     "legacy_isc": "Pathfinder Dronbot",
     "name": "Pathfinder Dronbot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2091,6 +2108,7 @@
     "legacy_isc": "Sierra Dronbot",
     "name": "Sierra Dronbot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2134,6 +2152,7 @@
     "legacy_isc": "Clipper Dronbot",
     "name": "Clipper Dronbot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2175,6 +2194,7 @@
     "legacy_isc": "Fugazi Dronbot",
     "name": "Fugazi Dronbot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2219,6 +2239,7 @@
     "legacy_isc": "Joan of Arc",
     "name": "Joan of Arc",
     "type": "HI",
+    "classification": "Character",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -2317,6 +2338,7 @@
     "legacy_isc": "Acontecimento Regulars",
     "name": "Regular",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2484,6 +2506,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Garrison",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -2591,6 +2614,7 @@
     "legacy_isc": "Hexas, Strategic Security Division",
     "name": "Hexa",
     "type": "LI",
+    "classification": "Headquarters",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2695,6 +2719,7 @@
     "legacy_isc": "Knights Of Santiago",
     "name": "Santiago",
     "type": "HI",
+    "classification": "Elite",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -2815,6 +2840,7 @@
     "legacy_isc": "Mulebots",
     "name": "Mulebot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2889,6 +2915,7 @@
     "legacy_isc": "Palbots",
     "name": "Palbot",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2929,6 +2956,7 @@
     "legacy_isc": "Father-Officer Gabriele De Fersen",
     "name": "De Fersen",
     "type": "HI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2995,6 +3023,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Veteran",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -3240,6 +3269,7 @@
       {
         "id": 1,
         "type": "LI",
+        "classification": "Veteran",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -3409,6 +3439,7 @@
       {
         "id": 1,
         "type": "HI",
+        "classification": "Veteran",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -3473,7 +3504,8 @@
         ],
         "ccw": [
           "Pistol",
-          "Knife"
+          "Knife",
+          "D-Charges"
         ]
       },
       {
@@ -3489,7 +3521,8 @@
         ],
         "ccw": [
           "Pistol",
-          "Knife"
+          "Knife",
+          "D-Charges"
         ]
       }
     ]
@@ -3501,6 +3534,7 @@
     "legacy_isc": "Knights of Montesa",
     "name": "Knight of Montesa",
     "type": "HI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3631,6 +3665,7 @@
     "legacy_isc": "Knights of the Holy Sepulchre",
     "name": "Knight of the Holy Sepulchre",
     "type": "HI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3726,6 +3761,7 @@
     "legacy_isc": "Teutonic Knights",
     "name": "Teutonic Knight",
     "type": "HI",
+    "classification": "Elite",
     "imp": "F",
     "irr": "",
     "cube": "",
@@ -3820,6 +3856,7 @@
     "legacy_isc": "Magister Knights",
     "name": "Magister Knight",
     "type": "HI",
+    "classification": "Elite",
     "imp": "X",
     "irr": "",
     "cube": "X",
@@ -3901,6 +3938,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -3924,8 +3962,8 @@
       },
       {
         "id": 2,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -3981,6 +4019,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -4007,8 +4046,8 @@
       },
       {
         "id": 2,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -4067,6 +4106,7 @@
       {
         "id": 1,
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -4123,8 +4163,8 @@
       },
       {
         "id": 3,
-        "name": "Crabbot",
         "isc": "Crabbot Ancillary Remote Unit",
+        "name": "Crabbot",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -4177,6 +4217,7 @@
     "legacy_isc": "Armbots: Bulleteers",
     "name": "Bulleteer",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -4239,6 +4280,7 @@
       {
         "id": 1,
         "type": "REM",
+        "classification": "Support",
         "imp": "",
         "irr": "",
         "cube": "",
@@ -4332,6 +4374,7 @@
     "name": "Singh",
     "image": 1004,
     "type": "MI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4377,6 +4420,7 @@
     "name": "Joan of Arc 2.0",
     "image": 1022,
     "type": "HI",
+    "classification": "Character",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -4495,6 +4539,7 @@
     "name": "Bipandra",
     "image": 1045,
     "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4540,6 +4585,7 @@
     "name": "Konstantinos",
     "image": 1045,
     "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4603,6 +4649,7 @@
     "legacy_isc": "Crusader Brethren",
     "name": "Crusader",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4706,6 +4753,7 @@
     "name": "Rao",
     "image": 1003,
     "type": "MI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4720,7 +4768,7 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "Multiterrain (Aquatic, Desert or Jungle)",
+      "Aquatic Terrain / Desert Terrain / Jungle Terrain",
       "CH: Mimetism",
       "Multispectral Visor L1"
     ],
@@ -4766,6 +4814,7 @@
     "legacy_isc": "Neoterra Bolts",
     "name": "Bolt",
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4941,6 +4990,7 @@
     "isc": "Black Friars",
     "name": "Black Friar",
     "type": "MI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -5001,6 +5051,7 @@
     "isc": "Locust, Clandestine Action Team",
     "name": "Locust",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -5113,6 +5164,7 @@
     "isc": "Tech-Bees, Maintenance Battalions",
     "name": "Tech-Bee",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "X",
     "cube": "X",

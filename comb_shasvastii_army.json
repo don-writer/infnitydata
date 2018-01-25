@@ -147,7 +147,7 @@
           }
         ],
         "linkable": true,
-        "note": "May join any Fireteam: Core"
+        "note": "Fireteam: Core with Caliban or Gwailo"
       },
       {
         "comment": "Corax Spec-Ops",
@@ -165,6 +165,11 @@
         "ava": "1",
         "linkable": true,
         "note": "Fireteam: Core with Caliban or Gwailo"
+      },
+      {
+        "comment": "Bit & Kiss!",
+        "id": 6056,
+        "ava": "1"
       }
     ]
   }

@@ -19,7 +19,7 @@
           }
         ],
         "linkable": true,
-        "note": "Options with Inferior Infiltration may not join a Fireteam: Core"
+        "note": "Options with Inferior Infiltration may not join a Fireteam"
       },
       {
         "comment": "Para-Commandos",
@@ -121,7 +121,7 @@
         "id": 3034,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Métros"
+        "note": "Fireteam: Core with Métros (non-infiltrating version)<br>Bruant may not use Limited Camouflage in a Fireteam"
       },
       {
         "comment": "Margot Berthier, Mirage-5",
@@ -147,27 +147,6 @@
         "comment": "Wardrivers",
         "id": 9021,
         "ava": "1"
-      },
-      {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       },
       {
         "comment": "Knauf",

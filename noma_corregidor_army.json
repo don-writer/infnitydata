@@ -65,7 +65,7 @@
         "id": 5015,
         "ava": "5",
         "linkable": true,
-        "note": "Fireteam: Core of Señor Massacre and up to 4 Jaguars<br>Fireteam: Haris of Señor Massacre and 2 Jaguars"
+        "note": "Fireteam: Core of Señor Massacre and up to 4 Jaguars<br>Fireteam: Haris of Señor Massacre and up to 2 Jaguars"
       },
       {
         "comment": "Carlota Kowalsky, Tomcats Sergeant",
@@ -132,7 +132,7 @@
         "id": 5043,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Alguaciles"
+        "note": "Counts as Alguacil for Fireteam composition"
       },
       {
         "comment": "Warcor",
@@ -142,7 +142,8 @@
       {
         "comment": "Señor Massacre",
         "id": 9011,
-        "ava": "1"
+        "ava": "1",
+        "note": "Fireteam: Core of Señor Massacre and up to 4 Jaguars<br>Fireteam: Haris of Señor Massacre and up to 2 Jaguars"
       },
       {
         "comment": "McMurrough",
@@ -153,27 +154,6 @@
         "comment": "Valerya Gromoz, Mercenary Hacker",
         "id": 9012,
         "ava": "1"
-      },
-      {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       }
     ]
   }

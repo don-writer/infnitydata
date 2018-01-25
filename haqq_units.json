@@ -6,6 +6,7 @@
     "legacy_isc": "Daylami Infantry",
     "name": "Daylami",
     "type": "LI",
+    "classification": "Garrison",
     "imp": "",
     "irr": "X",
     "cube": "",
@@ -130,6 +131,7 @@
     "legacy_isc": "Ghulam",
     "name": "Ghulam",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -374,6 +376,7 @@
     "legacy_isc": "Naffatûn",
     "name": "Naffatun",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -450,6 +453,7 @@
     "legacy_isc": "Halqa",
     "name": "Halqa",
     "type": "LI",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -611,6 +615,7 @@
     "legacy_isc": "Khawarijs",
     "name": "Khawarij",
     "type": "LI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -668,9 +673,11 @@
         "id": 3,
         "name": "Spitfire",
         "legacy_code": "Spitfire",
-        "cost": "31",
-        "swc": "1",
-        "spec": [],
+        "cost": "32",
+        "swc": "1.5",
+        "spec": [
+          "Fatality L2"
+        ],
         "bsw": [
           "Spitfire"
         ],
@@ -720,10 +727,11 @@
         "id": 6,
         "name": "Spitfire Lieutenant",
         "legacy_code": "Spitfire Lieutenant",
-        "cost": "31",
-        "swc": "1",
+        "cost": "32",
+        "swc": "1.5",
         "spec": [
-          "Lieutenant"
+          "Lieutenant",
+          "Fatality L2"
         ],
         "bsw": [
           "Spitfire"
@@ -742,6 +750,7 @@
     "legacy_isc": "Djanbazan",
     "name": "Djanbazan",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -885,6 +894,7 @@
     "legacy_isc": "Hassassin Ragiks",
     "name": "Ragik",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -977,6 +987,7 @@
     "legacy_isc": "Janissaries",
     "name": "Janissary",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1137,6 +1148,7 @@
     "legacy_isc": "Al Fasid",
     "name": "Fasid",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1207,6 +1219,7 @@
         "id": 1,
         "name": "Maghariba Guard",
         "type": "TAG",
+        "classification": "Mechanized",
         "imp": "",
         "irr": "",
         "cube": "X",
@@ -1312,6 +1325,7 @@
     "legacy_isc": "Hunzakuts",
     "name": "Hunzakut",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "X",
     "cube": "",
@@ -1395,6 +1409,7 @@
     "legacy_isc": "Murabids Tuareg",
     "name": "Tuareg",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1511,6 +1526,7 @@
     "legacy_isc": "Hassassin Fiday",
     "name": "Fiday",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1546,7 +1562,8 @@
         ],
         "ccw": [
           "Pistol",
-          "DA CCW"
+          "DA CCW",
+          "Knife"
         ]
       },
       {
@@ -1564,7 +1581,8 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "AP CCW",
+          "Knife"
         ]
       },
       {
@@ -1580,7 +1598,8 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "AP CCW",
+          "Knife"
         ]
       },
       {
@@ -1597,7 +1616,8 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "AP CCW",
+          "Knife"
         ]
       }
     ]
@@ -1616,6 +1636,7 @@
       {
         "id": 1,
         "type": "WB",
+        "classification": "Line",
         "imp": "X",
         "irr": "X",
         "cube": "",
@@ -1701,10 +1722,11 @@
   {
     "id": 4015,
     "army": "Haqqislam",
-    "isc": "Muttawi'ah",
+    "isc": "Ghazi Muttawi'ah",
     "legacy_isc": "Muttawi'ah",
     "name": "Muttawi'ah",
     "type": "LI",
+    "classification": "Line",
     "imp": "X",
     "irr": "X",
     "cube": "",
@@ -1768,6 +1790,7 @@
     "legacy_isc": "Najjarun Engineer",
     "name": "Najjarun",
     "type": "LI",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -1812,6 +1835,7 @@
     "legacy_isc": "Rafiq Remote",
     "name": "Rafiq",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1860,6 +1884,7 @@
     "legacy_isc": "Shihab Remote",
     "name": "Shihab",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1903,6 +1928,7 @@
     "legacy_isc": "Shaytaniyah Remote",
     "name": "Shaytaniyah",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1944,6 +1970,7 @@
     "legacy_isc": "Fanous Remote",
     "name": "Fanous",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -1989,6 +2016,7 @@
     "name": "Tarik Mansuri",
     "image": 4005,
     "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2008,14 +2036,15 @@
       "Religious Troop",
       "Super-Jump",
       "Bioimmunity",
-      "Kinematika L1"
+      "Kinematika L1",
+      "Fatality L2"
     ],
     "childs": [
       {
         "id": 1,
         "name": "AP Rifle",
         "legacy_code": "Default",
-        "cost": "54",
+        "cost": "53",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -2033,8 +2062,8 @@
         "id": 2,
         "name": "Spitfire",
         "legacy_code": "Spitfire",
-        "cost": "56",
-        "swc": "2",
+        "cost": "55",
+        "swc": "1.5",
         "spec": [],
         "bsw": [
           "Nanopulser",
@@ -2050,7 +2079,7 @@
         "id": 3,
         "name": "Lieutenant",
         "legacy_code": "Lieutenant",
-        "cost": "54",
+        "cost": "53",
         "swc": "-1",
         "spec": [
           "Lieutenant"
@@ -2070,8 +2099,8 @@
         "id": 4,
         "name": "Spitfire Lieutenant",
         "legacy_code": "Spitfire Lieutenant",
-        "cost": "56",
-        "swc": "2",
+        "cost": "55",
+        "swc": "1.5",
         "spec": [
           "Lieutenant"
         ],
@@ -2104,6 +2133,7 @@
         "id": 1,
         "name": "Kasym Beg",
         "type": "WB",
+        "classification": "Character",
         "imp": "I",
         "irr": "X",
         "cube": "X",
@@ -2174,6 +2204,7 @@
         "id": 1,
         "name": "Kasym Beg",
         "type": "WB",
+        "classification": "Character",
         "imp": "I",
         "irr": "",
         "cube": "X",
@@ -2236,6 +2267,7 @@
     "legacy_isc": "Al Hawwa' Unit",
     "name": "Hawwa'",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2316,6 +2348,7 @@
     "legacy_isc": "Asawira Regiment",
     "name": "Asawira",
     "type": "HI",
+    "classification": "Headquarters",
     "imp": "F",
     "irr": "",
     "cube": "X",
@@ -2488,6 +2521,7 @@
     "legacy_isc": "Azra'il",
     "name": "Azra'il",
     "type": "HI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2543,6 +2577,7 @@
     "legacy_isc": "Bashi Bazouk",
     "name": "Bashi Bazouk",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "X",
     "cube": "",
@@ -2647,6 +2682,7 @@
     "legacy_isc": "Hafza Unit",
     "name": "Hafza",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -2771,6 +2807,7 @@
     "legacy_isc": "Hassassin Farzans",
     "name": "Farzan",
     "type": "SK",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2852,6 +2889,7 @@
     "legacy_isc": "Hassassin Lasiqs",
     "name": "Lasiq",
     "type": "MI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -2912,6 +2950,7 @@
     "legacy_isc": "Hassassin Muyibs",
     "name": "Muyib",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3148,6 +3187,7 @@
     "name": "Al-Djabel",
     "image": 4013,
     "type": "SK",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3196,6 +3236,7 @@
     "legacy_isc": "Kameel Remotes",
     "name": "Kameel",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3271,6 +3312,7 @@
     "legacy_isc": "Nasmat Remotes",
     "name": "Nasmat",
     "type": "REM",
+    "classification": "Support",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3311,6 +3353,7 @@
     "legacy_isc": "Odalisques",
     "name": "Odalisque",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3424,6 +3467,7 @@
     "legacy_isc": "Saladin, O-12 Liaison Officer",
     "name": "Saladin",
     "type": "MI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3522,6 +3566,7 @@
     "name": "Hassassin Husam Yasbir",
     "image": 4037,
     "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -3592,6 +3637,7 @@
     "legacy_isc": "KTS, Kaplan Tactical Services",
     "name": "Kaplan",
     "type": "LI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3738,6 +3784,7 @@
     "legacy_isc": "Hassassin Barid",
     "name": "Barid",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -3873,6 +3920,7 @@
     "legacy_isc": "Sekban",
     "name": "Sekban",
     "type": "MI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4025,6 +4073,7 @@
     "legacy_isc": "Hassassin Govads",
     "name": "Govad",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4215,6 +4264,7 @@
     "legacy_isc": "Zhayedan Intervention Troops",
     "name": "Zhayedan",
     "type": "LI",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -4370,6 +4420,7 @@
       {
         "id": 1,
         "type": "WB",
+        "classification": "Character",
         "imp": "X",
         "irr": "X",
         "cube": "",
@@ -4435,6 +4486,7 @@
       {
         "id": 1,
         "type": "WB",
+        "classification": "Character",
         "imp": "X",
         "irr": "X",
         "cube": "",
@@ -4490,14 +4542,15 @@
     "army": "Haqqislam",
     "isc": "Druze Shock Teams",
     "legacy_isc": "Druze Shock Teams",
-    "name": "Shock",
+    "name": "Druze",
     "image": 9003,
     "type": "MI",
+    "classification": "Veteran",
     "imp": "",
     "irr": "",
     "cube": "X",
     "mov": "4-2",
-    "cc": "14",
+    "cc": "15",
     "bs": "12",
     "ph": "11",
     "wip": "13",
@@ -4507,111 +4560,132 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Fireteam: Duo"
+      "Fireteam: Duo",
+      "Fatality L1",
+      "Veteran L1"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Combi",
         "legacy_code": "Default",
-        "cost": "20",
+        "cost": "23",
         "swc": "0",
         "spec": [
           "X Visor"
         ],
         "bsw": [
           "Combi Rifle",
-          "D.E.P.",
           "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 2,
         "name": "Assault Hacker",
         "legacy_code": "Hacker",
-        "cost": "24",
+        "cost": "28",
         "swc": "0.5",
         "spec": [
           "Assault Hacking Device"
         ],
         "bsw": [
           "Combi Rifle",
+          "Pitcher",
           "D-Charges"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 3,
         "name": "Light Grenade Launcher",
         "legacy_code": "LGL",
-        "cost": "23",
+        "cost": "27",
         "swc": "0.5",
         "spec": [
           "X Visor"
         ],
         "bsw": [
           "Combi Rifle",
-          "Light Grenade Launcher"
+          "E/M Light Grenade Launcher",
+          "Light Nimbus Grenade Launcher"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 4,
-        "name": "Spitfire",
+        "name": "HMG",
         "legacy_code": "Spitfire",
-        "cost": "25",
+        "cost": "29",
         "swc": "1.5",
-        "spec": [
-          "X Visor"
-        ],
+        "spec": [],
         "bsw": [
-          "Spitfire"
+          "HMG",
+          "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 5,
-        "name": "Boarding Shotgun",
-        "cost": "19",
+        "name": "Marksman Rifle",
+        "cost": "27",
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Boarding Shotgun",
-          "E/M Grenades"
+          "Shock Marksman Rifle",
+          "Chain-Colt"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
         ]
       },
       {
         "id": 6,
         "name": "Killer Hacker",
-        "cost": "21",
+        "cost": "25",
         "swc": "0",
         "spec": [
           "Killer Hacking Device"
         ],
         "bsw": [
           "Combi Rifle",
+          "Pitcher",
           "D-Charges"
         ],
         "ccw": [
-          "Pistol",
-          "CCW"
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Panzerfaust",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "X Visor"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Chain-Colt",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
         ]
       }
     ]
@@ -4622,6 +4696,7 @@
     "isc": "Hassassin Áyyār",
     "name": "Áyyār",
     "type": "HI",
+    "classification": "Elite",
     "imp": "",
     "irr": "",
     "cube": "",
@@ -4701,8 +4776,9 @@
     "army": "Haqqislam",
     "isc": "Husam Operative Leila Sharif",
     "name": "Leila Sharif",
-    "type": "LI",
     "image": 4037,
+    "type": "LI",
+    "classification": "Character",
     "imp": "",
     "irr": "",
     "cube": "X",

@@ -18,7 +18,7 @@
           }
         ],
         "linkable": true,
-        "note": "Fireteam: Core may include 1 Kempeitai and/or Yuriko Oda"
+        "note": "Fireteam: Core may include 1 Kempeitai"
       },
       {
         "comment": "Kempeitai",
@@ -45,15 +45,14 @@
         "comment": "Domaru Butai",
         "id": 2023,
         "ava": "5",
-        "linkable": true,
-        "note": "Fireteam: Core may include Neko Oyama"
+        "linkable": true
       },
       {
         "comment": "Haramaki Zensenbutai",
         "id": 2032,
         "ava": "6",
         "linkable": true,
-        "note": "Fireteam: Core requires 1 or 2 Domaru and/or Neko Oyama"
+        "note": "Fireteam: Core requires 1 or 2 Domaru"
       },
       {
         "comment": "O-Yoroi Kidobutai",
@@ -90,7 +89,7 @@
         "id": 2041,
         "ava": "1",
         "linkable": true,
-        "note": "May join a Fireteam: Core of Domaru or Haramaki"
+        "note": "Counts as Domaru for Fireteam composition"
       },
       {
         "comment": "Asuka Kisaragi",
@@ -147,7 +146,7 @@
         "id": 2044,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Keisotsu"
+        "note": "Counts as Keisotsu for Fireteam composition"
       },
       {
         "comment": "Warcor",
@@ -168,27 +167,6 @@
         "comment": "Miyamoto Mushashi",
         "id": 9008,
         "ava": "1"
-      },
-      {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       }
     ]
   }

@@ -11,7 +11,8 @@
         "comment": "USAriadna Grunts",
         "id": 3004,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "note": "Options with Inferior Infiltration may not join a Fireteam"
       },
       {
         "comment": "6th Airborne Rangers",
@@ -99,27 +100,6 @@
         "comment": "Wardrivers",
         "id": 9021,
         "ava": "1"
-      },
-      {
-        "comment": "Scarface (ITS Season 8)",
-        "id": 9015,
-        "ava": "1"
-      },
-      {
-        "comment": "Bit & Kiss! (ITS Season 8)",
-        "id": 9024
-      },
-      {
-        "comment": "Cypher (ITS Season 8)",
-        "id": 9025
-      },
-      {
-        "comment": "Switch (ITS Season 8)",
-        "id": 9026
-      },
-      {
-        "comment": "ALIVE Anti-establishment Group (ITS Season 8)",
-        "id": 9027
       }
     ]
   }

@@ -2124,7 +2124,7 @@
     "s": "3",
     "ava": "2",
     "spec": [
-      "360Â° Visor",
+      "360° Visor",
       "G: Remote Presence",
       "Total Reaction"
     ],
@@ -2735,7 +2735,7 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "360Â° Visor",
+      "360° Visor",
       "Religious Troop",
       "Zero-G",
       "Fireteam: Duo",
@@ -4544,7 +4544,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "13",
+    "cc": "14",
     "bs": "12",
     "ph": "11",
     "wip": "13",
@@ -4556,19 +4556,19 @@
     "spec": [
       "MediKit",
       "Doctor",
-      "Specialist Operative"
+      "V: Courage"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Doctor",
         "legacy_code": "Doctor",
-        "cost": "24",
-        "swc": "0.5",
+        "cost": "23",
+        "swc": "0",
         "spec": [],
         "bsw": [
           "Combi Rifle",
-          "Light Shotgun"
+          "Nanopulser"
         ],
         "ccw": [
           "Pistol",

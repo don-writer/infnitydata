@@ -970,7 +970,8 @@
           "Specialist Operative"
         ],
         "bsw": [
-          "Spitfire"
+          "Spitfire",
+          "Nanopulser"
         ],
         "ccw": [
           "Pistol",
@@ -1268,7 +1269,7 @@
         "swc": "1",
         "spec": [
           "Neurocinetics",
-          "360Â° Visor"
+          "360° Visor"
         ],
         "bsw": [
           "HMG"
@@ -1525,7 +1526,7 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "Defensive Hacking Device",
+      "Killer Hacking Device",
       "Fireteam: Triad",
       "Regeneration",
       "Sensor"
@@ -1535,8 +1536,8 @@
         "id": 1,
         "name": "Viral Combi",
         "legacy_code": "Default",
-        "cost": "33",
-        "swc": "0.5",
+        "cost": "30",
+        "swc": "0",
         "spec": [],
         "bsw": [
           "Nanopulser",
@@ -1553,8 +1554,8 @@
         "id": 2,
         "name": "K1 Combi",
         "legacy_code": "K1 Combi",
-        "cost": "32",
-        "swc": "0.5",
+        "cost": "29",
+        "swc": "0",
         "spec": [],
         "bsw": [
           "Nanopulser",

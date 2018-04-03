@@ -2214,7 +2214,7 @@
     "classification": "Character",
     "imp": "F",
     "irr": "",
-    "cube": "",
+    "cube": "2",
     "mov": "4-2",
     "cc": "19",
     "bs": "12",
@@ -2228,7 +2228,7 @@
     "spec": [
       "ODD: Optical Disruptor",
       "360° Visor",
-      "Specialist Troop"
+      "Specialist Operative"
     ],
     "childs": [
       {

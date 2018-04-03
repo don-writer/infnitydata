@@ -315,7 +315,9 @@
         "name": "Marksman Rifle",
         "cost": "27",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "X Visor"
+        ],
         "bsw": [
           "Shock Marksman Rifle",
           "Chain-Colt"

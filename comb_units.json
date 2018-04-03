@@ -2968,19 +2968,21 @@
         "imp": "",
         "irr": "",
         "cube": "X",
-        "mov": "4-2",
+        "mov": "4-4",
         "cc": "15",
         "bs": "13",
-        "ph": "12",
+        "ph": "11",
         "wip": "13",
-        "arm": "3",
+        "arm": "1",
         "bts": "3",
         "w": "1",
         "s": "2",
         "spec": [
           "Nanoscreen",
           "Shasvastii",
-          "Specialist Troop",
+          "Specialist Operative",
+          "Shock Immunity",
+          "Stealth",
           "V: No Wound Incapacitation"
         ],
         "bsw": [],
@@ -3020,7 +3022,7 @@
         ],
         "ccw": [
           "Knife",
-          "Pistol"
+          "Breaker Pistol"
         ]
       }
     ]
@@ -3882,7 +3884,7 @@
     "spec": [
       "Morat",
       "Climbing Plus",
-      "Specialist Troop"
+      "Specialist Operative"
     ],
     "childs": [
       {

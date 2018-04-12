@@ -5438,5 +5438,52 @@
         ]
       }
     ]
+  },
+  {
+    "id": 6057,
+    "army": "Combined Army",
+    "isc": "Nexus-7 Operative Kerr-Nau",
+    "name": "Kerr-Nau",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "11",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Bioimmunity",
+      "Kinematika L1",
+      "Hyper-Dynamics L1",
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Killer Hacker",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "EI Killer Hacking Device: UPGRADE: White Noise"
+        ],
+        "bsw": [
+          "Plasma Rifle",
+          "Pitcher"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Breaker Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

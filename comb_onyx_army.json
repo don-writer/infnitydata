@@ -160,6 +160,12 @@
         "comment": "Bit & Kiss!",
         "id": 6056,
         "ava": "1"
+      },
+      {
+        "comment": "Kerr-Nau",
+        "id": 6057,
+        "ava": "1",
+        "note": "Kerr-Nau counts as a Nexus for Fireteam composition"
       }
     ]
   }

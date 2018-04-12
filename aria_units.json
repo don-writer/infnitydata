@@ -5136,5 +5136,50 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3049,
+    "army": "Ariadna",
+    "isc": "Grunt Intel Rosalind 'Rosie' Munroe",
+    "name": "Rosie",
+    "type": "MI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-2",
+    "cc": "13",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "3",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Forward Deployment L1",
+      "Shock Immunity",
+      "Specialist Operative",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Light Rocket Launcher",
+        "cost": "22",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Light Rocket Launcher",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

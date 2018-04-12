@@ -1558,7 +1558,8 @@
     "ava": "1",
     "spec": [
       "MetaChemistry",
-      "Sixth Sense L1"
+      "Sixth Sense L1",
+      "Fireteam: Duo"
     ],
     "childs": [
       {
@@ -1601,6 +1602,41 @@
         "spec": [],
         "bsw": [
           "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Rifle Specialist",
+        "cost": "12",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Breaker Combi Specialist",
+        "cost": "15",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
           "Nanopulser"
         ],
         "ccw": [

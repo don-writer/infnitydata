@@ -171,6 +171,17 @@
             "child_id": 1
           }
         ]
+      },
+      {
+        "comment": "Kaizoku Spec-Ops",
+        "id": 9059,
+        "basemodels": [
+          {
+            "comment": "Keisotsu / Combi",
+            "unit_id": 9042,
+            "child_id": 1
+          }
+        ]
       }
     ],
   },

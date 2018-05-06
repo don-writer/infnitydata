@@ -4641,4 +4641,37 @@
       },
     ]
   },
+  {
+    "id": 9059,
+    "army": "Non-Aligned Armies",
+    "isc": "Kaizoku Spec-Ops",
+    "name": "Kaizoku Spec-Ops",
+    "type": "SPEC-OPS",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "X-X",
+    "cc": "X",
+    "bs": "X",
+    "ph": "X",
+    "wip": "X",
+    "arm": "X",
+    "bts": "X",
+    "w": "X",
+    "ava": "1",
+    "spec": [
+      "Spec-Op"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "0",
+        "swc": "0",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ]
+  }
 ]

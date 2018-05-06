@@ -614,7 +614,6 @@
       {
         "id": 1,
         "name": "Chain Rifle",
-        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -627,7 +626,7 @@
           "EXP CCW",
           "Pistol"
         ]
-      }
+      },
     ]
   },
   {
@@ -3557,7 +3556,7 @@
         "swc": "0.5",
         "spec": [
           "Forward Deployment L2",
-          "ODD"
+                 "ODD: Optical Disruptor"
         ],
         "bsw": [
           "Submachine Gun",
@@ -4018,6 +4017,628 @@
           "EXP CCW"
         ]
       }
+    ]
+  },
+  {
+    "id": 9052,
+    "army": "Non-Aligned Armies",
+    "isc": "Shikami",
+    "name": "Shikami",
+    "type": "HI",
+    "classification": "Elite",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "23",
+    "bs": "12",
+    "ph": "14",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "2",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "ODD: Optical Disruptor",
+      "Martial Arts L3",
+      "Dual Wield",
+      "Kinematika L2",
+      "Super-Jump",
+      "Climbing Plus",
+      "Specialist Operative",
+      "Fireteam: Duo"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Contender",
+        "cost": "45",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Contender",
+          "Nimbus Grenades"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "DA CCW",
+          "AP CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Combi",
+        "cost": "47",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW",
+          "AP CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9053,
+    "army": "Non-Aligned Armies",
+    "isc": "Tankō Zensenbutai",
+    "name": "Tankō",
+    "type": "HI",
+    "classification": "Line",
+    "imp": "I",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "13",
+    "ph": "13",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "2",
+    "s": "2",
+    "ava": "3",
+    "spec": [
+      "Martial Arts L2",
+      "Kinematika L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Blitzen + Shotgun",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Blitzen",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Blitzen + SMG",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Blitzen",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Flammenspeer",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Flammenspeer",
+          "Contender"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Missile",
+        "cost": "32",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Missile Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Shock CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9054,
+    "army": "Non-Aligned Armies",
+    "isc": "O-Yoroi Kidobutai",
+    "name": "O-Yoroi",
+    "ava": "2",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "O-Yoroi",
+        "type": "TAG",
+        "classification": "Mechanized",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "21",
+        "bs": "14",
+        "ph": "17",
+        "wip": "13",
+        "arm": "7",
+        "bts": "6",
+        "w": "3",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "Manned",
+          "Kinematika L1",
+          "Martial Arts L1"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Pilot",
+        "type": "LI",
+        "cube": "X",
+        "hackable": "",
+        "mov": "4-4",
+        "cc": "21",
+        "bs": "11",
+        "ph": "11",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": " ",
+        "spec": [
+          "Martial Arts L1",
+          "Pilot",
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Contender"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "CrazyKoala",
+        "type": " ",
+        "classification": "",
+        "hackable": "",
+        "mov": "6-4 ",
+        "cc": " ",
+        "bs": " ",
+        "ph": " ",
+        "wip": " ",
+        "arm": "0",
+        "bts": "0",
+        "w": "1 ",
+        "s": "1",
+        "ava": " ",
+        "spec": [
+          "Perimeter"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Lieutenant",
+        "cost": "86",
+        "swc": "3",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "AP HMG",
+          "Heavy Flamethrower",
+          "CrazyKoalas"
+        ],
+        "ccw": [
+          "EXP CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "AP HMG",
+        "cost": "86",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "AP HMG",
+          "Heavy Flamethrower",
+          "CrazyKoalas"
+        ],
+        "ccw": [
+          "EXP CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9055,
+    "army": "Non-Aligned Armies",
+    "isc": "Ninjas",
+    "name": "Ninja",
+    "type": "SK",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "23",
+    "bs": "11",
+    "ph": "12",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "3",
+    "spec": [
+      "Martial Arts L3",
+      "CH: TO Camouflage",
+      "Infiltration",
+      "Kinematika L1",
+      "Multiterrain"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Bow",
+        "cost": "26",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Tactical Bow"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shock",
+        "cost": "34",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "AP",
+        "cost": "34",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "DA",
+        "cost": "35",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "MULTI Sniper Rifle",
+        "cost": "42",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "MULTI Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Killer Hacker",
+        "cost": "29",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Tactical Bow"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Assault Hacker",
+        "cost": "40",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Observer",
+        "cost": "35",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9056,
+    "army": "Non-Aligned Armies",
+    "isc": "Oniwaban",
+    "name": "Oniwaban",
+    "type": "SK",
+    "classification": "Elite",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "24",
+    "bs": "11",
+    "ph": "12",
+    "wip": "14",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "CH: TO Camouflage",
+      "Martial Arts L4",
+      "Superior Infiltration",
+      "Multiterrain",
+      "Kinematika L2"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Lieutenant",
+        "cost": "41",
+        "swc": "1",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "41",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SMG",
+        "cost": "37",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9057,
+    "army": "Non-Aligned Armies",
+    "isc": "Oniwaban Shinobu Kitsune",
+    "name": "Shinobu",
+    "type": "SK",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "25",
+    "bs": "11",
+    "ph": "13",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: TO Camouflage",
+      "Kinematika L2",
+      "Martial Arts L5",
+      "Superior Infiltration",
+      "Multiterrain"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Lieutenant",
+        "cost": "47",
+        "swc": "1",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Combi",
+        "cost": "47",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle",
+          "Nanopulser",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9058,
+    "army": "Non-Aligned Armies",
+    "isc": "Miyamoto Mushashi (Haris)",
+    "name": "Miyamoto Mushashi",
+    "type": "WB",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-4",
+    "cc": "25",
+    "bs": "9",
+    "ph": "14",
+    "wip": "15",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Martial Arts L5",
+      "Dual Wield",
+      "Kinematika L2",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Haris",
+        "cost": "28",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Chain Rifle",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "AP CCW",
+          "EXP CCW",
+          "Pistol"
+        ]
+      },
     ]
   },
 ]

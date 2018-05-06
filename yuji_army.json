@@ -121,34 +121,8 @@
         "id": 2031
       },
       {
-        "comment": "Haramaki Zensenbutai",
-        "id": 2032
-      },
-      {
         "comment": "Su-Jian Immediate Action Unit",
         "id": 2034
-      },
-      {
-        "comment": "O-Yoroi Kidobutai",
-        "id": 2035,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 1,
-            "hide": true
-          }
-        ]
-      },
-      {
-        "comment": "Oniwaban",
-        "id": 2036,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 1,
-            "hide": true
-          }
-        ]
       },
       {
         "comment": "Yáoxiè Rui Shi",
@@ -157,17 +131,6 @@
       {
         "comment": "Yáoxiè Lù Duān",
         "id": 2039
-      },
-      {
-        "comment": "Oniwaban Shinobu Kitsune",
-        "id": 2040,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 1,
-            "hide": true
-          }
-        ]
       },
       {
         "comment": "Sun Tze v.2 (Marksman Leader)",
@@ -184,10 +147,6 @@
       {
         "comment": "Kǎnrèn Counter-Insurgency Group",
         "id": 2048
-      },
-      {
-        "comment": "Shikami",
-        "id": 2049
       },
       {
         "comment": "Guǐ Fēng Xi Zhuang",

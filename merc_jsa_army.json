@@ -36,31 +36,25 @@
         "note": "Special Fireteam: Haris 2 Domaru + 1 Daiyōkai<br>Special Fireteam: Haris 1 Domaru Haris + 2 Karakuri<br>Special Fireteam: Core 2+ Domaru and 0-3 Tanko"
       },
       {
-        "comment": "Haramaki Zensenbutai",
-        "id": 2032,
-        "ava": "6",
-        "linkable": true,
-        "note": "Fireteam: Core requires 1 or 2 Domaru"
+        "comment": "Tankō Zensenbutai",
+        "id": 9053,
+        "note": "Special Fireteam: Haris Miyamoto Mushashi + 2 Tankō<br>Special Fireteam: Core 2+ Domaru and 0-3 Tankō"
       },
       {
         "comment": "O-Yoroi Kidobutai",
-        "id": 2035,
-        "ava": "2"
+        "id": 9054
       },
       {
         "comment": "Shikami",
-        "id": 2049,
-        "ava": "2"
+        "id": 9052
       },
       {
         "comment": "Ninjas",
-        "id": 2013,
-        "ava": "4"
+        "id": 9055
       },
       {
         "comment": "Oniwaban",
-        "id": 2036,
-        "ava": "3"
+        "id": 9056
       },
       {
         "comment": "Tokusetsu Butai",
@@ -68,8 +62,7 @@
       },
       {
         "comment": "Oniwaban Shinobu Kitsune",
-        "id": 2040,
-        "ava": "1"
+        "id": 9057
       },
       {
         "comment": "Domaru Takeshi 'Neko' Oyama",
@@ -84,6 +77,13 @@
       {
         "comment": "Yáoxiè Rui Shi",
         "id": 2038,
+        "childs": [
+          {
+            "comment": "SWC increased to 1.5 in JSA",
+            "id": 1,
+            "swc": "1.5"
+          }
+        ],
         "ava": "1"
       },
       {
@@ -99,6 +99,13 @@
       {
         "comment": "Yáokòng Hùsòng",
         "id": 2018,
+        "childs": [
+          {
+            "comment": "SWC increased to 1.5 in JSA",
+            "id": 1,
+            "swc": "1.5"
+          }
+        ],
         "ava": "1"
       },
       {
@@ -144,18 +151,19 @@
       },
       {
         "comment": "Yojimbo",
-        "id": 9014,
-        "ava": "1"
+        "id": 9014
       },
       {
         "comment": "Saito Tōgan",
-        "id": 9007,
-        "ava": "1"
+        "id": 9037
       },
       {
         "comment": "Miyamoto Mushashi",
-        "id": 9008,
-        "ava": "1"
+        "id": 9008
+      },
+      {
+        "comment": "Miyamoto Mushashi (Haris)",
+        "id": 9058
       }
     ]
   }

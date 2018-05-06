@@ -1869,7 +1869,7 @@
       },
       {
         "id": 6,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "legacy_code": "Hacker",
         "cost": "40",
         "swc": "0.5",
@@ -2118,9 +2118,9 @@
   {
     "id": 2017,
     "army": "Yu Jing",
-    "isc": "Yáokòng Wèibīng",
+    "isc": "Wèibīng Yáokòng",
     "legacy_isc": "Yáokòng Wèibīng",
-    "name": "Wèibīng",
+    "name": "Wèibīng Yáokòng",
     "type": "REM",
     "classification": "Support",
     "imp": "",
@@ -2166,9 +2166,9 @@
   {
     "id": 2018,
     "army": "Yu Jing",
-    "isc": "Yáokòng Hùsòng",
+    "isc": "Hùsòng Yáokòng",
     "legacy_isc": "Yáokòng Hùsòng",
-    "name": "Hùsòng",
+    "name": "Hùsòng Yáokòng",
     "type": "REM",
     "classification": "Support",
     "imp": "",
@@ -2210,9 +2210,9 @@
   {
     "id": 2019,
     "army": "Yu Jing",
-    "isc": "Yáokòng Son-bae",
+    "isc": "Son-bae Yáokòng",
     "legacy_isc": "Yáokòng Son-bae",
-    "name": "Son-Bae",
+    "name": "Son-Bae Yáokòng",
     "type": "REM",
     "classification": "Support",
     "imp": "",
@@ -2252,9 +2252,9 @@
   {
     "id": 2020,
     "army": "Yu Jing",
-    "isc": "Yáokòng Chaiyì",
+    "isc": "Chaīyì Yáokòng",
     "legacy_isc": "Yáokòng Chaīyì",
-    "name": "Chaiyi",
+    "name": "Chaīyì Yáokòng",
     "type": "REM",
     "classification": "Support",
     "imp": "",
@@ -3247,110 +3247,7 @@
   },
   {
     "id": 2032,
-    "army": "Yu Jing",
-    "isc": "Haramaki Zensenbutai",
-    "legacy_isc": "Haramaki Zensenbutai",
-    "name": "Haramaki",
-    "type": "HI",
-    "classification": "Line",
-    "imp": "X",
-    "irr": "",
-    "cube": "X",
-    "hackable": "X",
-    "mov": "4-4",
-    "cc": "23",
-    "bs": "13",
-    "ph": "14",
-    "wip": "13",
-    "arm": "3",
-    "bts": "3",
-    "w": "2",
-    "s": "2",
-    "ava": "2",
-    "spec": [
-      "Martial Arts L3",
-      "Kinematika L1"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
-        "cost": "33",
-        "swc": "1.5",
-        "spec": [],
-        "bsw": [
-          "Missile Launcher"
-        ],
-        "ccw": [
-          "Pistol",
-          "DA CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Combi",
-        "legacy_code": "Combi",
-        "cost": "29",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Blitzen",
-          "Combi Rifle"
-        ],
-        "ccw": [
-          "Pistol",
-          "DA CCW"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "DA CCW",
-        "legacy_code": "DA CCW",
-        "cost": "23",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Blitzen",
-          "Contender"
-        ],
-        "ccw": [
-          "Pistol",
-          "DA CCW"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "AP CCW",
-        "legacy_code": "Default",
-        "cost": "22",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Blitzen",
-          "Contender"
-        ],
-        "ccw": [
-          "Pistol",
-          "AP CCW"
-        ]
-      },
-      {
-        "id": 5,
-        "name": "Light Shotgun",
-        "cost": "24",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Blitzen",
-          "Light Shotgun"
-        ],
-        "ccw": [
-          "Pistol",
-          "DA CCW"
-        ]
-      }
-    ]
+    "obsolete": "X",
   },
   {
     "id": 2033,
@@ -3449,193 +3346,11 @@
   },
   {
     "id": 2035,
-    "army": "Yu Jing",
-    "isc": "O-Yoroi Kidobutai",
-    "legacy_isc": "O-Yoroi Kidobutai",
-    "name": "O-Yoroi",
-    "ava": "1",
-    "spec": [],
-    "profiles": [
-      {
-        "id": 1,
-        "name": "O-Yoroi",
-        "type": "TAG",
-        "classification": "Mechanized",
-        "imp": "",
-        "irr": "",
-        "cube": "X",
-        "hackable": "X",
-        "mov": "6-4",
-        "cc": "21",
-        "bs": "14",
-        "ph": "17",
-        "wip": "13",
-        "arm": "7",
-        "bts": "6",
-        "w": "3",
-        "s": "7",
-        "spec": [
-          "ECM",
-          "Manned",
-          "Kinematika L1",
-          "Martial Arts L1"
-        ],
-        "bsw": [],
-        "ccw": []
-      },
-      {
-        "id": 2,
-        "name": "Pilot",
-        "type": "LI",
-        "cube": "X",
-        "hackable": "",
-        "mov": "4-4",
-        "cc": "21",
-        "bs": "11",
-        "ph": "11",
-        "wip": "13",
-        "arm": "0",
-        "bts": "0",
-        "w": "1",
-        "s": "2",
-        "ava": " ",
-        "spec": [
-          "Martial Arts L1",
-          "Pilot",
-          "Forward Observer"
-        ],
-        "bsw": [
-          "Contender"
-        ],
-        "ccw": [
-          "Pistol",
-          "CCW"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "CrazyKoala",
-        "type": " ",
-        "classification": "",
-        "hackable": "",
-        "mov": "6-4 ",
-        "cc": " ",
-        "bs": " ",
-        "ph": " ",
-        "wip": " ",
-        "arm": "0",
-        "bts": "0",
-        "w": "1 ",
-        "s": "1",
-        "ava": " ",
-        "spec": [
-          "Perimeter"
-        ],
-        "bsw": [],
-        "ccw": []
-      }
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
-        "cost": "83",
-        "swc": "3",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "HMG",
-          "Heavy Flamethrower",
-          "CrazyKoalas"
-        ],
-        "ccw": [
-          "EXP CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "HMG",
-        "legacy_code": "Default",
-        "cost": "83",
-        "swc": "2",
-        "spec": [],
-        "bsw": [
-          "HMG",
-          "Heavy Flamethrower",
-          "CrazyKoalas"
-        ],
-        "ccw": [
-          "EXP CCW"
-        ]
-      }
-    ]
+    "obsolete": "X",
   },
   {
     "id": 2036,
-    "army": "Yu Jing",
-    "isc": "Oniwaban",
-    "legacy_isc": "Oniwaban",
-    "name": "Oniwaban",
-    "type": "SK",
-    "classification": "Elite",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "mov": "4-4",
-    "cc": "24",
-    "bs": "11",
-    "ph": "12",
-    "wip": "14",
-    "arm": "1",
-    "bts": "0",
-    "w": "1",
-    "s": "2",
-    "ava": "1",
-    "spec": [
-      "CH: TO Camouflage",
-      "Martial Arts L4",
-      "Superior Infiltration",
-      "Multiterrain",
-      "Kinematika L2"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
-        "cost": "41",
-        "swc": "1",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "Boarding Shotgun",
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Pistol",
-          "Monofilament CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Boarding Shotgun",
-        "legacy_code": "Default",
-        "cost": "41",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Boarding Shotgun",
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Pistol",
-          "Monofilament CCW"
-        ]
-      }
-    ]
+    "obsolete": "X",
   },
   {
     "id": 2037,
@@ -3733,70 +3448,7 @@
   },
   {
     "id": 2040,
-    "army": "Yu Jing",
-    "isc": "Oniwaban Shinobu Kitsune",
-    "legacy_isc": "Oniwaban Shinobu Kitsune",
-    "name": "Shinobu",
-    "type": "SK",
-    "classification": "Character",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "mov": "4-4",
-    "cc": "25",
-    "bs": "11",
-    "ph": "13",
-    "wip": "14",
-    "arm": "1",
-    "bts": "3",
-    "w": "1",
-    "s": "2",
-    "ava": "1",
-    "spec": [
-      "CH: TO Camouflage",
-      "Kinematika L2",
-      "Martial Arts L5",
-      "Superior Infiltration",
-      "Multiterrain"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
-        "cost": "47",
-        "swc": "1",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "Combi Rifle",
-          "Nanopulser",
-          "Smoke Grenades"
-        ],
-        "ccw": [
-          "Pistol",
-          "Monofilament CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Combi",
-        "legacy_code": "Default",
-        "cost": "47",
-        "swc": "0.5",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle",
-          "Nanopulser",
-          "Smoke Grenades"
-        ],
-        "ccw": [
-          "Pistol",
-          "Monofilament CCW"
-        ]
-      }
-    ]
+    "obsolete": "X",
   },
   {
     "id": 2041,
@@ -4262,88 +3914,7 @@
   },
   {
     "id": 2049,
-    "army": "Yu Jing",
-    "isc": "Shikami",
-    "name": "Shikami",
-    "type": "HI",
-    "classification": "Elite",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "hackable": "X",
-    "mov": "4-4",
-    "cc": "23",
-    "bs": "12",
-    "ph": "14",
-    "wip": "13",
-    "arm": "3",
-    "bts": "3",
-    "w": "2",
-    "s": "2",
-    "ava": "1",
-    "spec": [
-      "ODD: Optical Disruptor",
-      "Climbing Plus",
-      "Dual Wield",
-      "Kinematika L2",
-      "Martial Arts L3",
-      "Specialist Operative",
-      "Super-Jump"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Contender",
-        "cost": "45",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Contender",
-          "Nimbus Grenades"
-        ],
-        "ccw": [
-          "Assault Pistol",
-          "DA CCW",
-          "AP CCW",
-          "Knife"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Combi",
-        "cost": "47",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle"
-        ],
-        "ccw": [
-          "Pistol",
-          "DA CCW",
-          "AP CCW",
-          "Knife"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Contender",
-        "cost": "46",
-        "swc": "0.5",
-        "spec": [
-          "Fireteam: Duo"
-        ],
-        "bsw": [
-          "Contender",
-          "Nimbus Grenades"
-        ],
-        "ccw": [
-          "Assault Pistol",
-          "DA CCW",
-          "AP CCW",
-          "Knife"
-        ]
-      }
-    ]
+    "obsolete": "X",
   },
   {
     "id": 2050,

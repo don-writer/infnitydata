@@ -3006,43 +3006,6 @@
   },
   {
     "id": 9040,
-    "army": "Non-Aligned Armies",
-    "isc": "Brawlers, Mercenary Enforcers",
-    "name": "Brawler",
-    "type": "LI",
-    "classification": "Specially Trained",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "mov": "4-4",
-    "cc": "14",
-    "bs": "12",
-    "ph": "11",
-    "wip": "12",
-    "arm": "2",
-    "bts": "3",
-    "w": "1",
-    "s": "2",
-    "ava": "4",
-    "spec": [
-      "Fireteam: Duo"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spec-Ops",
-        "cost": "17",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Rifle",
-          "Light Shotgun"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ]
-      }
-    ]
+    "obsolete": "X"
   }
 ]

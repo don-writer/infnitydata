@@ -171,8 +171,8 @@
         "id": 9039,
         "basemodels": [
           {
-            "comment": "Brawler / Spec-ops (+1 point cost)",
-            "unit_id": 9040,
+            "comment": "Brawler / Rifle + LSG",
+            "unit_id": 9036,
             "child_id": 1
           }
         ]

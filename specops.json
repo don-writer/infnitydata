@@ -148,11 +148,6 @@
         "id": 2043,
         "basemodels": [
           {
-            "comment": "Keisotsu / Combi",
-            "unit_id": 2001,
-            "child_id": 1
-          },
-          {
             "comment": "Zhanshi / Combi",
             "unit_id": 2002,
             "child_id": 1

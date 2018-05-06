@@ -1,51 +1,39 @@
 [
   {
-    "id": 2998,
-    "army": "Yu Jing",
-    "army_id": 2999,
-    "name": "Japanese Sectorial Army",
-    "legacy_name": "Japanese Sectorial Army",
+    "id": 9997,
+    "army": "Non-Asligned Armies",
+    "army_id": 9999,
+    "name": "Japanese Secessionist Army",
     "units": [
       {
         "comment": "Keisotsu",
-        "id": 2001,
-        "ava": "T",
-        "childs": [
-          {
-            "comment": "Lieutenant costs 1 SWC in JSA",
-            "id": 9,
-            "swc": "1"
-          }
-        ],
+        "id": 9042,
         "linkable": true,
-        "note": "Fireteam: Core may include 1 Kempeitai"
+        "note": "Special Fireteam: Core 1 or 2 Kempeitai + Keisotsu<br>Special Fireteam: Core 1 Kempeitai + 1 Domaru + Keisotsu"
       },
       {
         "comment": "Kempeitai",
-        "id": 2028,
-        "ava": "2",
-        "note": "1 Kempeitai may join a Fireteam: Core of Keisotsu"
+        "id": 9044,
+        "note": "Special Fireteam: Core 1 or 2 Kempeitai + Keisotsu<br>Special Fireteam: Core 1 Kempeitai + 1 Domaru + Keisotsu"
       },
       {
         "comment": "Aragoto Senkenbutai",
-        "id": 2030,
-        "ava": "4"
+        "id": 9041
       },
       {
-        "comment": "Raiden Seibutai",
-        "id": 2046,
-        "ava": "4"
+        "comment": "Ryūken Unit-9",
+        "id": 9046
       },
       {
         "comment": "Karakuri Special Project",
-        "id": 2033,
-        "ava": "3"
+        "id": 9049,
+        "note": "Special Fireteam: Haris 1 Domaru Haris + 2 Karakuri"
       },
       {
         "comment": "Domaru Butai",
-        "id": 2023,
-        "ava": "5",
-        "linkable": true
+        "id": 9050,
+        "linkable": true,
+        "note": "Special Fireteam: Haris 2 Domaru + 1 Daiyōkai<br>Special Fireteam: Haris 1 Domaru Haris + 2 Karakuri<br>Special Fireteam: Core 2+ Domaru and 0-3 Tanko"
       },
       {
         "comment": "Haramaki Zensenbutai",
@@ -76,8 +64,7 @@
       },
       {
         "comment": "Tokusetsu Butai",
-        "id": 2037,
-        "ava": "2"
+        "id": 9047
       },
       {
         "comment": "Oniwaban Shinobu Kitsune",
@@ -85,16 +72,14 @@
         "ava": "1"
       },
       {
-        "comment": "Domaru Takeshi \"Neko\" Oyama",
-        "id": 2041,
-        "ava": "1",
+        "comment": "Domaru Takeshi 'Neko' Oyama",
+        "id": 9051,
         "linkable": true,
         "note": "Counts as Domaru for Fireteam composition"
       },
       {
-        "comment": "Asuka Kisaragi",
-        "id": 2047,
-        "ava": "1"
+        "comment": "Kuroshi Rider",
+        "id": 9045
       },
       {
         "comment": "Yáoxiè Rui Shi",
@@ -143,10 +128,14 @@
       },
       {
         "comment": "Keisotsu Guǐ Fēng Yuriko Oda",
-        "id": 2044,
-        "ava": "1",
+        "id": 9043,
         "linkable": true,
         "note": "Counts as Keisotsu for Fireteam composition"
+      },
+      {
+        "comment": "Daiyōkai Dengekitai",
+        "id": 9048,
+        "note": "Special Fireteam: Duo 1 Domaru + 1 Daiyōkai<br>Special Fireteam: Haris 2 Domaru + 1 Daiyōkai"
       },
       {
         "comment": "Warcor",

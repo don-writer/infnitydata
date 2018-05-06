@@ -6,10 +6,6 @@
     "legacy_name": "Yu Jing",
     "units": [
       {
-        "comment": "Keisotsu",
-        "id": 2001
-      },
-      {
         "comment": "Zhanshi",
         "id": 2002
       },
@@ -94,17 +90,6 @@
         "id": 2022
       },
       {
-        "comment": "Domaru Butai",
-        "id": 2023,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 4,
-            "hide": true
-          }
-        ]
-      },
-      {
         "comment": "Shang Ji",
         "id": 2024
       },
@@ -121,22 +106,6 @@
         "id": 2027
       },
       {
-        "comment": "Kempeitai",
-        "id": 2028,
-        "childs": [
-          {
-            "comment": "Chain of command is only available in JSA",
-            "id": 1,
-            "hide": true
-          },
-          {
-            "comment": "Chain of command is only available in JSA",
-            "id": 2,
-            "hide": true
-          }
-        ]
-      },
-      {
         "comment": "Imperial Agent, Pheasant Rank",
         "id": 2029,
         "childs": [
@@ -148,34 +117,12 @@
         ]
       },
       {
-        "comment": "Aragoto Senkenbutai",
-        "id": 2030,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 5,
-            "hide": true
-          }
-        ]
-      },
-      {
         "comment": "Imperial Agents, Crane Rank",
         "id": 2031
       },
       {
         "comment": "Haramaki Zensenbutai",
         "id": 2032
-      },
-      {
-        "comment": "Karakuri Special Project",
-        "id": 2033,
-        "childs": [
-          {
-            "comment": "Haris is only available in Sectorials",
-            "id": 4,
-            "hide": true
-          }
-        ]
       },
       {
         "comment": "Su-Jian Immediate Action Unit",
@@ -204,10 +151,6 @@
         ]
       },
       {
-        "comment": "Tokusetsu Butai",
-        "id": 2037
-      },
-      {
         "comment": "Yáoxiè Rui Shi",
         "id": 2038
       },
@@ -227,17 +170,6 @@
         ]
       },
       {
-        "comment": "Domaru Takeshi \"Neko\" Oyama",
-        "id": 2041,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 1,
-            "hide": true
-          }
-        ]
-      },
-      {
         "comment": "Sun Tze v.2 (Marksman Leader)",
         "id": 2042
       },
@@ -246,27 +178,8 @@
         "id": 2043
       },
       {
-        "comment": "Keisotsu Guǐ Fēng Yuriko Oda",
-        "id": 2044
-      },
-      {
         "comment": "Bao Troop",
         "id": 2045
-      },
-      {
-        "comment": "Raiden Seibutai",
-        "id": 2046
-      },
-      {
-        "comment": "Asuka Kisaragi",
-        "id": 2047,
-        "childs": [
-          {
-            "comment": "Lt. is only available in JSA",
-            "id": 2,
-            "hide": true
-          }
-        ]
       },
       {
         "comment": "Kǎnrèn Counter-Insurgency Group",

@@ -4174,6 +4174,38 @@
           "Monofilament CCW",
           "Shock CCW"
         ]
+      },
+      {
+        "id": 5,
+        "name": "Duo",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Blitzen",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Haris",
+        "cost": "24",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Blitzen",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Shock CCW"
+        ]
       }
     ]
   },

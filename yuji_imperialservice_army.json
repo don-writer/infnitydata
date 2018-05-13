@@ -44,7 +44,14 @@
         "id": 2007,
         "ava": "5",
         "linkable": true,
-        "note": "Fireteam: Core may include 1 Zhanying"
+        "note": "Fireteam: Core may include 1 Zhanying",
+        "childs": [
+          {
+            "comment": "Haris is not available in ISS",
+            "id": 10,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hsien",

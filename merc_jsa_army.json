@@ -38,6 +38,18 @@
       {
         "comment": "Tankō Zensenbutai",
         "id": 9053,
+        "childs": [
+          {
+            "comment": "Duo is not available in JSA",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Haris is not available in JSA",
+            "id": 6,
+            "hide": true
+          }
+        ],
         "note": "Special Fireteam: Haris Miyamoto Mushashi + 2 Tankō<br>Special Fireteam: Core 2+ Domaru and 0-3 Tankō"
       },
       {

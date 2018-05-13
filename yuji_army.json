@@ -27,7 +27,14 @@
       },
       {
         "comment": "Wu Ming",
-        "id": 2007
+        "id": 2007,
+        "childs": [
+          {
+            "comment": "Haris is not available in Yu Jing",
+            "id": 10,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Daofei",

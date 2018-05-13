@@ -953,7 +953,7 @@
       },
       {
         "id": 4,
-        "name": "Boarding Shotgun",
+        "name": "Boarding Shotgun Deflector",
         "legacy_code": "Boarding Shotgun",
         "cost": "33",
         "swc": "0.5",
@@ -1003,7 +1003,7 @@
       },
       {
         "id": 7,
-        "name": "E/Mitter",
+        "name": "E/Mitter Duo",
         "legacy_code": "Combi",
         "cost": "32",
         "swc": "0",
@@ -1038,11 +1038,28 @@
       },
       {
         "id": 9,
-        "name": "SMG + Chain Rifle",
+        "name": "SMG + Chain Rifle Duo",
         "cost": "25",
         "swc": "0",
         "spec": [
           "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Chain Rifle",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Haris",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Haris"
         ],
         "bsw": [
           "Chain Rifle",

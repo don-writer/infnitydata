@@ -95,8 +95,8 @@
         "comment": "Rosie",
         "id": 3049,
         "ava": "1",
-        "note": "Rosie counts as a Grunt for Fireteam composition",
-        "linkable": true
+        "linkable": true,
+        "note": "Rosie counts as a Grunt for Fireteam composition"
       },
       {
         "comment": "Warcor",

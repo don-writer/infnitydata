@@ -89,14 +89,14 @@
       {
         "comment": "Yáoxiè Rui Shi",
         "id": 2038,
+        "ava": "1",
         "childs": [
           {
             "comment": "SWC increased to 1.5 in JSA",
             "id": 1,
             "swc": "1.5"
           }
-        ],
-        "ava": "1"
+        ]
       },
       {
         "comment": "Yáoxiè Lù Duān",
@@ -111,14 +111,14 @@
       {
         "comment": "Yáokòng Hùsòng",
         "id": 2018,
+        "ava": "1",
         "childs": [
           {
             "comment": "SWC increased to 1.5 in JSA",
             "id": 1,
             "swc": "1.5"
           }
-        ],
-        "ava": "1"
+        ]
       },
       {
         "comment": "Yáokòng Son-bae",

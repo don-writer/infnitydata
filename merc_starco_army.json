@@ -171,7 +171,6 @@
         "comment": "Señor Massacre",
         "id": 9011,
         "ava": "1",
-        "note": "Special Fireteam: Core 0-3 Mobile Brigada + 1 Daktari + Señor Massacre",
         "childs": [
           {
             "comment": "Haris is not available in Starco",
@@ -183,7 +182,8 @@
             "id": 4,
             "hide": true
           }
-        ]
+        ],
+        "note": "Special Fireteam: Core 0-3 Mobile Brigada + 1 Daktari + Señor Massacre"
       },
       {
         "comment": "Brawler Spec-Ops",

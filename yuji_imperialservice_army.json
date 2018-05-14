@@ -43,15 +43,15 @@
         "comment": "Wu Ming",
         "id": 2007,
         "ava": "5",
-        "linkable": true,
-        "note": "Fireteam: Core may include 1 Zhanying",
         "childs": [
           {
             "comment": "Haris is not available in ISS",
             "id": 10,
             "hide": true
           }
-        ]
+        ],
+        "linkable": true,
+        "note": "Fireteam: Core may include 1 Zhanying"
       },
       {
         "comment": "Hsien",
@@ -167,12 +167,12 @@
       {
         "comment": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
         "id": 2052,
-        "ava": "1",
+        "ava": "1"
       },
       {
         "comment": "Father Lucien Sforza, Registered Bounty Hunter",
         "id": 2053,
-        "ava": "1",
+        "ava": "1"
       },
       {
         "comment": "Authorized Bounty Hunters",

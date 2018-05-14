@@ -626,7 +626,7 @@
           "EXP CCW",
           "Pistol"
         ]
-      },
+      }
     ]
   },
   {
@@ -3556,7 +3556,7 @@
         "swc": "0.5",
         "spec": [
           "Forward Deployment L2",
-                 "ODD: Optical Disruptor"
+          "ODD: Optical Disruptor"
         ],
         "bsw": [
           "Submachine Gun",
@@ -4670,7 +4670,7 @@
           "EXP CCW",
           "Pistol"
         ]
-      },
+      }
     ]
   },
   {
@@ -4907,5 +4907,5 @@
         ]
       }
     ]
-  },
+  }
 ]

@@ -147,14 +147,14 @@
       {
         "comment": "Yáoxiè Rui Shi",
         "id": 2038,
+        "ava": "2",
         "childs": [
           {
             "comment": "SWC increased to 1.5 in Ikari",
             "id": 1,
             "swc": "1.5"
           }
-        ],
-        "ava": "2"
+        ]
       },
       {
         "comment": "Yáozăo",

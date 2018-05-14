@@ -4,6 +4,7 @@
     "army": "Non-Aligned Armies",
     "army_id": 9999,
     "name": "Starco, Free Company of the Star",
+    "abbr": "Starco",
     "units": [
       {
         "comment": "Avicenna",

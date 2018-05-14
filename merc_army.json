@@ -47,7 +47,19 @@
       },
       {
         "comment": "Señor Massacre",
-        "id": 9011
+        "id": 9011,
+        "childs": [
+          {
+            "comment": "Haris is not available in Mercs",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Duo is not available in Mercs",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Valerya Gromoz, Mercenary Hacker",
@@ -108,6 +120,22 @@
       {
         "comment": "Cube Jäger, Mercenary Recoverers",
         "id": 9030
+      },
+      {
+        "comment": "Emily Handelman, Intel Agent",
+        "id": 9060
+      },
+      {
+        "comment": "Raoul Spector, Mercenary Operative (Irregular)",
+        "id": 9061
+      },
+      {
+        "comment": "Raoul Spector, Mercenary Operative (Regular)",
+        "id": 9062
+      },
+      {
+        "comment": "Uhahu",
+        "id": 9063
       }
     ]
   }

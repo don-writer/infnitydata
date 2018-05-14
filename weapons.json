@@ -622,6 +622,23 @@
     "note": ""
   },
   {
+    "name": "E/M2 CCW",
+    "burst": "1",
+    "ammo": "N+E/M2",
+    "damage": "PH",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "Yes",
+    "template": "No",
+    "note": ""
+  },
+  {
     "name": "E/M Light Grenade Launcher",
     "burst": "1",
     "ammo": "E/M",

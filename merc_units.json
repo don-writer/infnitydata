@@ -4705,5 +4705,207 @@
         "ccw": []
       }
     ]
-  }
+  },
+  {
+    "id": 9060,
+    "army": "Non-Aligned Armies",
+    "isc": "Emily Handelman, Intel Agent",
+    "name": "Emily",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "13",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "X Visor",
+      "CH: Mimetism",
+      "Fireteam: Duo",
+      "Forward Observer",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Breaker Combi Rifle",
+        "cost": "30",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Knife",
+          "Assault Pistol"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chain of Command",
+        "cost": "35",
+        "swc": "0.5",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Grenade Launcher",
+          "E/M Light Grenade Launcher",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Knife",
+          "Assault Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9061,
+    "army": "Non-Aligned Armies",
+    "isc": "Raoul Spector, Mercenary Operative (Irregular)",
+    "name": "Spector",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "12",
+    "ph": "13",
+    "wip": "13",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Mimetism",
+      "Natural Born Warrior",
+      "Specialist Operative",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combat Jump",
+        "cost": "33",
+        "swc": "0",
+        "spec": [
+          "AD: Combat Jump"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser",
+          "Drop Bears"
+        ],
+        "ccw": [
+          "Pistol",
+          "E/M2 CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9062,
+    "army": "Non-Aligned Armies",
+    "isc": "Raoul Spector, Mercenary Operative (Regular)",
+    "name": "Spector",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "12",
+    "ph": "13",
+    "wip": "13",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Mimetism",
+      "Natural Born Warrior",
+      "Specialist Operative",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle",
+        "cost": "36",
+        "swc": "0",
+        "spec": [
+          "AD: Combat Jump"
+        ],
+        "bsw": [
+          "MULTI Rifle",
+          "Nanopulser",
+          "Drop Bears"
+        ],
+        "ccw": [
+          "Pistol",
+          "E/M2 CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9063,
+    "army": "Non-Aligned Armies",
+    "isc": "Uhahu, Hacker for Hire",
+    "name": "Uhahu",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "12",
+    "bs": "11",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Hacker",
+        "legacy_code": "Default",
+        "cost": "25",
+        "swc": "0.5",
+        "spec": [
+          "Hacking Device Plus: UPGRADE: Icebreaker"
+        ],
+        "bsw": [
+          "Pitcher",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
 ]

@@ -15,13 +15,14 @@ filename = sys.argv[1]
 print "Reading from: " + filename
 with open(filename, 'r') as f:
      data = json.load(f)
-     
+
 #print data
 
 sort_order = [
-'comment', 'id', 'army', 'sectorial', 'isc', 'legacy_isc', 'name', 'legacy_code', 'abbr', 'units', 'sharedAva', 'image', 
+'comment', 'id', 'obsolete', 'army', 'army_id', 'sectorial',
+'isc', 'legacy_isc', 'name', 'legacy_name', 'abbr', 'units', 'sharedAva', 'image',
 'optionSpecific', 'type', 'classification', 'imp', 'irr', 'cube', 'hackable', 'mov', 'cc', 'bs', 'ph', 'wip', 'arm',
-'bts', 'w', 'wtype', 's', 'ava', 'code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw', 
+'bts', 'w', 'wtype', 's', 'ava', 'code', 'legacy_code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw',
 'ccw', 'independent', 'profiles', 'childs', 'hide', 'linkable', 'note'
 ]
 
@@ -51,5 +52,5 @@ print "Writing to: " + filename
 with codecs.open(filename, 'w', encoding='utf-8') as outfile:
     json.dump(data, outfile, indent=2, separators=(',', ': '), ensure_ascii=False)
     outfile.write('\n')
-    
+
 

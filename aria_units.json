@@ -911,7 +911,7 @@
         "id": 3,
         "name": "Infiltrator AP",
         "legacy_code": "Infiltrator AP",
-        "cost": "30",
+        "cost": "29",
         "swc": "0",
         "spec": [
           "Infiltration"

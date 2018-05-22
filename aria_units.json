@@ -2519,8 +2519,7 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "Jungle Terrain",
-      "Mountain Terrain"
+      "Multiterrain (Jungle Terrain / Mountain Terrain)"
     ],
     "childs": [
       {

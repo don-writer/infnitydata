@@ -160,6 +160,11 @@
             "comment": "Haris is only available in Sectorials",
             "id": 7,
             "hide": true
+          },
+          {
+            "comment": "No 2 is only available in Sectorials",
+            "id": 8,
+            "hide": true
           }
         ]
       },

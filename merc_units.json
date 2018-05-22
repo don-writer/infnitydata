@@ -4977,8 +4977,7 @@
     "childs": [
       {
         "id": 1,
-        "name": "Spitfire",
-        "legacy_code": "Default",
+        "name": "Spitfire Duo",
         "cost": "62",
         "swc": "2",
         "spec": [],
@@ -4991,7 +4990,7 @@
       },
       {
         "id": 2,
-        "name": "HMG",
+        "name": "HMG Duo",
         "cost": "64",
         "swc": "2",
         "spec": [],

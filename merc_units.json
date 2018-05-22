@@ -4907,5 +4907,101 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9064,
+    "army": "Non-Aligned Armies",
+    "isc": "Anaconda",
+    "name": "Anaconda",
+    "ava": "2",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "isc": "Anaconda",
+        "type": "TAG",
+        "classification": "Mercenary",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "16",
+        "bs": "13",
+        "ph": "16",
+        "wip": "13",
+        "arm": "6",
+        "bts": "6",
+        "w": "2",
+        "s": "7",
+        "spec": [
+          "ECM",
+          "Escape System",
+          "V: Courage",
+          "Manned",
+          "Fireteam: Duo"
+        ],
+        "bsw": [],
+        "ccw": [
+          "CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Operator",
+        "type": "LI",
+        "hackable": "",
+        "mov": "4-4",
+        "cc": "13",
+        "bs": "12",
+        "ph": "10",
+        "wip": "13",
+        "arm": "1",
+        "bts": "3",
+        "w": "1",
+        "s": "2",
+        "ava": "",
+        "spec": [
+          "Operator",
+          "V: Courage"
+        ],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spitfire",
+        "legacy_code": "Default",
+        "cost": "62",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Spitfire",
+          "Light Flamethrower",
+          "Panzerfaust"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "HMG",
+        "cost": "64",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "HMG",
+          "Chain-Colt",
+          "Panzerfaust"
+        ],
+        "ccw": []
+      }
+    ]
   }
 ]

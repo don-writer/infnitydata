@@ -2356,7 +2356,7 @@
         "w": "1",
         "s": "2",
         "spec": [
-          "S: Morpho-Scan",
+          "Morpho-Scan",
           "Shasvastii"
         ],
         "bsw": [],
@@ -3843,9 +3843,7 @@
     "bts": "X",
     "w": "X",
     "ava": "1",
-    "spec": [
-      "Spec-Op"
-    ],
+    "spec": [],
     "childs": [
       {
         "id": 1,
@@ -3927,9 +3925,7 @@
     "bts": "X",
     "w": "X",
     "ava": "1",
-    "spec": [
-      "Spec-Op"
-    ],
+    "spec": [],
     "childs": [
       {
         "id": 1,

@@ -7,7 +7,6 @@
     "id": 2002,
     "army": "Yu Jing",
     "isc": "Zhanshi",
-    "legacy_isc": "Zhanshi",
     "name": "Zhanshi",
     "type": "LI",
     "classification": "Line",
@@ -29,7 +28,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -44,7 +42,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "19",
         "swc": "1",
         "spec": [],
@@ -59,7 +56,6 @@
       {
         "id": 3,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "15",
         "swc": "1",
         "spec": [],
@@ -75,7 +71,6 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "19",
         "swc": "1.5",
         "spec": [],
@@ -90,7 +85,6 @@
       {
         "id": 5,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "16",
         "swc": "1.5",
         "spec": [],
@@ -105,7 +99,6 @@
       {
         "id": 6,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -122,7 +115,6 @@
       {
         "id": 7,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -139,7 +131,6 @@
       {
         "id": 8,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -156,7 +147,6 @@
       {
         "id": 9,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -176,7 +166,6 @@
     "id": 2003,
     "army": "Yu Jing",
     "isc": "Zhànying Imperial Agents",
-    "legacy_isc": "Zhànying Imperial Agents",
     "name": "Zhànying",
     "ava": "2",
     "spec": [],
@@ -232,7 +221,6 @@
       {
         "id": 1,
         "name": "Breaker Combi",
-        "legacy_code": "Combi",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -250,7 +238,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "30",
         "swc": "1",
         "spec": [],
@@ -265,7 +252,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -283,7 +269,6 @@
       {
         "id": 4,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -300,7 +285,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -318,7 +302,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -335,7 +318,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -354,7 +336,6 @@
       {
         "id": 8,
         "name": "HMG Lieutenant",
-        "legacy_code": "HMG Lieutenant",
         "cost": "30",
         "swc": "1",
         "spec": [
@@ -411,7 +392,6 @@
     "id": 2004,
     "army": "Yu Jing",
     "isc": "Tiger Soldiers",
-    "legacy_isc": "Tiger Soldiers",
     "name": "Tiger",
     "type": "MI",
     "classification": "Elite",
@@ -436,7 +416,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -452,7 +431,6 @@
       {
         "id": 2,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -467,7 +445,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -482,7 +459,6 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -497,7 +473,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "33",
         "swc": "0.5",
         "spec": [
@@ -515,7 +490,6 @@
       {
         "id": 6,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -533,7 +507,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "27",
         "swc": "1",
         "spec": [
@@ -554,7 +527,6 @@
     "id": 2005,
     "army": "Yu Jing",
     "isc": "Zúyong Invincibles",
-    "legacy_isc": "Zúyong Invincibles",
     "name": "Zúyong",
     "type": "HI",
     "classification": "Line",
@@ -579,7 +551,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -594,7 +565,6 @@
       {
         "id": 2,
         "name": "TinBot",
-        "legacy_code": "TinBot",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -611,7 +581,6 @@
       {
         "id": 3,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "35",
         "swc": "1.5",
         "spec": [],
@@ -626,7 +595,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -641,7 +609,6 @@
       {
         "id": 5,
         "name": "MULTI",
-        "legacy_code": "MULTI",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -656,7 +623,6 @@
       {
         "id": 6,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "36",
         "swc": "2",
         "spec": [],
@@ -672,7 +638,6 @@
       {
         "id": 7,
         "name": "AutoMediKit HMG",
-        "legacy_code": "AutoMediKit HMG",
         "cost": "39",
         "swc": "2",
         "spec": [
@@ -689,7 +654,6 @@
       {
         "id": 8,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -706,7 +670,6 @@
       {
         "id": 9,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -723,7 +686,6 @@
       {
         "id": 10,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -740,7 +702,6 @@
       {
         "id": 11,
         "name": "HMG Lieutenant",
-        "legacy_code": "HMG Lieutenant",
         "cost": "39",
         "swc": "1",
         "spec": [
@@ -761,7 +722,6 @@
     "id": 2006,
     "army": "Yu Jing",
     "isc": "Yan Huo Invincibles",
-    "legacy_isc": "Yan Huo Invincibles",
     "name": "Yan Huo",
     "type": "HI",
     "classification": "Line",
@@ -784,7 +744,6 @@
       {
         "id": 1,
         "name": "MULTI HMG",
-        "legacy_code": "MULTI HMG",
         "cost": "53",
         "swc": "2",
         "spec": [],
@@ -799,7 +758,6 @@
       {
         "id": 2,
         "name": "HMC",
-        "legacy_code": "HMC",
         "cost": "54",
         "swc": "2",
         "spec": [],
@@ -814,7 +772,6 @@
       {
         "id": 3,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "52",
         "swc": "2",
         "spec": [],
@@ -829,7 +786,6 @@
       {
         "id": 4,
         "name": "MULTI HMG Lieutenant",
-        "legacy_code": "MULTI HMG Lieutenant",
         "cost": "53",
         "swc": "2",
         "spec": [
@@ -846,7 +802,6 @@
       {
         "id": 5,
         "name": "HMC Lieutenant",
-        "legacy_code": "HMC Lieutenant",
         "cost": "54",
         "swc": "2",
         "spec": [
@@ -882,7 +837,6 @@
     "id": 2007,
     "army": "Yu Jing",
     "isc": "Wu Ming",
-    "legacy_isc": "Wu Ming",
     "name": "Wu Ming",
     "type": "HI",
     "classification": "Line",
@@ -907,7 +861,6 @@
       {
         "id": 1,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -923,7 +876,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "39",
         "swc": "2",
         "spec": [],
@@ -938,7 +890,6 @@
       {
         "id": 3,
         "name": "Nimbus",
-        "legacy_code": "Nimbus",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -954,7 +905,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun Deflector",
-        "legacy_code": "Boarding Shotgun",
         "cost": "33",
         "swc": "0.5",
         "spec": [
@@ -971,7 +921,6 @@
       {
         "id": 5,
         "name": "Panzerfaust",
-        "legacy_code": "Panzerfaust",
         "cost": "29",
         "swc": "0.5",
         "spec": [],
@@ -987,7 +936,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -1004,7 +952,6 @@
       {
         "id": 7,
         "name": "E/Mitter Duo",
-        "legacy_code": "Combi",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -1023,7 +970,6 @@
       {
         "id": 8,
         "name": "Heavy Rocket Launcher",
-        "legacy_code": "Light Rocket Launcher",
         "cost": "33",
         "swc": "2",
         "spec": [],
@@ -1076,7 +1022,6 @@
     "id": 2008,
     "army": "Yu Jing",
     "isc": "Daofei",
-    "legacy_isc": "Daofei",
     "name": "Daofei",
     "type": "HI",
     "classification": "Veteran",
@@ -1102,7 +1047,6 @@
       {
         "id": 1,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "53",
         "swc": "0",
         "spec": [],
@@ -1117,7 +1061,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "57",
         "swc": "2",
         "spec": [],
@@ -1132,7 +1075,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "48",
         "swc": "0",
         "spec": [],
@@ -1147,7 +1089,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "55",
         "swc": "2",
         "spec": [],
@@ -1162,7 +1103,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "59",
         "swc": "0.5",
         "spec": [
@@ -1179,7 +1119,6 @@
       {
         "id": 6,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "53",
         "swc": "0",
         "spec": [
@@ -1196,7 +1135,6 @@
       {
         "id": 7,
         "name": "Spitfire Lieutenant",
-        "legacy_code": "Spitfire Lieutenant",
         "cost": "55",
         "swc": "1.5",
         "spec": [
@@ -1216,7 +1154,6 @@
     "id": 2009,
     "army": "Yu Jing",
     "isc": "Hac Tao",
-    "legacy_isc": "Hac Tao",
     "name": "Hac Tao",
     "type": "HI",
     "classification": "Elite",
@@ -1242,7 +1179,6 @@
       {
         "id": 1,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "64",
         "swc": "0",
         "spec": [],
@@ -1258,7 +1194,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "68",
         "swc": "2",
         "spec": [],
@@ -1274,7 +1209,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "59",
         "swc": "0",
         "spec": [],
@@ -1290,7 +1224,6 @@
       {
         "id": 4,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "65",
         "swc": "2",
         "spec": [],
@@ -1306,7 +1239,6 @@
       {
         "id": 5,
         "name": "Assault Hacker",
-        "legacy_code": "Hacker",
         "cost": "70",
         "swc": "0.5",
         "spec": [
@@ -1324,7 +1256,6 @@
       {
         "id": 6,
         "name": "Executive Order",
-        "legacy_code": "Executive Order",
         "cost": "65",
         "swc": "0.5",
         "spec": [
@@ -1342,7 +1273,6 @@
       {
         "id": 7,
         "name": "HMG Executive Order",
-        "legacy_code": "HMG Executive Order",
         "cost": "69",
         "swc": "2",
         "spec": [
@@ -1380,7 +1310,6 @@
     "id": 2010,
     "army": "Yu Jing",
     "isc": "Hsien",
-    "legacy_isc": "Hsien",
     "name": "Hsien",
     "type": "HI",
     "classification": "Headquarters",
@@ -1406,7 +1335,6 @@
       {
         "id": 1,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "57",
         "swc": "0",
         "spec": [],
@@ -1422,7 +1350,6 @@
       {
         "id": 2,
         "name": "TinBot",
-        "legacy_code": "TinBot",
         "cost": "60",
         "swc": "0.5",
         "spec": [
@@ -1440,7 +1367,6 @@
       {
         "id": 3,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "61",
         "swc": "2",
         "spec": [],
@@ -1456,7 +1382,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "52",
         "swc": "0",
         "spec": [],
@@ -1472,7 +1397,6 @@
       {
         "id": 5,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "57",
         "swc": "-1",
         "spec": [
@@ -1490,7 +1414,6 @@
       {
         "id": 6,
         "name": "TinBot Lieutenant",
-        "legacy_code": "TinBot Lieutenant",
         "cost": "60",
         "swc": "0",
         "spec": [
@@ -1509,7 +1432,6 @@
       {
         "id": 7,
         "name": "HMG Lieutenant",
-        "legacy_code": "HMG Lieutenant",
         "cost": "61",
         "swc": "2",
         "spec": [
@@ -1530,7 +1452,6 @@
     "id": 2011,
     "army": "Yu Jing",
     "isc": "Guijia",
-    "legacy_isc": "Guijia",
     "name": "Guijia",
     "ava": "2",
     "spec": [],
@@ -1593,7 +1514,6 @@
       {
         "id": 1,
         "name": "MHMG",
-        "legacy_code": "Default",
         "cost": "88",
         "swc": "2",
         "spec": [],
@@ -1608,7 +1528,6 @@
       {
         "id": 2,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "88",
         "swc": "3",
         "spec": [
@@ -1628,7 +1547,6 @@
     "id": 2012,
     "army": "Yu Jing",
     "isc": "Guilang",
-    "legacy_isc": "Guilang",
     "name": "Guilang",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1655,7 +1573,6 @@
       {
         "id": 1,
         "name": "Minelayer",
-        "legacy_code": "Minelayer",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -1673,7 +1590,6 @@
       {
         "id": 2,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -1689,7 +1605,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -1705,7 +1620,6 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "33",
         "swc": "1.5",
         "spec": [],
@@ -1721,7 +1635,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -1739,7 +1652,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -1758,7 +1670,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "25",
         "swc": "2",
         "spec": [
@@ -1779,7 +1690,6 @@
     "id": 2013,
     "army": "Yu Jing",
     "isc": "Ninjas",
-    "legacy_isc": "Ninjas",
     "name": "Ninja",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1807,7 +1717,6 @@
       {
         "id": 1,
         "name": "Bow",
-        "legacy_code": "Bow",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -1823,7 +1732,6 @@
       {
         "id": 2,
         "name": "Shock",
-        "legacy_code": "Shock",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1839,7 +1747,6 @@
       {
         "id": 3,
         "name": "AP",
-        "legacy_code": "AP",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1855,7 +1762,6 @@
       {
         "id": 4,
         "name": "DA",
-        "legacy_code": "DA",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -1871,7 +1777,6 @@
       {
         "id": 5,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "42",
         "swc": "1.5",
         "spec": [],
@@ -1887,7 +1792,6 @@
       {
         "id": 6,
         "name": "Assault Hacker",
-        "legacy_code": "Hacker",
         "cost": "40",
         "swc": "0.5",
         "spec": [
@@ -1925,7 +1829,6 @@
     "id": 2014,
     "army": "Yu Jing",
     "isc": "Shaolin Warrior Monks",
-    "legacy_isc": "Shaolin Warrior Monks",
     "name": "Shaolin",
     "type": "WB",
     "classification": "Line",
@@ -1951,7 +1854,6 @@
       {
         "id": 1,
         "name": "Shock",
-        "legacy_code": "Shock",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1967,7 +1869,6 @@
       {
         "id": 2,
         "name": "AP",
-        "legacy_code": "AP",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -1983,7 +1884,6 @@
       {
         "id": 3,
         "name": "DA",
-        "legacy_code": "DA",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -1999,7 +1899,6 @@
       {
         "id": 4,
         "name": "Chain Rifle",
-        "legacy_code": "Chain Rifle",
         "cost": "5",
         "swc": "0",
         "spec": [],
@@ -2015,7 +1914,6 @@
       {
         "id": 5,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -2031,7 +1929,6 @@
       {
         "id": 6,
         "name": "Smoke LGL",
-        "legacy_code": "Smoke LGL",
         "cost": "11",
         "swc": "1",
         "spec": [],
@@ -2050,7 +1947,6 @@
     "id": 2015,
     "army": "Yu Jing",
     "isc": "Yisheng",
-    "legacy_isc": "Yisheng",
     "name": "Yisheng",
     "type": "LI",
     "classification": "Support",
@@ -2075,7 +1971,6 @@
       {
         "id": 1,
         "name": "Doctor",
-        "legacy_code": "Default",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -2093,7 +1988,6 @@
     "id": 2016,
     "army": "Yu Jing",
     "isc": "Mech-Engineer",
-    "legacy_isc": "Mech-Engineer",
     "name": "Mech-Engineer",
     "type": "LI",
     "classification": "Support",
@@ -2117,7 +2011,6 @@
       {
         "id": 1,
         "name": "Engineer",
-        "legacy_code": "Default",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -2136,7 +2029,6 @@
     "id": 2017,
     "army": "Yu Jing",
     "isc": "Wèibīng Yáokòng",
-    "legacy_isc": "Yáokòng Wèibīng",
     "name": "Wèibīng Yáokòng",
     "type": "REM",
     "classification": "Support",
@@ -2167,7 +2059,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2184,7 +2075,6 @@
     "id": 2018,
     "army": "Yu Jing",
     "isc": "Hùsòng Yáokòng",
-    "legacy_isc": "Yáokòng Hùsòng",
     "name": "Hùsòng Yáokòng",
     "type": "REM",
     "classification": "Support",
@@ -2211,7 +2101,6 @@
       {
         "id": 1,
         "name": "HMG",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "1",
         "spec": [],
@@ -2228,7 +2117,6 @@
     "id": 2019,
     "army": "Yu Jing",
     "isc": "Son-bae Yáokòng",
-    "legacy_isc": "Yáokòng Son-bae",
     "name": "Son-Bae Yáokòng",
     "type": "REM",
     "classification": "Support",
@@ -2253,7 +2141,6 @@
       {
         "id": 1,
         "name": "Smart Missile Launcher",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -2270,7 +2157,6 @@
     "id": 2020,
     "army": "Yu Jing",
     "isc": "Chaīyì Yáokòng",
-    "legacy_isc": "Yáokòng Chaīyì",
     "name": "Chaīyì Yáokòng",
     "type": "REM",
     "classification": "Support",
@@ -2298,7 +2184,6 @@
       {
         "id": 1,
         "name": "Repeater",
-        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -2315,7 +2200,6 @@
     "id": 2021,
     "army": "Yu Jing",
     "isc": "Sun Tze",
-    "legacy_isc": "Sun Tze",
     "name": "Sun Tze",
     "type": "HI",
     "classification": "Character",
@@ -2343,7 +2227,6 @@
       {
         "id": 1,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "55",
         "swc": "0",
         "spec": [],
@@ -2360,7 +2243,6 @@
       {
         "id": 2,
         "name": "MULTI",
-        "legacy_code": "MULTI",
         "cost": "60",
         "swc": "0",
         "spec": [],
@@ -2377,7 +2259,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun Lieutenant",
-        "legacy_code": "Boarding Shotgun Lieutenant",
         "cost": "60",
         "swc": "0",
         "spec": [
@@ -2397,7 +2278,6 @@
       {
         "id": 4,
         "name": "MULTI Lieutenant",
-        "legacy_code": "MULTI Lieutenant",
         "cost": "65",
         "swc": "0",
         "spec": [
@@ -2420,7 +2300,6 @@
     "id": 2022,
     "army": "Yu Jing",
     "isc": "Celestial Guard",
-    "legacy_isc": "Celestial Guard",
     "name": "Celestial Guard",
     "type": "LI",
     "classification": "Line",
@@ -2442,7 +2321,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -2457,7 +2335,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -2472,7 +2349,6 @@
       {
         "id": 3,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "17",
         "swc": "1",
         "spec": [],
@@ -2488,7 +2364,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "19",
         "swc": "1",
         "spec": [],
@@ -2503,7 +2378,6 @@
       {
         "id": 5,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "21",
         "swc": "1.5",
         "spec": [],
@@ -2518,7 +2392,6 @@
       {
         "id": 6,
         "name": "Kuang Shi Control Device",
-        "legacy_code": "Kuang Shi Control Device",
         "cost": "13",
         "swc": "0.5",
         "spec": [
@@ -2536,7 +2409,6 @@
       {
         "id": 7,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -2553,7 +2425,6 @@
       {
         "id": 8,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -2593,7 +2464,6 @@
     "id": 2024,
     "army": "Yu Jing",
     "isc": "Shang Ji",
-    "legacy_isc": "Shang Ji",
     "name": "Shang Ji",
     "type": "HI",
     "classification": "Line",
@@ -2619,7 +2489,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -2635,7 +2504,6 @@
       {
         "id": 2,
         "name": "MULTI",
-        "legacy_code": "MULTI",
         "cost": "40",
         "swc": "0",
         "spec": [],
@@ -2650,7 +2518,6 @@
       {
         "id": 3,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "42",
         "swc": "2",
         "spec": [],
@@ -2665,7 +2532,6 @@
       {
         "id": 4,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -2683,7 +2549,6 @@
       {
         "id": 5,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -2701,7 +2566,6 @@
       {
         "id": 6,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "37",
         "swc": "0",
         "spec": [
@@ -2754,7 +2618,6 @@
     "id": 2025,
     "army": "Yu Jing",
     "isc": "Yáozăo",
-    "legacy_isc": "Yáozăo",
     "name": "Yáozăo",
     "type": "REM",
     "classification": "Support",
@@ -2780,7 +2643,6 @@
       {
         "id": 1,
         "name": "Servant",
-        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -2795,7 +2657,6 @@
     "id": 2026,
     "army": "Yu Jing",
     "isc": "Yáopú Pangguling",
-    "legacy_isc": "Yáopú Pangguling",
     "name": "Pangguling",
     "type": "REM",
     "classification": "Support",
@@ -2821,7 +2682,6 @@
       {
         "id": 1,
         "name": "Minesweeper",
-        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -2836,7 +2696,6 @@
       {
         "id": 2,
         "name": "Combi",
-        "legacy_code": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -2853,7 +2712,6 @@
       {
         "id": 3,
         "name": "EVO",
-        "legacy_code": "EVO",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -2870,7 +2728,6 @@
     "id": 2027,
     "army": "Yu Jing",
     "isc": "Kuang Shi",
-    "legacy_isc": "Kuang Shi",
     "name": "Kuang Shi",
     "type": "LI",
     "classification": "Line",
@@ -2896,7 +2753,6 @@
       {
         "id": 1,
         "name": "Chain Rifle",
-        "legacy_code": "Default",
         "cost": "5",
         "swc": "0",
         "spec": [],
@@ -2911,7 +2767,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "11",
         "swc": "0",
         "spec": [],
@@ -2933,7 +2788,6 @@
     "id": 2029,
     "army": "Yu Jing",
     "isc": "Imperial Agent, Pheasant Rank",
-    "legacy_isc": "Imperial Agent, Pheasant Rank",
     "name": "Imperial Agent",
     "ava": "1",
     "spec": [],
@@ -2991,7 +2845,6 @@
       {
         "id": 1,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -3008,7 +2861,6 @@
       {
         "id": 2,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "32",
         "swc": "1.5",
         "spec": [
@@ -3026,7 +2878,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -3044,7 +2895,6 @@
       {
         "id": 4,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "34",
         "swc": "0",
         "spec": [
@@ -3124,7 +2974,6 @@
     "id": 2031,
     "army": "Yu Jing",
     "isc": "Imperial Agents, Crane Rank",
-    "legacy_isc": "Imperial Agents, Crane Rank",
     "name": "Imperial Agent",
     "type": "HI",
     "classification": "Elite",
@@ -3150,7 +2999,6 @@
       {
         "id": 1,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "52",
         "swc": "0",
         "spec": [
@@ -3170,7 +3018,6 @@
       {
         "id": 2,
         "name": "Spitfire Lieutenant",
-        "legacy_code": "Spitfire Lieutenant",
         "cost": "54",
         "swc": "2",
         "spec": [
@@ -3189,7 +3036,6 @@
       {
         "id": 3,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "54",
         "swc": "2",
         "spec": [
@@ -3207,7 +3053,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "47",
         "swc": "0",
         "spec": [
@@ -3226,7 +3071,6 @@
       {
         "id": 5,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "52",
         "swc": "0",
         "spec": [
@@ -3245,7 +3089,6 @@
       {
         "id": 6,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "53",
         "swc": "0.5",
         "spec": [
@@ -3274,7 +3117,6 @@
     "id": 2034,
     "army": "Yu Jing",
     "isc": "Su-Jian Immediate Action Unit",
-    "legacy_isc": "Su-Jian Immediate Action Unit",
     "name": "Su-Jian",
     "ava": "1",
     "spec": [
@@ -3328,7 +3170,6 @@
       {
         "id": 1,
         "name": "Spitfire",
-        "legacy_code": "Default",
         "cost": "59",
         "swc": "2",
         "spec": [],
@@ -3345,7 +3186,6 @@
       {
         "id": 2,
         "name": "Heavy Shotgun",
-        "legacy_code": "Heavy Shotgun",
         "cost": "54",
         "swc": "0",
         "spec": [],
@@ -3377,7 +3217,6 @@
     "id": 2038,
     "army": "Yu Jing",
     "isc": "Yáoxiè Rui Shi",
-    "legacy_isc": "Yáoxiè Rui Shi",
     "name": "Rui Shi",
     "type": "REM",
     "classification": "Support",
@@ -3404,7 +3243,6 @@
       {
         "id": 1,
         "name": "Spitfire",
-        "legacy_code": "Default",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -3421,7 +3259,6 @@
     "id": 2039,
     "army": "Yu Jing",
     "isc": "Yáoxiè Lù Duān",
-    "legacy_isc": "Yáoxiè Lù Duān",
     "name": "Lù Duān",
     "type": "REM",
     "classification": "Support",
@@ -3449,7 +3286,6 @@
       {
         "id": 1,
         "name": "Mk12",
-        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -3475,7 +3311,6 @@
     "id": 2042,
     "army": "Yu Jing",
     "isc": "Sun Tze v.2 (Marksman Leader)",
-    "legacy_isc": "Sun Tze v.2 (Marksman Leader)",
     "name": "Sun Tze v2",
     "image": 2021,
     "type": "MI",
@@ -3504,7 +3339,6 @@
       {
         "id": 1,
         "name": "MULTI Sniper Rifle Lieutenant",
-        "legacy_code": "MULTI Sniper Rifle Lieutenant",
         "cost": "61",
         "swc": "1.5",
         "spec": [
@@ -3524,7 +3358,6 @@
       {
         "id": 2,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "56",
         "swc": "1.5",
         "spec": [],
@@ -3541,7 +3374,6 @@
       {
         "id": 3,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "57",
         "swc": "0",
         "spec": [
@@ -3561,7 +3393,6 @@
       {
         "id": 4,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "52",
         "swc": "0",
         "spec": [],
@@ -3581,7 +3412,6 @@
     "id": 2043,
     "army": "Yu Jing",
     "isc": "Guǐ Fēng Spec-Ops",
-    "legacy_isc": "Guǐ Fēng Spec-Ops",
     "name": "Guǐ Fēng",
     "type": "SPEC-OPS",
     "imp": "",
@@ -3601,7 +3431,6 @@
       {
         "id": 1,
         "name": "Spec-Ops",
-        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -3618,7 +3447,6 @@
     "id": 2045,
     "army": "Yu Jing",
     "isc": "Bao Troops",
-    "legacy_isc": "Bao Troop",
     "name": "Bao Troop",
     "type": "LI",
     "classification": "Specially Trained",
@@ -3642,7 +3470,6 @@
       {
         "id": 1,
         "name": "Combi (MSV2)",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3661,7 +3488,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun + Contender (MSV2)",
-        "legacy_code": "Boarding Shotgun",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -3679,7 +3505,6 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle (MSV2)",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "29",
         "swc": "1.5",
         "spec": [
@@ -3759,7 +3584,6 @@
     "id": 2048,
     "army": "Yu Jing",
     "isc": "Kǎnrèn Counter-Insurgency Group",
-    "legacy_isc": "Kǎnrèn Counter-Insurgency Group",
     "name": "Kǎnrèn",
     "ava": "1",
     "spec": [],
@@ -3817,7 +3641,6 @@
       {
         "id": 1,
         "name": "Boarding Shotgun",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -3834,7 +3657,6 @@
       {
         "id": 2,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -3853,7 +3675,6 @@
       {
         "id": 3,
         "name": "Minelayer",
-        "legacy_code": "Minelayer",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3873,7 +3694,6 @@
       {
         "id": 4,
         "name": "Forward Observer",
-        "legacy_code": "Forward Observer",
         "cost": "26",
         "swc": "0",
         "spec": [

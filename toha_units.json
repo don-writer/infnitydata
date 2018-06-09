@@ -3,7 +3,6 @@
     "id": 8001,
     "army": "Tohaa",
     "isc": "Kamael Light Infantry",
-    "legacy_isc": "Kamael Light Infantry",
     "name": "Kamael",
     "type": "LI",
     "classification": "Line",
@@ -27,7 +26,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -42,7 +40,6 @@
       {
         "id": 2,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "18",
         "swc": "1",
         "spec": [],
@@ -57,7 +54,6 @@
       {
         "id": 3,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "16",
         "swc": "1",
         "spec": [],
@@ -73,7 +69,6 @@
       {
         "id": 4,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "16",
         "swc": "0.5",
         "spec": [],
@@ -88,7 +83,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "16",
         "swc": "0.5",
         "spec": [
@@ -105,7 +99,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -122,7 +115,6 @@
       {
         "id": 7,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -139,7 +131,6 @@
       {
         "id": 8,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -159,7 +150,6 @@
     "id": 8002,
     "army": "Tohaa",
     "isc": "Sakiel Regiment",
-    "legacy_isc": "Sakiel Regiment",
     "name": "Sakiel",
     "ava": "6",
     "spec": [],
@@ -218,7 +208,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -234,7 +223,6 @@
       {
         "id": 2,
         "name": "Nullifier",
-        "legacy_code": "Null",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -251,7 +239,6 @@
       {
         "id": 3,
         "name": "Light Rocket Launcher",
-        "legacy_code": "Light Rocket Launcher",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -267,7 +254,6 @@
       {
         "id": 4,
         "name": "Viral",
-        "legacy_code": "Viral",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -283,7 +269,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "23",
         "swc": "1.5",
         "spec": [],
@@ -298,7 +283,6 @@
       {
         "id": 6,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -316,7 +300,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -354,7 +337,6 @@
     "id": 8003,
     "army": "Tohaa",
     "isc": "Ectros Regiment",
-    "legacy_isc": "Ectros Regiment",
     "name": "Ectros",
     "ava": "4",
     "spec": [],
@@ -416,7 +398,6 @@
       {
         "id": 1,
         "name": "Viral",
-        "legacy_code": "Default",
         "cost": "43",
         "swc": "0",
         "spec": [],
@@ -432,7 +413,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "45",
         "swc": "2",
         "spec": [],
@@ -448,7 +428,6 @@
       {
         "id": 3,
         "name": "Vulkan",
-        "legacy_code": "Vulkan",
         "cost": "38",
         "swc": "0",
         "spec": [],
@@ -464,7 +443,6 @@
       {
         "id": 4,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "43",
         "swc": "0",
         "spec": [
@@ -485,7 +463,6 @@
     "id": 8004,
     "army": "Tohaa",
     "isc": "Clipsos Infiltrators",
-    "legacy_isc": "Clipsos Infiltrators",
     "name": "Clipsos",
     "type": "SK",
     "classification": "Specially Trained",
@@ -511,7 +488,6 @@
       {
         "id": 1,
         "name": "Mines",
-        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -527,7 +503,6 @@
       {
         "id": 2,
         "name": "Nimbus",
-        "legacy_code": "SWG",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -543,7 +518,6 @@
       {
         "id": 3,
         "name": "Nullifier",
-        "legacy_code": "Null",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -560,7 +534,6 @@
       {
         "id": 4,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -575,7 +548,6 @@
       {
         "id": 5,
         "name": "Minelayer",
-        "legacy_code": "Minelayer",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -593,7 +565,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -614,7 +585,6 @@
     "id": 8005,
     "army": "Tohaa",
     "isc": "Tohaa Diplomatic Delegates",
-    "legacy_isc": "Tohaa Diplomatic Delegates",
     "name": "Diplomatic Delegate",
     "type": "LI",
     "classification": "Support",
@@ -636,7 +606,6 @@
       {
         "id": 1,
         "name": "Specialist",
-        "legacy_code": "Default",
         "cost": "5",
         "swc": "0",
         "spec": [
@@ -658,7 +627,6 @@
     "id": 8006,
     "army": "Tohaa",
     "isc": "Gao-Rael",
-    "legacy_isc": "Gao-Rael",
     "name": "Gao-Rael",
     "ava": "4",
     "spec": [],
@@ -718,7 +686,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -734,7 +701,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -749,7 +715,6 @@
       {
         "id": 3,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -764,7 +729,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "33",
         "swc": "1.5",
         "spec": [],
@@ -779,7 +743,6 @@
       {
         "id": 5,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -800,7 +763,6 @@
     "id": 8007,
     "army": "Tohaa",
     "isc": "Gao-Tarsos",
-    "legacy_isc": "Gao-Tarsos",
     "name": "Gao-Tarsos",
     "ava": "3",
     "spec": [],
@@ -849,7 +811,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -865,7 +826,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "36",
         "swc": "1.5",
         "spec": [],
@@ -880,7 +840,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -896,7 +855,6 @@
       {
         "id": 4,
         "name": "Paramedic",
-        "legacy_code": "Param",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -917,7 +875,6 @@
     "id": 8008,
     "army": "Tohaa",
     "isc": "Gorgos Squad",
-    "legacy_isc": "Gorgos",
     "name": "Gorgos",
     "ava": "1",
     "spec": [],
@@ -1054,7 +1011,6 @@
       {
         "id": 1,
         "name": "Shotgun Peripheral",
-        "legacy_code": "Default",
         "cost": "86",
         "swc": "2",
         "profile": "2",
@@ -1082,7 +1038,6 @@
     "id": 8009,
     "army": "Tohaa",
     "isc": "Makaul",
-    "legacy_isc": "Makaul",
     "name": "Makaul",
     "type": "WB",
     "classification": "Support",
@@ -1109,7 +1064,6 @@
       {
         "id": 1,
         "name": "Viral CCW",
-        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1125,7 +1079,6 @@
       {
         "id": 2,
         "name": "DA CCW",
-        "legacy_code": "Swarm",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1141,7 +1094,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1157,7 +1109,6 @@
       {
         "id": 4,
         "name": "Combi",
-        "legacy_code": "Combi",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -1176,7 +1127,6 @@
     "id": 8010,
     "army": "Tohaa",
     "isc": "Kumotail Bioengineers",
-    "legacy_isc": "Kumotail",
     "name": "Kumotail",
     "type": "LI",
     "classification": "Support",
@@ -1203,7 +1153,6 @@
       {
         "id": 1,
         "name": "Doctor+Engineer",
-        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1222,7 +1171,6 @@
     "id": 8011,
     "army": "Tohaa",
     "isc": "Chaksa Auxiliars",
-    "legacy_isc": "Chaksa Auxiliars",
     "name": "Auxiliar",
     "type": "LI",
     "classification": "Support",
@@ -1246,7 +1194,6 @@
       {
         "id": 1,
         "name": "Baggage",
-        "legacy_code": "Default",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -1264,7 +1211,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "25",
         "swc": "1",
         "spec": [
@@ -1282,7 +1228,6 @@
       {
         "id": 3,
         "name": "Smart Heavy Rocket Launcher",
-        "legacy_code": "Smart Rocket Launcher",
         "cost": "15",
         "swc": "1",
         "spec": [],
@@ -1300,7 +1245,6 @@
     "id": 8012,
     "army": "Tohaa",
     "isc": "Chaksa Servant",
-    "legacy_isc": "Chaksa Servant",
     "name": "Servant",
     "type": "LI",
     "classification": "Support",
@@ -1326,7 +1270,6 @@
       {
         "id": 1,
         "name": "Servant",
-        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -1341,7 +1284,6 @@
     "id": 8013,
     "army": "Tohaa",
     "isc": "Neema Saatar",
-    "legacy_isc": "Neema Saatar",
     "name": "Neema",
     "image": 8003,
     "ava": "1",
@@ -1399,7 +1341,6 @@
       {
         "id": 1,
         "name": "Breaker Combi",
-        "legacy_code": "Default",
         "cost": "41",
         "swc": "0",
         "spec": [],
@@ -1416,7 +1357,6 @@
       {
         "id": 2,
         "name": "Breaker Combi Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "46",
         "swc": "-1",
         "spec": [
@@ -1472,7 +1412,6 @@
     "id": 8014,
     "army": "Tohaa",
     "isc": "Hatail Spec-Ops",
-    "legacy_isc": "Hatail Spec-Ops",
     "name": "Hatail",
     "type": "SPEC-OPS",
     "imp": "",
@@ -1492,7 +1431,6 @@
       {
         "id": 1,
         "name": "Spec-Ops",
-        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -1505,7 +1443,6 @@
     "id": 8015,
     "army": "Tohaa",
     "isc": "Hatail Aelis Keesan",
-    "legacy_isc": "Hatail Aelis Keesan",
     "name": "Hatail Aelis Keesan",
     "image": 8014,
     "type": "LI",
@@ -1533,7 +1470,6 @@
       {
         "id": 1,
         "name": "Viral Combi",
-        "legacy_code": "Default",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1551,7 +1487,6 @@
       {
         "id": 2,
         "name": "K1 Combi",
-        "legacy_code": "K1 Combi",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1572,7 +1507,6 @@
     "id": 8016,
     "army": "Tohaa",
     "isc": "Nikoul Ambush Unit",
-    "legacy_isc": "Nikoul Ambush Unit",
     "name": "Nikoul",
     "ava": "2",
     "spec": [],
@@ -1624,7 +1558,6 @@
       {
         "id": 1,
         "name": "Viral Sniper Rifle",
-        "legacy_code": "Default",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -1639,7 +1572,6 @@
       {
         "id": 2,
         "name": "Minelayer",
-        "legacy_code": "Minelayer",
         "cost": "30",
         "swc": "1.5",
         "spec": [
@@ -1660,7 +1592,6 @@
     "id": 8017,
     "army": "Tohaa",
     "isc": "Kotail Mobile Unit",
-    "legacy_isc": "Kotail Mobile Unit",
     "name": "Kotail",
     "ava": "4",
     "spec": [],
@@ -1713,7 +1644,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -1729,7 +1659,6 @@
       {
         "id": 2,
         "name": "Dual Combi",
-        "legacy_code": "Dual Combi",
         "cost": "32",
         "swc": "0.5",
         "spec": [],
@@ -1744,7 +1673,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1760,7 +1688,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "36",
         "swc": "1.5",
         "spec": [],
@@ -1775,7 +1702,6 @@
       {
         "id": 5,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "33",
         "swc": "0",
         "spec": [
@@ -1796,7 +1722,6 @@
     "id": 8018,
     "army": "Tohaa",
     "isc": "Rasail Boarding Team",
-    "legacy_isc": "Rasail Boarding Team",
     "name": "Rasail",
     "ava": "4",
     "spec": [],
@@ -1882,7 +1807,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1898,7 +1822,6 @@
       {
         "id": 2,
         "name": "Viral Combi",
-        "legacy_code": "Viral Combi",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -1913,7 +1836,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -1929,7 +1851,6 @@
       {
         "id": 4,
         "name": "Dual Contenders",
-        "legacy_code": "Dual Contenders",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -1945,7 +1866,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "39",
         "swc": "2",
         "spec": [],
@@ -1960,7 +1880,6 @@
       {
         "id": 6,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "34",
         "swc": "0",
         "spec": [
@@ -1978,7 +1897,6 @@
       {
         "id": 7,
         "name": "Viral Combi Lieutenant",
-        "legacy_code": "Viral Combi Lieutenant",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -1995,7 +1913,6 @@
       {
         "id": 8,
         "name": "Spitfire Lieutenant",
-        "legacy_code": "Spitfire Lieutenant",
         "cost": "39",
         "swc": "2",
         "spec": [
@@ -2015,7 +1932,6 @@
     "id": 8019,
     "army": "Tohaa",
     "isc": "Kaeltar Specialists",
-    "legacy_isc": "Kaeltar Specialists",
     "name": "Kaeltar",
     "type": "LI",
     "classification": "Specially Trained",
@@ -2040,7 +1956,6 @@
       {
         "id": 1,
         "name": "SymbioMate Shotgun",
-        "legacy_code": "Default",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -2059,7 +1974,6 @@
       {
         "id": 2,
         "name": "SymbioMate Combi",
-        "legacy_code": "SymbioMate Combi",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -2078,7 +1992,6 @@
       {
         "id": 3,
         "name": "SymbioBomb Shotgun",
-        "legacy_code": "SymbioBomb Shotgun",
         "cost": "15",
         "swc": "0",
         "spec": [
@@ -2096,7 +2009,6 @@
       {
         "id": 4,
         "name": "SymbioBomb Combi",
-        "legacy_code": "SymbioBomb Combi",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -2117,7 +2029,6 @@
     "id": 8020,
     "army": "Tohaa",
     "isc": "Igao Unit",
-    "legacy_isc": "Igao",
     "name": "Igao",
     "type": "SK",
     "classification": "Specially Trained",
@@ -2146,7 +2057,6 @@
       {
         "id": 1,
         "name": "Boarding Shotgun",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -2162,7 +2072,6 @@
       {
         "id": 2,
         "name": "Combi",
-        "legacy_code": "Combi",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -2182,7 +2091,6 @@
     "id": 8021,
     "army": "Tohaa",
     "isc": "Kosuil Assault Pioneers",
-    "legacy_isc": "Kosuil Assault Pioneers",
     "name": "Kosuil",
     "ava": "2",
     "spec": [
@@ -2234,7 +2142,6 @@
       {
         "id": 1,
         "name": "K1 Combi Engineer",
-        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [
@@ -2253,7 +2160,6 @@
       {
         "id": 2,
         "name": "Minelayer",
-        "legacy_code": "Minelayer",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -2272,7 +2178,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun Engineer",
-        "legacy_code": "Boarding Shotgun Engineer",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2294,7 +2199,6 @@
     "id": 8022,
     "army": "Tohaa",
     "isc": "Kerail Preceptors",
-    "legacy_isc": "Kerail Preceptors",
     "name": "Kerail Preceptor",
     "ava": "2",
     "spec": [],
@@ -2450,7 +2354,6 @@
       {
         "id": 1,
         "name": "1 Surda",
-        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "profile": "2",
@@ -2467,7 +2370,6 @@
       {
         "id": 2,
         "name": "2 Surdas",
-        "legacy_code": "2 Surdas",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -2487,7 +2389,6 @@
       {
         "id": 3,
         "name": "Combi, Mutan",
-        "legacy_code": "Combi, Mutan",
         "cost": "30",
         "swc": "0",
         "profile": "4",
@@ -2504,7 +2405,6 @@
       {
         "id": 4,
         "name": "Light Shotgun, Mutan",
-        "legacy_code": "Light Shotgun, Mutan",
         "cost": "25",
         "swc": "0",
         "profile": "4",

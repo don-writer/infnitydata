@@ -3,7 +3,6 @@
     "id": 4001,
     "army": "Haqqislam",
     "isc": "Daylami Infantry",
-    "legacy_isc": "Daylami Infantry",
     "name": "Daylami",
     "type": "LI",
     "classification": "Garrison",
@@ -25,7 +24,6 @@
       {
         "id": 1,
         "name": "Shotgun",
-        "legacy_code": "Default",
         "cost": "5",
         "swc": "0",
         "spec": [],
@@ -40,7 +38,6 @@
       {
         "id": 2,
         "name": "Camo+Panzerfaust",
-        "legacy_code": "Camo+Panzerfaust",
         "cost": "8",
         "swc": "0.5",
         "spec": [
@@ -59,7 +56,6 @@
       {
         "id": 3,
         "name": "Camo",
-        "legacy_code": "Camo",
         "cost": "10",
         "swc": "0",
         "spec": [
@@ -78,7 +74,6 @@
       {
         "id": 4,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "17",
         "swc": "0.5",
         "spec": [],
@@ -93,7 +88,6 @@
       {
         "id": 5,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "8",
         "swc": "0.5",
         "spec": [],
@@ -109,7 +103,6 @@
       {
         "id": 6,
         "name": "Panzerfaust",
-        "legacy_code": "Panzerfaust",
         "cost": "7",
         "swc": "0.5",
         "spec": [],
@@ -128,7 +121,6 @@
     "id": 4002,
     "army": "Haqqislam",
     "isc": "Ghulam",
-    "legacy_isc": "Ghulam",
     "name": "Ghulam",
     "type": "LI",
     "classification": "Line",
@@ -150,7 +142,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -166,7 +157,6 @@
       {
         "id": 2,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "20",
         "swc": "0.5",
         "spec": [
@@ -184,7 +174,6 @@
       {
         "id": 3,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "20",
         "swc": "1",
         "spec": [],
@@ -199,7 +188,6 @@
       {
         "id": 4,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "17",
         "swc": "1.5",
         "spec": [],
@@ -214,7 +202,6 @@
       {
         "id": 5,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "13",
         "swc": "1",
         "spec": [],
@@ -230,7 +217,6 @@
       {
         "id": 6,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "16",
         "swc": "0.5",
         "spec": [],
@@ -245,7 +231,6 @@
       {
         "id": 7,
         "name": "Panzerfaust",
-        "legacy_code": "Panzerfaust",
         "cost": "15",
         "swc": "0.5",
         "spec": [],
@@ -262,7 +247,6 @@
       {
         "id": 8,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -281,7 +265,6 @@
       {
         "id": 9,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "13",
         "swc": "0",
         "spec": [
@@ -299,7 +282,6 @@
       {
         "id": 10,
         "name": "Deployable Repeater",
-        "legacy_code": "Deployable Repeater",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -318,7 +300,6 @@
       {
         "id": 11,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -336,7 +317,6 @@
       {
         "id": 12,
         "name": "HMG Lieutenant",
-        "legacy_code": "HMG Lieutenant",
         "cost": "20",
         "swc": "0.5",
         "spec": [
@@ -353,7 +333,6 @@
       {
         "id": 13,
         "name": "Missile Launcher Lieutenant",
-        "legacy_code": "Missile Launcher Lieutenant",
         "cost": "17",
         "swc": "1.5",
         "spec": [
@@ -373,7 +352,6 @@
     "id": 4003,
     "army": "Haqqislam",
     "isc": "Naffatûn",
-    "legacy_isc": "Naffatûn",
     "name": "Naffatun",
     "type": "LI",
     "classification": "Line",
@@ -395,7 +373,6 @@
       {
         "id": 1,
         "name": "LFT",
-        "legacy_code": "Default",
         "cost": "12",
         "swc": "0",
         "spec": [],
@@ -412,7 +389,6 @@
       {
         "id": 2,
         "name": "HFT",
-        "legacy_code": "HFT",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -428,7 +404,6 @@
       {
         "id": 3,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -450,7 +425,6 @@
     "id": 4004,
     "army": "Haqqislam",
     "isc": "Halqa",
-    "legacy_isc": "Halqa",
     "name": "Halqa",
     "type": "LI",
     "classification": "Line",
@@ -474,7 +448,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -490,7 +463,6 @@
       {
         "id": 2,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -508,7 +480,6 @@
       {
         "id": 3,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -527,7 +498,6 @@
       {
         "id": 4,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -545,7 +515,6 @@
       {
         "id": 5,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -560,7 +529,6 @@
       {
         "id": 6,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "20",
         "swc": "1.5",
         "spec": [],
@@ -575,7 +543,6 @@
       {
         "id": 7,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "16",
         "swc": "1",
         "spec": [],
@@ -591,7 +558,6 @@
       {
         "id": 8,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "15",
         "swc": "1",
         "spec": [
@@ -612,7 +578,6 @@
     "id": 4005,
     "army": "Haqqislam",
     "isc": "Khawarijs",
-    "legacy_isc": "Khawarijs",
     "name": "Khawarij",
     "type": "LI",
     "classification": "Elite",
@@ -639,7 +604,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -656,7 +620,6 @@
       {
         "id": 2,
         "name": "Panzerfaust",
-        "legacy_code": "Panzerfaust",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -672,7 +635,6 @@
       {
         "id": 3,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "32",
         "swc": "1.5",
         "spec": [
@@ -689,7 +651,6 @@
       {
         "id": 4,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "30",
         "swc": "0",
         "spec": [
@@ -708,7 +669,6 @@
       {
         "id": 5,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -726,7 +686,6 @@
       {
         "id": 6,
         "name": "Spitfire Lieutenant",
-        "legacy_code": "Spitfire Lieutenant",
         "cost": "32",
         "swc": "1.5",
         "spec": [
@@ -747,7 +706,6 @@
     "id": 4006,
     "army": "Haqqislam",
     "isc": "Djanbazan",
-    "legacy_isc": "Djanbazan",
     "name": "Djanbazan",
     "type": "MI",
     "classification": "Elite",
@@ -773,7 +731,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -789,7 +746,6 @@
       {
         "id": 2,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -807,7 +763,6 @@
       {
         "id": 3,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "35",
         "swc": "1.5",
         "spec": [],
@@ -822,7 +777,6 @@
       {
         "id": 4,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "31",
         "swc": "0.5",
         "spec": [],
@@ -837,7 +791,6 @@
       {
         "id": 5,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "27",
         "swc": "1",
         "spec": [
@@ -855,7 +808,6 @@
       {
         "id": 6,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -891,7 +843,6 @@
     "id": 4007,
     "army": "Haqqislam",
     "isc": "Hassassin Ragiks",
-    "legacy_isc": "Hassassin Ragiks",
     "name": "Ragik",
     "type": "MI",
     "classification": "Elite",
@@ -917,7 +868,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -933,7 +883,6 @@
       {
         "id": 2,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -951,7 +900,6 @@
       {
         "id": 3,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -966,7 +914,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -984,7 +931,6 @@
     "id": 4008,
     "army": "Haqqislam",
     "isc": "Janissaries",
-    "legacy_isc": "Janissaries",
     "name": "Janissary",
     "type": "HI",
     "classification": "Veteran",
@@ -1009,7 +955,6 @@
       {
         "id": 1,
         "name": "AP Rifle",
-        "legacy_code": "Default",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -1025,7 +970,6 @@
       {
         "id": 2,
         "name": "TinBot",
-        "legacy_code": "TinBot",
         "cost": "37",
         "swc": "0.5",
         "spec": [
@@ -1043,7 +987,6 @@
       {
         "id": 3,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "40",
         "swc": "2",
         "spec": [],
@@ -1058,7 +1001,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1073,7 +1015,6 @@
       {
         "id": 5,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -1091,7 +1032,6 @@
       {
         "id": 6,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "41",
         "swc": "0",
         "spec": [
@@ -1110,7 +1050,6 @@
       {
         "id": 7,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "37",
         "swc": "2",
         "spec": [],
@@ -1125,7 +1064,6 @@
       {
         "id": 8,
         "name": "BSG TinBot",
-        "legacy_code": "BSG TinBot",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -1145,7 +1083,6 @@
     "id": 4009,
     "army": "Haqqislam",
     "isc": "Al Fasid",
-    "legacy_isc": "Al Fasid",
     "name": "Fasid",
     "type": "HI",
     "classification": "Veteran",
@@ -1172,7 +1109,6 @@
       {
         "id": 1,
         "name": "Heavy Rocket Launcher",
-        "legacy_code": "Default",
         "cost": "45",
         "swc": "2",
         "spec": [],
@@ -1189,7 +1125,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "53",
         "swc": "2",
         "spec": [],
@@ -1210,7 +1145,6 @@
     "id": 4010,
     "army": "Haqqislam",
     "isc": "Maghariba Guard",
-    "legacy_isc": "Maghariba Guard",
     "name": "Maghariba",
     "ava": "1",
     "spec": [],
@@ -1276,7 +1210,6 @@
       {
         "id": 1,
         "name": "HFT",
-        "legacy_code": "Default",
         "cost": "78",
         "swc": "2",
         "spec": [],
@@ -1289,7 +1222,6 @@
       {
         "id": 2,
         "name": "Heavy Pistols",
-        "legacy_code": "Heavy Pistols",
         "cost": "79",
         "swc": "2",
         "spec": [],
@@ -1303,7 +1235,6 @@
       {
         "id": 3,
         "name": "360° Visor",
-        "legacy_code": "360° Visor",
         "cost": "98",
         "swc": "2",
         "spec": [
@@ -1321,7 +1252,6 @@
     "id": 4011,
     "army": "Haqqislam",
     "isc": "Hunzakuts",
-    "legacy_isc": "Hunzakuts",
     "name": "Hunzakut",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1347,7 +1277,6 @@
       {
         "id": 1,
         "name": "Grenadier",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -1366,7 +1295,6 @@
       {
         "id": 2,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -1382,7 +1310,6 @@
       {
         "id": 3,
         "name": "Observer+Repeater",
-        "legacy_code": "Observer+Repeater",
         "cost": "18",
         "swc": "0",
         "spec": [
@@ -1405,7 +1332,6 @@
     "id": 4012,
     "army": "Haqqislam",
     "isc": "Murabids Tuareg",
-    "legacy_isc": "Murabids Tuareg",
     "name": "Tuareg",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1431,7 +1357,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1448,7 +1373,6 @@
       {
         "id": 2,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -1467,7 +1391,6 @@
       {
         "id": 3,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "33",
         "swc": "0.5",
         "spec": [],
@@ -1483,7 +1406,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -1499,7 +1421,6 @@
       {
         "id": 5,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "33",
         "swc": "0",
         "spec": [
@@ -1522,7 +1443,6 @@
     "id": 4013,
     "army": "Haqqislam",
     "isc": "Hassassin Fiday",
-    "legacy_isc": "Hassassin Fiday",
     "name": "Fiday",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1550,7 +1470,6 @@
       {
         "id": 1,
         "name": "DA CCW",
-        "legacy_code": "Default",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1568,7 +1487,6 @@
       {
         "id": 2,
         "name": "Mines",
-        "legacy_code": "Mines",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1587,7 +1505,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -1604,7 +1521,6 @@
       {
         "id": 4,
         "name": "AP CCW",
-        "legacy_code": "AP CCW",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1625,7 +1541,6 @@
     "id": 4014,
     "army": "Haqqislam",
     "isc": "Kum",
-    "legacy_isc": "Kum",
     "name": "Kum",
     "ava": "T",
     "spec": [
@@ -1670,7 +1585,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -1687,7 +1601,6 @@
       {
         "id": 2,
         "name": "Chain Rifle",
-        "legacy_code": "Chain Rifle",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -1703,7 +1616,6 @@
       {
         "id": 3,
         "name": "E/M CCW",
-        "legacy_code": "E/M CCW",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1722,7 +1634,6 @@
     "id": 4015,
     "army": "Haqqislam",
     "isc": "Ghazi Muttawi'ah",
-    "legacy_isc": "Muttawi'ah",
     "name": "Muttawi'ah",
     "type": "LI",
     "classification": "Line",
@@ -1747,7 +1658,6 @@
       {
         "id": 1,
         "name": "Chain Rifle",
-        "legacy_code": "Default",
         "cost": "5",
         "swc": "0",
         "spec": [],
@@ -1765,7 +1675,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -1786,7 +1695,6 @@
     "id": 4016,
     "army": "Haqqislam",
     "isc": "Najjarun Engineer",
-    "legacy_isc": "Najjarun Engineer",
     "name": "Najjarun",
     "type": "LI",
     "classification": "Support",
@@ -1811,7 +1719,6 @@
       {
         "id": 1,
         "name": "Engineer",
-        "legacy_code": "Default",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1831,7 +1738,6 @@
     "id": 4017,
     "army": "Haqqislam",
     "isc": "Rafiq Remote",
-    "legacy_isc": "Rafiq Remote",
     "name": "Rafiq",
     "type": "REM",
     "classification": "Support",
@@ -1862,7 +1768,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -1880,7 +1785,6 @@
     "id": 4018,
     "army": "Haqqislam",
     "isc": "Shihab Remote",
-    "legacy_isc": "Shihab Remote",
     "name": "Shihab",
     "type": "REM",
     "classification": "Support",
@@ -1907,7 +1811,6 @@
       {
         "id": 1,
         "name": "HMG",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "1",
         "spec": [],
@@ -1924,7 +1827,6 @@
     "id": 4019,
     "army": "Haqqislam",
     "isc": "Shaytaniyah Remote",
-    "legacy_isc": "Shaytaniyah Remote",
     "name": "Shaytaniyah",
     "type": "REM",
     "classification": "Support",
@@ -1949,7 +1851,6 @@
       {
         "id": 1,
         "name": "Smart Missile Launcher",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -1966,7 +1867,6 @@
     "id": 4020,
     "army": "Haqqislam",
     "isc": "Fanous Remote",
-    "legacy_isc": "Fanous Remote",
     "name": "Fanous",
     "type": "REM",
     "classification": "Support",
@@ -1994,7 +1894,6 @@
       {
         "id": 1,
         "name": "Repeater",
-        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -2011,7 +1910,6 @@
     "id": 4021,
     "army": "Haqqislam",
     "isc": "Tarik Mansuri",
-    "legacy_isc": "Tarik Mansuri",
     "name": "Tarik Mansuri",
     "image": 4005,
     "type": "LI",
@@ -2042,7 +1940,6 @@
       {
         "id": 1,
         "name": "AP Rifle",
-        "legacy_code": "Default",
         "cost": "53",
         "swc": "0",
         "spec": [],
@@ -2060,7 +1957,6 @@
       {
         "id": 2,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "55",
         "swc": "1.5",
         "spec": [],
@@ -2077,7 +1973,6 @@
       {
         "id": 3,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "53",
         "swc": "-1",
         "spec": [
@@ -2097,7 +1992,6 @@
       {
         "id": 4,
         "name": "Spitfire Lieutenant",
-        "legacy_code": "Spitfire Lieutenant",
         "cost": "55",
         "swc": "1.5",
         "spec": [
@@ -2119,7 +2013,6 @@
     "id": 4022,
     "army": "Haqqislam",
     "isc": "Kasym Beg",
-    "legacy_isc": "Kasym Beg",
     "name": "Kasym Beg",
     "sharedAva": "Kasym Beg",
     "image": 4014,
@@ -2170,7 +2063,6 @@
       {
         "id": 1,
         "name": "Chain Rifle",
-        "legacy_code": "Default",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2190,7 +2082,6 @@
     "id": 4023,
     "army": "Haqqislam",
     "isc": "Kasym Beg (Lieutenant)",
-    "legacy_isc": "Kasym Beg (Lieutenant)",
     "name": "Kasym Beg Lt.",
     "sharedAva": "Kasym Beg",
     "image": 4014,
@@ -2241,7 +2132,6 @@
       {
         "id": 1,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "26",
         "swc": "-1",
         "spec": [
@@ -2263,7 +2153,6 @@
     "id": 4024,
     "army": "Haqqislam",
     "isc": "Al Hawwa' Unit",
-    "legacy_isc": "Al Hawwa' Unit",
     "name": "Hawwa'",
     "type": "SK",
     "classification": "Specially Trained",
@@ -2289,7 +2178,6 @@
       {
         "id": 1,
         "name": "Sniper Rifle",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0.5",
         "spec": [],
@@ -2305,7 +2193,6 @@
       {
         "id": 2,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -2323,7 +2210,6 @@
       {
         "id": 3,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -2344,7 +2230,6 @@
     "id": 4025,
     "army": "Haqqislam",
     "isc": "Asawira Regiment",
-    "legacy_isc": "Asawira Regiment",
     "name": "Asawira",
     "type": "HI",
     "classification": "Headquarters",
@@ -2374,7 +2259,6 @@
       {
         "id": 1,
         "name": "AP Rifle",
-        "legacy_code": "Default",
         "cost": "41",
         "swc": "0",
         "spec": [],
@@ -2391,7 +2275,6 @@
       {
         "id": 2,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "41",
         "swc": "0",
         "spec": [
@@ -2410,7 +2293,6 @@
       {
         "id": 3,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "45",
         "swc": "0",
         "spec": [
@@ -2430,7 +2312,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "43",
         "swc": "2",
         "spec": [],
@@ -2446,7 +2327,6 @@
       {
         "id": 5,
         "name": "DA CCW",
-        "legacy_code": "DA CCW",
         "cost": "42",
         "swc": "0",
         "spec": [],
@@ -2463,7 +2343,6 @@
       {
         "id": 6,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -2517,7 +2396,6 @@
     "id": 4026,
     "army": "Haqqislam",
     "isc": "Azra'il",
-    "legacy_isc": "Azra'il",
     "name": "Azra'il",
     "type": "HI",
     "classification": "Veteran",
@@ -2540,7 +2418,6 @@
       {
         "id": 1,
         "name": "Feuerbach",
-        "legacy_code": "Feuerbach",
         "cost": "39",
         "swc": "1.5",
         "spec": [],
@@ -2555,7 +2432,6 @@
       {
         "id": 2,
         "name": "AP HMG",
-        "legacy_code": "Default",
         "cost": "41",
         "swc": "2",
         "spec": [],
@@ -2573,7 +2449,6 @@
     "id": 4027,
     "army": "Haqqislam",
     "isc": "Bashi Bazouks",
-    "legacy_isc": "Bashi Bazouk",
     "name": "Bashi Bazouk",
     "type": "LI",
     "classification": "Specially Trained",
@@ -2598,7 +2473,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2614,7 +2488,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -2629,7 +2502,6 @@
       {
         "id": 3,
         "name": "AP Rifle",
-        "legacy_code": "AP Rifle",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -2644,7 +2516,6 @@
       {
         "id": 4,
         "name": "E/Mauler",
-        "legacy_code": "E/Mauler",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -2678,7 +2549,6 @@
     "id": 4028,
     "army": "Haqqislam",
     "isc": "Hafza Unit",
-    "legacy_isc": "Hafza Unit",
     "name": "Hafza",
     "type": "LI",
     "classification": "Specially Trained",
@@ -2702,7 +2572,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "16",
         "swc": "0",
         "spec": [],
@@ -2718,7 +2587,6 @@
       {
         "id": 2,
         "name": "Lieutenant+Spitfire",
-        "legacy_code": "Lieutenant+Spitfire",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -2735,7 +2603,6 @@
       {
         "id": 3,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "16",
         "swc": "0",
         "spec": [
@@ -2753,7 +2620,6 @@
       {
         "id": 4,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "17",
         "swc": "0",
         "spec": [
@@ -2771,7 +2637,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "22",
         "swc": "1",
         "spec": [],
@@ -2803,7 +2668,6 @@
     "id": 4029,
     "army": "Haqqislam",
     "isc": "Hassassin Farzans",
-    "legacy_isc": "Hassassin Farzans",
     "name": "Farzan",
     "type": "SK",
     "classification": "Specially Trained",
@@ -2830,7 +2694,6 @@
       {
         "id": 1,
         "name": "Chain Of Command",
-        "legacy_code": "Default",
         "cost": "26",
         "swc": "0",
         "spec": [
@@ -2847,7 +2710,6 @@
       {
         "id": 2,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -2885,7 +2747,6 @@
     "id": 4030,
     "army": "Haqqislam",
     "isc": "Hassassin Lasiqs",
-    "legacy_isc": "Hassassin Lasiqs",
     "name": "Lasiq",
     "type": "MI",
     "classification": "Specially Trained",
@@ -2912,7 +2773,6 @@
       {
         "id": 1,
         "name": "Viral Rifle",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -2928,7 +2788,6 @@
       {
         "id": 2,
         "name": "Viral Sniper Rifle",
-        "legacy_code": "Viral Sniper Rifle",
         "cost": "25",
         "swc": "1.5",
         "spec": [],
@@ -2946,7 +2805,6 @@
     "id": 4031,
     "army": "Haqqislam",
     "isc": "Hassassin Muyibs",
-    "legacy_isc": "Hassassin Muyibs",
     "name": "Muyib",
     "type": "LI",
     "classification": "Specially Trained",
@@ -2972,7 +2830,6 @@
       {
         "id": 1,
         "name": "Panzerfaust",
-        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -2990,7 +2847,6 @@
       {
         "id": 2,
         "name": "Smoke",
-        "legacy_code": "Smoke",
         "cost": "23",
         "swc": "1",
         "spec": [],
@@ -3007,7 +2863,6 @@
       {
         "id": 3,
         "name": "Smoke Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "23",
         "swc": "1.5",
         "spec": [
@@ -3026,7 +2881,6 @@
       {
         "id": 4,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3046,7 +2900,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "28",
         "swc": "1",
         "spec": [
@@ -3064,7 +2917,6 @@
       {
         "id": 6,
         "name": "Minelayer (Viral)",
-        "legacy_code": "Minelayer (Viral)",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -3084,7 +2936,6 @@
       {
         "id": 7,
         "name": "Minelayer (E/Mauler + Mines)",
-        "legacy_code": "Minelayer (E/Mauler)",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -3105,7 +2956,6 @@
       {
         "id": 8,
         "name": "Heavy Rocket Launcher",
-        "legacy_code": "Heavy Rocket Launcher",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -3182,7 +3032,6 @@
     "id": 4032,
     "army": "Haqqislam",
     "isc": "Hussein Al-Djabel",
-    "legacy_isc": "Hussein Al-Djabel",
     "name": "Al-Djabel",
     "image": 4013,
     "type": "SK",
@@ -3211,7 +3060,6 @@
       {
         "id": 1,
         "name": "Viral CCW",
-        "legacy_code": "Default",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -3232,7 +3080,6 @@
     "id": 4033,
     "army": "Haqqislam",
     "isc": "Kameel Remotes",
-    "legacy_isc": "Kameel Remotes",
     "name": "Kameel",
     "type": "REM",
     "classification": "Support",
@@ -3258,7 +3105,6 @@
       {
         "id": 1,
         "name": "Minesweeper",
-        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -3273,7 +3119,6 @@
       {
         "id": 2,
         "name": "Rifle",
-        "legacy_code": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -3291,7 +3136,6 @@
       {
         "id": 3,
         "name": "EVO",
-        "legacy_code": "EVO",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3308,7 +3152,6 @@
     "id": 4034,
     "army": "Haqqislam",
     "isc": "Nasmat Remotes",
-    "legacy_isc": "Nasmat Remotes",
     "name": "Nasmat",
     "type": "REM",
     "classification": "Support",
@@ -3334,7 +3177,6 @@
       {
         "id": 1,
         "name": "Servant",
-        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -3349,7 +3191,6 @@
     "id": 4035,
     "army": "Haqqislam",
     "isc": "Odalisques",
-    "legacy_isc": "Odalisques",
     "name": "Odalisque",
     "type": "LI",
     "classification": "Specially Trained",
@@ -3375,7 +3216,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -3392,7 +3232,6 @@
       {
         "id": 2,
         "name": "Haris",
-        "legacy_code": "Haris",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3411,7 +3250,6 @@
       {
         "id": 3,
         "name": "SMG",
-        "legacy_code": "SMG",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -3428,7 +3266,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3444,7 +3281,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "30",
         "swc": "1",
         "spec": [],
@@ -3463,7 +3299,6 @@
     "id": 4036,
     "army": "Haqqislam",
     "isc": "Saladin, O-12 Liaison Officer",
-    "legacy_isc": "Saladin, O-12 Liaison Officer",
     "name": "Saladin",
     "type": "MI",
     "classification": "Character",
@@ -3489,7 +3324,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "36",
         "swc": "0",
         "spec": [],
@@ -3505,7 +3339,6 @@
       {
         "id": 2,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "36",
         "swc": "0",
         "spec": [
@@ -3526,7 +3359,6 @@
     "id": 4037,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops",
-    "legacy_isc": "Husam Spec-Ops",
     "name": "Husam",
     "type": "SPEC-OPS",
     "imp": "",
@@ -3546,7 +3378,6 @@
       {
         "id": 1,
         "name": "Spec-Ops",
-        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -3559,7 +3390,6 @@
     "id": 4038,
     "army": "Haqqislam",
     "isc": "Hassassin Husam Yasbir",
-    "legacy_isc": "Hassassin Husam Yasbir",
     "name": "Hassassin Husam Yasbir",
     "image": 4037,
     "type": "LI",
@@ -3586,7 +3416,6 @@
       {
         "id": 1,
         "name": "Holoprojector L1",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3606,7 +3435,6 @@
       {
         "id": 2,
         "name": "Infiltration",
-        "legacy_code": "Infiltration",
         "cost": "34",
         "swc": "0",
         "spec": [
@@ -3631,7 +3459,6 @@
     "id": 4039,
     "army": "Haqqislam",
     "isc": "Kaplan Tactical Services (KTS)",
-    "legacy_isc": "KTS, Kaplan Tactical Services",
     "name": "Kaplan",
     "type": "LI",
     "classification": "Veteran",
@@ -3656,7 +3483,6 @@
       {
         "id": 1,
         "name": "ADHL",
-        "legacy_code": "ADHL",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3673,7 +3499,6 @@
       {
         "id": 2,
         "name": "Blitzen",
-        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -3689,7 +3514,6 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -3704,7 +3528,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "28",
         "swc": "1",
         "spec": [],
@@ -3719,7 +3542,6 @@
       {
         "id": 5,
         "name": "Engineer ADHL",
-        "legacy_code": "Engineer ADHL",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3738,7 +3560,6 @@
       {
         "id": 6,
         "name": "Engineer Blitzen",
-        "legacy_code": "Engineer Blitzen",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3756,7 +3577,6 @@
       {
         "id": 7,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -3778,7 +3598,6 @@
     "id": 4040,
     "army": "Haqqislam",
     "isc": "Hassassin Barid",
-    "legacy_isc": "Hassassin Barid",
     "name": "Barid",
     "type": "LI",
     "classification": "Specially Trained",
@@ -3802,7 +3621,6 @@
       {
         "id": 1,
         "name": "Hacker",
-        "legacy_code": "Default",
         "cost": "21",
         "swc": "0.5",
         "spec": [
@@ -3820,7 +3638,6 @@
       {
         "id": 2,
         "name": "Assault Hacker",
-        "legacy_code": "Hacker+Observer",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -3838,7 +3655,6 @@
       {
         "id": 3,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -3856,7 +3672,6 @@
       {
         "id": 4,
         "name": "Hacker+Lieutenant",
-        "legacy_code": "Hacker+Lieutenant",
         "cost": "21",
         "swc": "1",
         "spec": [
@@ -3875,7 +3690,6 @@
       {
         "id": 5,
         "name": "Observer+Lieutenant",
-        "legacy_code": "Observer+Lieutenant",
         "cost": "14",
         "swc": "0",
         "spec": [
@@ -3914,7 +3728,6 @@
     "id": 4041,
     "army": "Haqqislam",
     "isc": "Sekban",
-    "legacy_isc": "Sekban",
     "name": "Sekban",
     "type": "MI",
     "classification": "Elite",
@@ -3940,7 +3753,6 @@
       {
         "id": 1,
         "name": "Boarding Shotgun",
-        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -3957,7 +3769,6 @@
       {
         "id": 2,
         "name": "AP Rifle",
-        "legacy_code": "AP Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -3974,7 +3785,6 @@
       {
         "id": 3,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -3990,7 +3800,6 @@
       {
         "id": 4,
         "name": "Heavy Rocket Launcher",
-        "legacy_code": "Heavy Rocket Launcher",
         "cost": "23",
         "swc": "1.5",
         "spec": [],
@@ -4006,7 +3815,6 @@
       {
         "id": 5,
         "name": "Haris",
-        "legacy_code": "Haris",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -4025,7 +3833,6 @@
       {
         "id": 6,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -4045,7 +3852,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4067,7 +3873,6 @@
     "id": 4042,
     "army": "Haqqislam",
     "isc": "Hassassin Govads",
-    "legacy_isc": "Hassassin Govads",
     "name": "Govad",
     "type": "LI",
     "classification": "Specially Trained",
@@ -4093,7 +3898,6 @@
       {
         "id": 1,
         "name": "Rifle",
-        "legacy_code": "Default",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -4109,7 +3913,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -4124,7 +3927,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -4139,7 +3941,6 @@
       {
         "id": 4,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "25",
         "swc": "0.5",
         "spec": [],
@@ -4154,7 +3955,6 @@
       {
         "id": 5,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -4170,7 +3970,6 @@
       {
         "id": 6,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -4187,7 +3986,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -4258,7 +4056,6 @@
     "id": 4043,
     "army": "Haqqislam",
     "isc": "Zhayedan Intervention Troops",
-    "legacy_isc": "Zhayedan Intervention Troops",
     "name": "Zhayedan",
     "type": "LI",
     "classification": "Specially Trained",
@@ -4283,7 +4080,6 @@
       {
         "id": 1,
         "name": "Breaker Rifle",
-        "legacy_code": "Default",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -4301,7 +4097,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -4316,7 +4111,6 @@
       {
         "id": 3,
         "name": "Sniper Rifle",
-        "legacy_code": "Sniper Rifle",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -4333,7 +4127,6 @@
       {
         "id": 4,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -4349,7 +4142,6 @@
       {
         "id": 5,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -4367,7 +4159,6 @@
       {
         "id": 6,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "31",
         "swc": "0",
         "spec": [
@@ -4386,7 +4177,6 @@
       {
         "id": 7,
         "name": "HMG Lieutenant",
-        "legacy_code": "HMG Lieutenant",
         "cost": "32",
         "swc": "1.5",
         "spec": [
@@ -4406,7 +4196,6 @@
     "id": 4044,
     "army": "Haqqislam",
     "isc": "Zamira Nazarova",
-    "legacy_isc": "Zamira Nazarova",
     "name": "Zamira",
     "image": 4014,
     "ava": "1",
@@ -4453,7 +4242,6 @@
       {
         "id": 1,
         "name": "Light Shotgun",
-        "legacy_code": "Default",
         "cost": "15",
         "swc": "0",
         "spec": [],
@@ -4472,7 +4260,6 @@
     "id": 4045,
     "army": "Haqqislam",
     "isc": "Zuleyka Nazarova",
-    "legacy_isc": "Zuleyka Nazarova",
     "name": "Zuleyka",
     "image": 4014,
     "ava": "1",
@@ -4519,7 +4306,6 @@
       {
         "id": 1,
         "name": "LFT",
-        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -4538,7 +4324,6 @@
     "id": 4046,
     "army": "Haqqislam",
     "isc": "Druze Shock Teams",
-    "legacy_isc": "Druze Shock Teams",
     "name": "Druze",
     "image": 9003,
     "type": "MI",
@@ -4565,7 +4350,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -4583,7 +4367,6 @@
       {
         "id": 2,
         "name": "Assault Hacker",
-        "legacy_code": "Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -4602,7 +4385,6 @@
       {
         "id": 3,
         "name": "Light Grenade Launcher",
-        "legacy_code": "LGL",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -4621,7 +4403,6 @@
       {
         "id": 4,
         "name": "HMG",
-        "legacy_code": "Spitfire",
         "cost": "29",
         "swc": "1.5",
         "spec": [],

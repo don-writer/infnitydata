@@ -3,7 +3,6 @@
     "id": 5001,
     "army": "Nomads",
     "isc": "Alguaciles",
-    "legacy_isc": "Alguaciles",
     "name": "Alguacil",
     "type": "LI",
     "classification": "Line",
@@ -25,7 +24,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -40,7 +38,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "18",
         "swc": "1",
         "spec": [],
@@ -55,7 +52,6 @@
       {
         "id": 3,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "14",
         "swc": "1",
         "spec": [],
@@ -71,7 +67,6 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -86,7 +81,6 @@
       {
         "id": 5,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "15",
         "swc": "1.5",
         "spec": [],
@@ -101,7 +95,6 @@
       {
         "id": 6,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "18",
         "swc": "0.5",
         "spec": [
@@ -118,7 +111,6 @@
       {
         "id": 7,
         "name": "Observer+Repeater",
-        "legacy_code": "Observer+Repeater",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -136,7 +128,6 @@
       {
         "id": 8,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "12",
         "swc": "0",
         "spec": [
@@ -153,7 +144,6 @@
       {
         "id": 9,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "10",
         "swc": "1",
         "spec": [
@@ -173,7 +163,6 @@
     "id": 5002,
     "army": "Nomads",
     "isc": "Grenzers",
-    "legacy_isc": "Grenzers",
     "name": "Grenzer",
     "type": "MI",
     "classification": "Veteran",
@@ -198,7 +187,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -215,7 +203,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -231,7 +218,6 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "32",
         "swc": "1.5",
         "spec": [],
@@ -247,7 +233,6 @@
       {
         "id": 4,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "29",
         "swc": "1.5",
         "spec": [],
@@ -263,7 +248,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "30",
         "swc": "1.5",
         "spec": [],
@@ -279,7 +263,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "27",
         "swc": "0",
         "spec": [
@@ -299,7 +282,6 @@
       {
         "id": 7,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -321,7 +303,6 @@
     "id": 5003,
     "army": "Nomads",
     "isc": "Securitate",
-    "legacy_isc": "Securitate",
     "name": "Securitate",
     "type": "LI",
     "classification": "Line",
@@ -346,7 +327,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -362,7 +342,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "27",
         "swc": "1",
         "spec": [],
@@ -377,7 +356,6 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "27",
         "swc": "1.5",
         "spec": [],
@@ -392,7 +370,6 @@
       {
         "id": 4,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -410,7 +387,6 @@
       {
         "id": 5,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -428,7 +404,6 @@
       {
         "id": 6,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -449,7 +424,6 @@
     "id": 5004,
     "army": "Nomads",
     "isc": "Hellcats",
-    "legacy_isc": "Hellcats",
     "name": "Hellcat",
     "type": "MI",
     "classification": "Elite",
@@ -474,7 +448,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -489,7 +462,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -505,7 +477,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "21",
         "swc": "0",
         "spec": [],
@@ -520,7 +491,6 @@
       {
         "id": 4,
         "name": "Adhesive",
-        "legacy_code": "Adhesive",
         "cost": "23",
         "swc": "0.5",
         "spec": [],
@@ -536,7 +506,6 @@
       {
         "id": 5,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "28",
         "swc": "1.5",
         "spec": [],
@@ -551,7 +520,6 @@
       {
         "id": 6,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -568,7 +536,6 @@
       {
         "id": 7,
         "name": "Deployable Repeater",
-        "legacy_code": "Deployable Repeater",
         "cost": "23",
         "swc": "0.5",
         "spec": [
@@ -585,7 +552,6 @@
       {
         "id": 8,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "24",
         "swc": "0",
         "spec": [
@@ -602,7 +568,6 @@
       {
         "id": 9,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "22",
         "swc": "1",
         "spec": [
@@ -622,7 +587,6 @@
     "id": 5005,
     "army": "Nomads",
     "isc": "Intruders",
-    "legacy_isc": "Intruders",
     "name": "Intruder",
     "type": "MI",
     "classification": "Elite",
@@ -648,7 +612,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "35",
         "swc": "0",
         "spec": [],
@@ -665,7 +628,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "42",
         "swc": "1.5",
         "spec": [],
@@ -681,7 +643,6 @@
       {
         "id": 3,
         "name": "Adhesive",
-        "legacy_code": "Adhesive",
         "cost": "36",
         "swc": "1",
         "spec": [],
@@ -698,7 +659,6 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "43",
         "swc": "1.5",
         "spec": [
@@ -715,7 +675,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -733,7 +692,6 @@
       {
         "id": 6,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "35",
         "swc": "0",
         "spec": [
@@ -755,7 +713,6 @@
     "id": 5006,
     "army": "Nomads",
     "isc": "Reverend Moiras",
-    "legacy_isc": "Reverend Moiras",
     "name": "Reverend Moira",
     "type": "MI",
     "classification": "Elite",
@@ -781,7 +738,6 @@
       {
         "id": 1,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -796,7 +752,6 @@
       {
         "id": 2,
         "name": "E/Mitter",
-        "legacy_code": "E/Mitter",
         "cost": "28",
         "swc": "0",
         "spec": [],
@@ -812,7 +767,6 @@
       {
         "id": 3,
         "name": "AP CCW",
-        "legacy_code": "AP CCW",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -827,7 +781,6 @@
       {
         "id": 4,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -842,7 +795,6 @@
       {
         "id": 5,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "34",
         "swc": "1.5",
         "spec": [],
@@ -857,7 +809,6 @@
       {
         "id": 6,
         "name": "E/M LGL",
-        "legacy_code": "E/M LGL",
         "cost": "34",
         "swc": "1",
         "spec": [],
@@ -873,7 +824,6 @@
       {
         "id": 7,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -890,7 +840,6 @@
       {
         "id": 8,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "30",
         "swc": "1",
         "spec": [
@@ -910,7 +859,6 @@
     "id": 5007,
     "army": "Nomads",
     "isc": "Reverend Healers",
-    "legacy_isc": "Reverend Healers",
     "name": "Reverend Healer",
     "type": "MI",
     "classification": "Elite",
@@ -937,7 +885,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -953,7 +900,6 @@
       {
         "id": 2,
         "name": "MULTI",
-        "legacy_code": "MULTI",
         "cost": "37",
         "swc": "0",
         "spec": [],
@@ -969,7 +915,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -988,7 +933,6 @@
     "id": 5008,
     "army": "Nomads",
     "isc": "Mobile Brigada",
-    "legacy_isc": "Mobile Brigada",
     "name": "Mobile Brigada",
     "type": "HI",
     "classification": "Veteran",
@@ -1013,7 +957,6 @@
       {
         "id": 1,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "39",
         "swc": "0",
         "spec": [],
@@ -1029,7 +972,6 @@
       {
         "id": 2,
         "name": "HMG",
-        "legacy_code": "HMG",
         "cost": "42",
         "swc": "2",
         "spec": [],
@@ -1044,7 +986,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "33",
         "swc": "0",
         "spec": [],
@@ -1059,7 +1000,6 @@
       {
         "id": 4,
         "name": "Combi",
-        "legacy_code": "Combi",
         "cost": "34",
         "swc": "0",
         "spec": [],
@@ -1074,7 +1014,6 @@
       {
         "id": 5,
         "name": "TinBot",
-        "legacy_code": "TinBot",
         "cost": "37",
         "swc": "0.5",
         "spec": [
@@ -1091,7 +1030,6 @@
       {
         "id": 6,
         "name": "MULTI Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "39",
         "swc": "0",
         "spec": [
@@ -1109,7 +1047,6 @@
       {
         "id": 7,
         "name": "Missile Launcher",
-        "legacy_code": "Missile Launcher",
         "cost": "40",
         "swc": "2",
         "spec": [],
@@ -1124,7 +1061,6 @@
       {
         "id": 8,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -1160,7 +1096,6 @@
     "id": 5009,
     "army": "Nomads",
     "isc": "Lizard",
-    "legacy_isc": "Lizard",
     "name": "Lizard",
     "ava": "1",
     "spec": [],
@@ -1225,7 +1160,6 @@
       {
         "id": 1,
         "name": "HGL",
-        "legacy_code": "Default",
         "cost": "87",
         "swc": "2.5",
         "spec": [],
@@ -1238,7 +1172,6 @@
       {
         "id": 2,
         "name": "HFT",
-        "legacy_code": "HFT",
         "cost": "87",
         "swc": "2",
         "spec": [],
@@ -1254,7 +1187,6 @@
     "id": 5010,
     "army": "Nomads",
     "isc": "Szalamandra Squadron",
-    "legacy_isc": "Szalamandra",
     "name": "Szalamandra",
     "ava": "1",
     "spec": [],
@@ -1319,7 +1251,6 @@
       {
         "id": 1,
         "name": "HMC",
-        "legacy_code": "Default",
         "cost": "90",
         "swc": "2",
         "spec": [],
@@ -1335,7 +1266,6 @@
     "id": 5011,
     "army": "Nomads",
     "isc": "Zeros",
-    "legacy_isc": "Zeros",
     "name": "Zero",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1361,7 +1291,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -1377,7 +1306,6 @@
       {
         "id": 2,
         "name": "Minelayer",
-        "legacy_code": "Minelayer",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -1395,7 +1323,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -1411,7 +1338,6 @@
       {
         "id": 4,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "26",
         "swc": "1.5",
         "spec": [],
@@ -1427,7 +1353,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -1445,7 +1370,6 @@
       {
         "id": 6,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -1463,7 +1387,6 @@
       {
         "id": 7,
         "name": "Repeater/E-Mauler",
-        "legacy_code": "Repeater/E-Mauler",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -1501,7 +1424,6 @@
     "id": 5012,
     "army": "Nomads",
     "isc": "Spektrs",
-    "legacy_isc": "Spektrs",
     "name": "Spektr",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1527,7 +1449,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -1543,7 +1464,6 @@
       {
         "id": 2,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "39",
         "swc": "1.5",
         "spec": [],
@@ -1559,7 +1479,6 @@
       {
         "id": 3,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -1576,7 +1495,6 @@
       {
         "id": 4,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -1594,7 +1512,6 @@
       {
         "id": 5,
         "name": "Repeater/E-Mauler",
-        "legacy_code": "Repeater/E-Mauler",
         "cost": "32",
         "swc": "0",
         "spec": [
@@ -1612,7 +1529,6 @@
       {
         "id": 6,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -1631,7 +1547,6 @@
     "id": 5013,
     "army": "Nomads",
     "isc": "Corregidor Bandits",
-    "legacy_isc": "Corregidor Bandits",
     "name": "Bandit",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1659,7 +1574,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -1675,7 +1589,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "26",
         "swc": "0",
         "spec": [],
@@ -1691,7 +1604,6 @@
       {
         "id": 3,
         "name": "LSG+ADHL",
-        "legacy_code": "LSG+ADHL",
         "cost": "22",
         "swc": "0",
         "spec": [],
@@ -1707,7 +1619,6 @@
       {
         "id": 4,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -1725,7 +1636,6 @@
       {
         "id": 5,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -1743,7 +1653,6 @@
       {
         "id": 6,
         "name": "Deployable repeater",
-        "legacy_code": "Deployable repeater",
         "cost": "28",
         "swc": "0",
         "spec": [
@@ -1781,7 +1690,6 @@
     "id": 5014,
     "army": "Nomads",
     "isc": "Die Morlock Gruppe",
-    "legacy_isc": "Die Morlock Gruppe",
     "name": "Morlock",
     "type": "WB",
     "classification": "Line",
@@ -1807,7 +1715,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -1823,7 +1730,6 @@
       {
         "id": 2,
         "name": "Assault Pistol",
-        "legacy_code": "Assault Pistol",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -1839,7 +1745,6 @@
       {
         "id": 3,
         "name": "E/M CCW",
-        "legacy_code": "E/M CCW",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -1855,7 +1760,6 @@
       {
         "id": 4,
         "name": "Chain Rifle",
-        "legacy_code": "Chain Rifle",
         "cost": "6",
         "swc": "0",
         "spec": [],
@@ -1871,7 +1775,6 @@
       {
         "id": 5,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1887,7 +1790,6 @@
       {
         "id": 6,
         "name": "Smoke GL",
-        "legacy_code": "Smoke GL",
         "cost": "14",
         "swc": "1",
         "spec": [],
@@ -1906,7 +1808,6 @@
     "id": 5015,
     "army": "Nomads",
     "isc": "Corregidor Jaguars",
-    "legacy_isc": "Corregidor Jaguars",
     "name": "Jaguar",
     "type": "WB",
     "classification": "Line",
@@ -1931,7 +1832,6 @@
       {
         "id": 1,
         "name": "Light Shotgun",
-        "legacy_code": "Default",
         "cost": "13",
         "swc": "0",
         "spec": [],
@@ -1947,7 +1847,6 @@
       {
         "id": 2,
         "name": "Chain Rifle",
-        "legacy_code": "Chain Rifle",
         "cost": "10",
         "swc": "0",
         "spec": [],
@@ -1963,7 +1862,6 @@
       {
         "id": 3,
         "name": "ADHL",
-        "legacy_code": "ADHL",
         "cost": "13",
         "swc": "0.5",
         "spec": [],
@@ -1982,7 +1880,6 @@
     "id": 5016,
     "army": "Nomads",
     "isc": "Daktaris",
-    "legacy_isc": "Daktaris",
     "name": "Daktari",
     "type": "LI",
     "classification": "Support",
@@ -2007,7 +1904,6 @@
       {
         "id": 1,
         "name": "Doctor",
-        "legacy_code": "Default",
         "cost": "14",
         "swc": "0",
         "spec": [],
@@ -2025,7 +1921,6 @@
     "id": 5017,
     "army": "Nomads",
     "isc": "Clockmakers",
-    "legacy_isc": "Clockmakers",
     "name": "Clockmaker",
     "type": "LI",
     "classification": "Support",
@@ -2049,7 +1944,6 @@
       {
         "id": 1,
         "name": "Engineer",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "0",
         "spec": [],
@@ -2068,7 +1962,6 @@
     "id": 5018,
     "army": "Nomads",
     "isc": "Interventors",
-    "legacy_isc": "Interventor",
     "name": "Interventor",
     "type": "LI",
     "classification": "Support",
@@ -2090,7 +1983,6 @@
       {
         "id": 1,
         "name": "Hacker",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -2107,7 +1999,6 @@
       {
         "id": 2,
         "name": "Combi Panda",
-        "legacy_code": "Combi Panda",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -2125,7 +2016,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun Panda",
-        "legacy_code": "Boarding Shotgun Panda",
         "cost": "26",
         "swc": "0.5",
         "spec": [
@@ -2143,7 +2033,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -2160,7 +2049,6 @@
       {
         "id": 5,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -2178,7 +2066,6 @@
       {
         "id": 6,
         "name": "Lieutenant Panda",
-        "legacy_code": "Lieutenant Panda",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -2217,7 +2104,6 @@
     "id": 5019,
     "army": "Nomads",
     "isc": "Stempler Zond",
-    "legacy_isc": "Stempler Zond",
     "name": "Stempler Zond",
     "type": "REM",
     "classification": "Support",
@@ -2249,7 +2135,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "17",
         "swc": "0",
         "spec": [],
@@ -2266,7 +2151,6 @@
     "id": 5020,
     "army": "Nomads",
     "isc": "Reaktion Zond",
-    "legacy_isc": "Reaktion Zond",
     "name": "Reaktion Zond",
     "type": "REM",
     "classification": "Support",
@@ -2294,7 +2178,6 @@
       {
         "id": 1,
         "name": "HMG",
-        "legacy_code": "Default",
         "cost": "26",
         "swc": "1",
         "spec": [],
@@ -2311,7 +2194,6 @@
     "id": 5021,
     "army": "Nomads",
     "isc": "Vertigo Zond",
-    "legacy_isc": "Vertigo Zond",
     "name": "Vertigo Zond",
     "type": "REM",
     "classification": "Support",
@@ -2336,7 +2218,6 @@
       {
         "id": 1,
         "name": "Smart Missile Launcher",
-        "legacy_code": "Default",
         "cost": "18",
         "swc": "1.5",
         "spec": [],
@@ -2353,7 +2234,6 @@
     "id": 5022,
     "army": "Nomads",
     "isc": "Meteor Zond",
-    "legacy_isc": "Meteor Zond",
     "name": "Meteor Zond",
     "type": "REM",
     "classification": "Support",
@@ -2383,7 +2263,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "21",
         "swc": "1",
         "spec": [],
@@ -2400,7 +2279,6 @@
     "id": 5023,
     "army": "Nomads",
     "isc": "Transductor Zond",
-    "legacy_isc": "Transductor Zond",
     "name": "Transductor Zond",
     "type": "REM",
     "classification": "Support",
@@ -2428,7 +2306,6 @@
       {
         "id": 1,
         "name": "Repeater",
-        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [],
@@ -2445,7 +2322,6 @@
     "id": 5024,
     "army": "Nomads",
     "isc": "Zoe",
-    "legacy_isc": "Zoe",
     "name": "Zoe",
     "ava": "1",
     "spec": [],
@@ -2520,7 +2396,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "47",
         "swc": "0",
         "spec": [],
@@ -2539,7 +2414,6 @@
     "id": 5025,
     "army": "Nomads",
     "isc": "Bran do Castro, Triple Zero",
-    "legacy_isc": "Bran do Castro, Triple Zero",
     "name": "Bran",
     "type": "SK",
     "classification": "Character",
@@ -2568,7 +2442,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "37",
         "swc": "0",
         "spec": [
@@ -2603,7 +2476,6 @@
     "id": 5026,
     "army": "Nomads",
     "isc": "Iguana Squadron",
-    "legacy_isc": "Iguana Squadron",
     "name": "Iguana",
     "ava": "1",
     "spec": [],
@@ -2669,7 +2541,6 @@
       {
         "id": 1,
         "name": "HMG",
-        "legacy_code": "Default",
         "cost": "71",
         "swc": "2",
         "spec": [],
@@ -2684,7 +2555,6 @@
     "id": 5027,
     "army": "Nomads",
     "isc": "Lunokhod Sputniks",
-    "legacy_isc": "Lunokhod Sputniks",
     "name": "Lunokhod",
     "ava": "2",
     "spec": [],
@@ -2743,7 +2613,6 @@
       {
         "id": 1,
         "name": "HFT",
-        "legacy_code": "Default",
         "cost": "25",
         "swc": "0",
         "spec": [],
@@ -2760,7 +2629,6 @@
       {
         "id": 2,
         "name": "Akrylat-Kanone",
-        "legacy_code": "Akrylat-Kanone",
         "cost": "24",
         "swc": "0",
         "spec": [],
@@ -2780,7 +2648,6 @@
     "id": 5028,
     "army": "Nomads",
     "isc": "Moderators from Bakunin",
-    "legacy_isc": "Moderators from Bakunin",
     "name": "Moderator",
     "type": "LI",
     "classification": "Garrison",
@@ -2804,7 +2671,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "9",
         "swc": "0",
         "spec": [],
@@ -2819,7 +2685,6 @@
       {
         "id": 2,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "9",
         "swc": "2",
         "spec": [
@@ -2836,7 +2701,6 @@
       {
         "id": 3,
         "name": "Paramedic",
-        "legacy_code": "Paramedic",
         "cost": "11",
         "swc": "0",
         "spec": [
@@ -2853,7 +2717,6 @@
       {
         "id": 4,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "17",
         "swc": "0.5",
         "spec": [
@@ -2870,7 +2733,6 @@
       {
         "id": 5,
         "name": "Pitcher",
-        "legacy_code": "Marker",
         "cost": "10",
         "swc": "0.5",
         "spec": [],
@@ -2886,7 +2748,6 @@
       {
         "id": 6,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "17",
         "swc": "1.5",
         "spec": [],
@@ -2901,7 +2762,6 @@
       {
         "id": 7,
         "name": "Grenadier",
-        "legacy_code": "Grenadier",
         "cost": "13",
         "swc": "0.5",
         "spec": [],
@@ -2917,7 +2777,6 @@
       {
         "id": 8,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "15",
         "swc": "0.5",
         "spec": [],
@@ -2935,7 +2794,6 @@
     "id": 5029,
     "army": "Nomads",
     "isc": "Moran, Maasai Hunter",
-    "legacy_isc": "Moran, Maasai Hunter",
     "name": "Moran",
     "ava": "2",
     "spec": [],
@@ -2993,7 +2851,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "21",
         "swc": "0.5",
         "spec": [],
@@ -3009,7 +2866,6 @@
       {
         "id": 2,
         "name": "Observer",
-        "legacy_code": "Observer",
         "cost": "22",
         "swc": "0.5",
         "spec": [
@@ -3027,7 +2883,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "20",
         "swc": "0.5",
         "spec": [],
@@ -3046,7 +2901,6 @@
     "id": 5030,
     "army": "Nomads",
     "isc": "Prowlers",
-    "legacy_isc": "Prowlers",
     "name": "Prowler",
     "type": "MI",
     "classification": "Veteran",
@@ -3073,7 +2927,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -3090,7 +2943,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "31",
         "swc": "0",
         "spec": [],
@@ -3107,7 +2959,6 @@
       {
         "id": 3,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "36",
         "swc": "2",
         "spec": [],
@@ -3144,7 +2995,6 @@
     "id": 5031,
     "army": "Nomads",
     "isc": "Reverend Custodiers",
-    "legacy_isc": "Reverend Custodiers",
     "name": "Reverend Custodier",
     "type": "MI",
     "classification": "Elite",
@@ -3170,7 +3020,6 @@
       {
         "id": 1,
         "name": "Pitcher",
-        "legacy_code": "Default",
         "cost": "34",
         "swc": "0.5",
         "spec": [
@@ -3188,7 +3037,6 @@
       {
         "id": 2,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "34",
         "swc": "0.5",
         "spec": [
@@ -3207,7 +3055,6 @@
       {
         "id": 3,
         "name": "Combi",
-        "legacy_code": "Combi",
         "cost": "33",
         "swc": "0.5",
         "spec": [
@@ -3224,7 +3071,6 @@
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -3277,7 +3123,6 @@
     "id": 5032,
     "army": "Nomads",
     "isc": "Salyut Zonds",
-    "legacy_isc": "Salyut Zonds",
     "name": "Salyut",
     "type": "REM",
     "classification": "Support",
@@ -3303,7 +3148,6 @@
       {
         "id": 1,
         "name": "Minesweeper",
-        "legacy_code": "Default",
         "cost": "8",
         "swc": "0",
         "spec": [
@@ -3318,7 +3162,6 @@
       {
         "id": 2,
         "name": "Combi",
-        "legacy_code": "Rifle",
         "cost": "21",
         "swc": "0",
         "spec": [
@@ -3335,7 +3178,6 @@
       {
         "id": 3,
         "name": "EVO",
-        "legacy_code": "EVO",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3352,7 +3194,6 @@
     "id": 5033,
     "army": "Nomads",
     "isc": "Sin-Eater Observants",
-    "legacy_isc": "Sin-Eater Observants",
     "name": "Sin-Eater",
     "type": "MI",
     "classification": "Veteran",
@@ -3378,7 +3219,6 @@
       {
         "id": 1,
         "name": "HMG",
-        "legacy_code": "Default",
         "cost": "33",
         "swc": "2",
         "spec": [],
@@ -3393,7 +3233,6 @@
       {
         "id": 2,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "31",
         "swc": "1.5",
         "spec": [],
@@ -3408,7 +3247,6 @@
       {
         "id": 3,
         "name": "MULTI Sniper Rifle",
-        "legacy_code": "MULTI Sniper Rifle",
         "cost": "33",
         "swc": "1.5",
         "spec": [],
@@ -3423,7 +3261,6 @@
       {
         "id": 4,
         "name": "Mk12",
-        "legacy_code": "Mk12",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -3441,7 +3278,6 @@
     "id": 5034,
     "army": "Nomads",
     "isc": "Tomcats",
-    "legacy_isc": "Tomcats",
     "name": "Tomcat",
     "ava": "2",
     "spec": [],
@@ -3509,7 +3345,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "19",
         "swc": "0.5",
         "spec": [],
@@ -3526,7 +3361,6 @@
       {
         "id": 2,
         "name": "Engineer+Zondcat",
-        "legacy_code": "Engineer+Zondcat",
         "cost": "26",
         "swc": "0",
         "profile": "1",
@@ -3550,7 +3384,6 @@
       {
         "id": 3,
         "name": "Doctor+Zondcat",
-        "legacy_code": "Doctor+Zondcat",
         "cost": "26",
         "swc": "0",
         "profile": "1",
@@ -3574,7 +3407,6 @@
       {
         "id": 4,
         "name": "Engineer",
-        "legacy_code": "Engineer",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -3593,7 +3425,6 @@
       {
         "id": 5,
         "name": "Doctor",
-        "legacy_code": "Doctor",
         "cost": "22",
         "swc": "0",
         "spec": [
@@ -3612,7 +3443,6 @@
       {
         "id": 6,
         "name": "Deployable Repeater",
-        "legacy_code": "Deplo Repeater",
         "cost": "19",
         "swc": "0.5",
         "spec": [
@@ -3630,7 +3460,6 @@
       {
         "id": 7,
         "name": "E/Mitter",
-        "legacy_code": "E/Mitter",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -3650,7 +3479,6 @@
     "id": 5035,
     "army": "Nomads",
     "isc": "Tsyklon Sputniks",
-    "legacy_isc": "Tsyklon Sputniks",
     "name": "Tsyklon",
     "type": "REM",
     "classification": "Support",
@@ -3679,7 +3507,6 @@
       {
         "id": 1,
         "name": "Spitfire",
-        "legacy_code": "Default",
         "cost": "31",
         "swc": "1",
         "spec": [],
@@ -3694,7 +3521,6 @@
       {
         "id": 2,
         "name": "Feuerbach",
-        "legacy_code": "Feuerbach",
         "cost": "34",
         "swc": "1",
         "spec": [],
@@ -3712,7 +3538,6 @@
     "id": 5036,
     "army": "Nomads",
     "isc": "Zondbots",
-    "legacy_isc": "Zondbots",
     "name": "Zondbot",
     "type": "REM",
     "classification": "Support",
@@ -3738,7 +3563,6 @@
       {
         "id": 1,
         "name": "Servant",
-        "legacy_code": "Default",
         "cost": "3",
         "swc": "0",
         "spec": [],
@@ -3753,7 +3577,6 @@
     "id": 5037,
     "army": "Nomads",
     "isc": "Bakunin Überfallkommando: Chimera",
-    "legacy_isc": "Bakunin Überfallkommando : Chimera",
     "name": "Chimera",
     "type": "WB",
     "classification": "Support",
@@ -3782,7 +3605,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "20",
         "swc": "0",
         "spec": [],
@@ -3801,7 +3623,6 @@
     "id": 5038,
     "army": "Nomads",
     "isc": "Bakunin Überfallkommando: Pupniks",
-    "legacy_isc": "Bakunin Überfallkommando : Pupniks",
     "name": "Pupnik",
     "image": 5037,
     "type": "WB",
@@ -3830,7 +3651,6 @@
       {
         "id": 1,
         "name": "DA CCW",
-        "legacy_code": "Default",
         "cost": "1",
         "swc": "0",
         "spec": [],
@@ -3845,7 +3665,6 @@
     "id": 5039,
     "army": "Nomads",
     "isc": "Reverend Superior Cassandra Kusanagi",
-    "legacy_isc": "Reverend Superior CASSANDRA KUSANAGI",
     "name": "Kusanagi",
     "image": 5006,
     "type": "MI",
@@ -3874,7 +3693,6 @@
       {
         "id": 1,
         "name": "Lieutenant",
-        "legacy_code": "Lieutenant",
         "cost": "44",
         "swc": "-1",
         "spec": [
@@ -3893,7 +3711,6 @@
       {
         "id": 2,
         "name": "MULTI",
-        "legacy_code": "Default",
         "cost": "44",
         "swc": "0",
         "spec": [],
@@ -3943,7 +3760,6 @@
     "id": 5040,
     "army": "Nomads",
     "isc": "Carlota Kowalsky, Tomcats Sergeant",
-    "legacy_isc": "Carlota Kowalsky, Tomcats Sergeant",
     "name": "Carlota Kowalsky",
     "image": 5034,
     "ava": "1",
@@ -4014,7 +3830,6 @@
       {
         "id": 1,
         "name": "Engineer+Moriarty",
-        "legacy_code": "Engineer+Moriarty",
         "cost": "34",
         "swc": "0",
         "profile": "1",
@@ -4033,7 +3848,6 @@
       {
         "id": 2,
         "name": "Engineer",
-        "legacy_code": "Default",
         "cost": "30",
         "swc": "0",
         "spec": [],
@@ -4054,7 +3868,6 @@
     "id": 5041,
     "army": "Nomads",
     "isc": "Riot Grrls",
-    "legacy_isc": "Riot Grrls",
     "name": "Riot Grrl",
     "type": "HI",
     "classification": "Specially Trained",
@@ -4080,7 +3893,6 @@
       {
         "id": 1,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "34",
         "swc": "2",
         "spec": [],
@@ -4095,7 +3907,6 @@
       {
         "id": 2,
         "name": "Multi",
-        "legacy_code": "Multi",
         "cost": "32",
         "swc": "0",
         "spec": [],
@@ -4111,7 +3922,6 @@
       {
         "id": 3,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "27",
         "swc": "0",
         "spec": [],
@@ -4127,7 +3937,6 @@
       {
         "id": 4,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "29",
         "swc": "0",
         "spec": [],
@@ -4214,7 +4023,6 @@
     "id": 5042,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops",
-    "legacy_isc": "Vortex Spec-Ops",
     "name": "Vortex",
     "type": "SPEC-OPS",
     "imp": "",
@@ -4234,7 +4042,6 @@
       {
         "id": 1,
         "name": "Spec-Ops",
-        "legacy_code": "Default",
         "cost": "0",
         "swc": "0",
         "spec": [],
@@ -4247,7 +4054,6 @@
     "id": 5043,
     "army": "Nomads",
     "isc": "Alguacil Vortex Lupe Balboa",
-    "legacy_isc": "Alguacil Vortex Lupe Balboa",
     "name": "Lupe Balboa",
     "image": 5042,
     "type": "LI",
@@ -4274,7 +4080,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "23",
         "swc": "0",
         "spec": [],
@@ -4295,7 +4100,6 @@
     "id": 5044,
     "army": "Nomads",
     "isc": "Wildcats, Polyvalent Tactical Unit",
-    "legacy_isc": "Wildcats, Polyvalent Tactical Unit",
     "name": "Wildcat",
     "type": "MI",
     "classification": "Veteran",
@@ -4320,7 +4124,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "19",
         "swc": "0",
         "spec": [],
@@ -4337,7 +4140,6 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "legacy_code": "Boarding Shotgun",
         "cost": "17",
         "swc": "0",
         "spec": [
@@ -4355,7 +4157,6 @@
       {
         "id": 3,
         "name": "Heavy Rocket Launcher",
-        "legacy_code": "Heavy Rocket Launcher",
         "cost": "20",
         "swc": "2",
         "spec": [],
@@ -4370,7 +4171,6 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "legacy_code": "Spitfire",
         "cost": "24",
         "swc": "1.5",
         "spec": [],
@@ -4385,7 +4185,6 @@
       {
         "id": 5,
         "name": "Hacker",
-        "legacy_code": "Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -4404,7 +4203,6 @@
       {
         "id": 6,
         "name": "Engineer",
-        "legacy_code": "Engineer",
         "cost": "23",
         "swc": "0",
         "spec": [
@@ -4423,7 +4221,6 @@
       {
         "id": 7,
         "name": "Lieutenant ",
-        "legacy_code": "Lieutenant ",
         "cost": "19",
         "swc": "0",
         "spec": [
@@ -4442,7 +4239,6 @@
       {
         "id": 8,
         "name": "Number 2",
-        "legacy_code": "N2",
         "cost": "20",
         "swc": "0",
         "spec": [
@@ -4482,7 +4278,6 @@
     "id": 5045,
     "army": "Nomads",
     "isc": "Gecko",
-    "legacy_isc": "Gecko",
     "name": "Gecko",
     "ava": "2",
     "spec": [],
@@ -4548,7 +4343,6 @@
       {
         "id": 1,
         "name": "Combi",
-        "legacy_code": "Default",
         "cost": "53",
         "swc": "0",
         "spec": [],
@@ -4562,7 +4356,6 @@
       {
         "id": 2,
         "name": "Mk12",
-        "legacy_code": "Mk12",
         "cost": "54",
         "swc": "0.5",
         "spec": [],

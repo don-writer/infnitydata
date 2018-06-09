@@ -19,7 +19,7 @@
           }
         ],
         "linkable": true,
-        "note": "Options with Inferior Infiltration may not join a Fireteam"
+        "note": "Special Fireteam: Core 0-2 Métros and 0-3 Moblots<br>Note: Troops with inferior infiltration may not join fireteams"
       },
       {
         "comment": "Para-Commandos",
@@ -47,7 +47,8 @@
         "comment": "Moblots",
         "id": 3007,
         "ava": "4",
-        "linkable": true
+        "linkable": true,
+        "note": "Special Fireteam: Core 0-2 Métros and 0-3 Moblots<br>Note: Troops with inferior infiltration may not join fireteams"
       },
       {
         "comment": "Chasseurs",
@@ -114,14 +115,15 @@
             "id": 9,
             "hide": true
           }
-        ]
+        ],
+        "note": "Counts as a Métro for Fireteam composition"
       },
       {
         "comment": "Brigadier Jacques Bruant",
         "id": 3034,
         "ava": "1",
         "linkable": true,
-        "note": "Fireteam: Core with Métros (non-infiltrating version)<br>Bruant may not use Limited Camouflage in a Fireteam"
+        "note": "Counts as a Métro for Fireteam composition<br>Note: Troops with inferior infiltration may not join fireteams"
       },
       {
         "comment": "Margot Berthier, Mirage-5",

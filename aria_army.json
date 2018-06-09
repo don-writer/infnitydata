@@ -121,7 +121,14 @@
       },
       {
         "comment": "Loup-Garous",
-        "id": 3026
+        "id": 3026,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 5,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Métros",
@@ -171,7 +178,14 @@
       },
       {
         "comment": "Briscard",
-        "id": 3037
+        "id": 3037,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Margot Berthier, Mirage-5",

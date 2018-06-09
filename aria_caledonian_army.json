@@ -19,7 +19,7 @@
           }
         ],
         "linkable": true,
-        "note": "Fireteam: Core may include 1 3rd Grey Rifle<br>Options with Inferior Infiltration may not join a Fireteam"
+        "note": "Special Fireteam: Core 1-4 Volunteers + 1 3rd Grey Rifle<br>Note: Troops with inferior infiltration may not join fireteams"
       },
       {
         "comment": "Highlander Caterans",
@@ -41,13 +41,14 @@
         "comment": "3rd Highlander Greys",
         "id": 3019,
         "ava": "5",
-        "linkable": true
+        "linkable": true,
+        "note": "Special Fireteam: Haris 1-2 Mormaers + 1 3rd Grey Rifle<br>Special Fireteam: Core 1-4 Volunteers + 1 3rd Grey Rifle"
       },
       {
         "comment": "Caledonian Mormaers",
         "id": 3021,
         "ava": "3",
-        "note": "Fireteam: Haris may include 1 3rd Grey Rifle"
+        "note": "Special Fireteam: Haris 1-2 Mormaers + 1 3rd Grey Rifle"
       },
       {
         "comment": "S.A.S.",
@@ -65,7 +66,7 @@
         "id": 3013,
         "ava": "T",
         "linkable": true,
-        "note": "Fireteam: Core with William Wallace Lieutenant"
+        "note": "Special Fireteam: Core 1-4 Galwegians + William Wallace Lieutenant"
       },
       {
         "comment": "2nd Irregular Cameronians Reg.",

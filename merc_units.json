@@ -4767,9 +4767,7 @@
         "name": "MULTI Rifle",
         "cost": "36",
         "swc": "0",
-        "spec": [
-          "AD: Combat Jump"
-        ],
+        "spec": [],
         "bsw": [
           "MULTI Rifle",
           "Nanopulser",

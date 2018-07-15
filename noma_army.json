@@ -50,7 +50,14 @@
       },
       {
         "comment": "Spektrs",
-        "id": 5012
+        "id": 5012,
+        "childs": [
+          {
+            "comment": "KHD is only available in Tunguska",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Corregidor Bandits",
@@ -205,6 +212,48 @@
       {
         "comment": "Kriza Boracs",
         "id": 5047
+      },
+      {
+        "comment": "Hecklers",
+        "id": 5048
+      },
+      {
+        "comment": "Mary Problems",
+        "id": 5049
+      },
+      {
+        "comment": "Puppet Masters",
+        "id": 5050
+      },
+      {
+        "comment": "Puppetbots",
+        "id": 5051
+      },
+      {
+        "comment": "Zondnautica",
+        "id": 5052
+      },
+      {
+        "comment": "Hollow Men",
+        "id": 5053,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 6,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Perseus",
+        "id": 5054,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Authorized Bounty Hunters",

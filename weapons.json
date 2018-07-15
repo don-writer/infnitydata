@@ -3053,4 +3053,39 @@
     "template": "No",
     "note": ""
   },
+  {
+    "name": "Cybermines",
+    "burst": "1",
+    "ammo": "--",
+    "damage": "15",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "Direct Template (Small Teardrop)",
+    "uses": "3",
+    "note": "Comms Attack, Concealed, Deployable, Intuitive Attack"
+  },
+  {
+    "name": "Zapper",
+    "burst": "1",
+    "ammo": "E/M2",
+    "damage": "13",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "Direct Template (Small Teardrop)",
+    "note": "Intuitive Attack"
+  }
 ]

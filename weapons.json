@@ -210,7 +210,7 @@
     "max_mod": "--",
     "attr": "PH",
     "cc": "No",
-    "template": "Direct Template (Small Teardrop)",
+    "template": "No",
     "uses": "3",
     "note": "Speculative Fire, Targetless"
   },
@@ -3087,5 +3087,23 @@
     "cc": "No",
     "template": "Direct Template (Small Teardrop)",
     "note": "Intuitive Attack"
-  }
+  },
+  {
+    "name": "Mine Dispenser",
+    "burst": "1",
+    "ammo": "--",
+    "damage": "--",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "16",
+    "medium_mod": "3",
+    "long_dist": "24",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "No",
+    "uses": "2",
+    "note": "Speculative Fire, Targetless"
+  },
 ]

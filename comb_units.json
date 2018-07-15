@@ -992,7 +992,7 @@
         "cc": "19",
         "bs": "14",
         "ph": "17",
-        "wip": "12",
+        "wip": "13",
         "arm": "8",
         "bts": "6",
         "w": "3",
@@ -1014,7 +1014,7 @@
         "cc": "13",
         "bs": "12",
         "ph": "12",
-        "wip": "12",
+        "wip": "13",
         "arm": "0",
         "bts": "0",
         "w": "1",
@@ -1036,8 +1036,8 @@
     "childs": [
       {
         "id": 1,
-        "name": "HFT",
-        "cost": "91",
+        "name": "Heavy Flamethrower",
+        "cost": "89",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -1048,16 +1048,16 @@
       },
       {
         "id": 2,
-        "name": "Heavy Pistol",
-        "cost": "90",
+        "name": "Heavy Shotgun",
+        "cost": "94",
         "swc": "2",
         "spec": [],
         "bsw": [
-          "MULTI HMG"
+          "MULTI HMG",
+          "Heavy Shotgun",
+          "Mine Dispenser"
         ],
-        "ccw": [
-          "AP Heavy Pistol"
-        ]
+        "ccw": []
       }
     ]
   },

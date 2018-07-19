@@ -296,6 +296,41 @@
           "Breaker Pistol",
           "Pistol"
         ]
+      },
+      {
+        "id": 8,
+        "name": "Haris",
+        "cost": "26",
+        "swc": "0.5",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Flamethrower"
+        ],
+        "ccw": [
+          "Knife",
+          "Breaker Pistol",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Biometric Boarding Shotgun",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Biometric Visor L1"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Breaker Pistol",
+          "Pistol"
+        ]
       }
     ]
   },

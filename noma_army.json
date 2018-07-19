@@ -10,7 +10,14 @@
       },
       {
         "comment": "Grenzers",
-        "id": 5002
+        "id": 5002,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Securitate",

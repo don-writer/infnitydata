@@ -4065,5 +4065,68 @@
         ]
       }
     ]
+  },
+  {
+    "id": 7050,
+    "army": "Aleph",
+    "isc": "Yadu Troopers, Tactical Assault Teams",
+    "name": "Yadu",
+    "type": "MI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "13",
+    "ph": "12",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Fireteam: Duo",
+      "Shock Immunity",
+      "V: No Wound Incapacitation",
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle Lieutenant",
+        "cost": "36",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "MULTI Rifle",
+          "E/Marat",
+          "Drop Bears"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "MULTI Rifle",
+        "cost": "36",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle",
+          "E/Marat",
+          "Drop Bears"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

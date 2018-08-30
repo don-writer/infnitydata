@@ -250,7 +250,7 @@
       },
       {
         "id": 3,
-        "name": "Hacker",
+        "name": "Combi Hacker",
         "cost": "72",
         "swc": "0.5",
         "spec": [
@@ -282,7 +282,7 @@
       },
       {
         "id": 5,
-        "name": "Hacker Lieutenant",
+        "name": "Combi Hacker Lieutenant",
         "cost": "72",
         "swc": "0.5",
         "spec": [
@@ -292,6 +292,23 @@
         "bsw": [
           "Nanopulser",
           "Combi Rifle"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "MULTI Hacker",
+        "cost": "76",
+        "swc": "0.5",
+        "spec": [
+          "Hacking Device Plus: UPGRADE: Redrum"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "MULTI Rifle"
         ],
         "ccw": [
           "AP CCW",

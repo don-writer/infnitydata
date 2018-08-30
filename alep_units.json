@@ -3954,5 +3954,71 @@
         ]
       }
     ]
+  },
+  {
+    "id": 7048,
+    "army": "Aleph",
+    "isc": "Dart, Optimate Huntress",
+    "name": "Dart",
+    "type": "SK",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "16",
+    "bs": "13",
+    "ph": "13",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multispectral Visor L1",
+      "Bioimmunity",
+      "CH: Camouflage",
+      "Forward Deployment L2",
+      "Multiterrain",
+      "Climbing Plus",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG, Bow, E/M Grenades",
+        "cost": "34",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Viral Tactical Bow",
+          "E/M Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG, Bow, Mines",
+        "cost": "34",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Viral Tactical Bow",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

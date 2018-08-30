@@ -3144,5 +3144,22 @@
     "template": "No",
     "uses": "3",
     "note": "Anti-materiel"
-  }
+  },
+  {
+    "name": "Viral Tactical Bow",
+    "burst": "1",
+    "ammo": "Viral",
+    "damage": "PH",
+    "short_dist": "8",
+    "short_mod": "3",
+    "medium_dist": "16",
+    "medium_mod": "0",
+    "long_dist": "24",
+    "long_mod": "-6",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "No",
+    "note": "Silent"
+  },
 ]

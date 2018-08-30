@@ -4020,5 +4020,50 @@
         ]
       }
     ]
+  },
+  {
+    "id": 7049,
+    "army": "Aleph",
+    "isc": "Shukra Consultants",
+    "name": "Shukra",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "16",
+    "bs": "12",
+    "ph": "11",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Biometric Visor L2",
+      "Counterintelligence",
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Chain of Command",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

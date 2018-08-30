@@ -1339,7 +1339,7 @@
     "type": "LI",
     "classification": "Mercenary",
     "imp": "",
-    "irr": "X",
+    "irr": "",
     "cube": "X",
     "mov": "4-4",
     "cc": "14",
@@ -1350,7 +1350,7 @@
     "bts": "3",
     "w": "1",
     "s": "2",
-    "ava": "3",
+    "ava": "1",
     "spec": [
       "Booty L2",
       "Stealth"
@@ -1359,7 +1359,7 @@
       {
         "id": 1,
         "name": "Combi",
-        "cost": "14",
+        "cost": "16",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1373,7 +1373,7 @@
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "cost": "13",
+        "cost": "15",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1387,7 +1387,7 @@
       {
         "id": 3,
         "name": "Sniper Rifle",
-        "cost": "19",
+        "cost": "21",
         "swc": "0.5",
         "spec": [],
         "bsw": [
@@ -1401,11 +1401,25 @@
       {
         "id": 4,
         "name": "Spitfire",
-        "cost": "20",
+        "cost": "22",
         "swc": "1",
         "spec": [],
         "bsw": [
           "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Red Fury",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Red Fury"
         ],
         "ccw": [
           "Pistol",

@@ -4976,5 +4976,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3050,
+    "army": "Ariadna",
+    "isc": "Streloks, Kazak Reconaissance Unit",
+    "name": "Strelok K-9",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Veteran",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "mov": "4-4",
+        "cc": "14",
+        "bs": "11",
+        "ph": "11",
+        "wip": "13",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "CH: Ambush Camouflage",
+          "Forward Deployment L2"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "K-9 Antipode",
+        "type": "WB",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "mov": "6-6",
+        "cc": "20",
+        "bs": "0",
+        "ph": "15",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "5",
+        "spec": [
+          "G: Synchronized",
+          "CH: Camouflage",
+          "Forward Deployment L2",
+          "Kinematika L2",
+          "Sensor",
+          "Super-Jump"
+        ],
+        "bsw": [],
+        "ccw": [
+          "Trench-Hammer",
+          "AP CCW"
+        ],
+        "independent": {
+          "cost": "8",
+          "swc": "0"
+        }
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "24",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chain-Colt",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

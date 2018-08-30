@@ -639,6 +639,24 @@
           "Pistol",
           "D-Charges"
         ]
+      },
+      {
+        "id": 6,
+        "name": "Chain of Command",
+        "cost": "30",
+        "swc": "1",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "AP Rifle",
+          "Adhesive Launcher"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "D-Charges"
+        ]
       }
     ]
   },

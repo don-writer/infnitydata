@@ -5061,5 +5061,78 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3051,
+    "army": "Ariadna",
+    "isc": "Armata-2 Proyekt 'Ratnik'",
+    "name": "Ratnik",
+    "ava": "1",
+    "spec": [
+      "Minesweeper",
+      "Fireteam: Duo",
+      "Heavyweight",
+      "V: Dogged"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Full Power",
+        "type": "HI",
+        "classification": "Headquarters",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "4-4",
+        "cc": "14",
+        "bs": "13",
+        "ph": "14",
+        "wip": "13",
+        "arm": "6",
+        "bts": "3",
+        "w": "1",
+        "s": "5",
+        "spec": [
+          "Lo-Tech A"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Battle Ravaged",
+        "mov": "4-2",
+        "cc": "12",
+        "bs": "12",
+        "ph": "13",
+        "wip": "13",
+        "arm": "4",
+        "bts": "0",
+        "w": "1",
+        "s": "5",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "HRL",
+        "cost": "44",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher",
+          "Heavy Shotgun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Trench-Hammer",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

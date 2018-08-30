@@ -10,12 +10,14 @@
         "comment": "Grenzers",
         "id": 5002,
         "ava": "5",
+        "linkable": true,
         "note": "Grenzers may count as Securitate for Fireteam composition<br>Special Fireteam: Up to 1 Interventor can join a Grenzer Fireteam"
       },
       {
         "comment": "Securitate",
         "id": 5003,
         "ava": "T",
+        "linkable": true,
         "note": "Grenzers may count as Securitate for Fireteam composition"
       },
       {

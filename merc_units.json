@@ -4931,5 +4931,51 @@
         "ccw": []
       }
     ]
+  },
+  {
+    "id": 9065,
+    "army": "Non-Aligned Armies",
+    "isc": "Aïda Swanson, Submondo Smuggler",
+    "name": "Aïda Swanson",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "19",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Shasvastii",
+      "Martial Arts L2",
+      "CH: Mimetism",
+      "Forward Deployment L1",
+      "Scavenger"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun (2)",
+          "Viral Mines"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Shock CCW",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

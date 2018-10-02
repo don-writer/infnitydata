@@ -14,7 +14,29 @@
       },
       {
         "comment": "Asuras",
-        "id": 7003
+        "id": 7003,
+        "childs": [
+          {
+            "comment": "Duo only in OSS",
+            "id": 7,
+            "hide": true
+          },
+          {
+            "comment": "Haris only in OSS",
+            "id": 8,
+            "hide": true
+          },
+          {
+            "comment": "Lt2 only in OSS",
+            "id": 9,
+            "hide": true
+          },
+          {
+            "comment": "Lt2 only in OSS",
+            "id": 10,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Dakini Tacbots",
@@ -30,7 +52,14 @@
       },
       {
         "comment": "Deva Functionaries",
-        "id": 7007
+        "id": 7007,
+        "childs": [
+          {
+            "comment": "Haris only in OSS",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Garuda Tacbots",
@@ -70,7 +99,14 @@
       },
       {
         "comment": "Samekh Rebots",
-        "id": 7017
+        "id": 7017,
+        "childs": [
+          {
+            "comment": "FTO only in OSS",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Sophotects",
@@ -186,7 +222,24 @@
       },
       {
         "comment": "Andromeda, Sophistes of the Steel Phalanx",
-        "id": 7046
+        "id": 7046,
+        "childs": [
+          {
+            "comment": "Superior Infiltration only in OSS",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Superior Infiltration only in OSS",
+            "id": 6,
+            "hide": true
+          },
+          {
+            "comment": "Superior Infiltration only in OSS",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Danavas Hackers",
@@ -198,11 +251,45 @@
       },
       {
         "comment": "Shukra",
-        "id": 7049
+        "id": 7049,
+        "childs": [
+          {
+            "comment": "Lieutenant only in OSS",
+            "id": 3,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Yadu",
-        "id": 7050
+        "id": 7050,
+        "childs": [
+          {
+            "comment": "Haris only in OSS",
+            "id": 4,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Asparas",
+        "id": 7051
+      },
+      {
+        "comment": "Arjuna Troops",
+        "id": 7052
+      },
+      {
+        "comment": "Kiranbots",
+        "id": 7053
+      },
+      {
+        "comment": "Yadu Officer Shakti",
+        "id": 7054
+      },
+      {
+        "comment": "Rudras GunBots",
+        "id": 7055
       },
       {
         "comment": "Authorized Bounty Hunters",

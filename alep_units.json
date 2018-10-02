@@ -314,6 +314,75 @@
           "AP CCW",
           "Pistol"
         ]
+      },
+      {
+        "id": 7,
+        "name": "Spitfire Duo",
+        "cost": "71",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Spitfire"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Spitfire Haris",
+        "cost": "71",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Spitfire"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Spitfire Lt2",
+        "cost": "72",
+        "swc": "2",
+        "spec": [
+          "Lieutenant L2"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Spitfire"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "MULTI Hacker Lt2",
+        "cost": "78",
+        "swc": "0.5",
+        "spec": [
+          "Hacking Device Plus: UPGRADE: Redrum",
+          "Lieutenant L2"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "MULTI Rifle"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -797,6 +866,24 @@
         "spec": [
           "Sensor",
           "Lieutenant"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Sensor+Haris",
+        "cost": "25",
+        "swc": "0.5",
+        "spec": [
+          "Sensor",
+          "Fireteam: Haris"
         ],
         "bsw": [
           "Nanopulser",
@@ -1648,6 +1735,19 @@
         "spec": [],
         "bsw": [
           "Smart Missile Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "FTO",
+        "cost": "22",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Missile Launcher"
         ],
         "ccw": [
           "Electric Pulse"
@@ -3892,7 +3992,83 @@
           "DA CCW",
           "Knife"
         ]
-      }
+      },
+      {
+        "id": 4,
+        "name": "Forward Combi",
+        "cost": "34",
+        "swc": "0",
+        "spec": [
+          "Forward Deployment L2"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Submachine Gun, Infiltration",
+        "cost": "31",
+        "swc": "0",
+        "spec": [
+          "Superior Infiltration"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Nanopulser",
+          "Flash Pulse",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Boarding Shotgun, Infiltration",
+        "cost": "35",
+        "swc": "0",
+        "spec": [
+          "Superior Infiltration"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Flash Pulse",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Combi, Infiltration",
+        "cost": "36",
+        "swc": "0",
+        "spec": [
+          "Superior Infiltration"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Flash Pulse",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "DA CCW",
+          "Knife"
+        ]
+      },
     ]
   },
   {
@@ -4049,7 +4225,7 @@
     "childs": [
       {
         "id": 1,
-        "name": "Chain of Command",
+        "name": "Shotgun, Chain of Command",
         "cost": "25",
         "swc": "0",
         "spec": [
@@ -4057,6 +4233,41 @@
         ],
         "bsw": [
           "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "MULTI Rifle, Chain of Command",
+        "cost": "30",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "MULTI Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "MULTI Rifle, Lieutenant",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "Strategos L1",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "MULTI Rifle",
           "Nanopulser"
         ],
         "ccw": [
@@ -4125,6 +4336,412 @@
         "ccw": [
           "Heavy Pistol",
           "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Heavy Rocket Launcher",
+        "cost": "35",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher",
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "MULTI Rifle Haris",
+        "cost": "37",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "MULTI Rifle",
+          "E/Marat",
+          "Drop Bears"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Assault Hacker",
+        "cost": "36",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device: UPGRADE: Stop!"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "No 2",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+          "Number 2"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/Marat"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Observer",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/Marat"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "HMG NCO",
+        "cost": "41",
+        "swc": "2",
+        "spec": [
+          "NCO"
+        ],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7051,
+    "army": "Aleph",
+    "isc": "Asparas",
+    "name": "Aspara",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "13",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Killer Hacker",
+        "cost": "19",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jumper",
+        "cost": "22",
+        "swc": "1",
+        "spec": [
+          "G: Jumper LZ"
+        ],
+        "bsw": [
+          "Submachine Gun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7052,
+    "army": "Aleph",
+    "isc": "Arjuna Troops",
+    "name": "Arjuna",
+    "type": "MI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "6-2",
+    "cc": "15",
+    "bs": "12",
+    "ph": "11",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Mimetism",
+      "Specialist Operative",
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Shotgun",
+        "cost": "25",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Akrylat-Kanone",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Marksman",
+        "cost": "29",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Shock Marksman Rifle",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Spitfire",
+        "cost": "32",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Spitfire",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7053,
+    "army": "Aleph",
+    "isc": "Kiranbots",
+    "name": "Kiranbot",
+    "type": "REM",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "6-2",
+    "cc": "8",
+    "bs": "10",
+    "ph": "10",
+    "wip": "11",
+    "arm": "0",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "G: Synchronized",
+      "Kinematika L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "E/Marat",
+        "cost": "4",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "E/Marat",
+          "Cybermines"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7054,
+    "army": "Aleph",
+    "isc": "Yadu Officer Shakti",
+    "name": "Shakti",
+    "type": "MI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "16",
+    "bs": "13",
+    "ph": "12",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "2",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Fireteam: Duo",
+      "Fireteam: Haris",
+      "V: Courage",
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Killer Hacker",
+        "cost": "40",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device UPGRADE: Sucker Punch"
+        ],
+        "bsw": [
+          "Mk12",
+          "E/Marat"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Killer Hacker Lieutenant",
+        "cost": "40",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device UPGRADE: Sucker Punch",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Mk12",
+          "E/Marat"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7055,
+    "army": "Aleph",
+    "isc": "Rudras GunBots",
+    "name": "Rudra",
+    "type": "REM",
+    "classification": "Support",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "6-4",
+    "cc": "7",
+    "bs": "12",
+    "ph": "10",
+    "wip": "12",
+    "arm": "4",
+    "bts": "6",
+    "w": "2",
+    "s": "4",
+    "ava": "1",
+    "spec": [
+      "Repeater",
+      "G: Remote Presence",
+      "Climbing Plus"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle",
+        "cost": "39",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle",
+          "Mine Dispenser"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "K1 Marksman Rifle",
+        "cost": "42",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "K1 Marksman Rifle",
+          "Mine Dispenser"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Red Fury",
+        "cost": "40",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Red Fury",
+          "Mine Dispenser"
+        ],
+        "ccw": [
+          "Electric Pulse"
         ]
       }
     ]

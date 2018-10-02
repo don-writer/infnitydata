@@ -66,7 +66,14 @@
       {
         "comment": "Aleph - Deva Functionaries",
         "id": 7007,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "Haris only in OSS",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Aleph - Garuda Tacbots",

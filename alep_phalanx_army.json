@@ -125,7 +125,24 @@
       {
         "comment": "Andromeda",
         "id": 7046,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "Superior Infiltration only in OSS",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Superior Infiltration only in OSS",
+            "id": 6,
+            "hide": true
+          },
+          {
+            "comment": "Superior Infiltration only in OSS",
+            "id": 7,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hector, Homeridae's Champion",
@@ -146,7 +163,14 @@
       {
         "comment": "Samekh Rebots",
         "id": 7017,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "FTO only in OSS",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Lamedh Rebots",

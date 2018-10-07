@@ -4977,5 +4977,107 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9066,
+    "army": "Non-Aligned Armies",
+    "isc": "Carmen Johns & Bâtard",
+    "name": "Carmen",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Carmen",
+        "type": "WB",
+        "classification": "Mercenary",
+        "imp": "I",
+        "irr": "X",
+        "cube": "",
+        "mov": "8-4",
+        "cc": "22",
+        "bs": "11",
+        "ph": "13",
+        "wip": "13",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "4",
+        "spec": [
+          "Motorcycle",
+          "V: Courage",
+          "Kinematika L1",
+          "Natural Born Warrior",
+          "Scavenger",
+          "V: Dogged"
+        ],
+        "bsw": [
+          "Smoke Light Grenade Launcher"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Dismounted",
+        "mov": "4-4",
+        "s": "2",
+        "spec": [
+          "Natural Born Warrior",
+          "Scavenger",
+          "V: Dogged"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bâtard",
+        "type": "WB",
+        "imp": "X",
+        "irr": "X",
+        "cube": "",
+        "hackable": "",
+        "mov": "6-6",
+        "cc": "22",
+        "bs": "0",
+        "ph": "15",
+        "wip": "13",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "5",
+        "spec": [
+          "G: Synchronized",
+          "CH: Mimetism",
+          "Kinematika L2",
+          "Sensor",
+          "V: Dogged"
+        ],
+        "bsw": [],
+        "ccw": [
+          "Trench-Hammer",
+          "AP CCW"
+        ],
+        "independent": {
+          "cost": "5",
+          "swc": "0"
+        }
+      },
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Chain Rifle",
+        "cost": "22",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Chain Rifle",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "DA CCW"
+        ]
+      }
+    ]
   }
 ]

@@ -34,7 +34,14 @@
       },
       {
         "comment": "Veteran Kazaks",
-        "id": 3008
+        "id": 3008,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 11,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Foxtrot",
@@ -227,7 +234,19 @@
       },
       {
         "comment": "Col. Yevgueni Voronin",
-        "id": 3046
+        "id": 3046,
+        "childs": [
+          {
+            "comment": "Sensor only available in TAK",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Sensor only available in TAK",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Blackjacks",
@@ -243,11 +262,41 @@
       },
       {
         "comment": "Streloks",
-        "id": 3050
+        "id": 3050,
+        "childs": [
+          {
+            "comment": "Minelayer is only available in TAK",
+            "id": 6,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Ratnik",
         "id": 3051
+      },
+      {
+        "comment": "Dynamo",
+        "id": 3052
+      },
+      {
+        "comment": "Frovotniks",
+        "id": 3053,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Vassily Plushenko, TankHunters Officer",
+        "id": 3054
+      },
+      {
+        "comment": "Pavel Aleksei McMannus, Spetsgruppa G",
+        "id": 3056
       },
       {
         "comment": "Wardrivers",

@@ -1061,9 +1061,9 @@
     "s": "2",
     "ava": "2",
     "spec": [
-      "CH: Mimetism",
       "Not Hackable",
       "Shock Immunity",
+      "CH: Mimetism",
       "Veteran L2 (V: No Wound Incapacitation, Sixth Sense L2)"
     ],
     "childs": [
@@ -1084,7 +1084,7 @@
       },
       {
         "id": 2,
-        "name": "X Visor",
+        "name": "T2 X Visor",
         "cost": "38",
         "swc": "0",
         "spec": [
@@ -1188,6 +1188,57 @@
         "spec": [],
         "bsw": [
           "AP HMG"
+        ],
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "AP Rifle Duo",
+        "cost": "38",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "AP Rifle",
+          "Light Flamethrower"
+        ],
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Mk12 Duo",
+        "cost": "42",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Mk12",
+          "Light Flamethrower"
+        ],
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "T2 Haris",
+        "cost": "38",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "T2 Rifle",
+          "Light Flamethrower"
         ],
         "ccw": [
           "Knife",
@@ -1636,6 +1687,24 @@
         "bsw": [
           "E/Mauler",
           "Ojotnik"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "D-Charges"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Minelayer",
+        "cost": "30",
+        "swc": "0.5",
+        "spec": [
+          "Minelayer"
+        ],
+        "bsw": [
+          "Ojotnik",
+          "E/Mauler"
         ],
         "ccw": [
           "Knife",
@@ -4778,6 +4847,39 @@
           "Assault Pistol",
           "AP CCW"
         ]
+      },
+      {
+          "id": 3,
+          "name": "Sensor",
+          "cost": "21",
+          "swc": "0",
+          "spec": [
+              "Sensor"
+          ],
+          "bsw": [
+              "T2 Boarding Shotgun"
+          ],
+          "ccw": [
+              "Pistol",
+              "AP CCW"
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Sensor Lieutenant",
+          "cost": "21",
+          "swc": "0",
+          "spec": [
+              "Sensor",
+              "Lieutenant"
+          ],
+          "bsw": [
+              "T2 Boarding Shotgun"
+          ],
+          "ccw": [
+              "Pistol",
+              "AP CCW"
+          ]
       }
     ]
   },
@@ -5011,6 +5113,7 @@
       {
         "id": 2,
         "name": "K-9 Antipode",
+        "optionSpecific": "X",
         "type": "WB",
         "imp": "",
         "irr": "",
@@ -5046,13 +5149,92 @@
     "childs": [
       {
         "id": 1,
-        "name": "SMG",
+        "name": "SMG K-9",
         "cost": "24",
         "swc": "1",
+        "profile": "1",
         "spec": [],
         "bsw": [
           "Submachine Gun",
           "Chain-Colt",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "AP Marksman",
+        "cost": "25",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "AP Marksman Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "T2 Marksman, Mines",
+        "cost": "29",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "T2 Marksman Rifle",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "SMG",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chain-Colt",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Observer",
+        "cost": "20",
+        "swc": "0",
+        "spec": [
+          "Forwward Observer"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Minelayer",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [
+          "Minelayer"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
           "Antipersonnel Mines"
         ],
         "ccw": [
@@ -5132,7 +5314,492 @@
           "Trench-Hammer",
           "Knife"
         ]
+      },
+      {
+        "id": 2,
+        "name": "Dual Molotok",
+        "cost": "54",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Molotok (2)",
+          "Panzerfaust (2)"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Trench-Hammer",
+          "Knife"
+        ]
       }
     ]
-  }
+  },
+  {
+    "id": 3052,
+    "army": "Ariadna",
+    "isc": "Dynamo Reg. of Kazak Light Cavalry",
+    "name": "Dynamo",
+    "ava": "2",
+    "spec": [
+      "Fireteam: Duo",
+      "V: Dogged"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Specially Trained",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "mov": "8-4",
+        "cc": "14",
+        "bs": "12",
+        "ph": "12",
+        "wip": "13",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "4",
+        "spec": [
+          "Motorcycle",
+          "Kinematika L1"
+        ],
+        "bsw": [
+          "Smoke Light Grenade Launcher",
+          "Mine Dispenser"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Dismounted",
+        "mov": "4-4",
+        "s": "2",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Molotok",
+        "cost": "35",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Observer",
+        "cost": "29",
+        "swc": "0.5",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Paramedic",
+        "cost": "29",
+        "swc": "0.5",
+        "spec": [
+          "MediKit"
+        ],
+        "bsw": [
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3053,
+    "army": "Ariadna",
+    "isc": "Frovotniks, Separate Assault Bat.",
+    "name": "Frovotnik",
+    "type": "LI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "CH: Mimetism",
+      "V: Courage",
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "T2 Rifle",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "T2 Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Molotok",
+        "cost": "30",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Molotok"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Heavy Rocket Launcher",
+        "cost": "23",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "T2 Rifle Haris",
+        "cost": "24",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "T2 Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Engineer",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "Engineer"
+        ],
+        "bsw": [
+          "T2 Rifle",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Rocket Engineer",
+        "cost": "33",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "T2 Rifle",
+          "Light Rocket Launcher",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Paramedic",
+        "cost": "25",
+        "swc": "0",
+        "spec": [
+          "MediKit"
+        ],
+        "bsw": [
+          "T2 Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "MSV Sniper",
+        "cost": "31",
+        "swc": "1",
+        "spec": [
+          "Multispectral Visor L1"
+        ],
+        "bsw": [
+          "AP Sniper Rifle"
+        ],
+        "ccw": [
+          "Assault Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3054,
+    "army": "Ariadna",
+    "isc": "Vassily Plushenko, TankHunters Officer",
+    "name": "Vassily",
+    "type": "MI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-2",
+    "cc": "15",
+    "bs": "13",
+    "ph": "12",
+    "wip": "14",
+    "arm": "3",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Ambush Camouflage",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Marksman Chain of Command",
+        "cost": "39",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "T2 Marksman Rifle",
+          "Akrylat-Kanone"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife",
+          "D-Charges"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sniper Chain of Command",
+        "cost": "39",
+        "swc": "1",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "T2 Sniper Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife",
+          "D-Charges"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Marksman Lieutenant",
+        "cost": "35",
+        "swc": "0",
+        "spec": [
+          "Lieutenant",
+          "Forward Observer"
+        ],
+        "bsw": [
+          "T2 Marksman Rifle",
+          "Akrylat-Kanone"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife",
+          "D-Charges"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Sniper Lieutenant",
+        "cost": "35",
+        "swc": "1",
+        "spec": [
+          "Lieutenant",
+          "Forward Observer"
+        ],
+        "bsw": [
+          "T2 Sniper Rifle"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Knife",
+          "D-Charges"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3055,
+    "army": "Ariadna",
+    "isc": "Traktor Mul Kruyer, Mobile Artillery Regiment",
+    "name": "TM Kruyer",
+    "type": "REM",
+    "classification": "Support",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "8",
+    "bs": "11",
+    "ph": "9",
+    "wip": "12",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "4",
+    "ava": "2",
+    "spec": [
+      "Baggage",
+      "ECM",
+      "G: Remote Presence",
+      "Minelayer"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Uragan",
+        "cost": "21",
+        "swc": "1",
+        "spec": [
+          "Total Reaction"
+        ],
+        "bsw": [
+          "Uragan MRL",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Katyusha",
+        "cost": "14",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Katyusha MRL",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3056,
+    "army": "Ariadna",
+    "isc": "Pavel Aleksei McMannus, Spetsgruppa G",
+    "name": "Pael McMannus",
+    "type": "SK",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "12",
+    "ph": "13",
+    "wip": "13",
+    "arm": "0",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Camouflage",
+      "Forward Deployment L2",
+      "Assault",
+      "Natural Born Warrior",
+      "Multiterrain",
+      "Specialist Operative"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Ojotnik",
+        "cost": "31",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Ojotnik",
+          "Chain-Colt",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "T2 CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
 ]

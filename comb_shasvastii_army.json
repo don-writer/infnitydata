@@ -145,9 +145,9 @@
             "swc": "0"
           },
           {
-              "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-              "id": 3,
-              "swc": "0"
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 3,
+            "swc": "0"
           }
         ],
         "linkable": true,
@@ -176,8 +176,8 @@
         "ava": "1"
       },
       {
-          "comment": "Aïda Swanson, Submondo Smuggler",
-          "id": 9065
+        "comment": "Aïda Swanson, Submondo Smuggler",
+        "id": 9065
       }
     ]
   }

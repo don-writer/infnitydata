@@ -62,21 +62,21 @@
         "id": 9031,
         "ava": "4",
         "childs": [
-            {
-                "comment": "Druze Sniper is not available in Ikari",
-                "id": 6,
-                "hide": true
-            },
-            {
-                "comment": "Druze Paramedic is not available in Ikari",
-                "id": 10,
-                "hide": true
-            },
-            {
-                "comment": "Druze Lieutenant is not available in Ikari",
-                "id": 11,
-                "hide": true
-            }
+          {
+            "comment": "Druze Sniper is not available in Ikari",
+            "id": 6,
+            "hide": true
+          },
+          {
+            "comment": "Druze Paramedic is not available in Ikari",
+            "id": 10,
+            "hide": true
+          },
+          {
+            "comment": "Druze Lieutenant is not available in Ikari",
+            "id": 11,
+            "hide": true
+          }
         ],
         "linkable": true,
         "note": "Special Fireteam: Core 4 Druze + 1 Tanko"

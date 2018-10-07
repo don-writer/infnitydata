@@ -3144,8 +3144,8 @@
   },
   {
     "name": "Trench-Hammer",
-    "alt_profile": "Trench-Hammer (CC Mode)",
     "mode": "(Thrown Mode)",
+    "alt_profile": "Trench-Hammer (CC Mode)",
     "burst": "1",
     "ammo": "DA",
     "damage": "13",
@@ -3197,5 +3197,5 @@
     "cc": "No",
     "template": "No",
     "note": "Silent"
-  },
+  }
 ]

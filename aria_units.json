@@ -5447,8 +5447,8 @@
   {
     "id": 3053,
     "army": "Ariadna",
-    "isc": "Frovotniks, Separate Assault Bat.",
-    "name": "Frovotnik",
+    "isc": "Frontoviks, Separate Assault Bat.",
+    "name": "Frontovik",
     "type": "LI",
     "classification": "Veteran",
     "imp": "",
@@ -5697,8 +5697,8 @@
   {
     "id": 3055,
     "army": "Ariadna",
-    "isc": "Traktor Mul Kruyer, Mobile Artillery Regiment",
-    "name": "TM Kruyer",
+    "isc": "Traktor Mul Kuryer, Mobile Artillery Regiment",
+    "name": "TM Kuryer",
     "type": "REM",
     "classification": "Support",
     "imp": "",

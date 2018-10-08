@@ -9,7 +9,7 @@
         "comment": "112, Emergency Service",
         "id": 3017,
         "ava": "2",
-        "note": "Special Fireteam: Core 1-4 Frovotnik and 1 112"
+        "note": "Special Fireteam: Core 1-4 Frontovik and 1 112"
       },
       {
         "comment": "Col. Yevgueni Voronin",
@@ -28,11 +28,11 @@
         "ava": "5"
       },
       {
-        "comment": "Frovotniks",
+        "comment": "Frontoviks",
         "id": 3053,
         "ava": "5",
         "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Line Kazak and 1 Frovotnik<br>Special Fireteam: Core 1-4 Frovotnik and 1 112<br>Special Fireteam: Core 0-3 Veteran Kazak and 2 Frovotnik"
+        "note": "Special Fireteam: Core 1-4 Line Kazak and 1 Frontovik<br>Special Fireteam: Core 1-4 Frontovik and 1 112<br>Special Fireteam: Core 0-3 Veteran Kazak and 2 Frontovik"
       },
       {
         "comment": "Kazak Doktor",
@@ -49,7 +49,7 @@
         "id": 3001,
         "ava": "T",
         "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Line Kazak and 1 Frovotnik"
+        "note": "Special Fireteam: Core 1-4 Line Kazak and 1 Frontovik"
       },
       {
         "comment": "Streloks",
@@ -83,10 +83,10 @@
         "id": 3008,
         "ava": "5",
         "linkable": true,
-        "notes": "Special Fireteam: Core 0-3 Veteran Kazak and 2 Frovotnik<br>May join any fireteam"
+        "notes": "Special Fireteam: Core 0-3 Veteran Kazak and 2 Frontovik<br>May join any fireteam"
       },
       {
-        "comment": "Traktor Mul Kruyer, Mobile Artillery Regiment",
+        "comment": "Traktor Mul Kuryer, Mobile Artillery Regiment",
         "id": 3055,
         "ava": "2"
       },

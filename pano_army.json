@@ -89,7 +89,14 @@
       },
       {
         "comment": "Machinist",
-        "id": 1017
+        "id": 1017,
+        "childs": [
+          {
+            "comment": "SAA is only available in Shock Army of Acontecimento",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Pathfinder Dronbot",
@@ -149,7 +156,14 @@
       },
       {
         "comment": "Knights of Montesa",
-        "id": 1033
+        "id": 1054,
+        "childs": [
+          {
+            "comment": "Paramedic is only available in sectorials",
+            "id": 3,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Knights of the Holy Sepulchre",

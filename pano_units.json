@@ -1950,6 +1950,24 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 2,
+        "name": "SAA",
+        "cost": "18",
+        "swc": "0",
+        "spec": [
+          "CH: Mimetism",
+          "Multiterrain"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -3365,129 +3383,7 @@
   },
   {
     "id": 1033,
-    "army": "PanOceania",
-    "isc": "Knights of Montesa",
-    "name": "Knight of Montesa",
-    "type": "HI",
-    "classification": "Elite",
-    "imp": "",
-    "irr": "",
-    "cube": "X",
-    "hackable": "X",
-    "mov": "4-4",
-    "cc": "20",
-    "bs": "14",
-    "ph": "13",
-    "wip": "13",
-    "arm": "3",
-    "bts": "3",
-    "w": "2",
-    "s": "2",
-    "ava": "1",
-    "spec": [
-      "Mechanized Deployment",
-      "Religious Troop",
-      "Fireteam: Duo",
-      "Assault"
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Lieutenant",
-        "cost": "44",
-        "swc": "0",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "Combi Rifle",
-          "Chain-Colt"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "Shock CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Grenadier",
-        "cost": "48",
-        "swc": "1",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle",
-          "Light Grenade Launcher",
-          "Chain-Colt"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "Shock CCW"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Spitfire",
-        "cost": "50",
-        "swc": "2",
-        "spec": [],
-        "bsw": [
-          "Spitfire",
-          "Chain-Colt"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "Shock CCW"
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Combi",
-        "cost": "44",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle",
-          "Chain-Colt"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "Shock CCW"
-        ]
-      },
-      {
-        "id": 5,
-        "name": "Spitfire Lieutenant",
-        "cost": "50",
-        "swc": "2",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "Spitfire",
-          "Chain-Colt"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "Shock CCW"
-        ]
-      },
-      {
-        "id": 6,
-        "name": "Light Rocket Launcher",
-        "cost": "50",
-        "swc": "0.5",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle",
-          "Light Rocket Launcher",
-          "Chain-Colt"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "Shock CCW"
-        ]
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 1034,
@@ -3896,6 +3792,23 @@
         "cost": "85",
         "swc": "2",
         "spec": [],
+        "bsw": [
+          "HMG",
+          "Heavy Flamethrower",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "HMG Duo",
+        "cost": "86",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Duo"
+        ],
         "bsw": [
           "HMG",
           "Heavy Flamethrower",
@@ -4970,5 +4883,103 @@
         ]
       }
     ]
-  }
+  },
+  {
+    "id": 1054,
+    "army": "PanOceania",
+    "isc": "Montesa Order Motorized Knights",
+    "name": "Knight of Montesa",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "name": "Knight of Montesa",
+        "type": "HI",
+        "classification": "Veteran",
+        "imp": "I",
+        "irr": "",
+        "cube": "X",
+        "mov": "8-4",
+        "cc": "22",
+        "bs": "13",
+        "ph": "13",
+        "wip": "13",
+        "arm": "4",
+        "bts": "3",
+        "w": "2",
+        "s": "4",
+        "spec": [
+          "Motorcycle",
+          "Martial Arts L2",
+          "CH: Mimetism",
+          "Religious Troop"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Dismounted",
+        "mov": "4-4",
+        "s": "2",
+        "spec": [
+          "Martial Arts L2",
+          "CH: Mimetism",
+          "Religious Troop"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "MULTI Rifle",
+        "cost": "42",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "37",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Paramedic",
+        "cost": "39",
+        "swc": "0",
+        "spec": [
+          "MediKit"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Chain-Colt"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      }
+    ]
+  },
 ]

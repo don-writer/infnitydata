@@ -17,7 +17,8 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "linkable": true,
+        "note": "Special Fireteam: Core 0-2 Bagh Mari may join a Regulars fireteam<br>Special Fireteam: Core 1 Orc may join a Regulars fireteam"
       },
       {
         "comment": "Akalis",
@@ -42,8 +43,8 @@
       },
       {
         "comment": "Knights of Montesa",
-        "id": 1033,
-        "ava": "2"
+        "id": 1054,
+        "ava": "1"
       },
       {
         "comment": "Dragoes",
@@ -75,7 +76,7 @@
         "id": 1049,
         "ava": "1",
         "linkable": true,
-        "note": "Counts as Bagh Mari for Fireteam composition"
+        "note": "Can join any Fireteam"
       },
       {
         "comment": "Drakios",
@@ -135,7 +136,8 @@
       {
         "comment": "Machinist",
         "id": 1017,
-        "ava": "2"
+        "ava": "2",
+        "note": "The SAA option may join any Bagh Mari fireteam"
       },
       {
         "comment": "Indigo Spec-Ops",

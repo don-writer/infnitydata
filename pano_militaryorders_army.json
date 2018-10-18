@@ -85,8 +85,8 @@
       },
       {
         "comment": "Knights of Montesa",
-        "id": 1033,
-        "ava": "4"
+        "id": 1054,
+        "ava": "1"
       },
       {
         "comment": "Knights Of Santiago",
@@ -189,7 +189,14 @@
       {
         "comment": "Machinist",
         "id": 1017,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "SAA is only available in Shock Army of Acontecimento",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Indigo Spec-Ops",

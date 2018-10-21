@@ -54,7 +54,14 @@
       {
         "comment": "Streloks",
         "id": 3050,
-        "ava": "4"
+        "ava": "4",
+        "childs": [
+          {
+            "comment": "K-9 - SWC cost is 0 in TAK",
+            "id": 1,
+            "swc": "0"
+          }
+        ]
       },
       {
         "comment": "TankHunters",

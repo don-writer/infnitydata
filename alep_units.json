@@ -893,6 +893,23 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 10,
+        "name": "Observer",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },

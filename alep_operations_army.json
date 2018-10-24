@@ -18,7 +18,14 @@
       {
         "comment": "Asparas",
         "id": 7051,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "Jumper - SWC cost is 0 in Operations",
+            "id": 2,
+            "swc": "0"
+          }
+        ]
       },
       {
         "comment": "Danavas Hackers",

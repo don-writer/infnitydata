@@ -3966,6 +3966,20 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 5,
+        "name": "Red Fury",
+        "cost": "21",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },

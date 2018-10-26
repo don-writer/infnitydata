@@ -910,6 +910,23 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 11,
+        "name": "Assault Hacker",
+        "cost": "28",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device UPGRADE: Lightning"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },

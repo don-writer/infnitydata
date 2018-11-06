@@ -102,6 +102,11 @@
             "comment": "Moderators from Bakunin / Combi",
             "unit_id": 5028,
             "child_id": 1
+          },
+          {
+            "comment": "Securitate / Combi",
+            "unit_id": 5003,
+            "child_id": 1
           }
         ]
       }

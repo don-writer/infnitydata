@@ -864,6 +864,20 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 11,
+        "name": "Feuerbach",
+        "cost": "42",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Feuerbach"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },

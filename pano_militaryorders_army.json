@@ -6,12 +6,6 @@
     "name": "Military Orders",
     "units": [
       {
-        "comment": "Fusiliers",
-        "id": 1001,
-        "ava": "3",
-        "linkable": true
-      },
-      {
         "comment": "Order Sergeants",
         "id": 1030,
         "ava": "T",
@@ -48,12 +42,13 @@
           }
         ],
         "linkable": true,
-        "note": "Specialist Sergeants cannot be members of a Fireteam"
+        "note": "Special Fireteam: Up to 1 Order Sergeant can join a Hospitaller or Teuton fireteam (except Crusade Fireteam)<br>Special Fireteam: Core Up to 1 Black Friar (MUTI Rifle) may join a Fireteam: Core of Order Sergeants<br>Special Fireteam: Core Father-Knights may join a Fireteam: Core of Order Sergeants"
       },
       {
         "comment": "Spec. Sergeants",
         "id": 1031,
-        "ava": "T"
+        "ava": "T",
+        "note": "Specialist Sergeants cannot be members of a Fireteam"
       },
       {
         "comment": "Crusader Brethren",
@@ -75,13 +70,15 @@
       {
         "comment": "Black Friars",
         "id": 1051,
-        "ava": "2"
+        "ava": "2",
+        "note": "Special Fireteam: Core Up to 1 Black Friar (MUTI Rifle) may join a Fireteam: Core of Order Sergeants"
       },
       {
         "comment": "Knights Hospitaller",
         "id": 1007,
-        "ava": "4",
-        "linkable": true
+        "ava": "5",
+        "linkable": true,
+        "note": "Special Fireteam: Up to 1 Order Sergeant can join a Hospitaller or Teuton fireteam (except Crusade Fireteam)"
       },
       {
         "comment": "Knights of Montesa",
@@ -91,30 +88,33 @@
       {
         "comment": "Knights Of Santiago",
         "id": 1026,
-        "ava": "4",
-        "linkable": true
+        "ava": "3",
+        "note": "Special Fireteam Knights of Santiago can join any Fireteam"
       },
       {
         "comment": "Knights of the Holy Sepulchre",
         "id": 1034,
-        "ava": "4"
+        "ava": "2"
       },
       {
         "comment": "Teutonic Knights",
         "id": 1035,
-        "ava": "4"
+        "ava": "3",
+        "linkable": true,
+        "note": "Special Fireteam: Up to 1 Order Sergeant can join a Hospitaller or Teuton fireteam (except Crusade Fireteam)<br>Special Fireteam Magister Knights count as Teutons for Fireteam composition"
       },
       {
         "comment": "Father-Knights",
         "id": 1008,
-        "ava": "3"
+        "ava": "3",
+        "note": "Special Fireteam: Core Father-Knights may join a Fireteam: Core of Order Sergeants"
       },
       {
         "comment": "Magister Knights",
         "id": 1036,
         "ava": "6",
         "linkable": true,
-        "note": "Fireteam: Core requires 1-2 Knights Hospitaller or 1-2 Knights of Santiago"
+        "note": "Special Fireteam Magister Knights count as Teutons for Fireteam composition"
       },
       {
         "comment": "Seraphs",
@@ -122,24 +122,39 @@
         "ava": "2"
       },
       {
+        "comment": "Tikbalang",
+        "id": 1038,
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "HMG",
+            "id": 1,
+            "hide": true
+          },
+          {
+            "comment": "HMG Duo",
+            "id": 2,
+            "hide": true
+          }
+        ]
+      },
+      {
         "comment": "Father-Officer Gabriele De Fersen",
         "id": 1029,
         "ava": "1",
-        "linkable": true,
         "note": "Counts as Knight Hospitaller for Fireteam composition"
       },
       {
         "comment": "Joan of Arc",
         "id": 1022,
         "ava": "1",
-        "linkable": true,
-        "note": "Fireteam: Core with Knights Hospitaller or Knights of Santiago"
+        "note": "Special Fireteam: Core - Crusade Fireteam Joan of Arc (any) + 4 Hospitallers<br>Special Fireteam Joan of Arc (any) can join any Fireteam: Duo"
       },
       {
-        "comment": "Joan of Arc 2.0 (Mobility Armor)",
+        "comment": "Joan of Arc v2 (Mobility Armor)",
         "id": 1044,
         "ava": "1",
-        "linkable": true
+        "note": "Special Fireteam: Core - Crusade Fireteam Joan of Arc (any) + 4 Hospitallers<br>Special Fireteam Joan of Arc (any) can join any Fireteam: Duo"
       },
       {
         "comment": "Pathfinder Dronbot",
@@ -204,23 +219,20 @@
         "ava": "1"
       },
       {
-        "comment": "Fusilier Indigo Bipandra",
-        "id": 1046,
-        "ava": "1",
-        "linkable": true,
-        "note": "Counts as Fusilier for Fireteam composition"
-      },
-      {
         "comment": "Indigo Brother Konstantinos",
         "id": 1047,
         "ava": "1",
         "linkable": true,
-        "note": "Counts as Order Sergeant for Fireteam composition (non-specialist version only)"
+        "note": "Counts as Order Sergeant for Fireteam composition (non-infiltrating version only)"
       },
       {
         "comment": "Tech-Bees, Maintenance Battalions",
         "id": 1053,
         "ava": "1"
+      },
+      {
+        "comment": "Dart",
+        "id": 7048
       },
       {
         "comment": "Warcor",

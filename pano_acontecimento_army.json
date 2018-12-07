@@ -54,7 +54,14 @@
       {
         "comment": "Tikbalangs, Armoured Chasseurs of Acontecimento",
         "id": 1038,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "Montesa",
+            "id": 3,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Nagas",

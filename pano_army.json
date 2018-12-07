@@ -49,7 +49,14 @@
       },
       {
         "comment": "Knights Hospitaller",
-        "id": 1007
+        "id": 1007,
+        "childs": [
+            {
+                "comment": "Haris is only available in sectorials",
+                "id": 10,
+                "hide": true
+            }
+        ]
       },
       {
         "comment": "Father-Knights",
@@ -183,7 +190,14 @@
       },
       {
         "comment": "Tikbalangs, Armoured Chasseurs of Acontecimento",
-        "id": 1038
+        "id": 1038,
+        "childs": [
+          {
+            "comment": "Montesa",
+            "id": 3,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Seraphs",

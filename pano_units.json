@@ -908,23 +908,9 @@
     ],
     "childs": [
       {
-        "id": 1,
-        "name": "AP CCW",
-        "cost": "37",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "MULTI Rifle"
-        ],
-        "ccw": [
-          "Pistol",
-          "AP CCW"
-        ]
-      },
-      {
         "id": 2,
-        "name": "DA CCW",
-        "cost": "38",
+        "name": "MULTI Rifle",
+        "cost": "35",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -938,7 +924,7 @@
       {
         "id": 3,
         "name": "HMG",
-        "cost": "41",
+        "cost": "39",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -946,13 +932,13 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 4,
         "name": "Boarding Shotgun",
-        "cost": "33",
+        "cost": "31",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -966,7 +952,7 @@
       {
         "id": 5,
         "name": "Combi",
-        "cost": "33",
+        "cost": "32",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -974,13 +960,13 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 6,
-        "name": "Doctor",
-        "cost": "41",
+        "name": "MULTI Rifle Doctor",
+        "cost": "39",
         "swc": "0",
         "spec": [
           "Doctor",
@@ -991,29 +977,13 @@
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
-        ]
-      },
-      {
-        "id": 7,
-        "name": "AP Lieutenant",
-        "cost": "37",
-        "swc": "0",
-        "spec": [
-          "Lieutenant"
-        ],
-        "bsw": [
-          "MULTI Rifle"
-        ],
-        "ccw": [
-          "Pistol",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
         "id": 8,
-        "name": "DA Lieutenant",
-        "cost": "38",
+        "name": "Lieutenant",
+        "cost": "35",
         "swc": "0",
         "spec": [
           "Lieutenant"
@@ -1029,11 +999,29 @@
       {
         "id": 9,
         "name": "Combi Doctor",
-        "cost": "37",
+        "cost": "35",
         "swc": "0",
         "spec": [
           "Doctor",
           "MediKit"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Haris Doctor",
+        "cost": "36",
+        "swc": "0.5",
+        "spec": [
+          "Doctor",
+          "MediKit",
+          "Fireteam: Haris"
         ],
         "bsw": [
           "Combi Rifle"
@@ -1069,23 +1057,10 @@
     "spec": [
       "Assault",
       "Kinematika L1",
-      "Religious Troop"
+      "Religious Troop",
+      "Fireteam: Duo"
     ],
     "childs": [
-      {
-        "id": 1,
-        "name": "Combi",
-        "cost": "44",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "Combi Rifle"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "DA CCW"
-        ]
-      },
       {
         "id": 2,
         "name": "Boarding Shotgun",
@@ -1130,7 +1105,7 @@
       },
       {
         "id": 5,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "50",
         "swc": "0.5",
         "spec": [
@@ -1148,14 +1123,13 @@
       {
         "id": 6,
         "name": "Observer",
-        "cost": "46",
+        "cost": "45",
         "swc": "0",
         "spec": [
           "Forward Observer"
         ],
         "bsw": [
-          "Combi Rifle",
-          "Nimbus Grenades"
+          "Combi Rifle"
         ],
         "ccw": [
           "Breaker Pistol",
@@ -1164,11 +1138,12 @@
       },
       {
         "id": 7,
-        "name": "Lieutenant",
-        "cost": "44",
+        "name": "Observer Lieutenant",
+        "cost": "45",
         "swc": "0",
         "spec": [
-          "Lieutenant"
+          "Lieutenant",
+          "Forward Observer"
         ],
         "bsw": [
           "Combi Rifle"
@@ -1188,22 +1163,6 @@
         ],
         "bsw": [
           "Spitfire"
-        ],
-        "ccw": [
-          "Breaker Pistol",
-          "DA CCW"
-        ]
-      },
-      {
-        "id": 9,
-        "name": "Boarding Shotgun Duo",
-        "cost": "44",
-        "swc": "0.5",
-        "spec": [
-          "Fireteam: Duo"
-        ],
-        "bsw": [
-          "Boarding Shotgun"
         ],
         "ccw": [
           "Breaker Pistol",
@@ -2645,46 +2604,17 @@
     "childs": [
       {
         "id": 1,
-        "name": "Spitfire",
-        "cost": "44",
+        "name": "Spitfire Specialist",
+        "cost": "43",
         "swc": "1.5",
-        "spec": [],
+        "spec": [
+          "Specialist Operative"
+        ],
         "bsw": [
-          "E/M Grenades",
           "Spitfire",
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Pistol",
-          "AP CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Boarding Shotgun",
-        "cost": "37",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
+          "Nanopulser",
           "E/M Grenades",
-          "Boarding Shotgun",
-          "Nanopulser"
-        ],
-        "ccw": [
-          "Pistol",
-          "AP CCW"
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Combi",
-        "cost": "39",
-        "swc": "0",
-        "spec": [],
-        "bsw": [
-          "E/M Grenades",
-          "Combi Rifle",
-          "Nanopulser"
+          "D-Charges"
         ],
         "ccw": [
           "Pistol",
@@ -2693,34 +2623,37 @@
       },
       {
         "id": 4,
-        "name": "Lieutenant",
-        "cost": "44",
+        "name": "Spitfire Specialist Lieutenant",
+        "cost": "43",
         "swc": "1",
         "spec": [
-          "Lieutenant"
+          "Lieutenant",
+          "Specialist Operative"
         ],
         "bsw": [
-          "E/M Grenades",
           "Spitfire",
-          "Nanopulser"
+          "Nanopulser",
+          "E/M Grenades",
+          "D-Charges"
         ],
         "ccw": [
           "Pistol",
-          "AP CCW"
+          "DA CCW"
         ]
       },
       {
-        "id": 5,
-        "name": "Paramedic",
-        "cost": "41",
+        "id": 6,
+        "name": "Killer Hacker",
+        "cost": "37",
         "swc": "0",
         "spec": [
-          "MediKit"
+          "Killer Hacking Device",
+          "TinBot A (Deflector L1)"
         ],
         "bsw": [
-          "E/M Grenades",
           "Combi Rifle",
-          "Nanopulser"
+          "Nanopulser",
+          "D-Charges"
         ],
         "ccw": [
           "Pistol",
@@ -2869,7 +2802,7 @@
       {
         "id": 1,
         "name": "Spitfire",
-        "cost": "58",
+        "cost": "56",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -2883,7 +2816,7 @@
       {
         "id": 2,
         "name": "Lieutenant",
-        "cost": "58",
+        "cost": "56",
         "swc": "2",
         "spec": [
           "Lieutenant"
@@ -3411,28 +3344,28 @@
     "cube": "X",
     "hackable": "X",
     "mov": "4-4",
-    "cc": "21",
+    "cc": "22",
     "bs": "14",
-    "ph": "14",
+    "ph": "13",
     "wip": "14",
-    "arm": "4",
-    "bts": "3",
+    "arm": "3",
+    "bts": "6",
     "w": "2",
     "s": "2",
     "ava": "1",
     "spec": [
-      "Martial Arts L2",
       "Holoprojector L2",
+      "Martial Arts L2",
       "Religious Troop"
     ],
     "childs": [
       {
         "id": 1,
-        "name": "Spitfire Lieutenant",
+        "name": "Spitfire Chain of Command",
         "cost": "56",
         "swc": "2",
         "spec": [
-          "Lieutenant"
+          "Chain of Command"
         ],
         "bsw": [
           "Spitfire"
@@ -3444,10 +3377,12 @@
       },
       {
         "id": 2,
-        "name": "Spitfire",
-        "cost": "56",
+        "name": "Spitfire Forward Deployment",
+        "cost": "57",
         "swc": "2",
-        "spec": [],
+        "spec": [
+          "Forward Deployment L2"
+        ],
         "bsw": [
           "Spitfire"
         ],
@@ -3458,15 +3393,14 @@
       },
       {
         "id": 3,
-        "name": "Lieutenant",
-        "cost": "51",
+        "name": "Breaker Combi Chain of Command",
+        "cost": "52",
         "swc": "0",
         "spec": [
-          "Lieutenant"
+          "Chain of Command"
         ],
         "bsw": [
-          "Combi Rifle",
-          "D.E.P."
+          "Breaker Combi Rifle"
         ],
         "ccw": [
           "Pistol",
@@ -3475,13 +3409,15 @@
       },
       {
         "id": 4,
-        "name": "Combi",
-        "cost": "51",
-        "swc": "0",
-        "spec": [],
+        "name": "Combi Forward Deployment",
+        "cost": "55",
+        "swc": "0.5",
+        "spec": [
+          "Forward Deployment L2"
+        ],
         "bsw": [
           "Combi Rifle",
-          "D.E.P."
+          "Light Grenade Launcher"
         ],
         "ccw": [
           "Pistol",
@@ -3572,6 +3508,40 @@
         "bsw": [
           "Combi Rifle",
           "Panzerfaust"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Combi Haris Specialist",
+        "cost": "36",
+        "swc": "0.5",
+        "spec": [
+          "Specialist Operative",
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Spitfire NCO",
+        "cost": "39",
+        "swc": "2",
+        "spec": [
+          "NCO"
+        ],
+        "bsw": [
+          "Spitfire"
         ],
         "ccw": [
           "Pistol",
@@ -3831,6 +3801,22 @@
         "ccw": [
           "AP CCW"
         ]
+      },
+      {
+        "id": 3,
+        "name": "Montesa",
+        "cost": "92",
+        "swc": "2",
+        "spec": [
+          "Religious Troop"
+        ],
+        "bsw": [
+          "AP HMG",
+          "Heavy Flamethrower"
+        ],
+        "ccw": [
+          "DA CCW"
+        ]
       }
     ]
   },
@@ -3863,7 +3849,7 @@
           "G: Remote Presence",
           "Religious Troop",
           "ECM",
-          "Kinematika L1",
+          "Kinematika L2",
           "Super-Jump"
         ],
         "bsw": [],
@@ -3872,6 +3858,7 @@
       {
         "id": 2,
         "name": "Auxbot",
+        "optionSpecific": "X",
         "type": "REM",
         "imp": "",
         "irr": "",
@@ -3887,7 +3874,8 @@
         "w": "1",
         "s": "1",
         "spec": [
-          "G: Synchronized"
+          "G: Synchronized",
+          "Super-Jump"
         ],
         "bsw": [
           "Heavy Flamethrower"
@@ -3934,13 +3922,28 @@
     "childs": [
       {
         "id": 1,
-        "name": "Spitfire",
+        "name": "Spitfire, Auxbot",
+        "profile": "1",
         "cost": "82",
         "swc": "2",
         "spec": [],
         "bsw": [
           "Spitfire",
           "Nanopulser"
+        ],
+        "ccw": [
+          "EXP CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "HMG",
+        "cost": "79",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "HMG",
+          "Nanopulser (2)"
         ],
         "ccw": [
           "EXP CCW"
@@ -4145,8 +4148,8 @@
   {
     "id": 1044,
     "army": "PanOceania",
-    "isc": "Joan of Arc 2.0 (Mobility Armor)",
-    "name": "Joan of Arc 2.0",
+    "isc": "Joan of Arc v2 (Mobility Armor)",
+    "name": "Joan of Arc v2",
     "image": 1022,
     "type": "HI",
     "classification": "Character",
@@ -4725,7 +4728,7 @@
       },
       {
         "id": 2,
-        "name": "Drop Bear",
+        "name": "MULTI Rifle",
         "cost": "28",
         "swc": "0",
         "spec": [

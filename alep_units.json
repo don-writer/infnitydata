@@ -3231,22 +3231,24 @@
     "s": "2",
     "ava": "1",
     "spec": [
-      "V: No Wound Incapacitation",
       "Marksmanship LX",
-      "Free Agent"
+      "V: No Wound Incapacitation",
+      "Free Agent",
+      "Multiterrain",
+      "Climbing Plus"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Feuerbach X-Visor",
-        "cost": "41",
+        "cost": "45",
         "swc": "1.5",
         "spec": [
           "X Visor"
         ],
         "bsw": [
-          "Nanopulser",
-          "Feuerbach"
+          "Feuerbach",
+          "Nanopulser"
         ],
         "ccw": [
           "Pistol",
@@ -3256,14 +3258,14 @@
       {
         "id": 2,
         "name": "Feuerbach MSV 2",
-        "cost": "44",
+        "cost": "48",
         "swc": "2",
         "spec": [
           "Multispectral Visor L2"
         ],
         "bsw": [
-          "Nanopulser",
-          "Feuerbach"
+          "Feuerbach",
+          "Nanopulser"
         ],
         "ccw": [
           "Pistol",
@@ -3272,15 +3274,15 @@
       },
       {
         "id": 3,
-        "name": "K1 Sniper",
-        "cost": "43",
+        "name": "K1 Sniper MSV 2",
+        "cost": "47",
         "swc": "1.5",
         "spec": [
           "Multispectral Visor L2"
         ],
         "bsw": [
-          "Nanopulser",
-          "K1 Sniper Rifle"
+          "K1 Sniper Rifle",
+          "Nanopulser"
         ],
         "ccw": [
           "Pistol",

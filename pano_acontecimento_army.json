@@ -144,7 +144,14 @@
         "comment": "Machinist",
         "id": 1017,
         "ava": "2",
-        "note": "The SAA option may join any Bagh Mari fireteam"
+        "note": "The SAA option may join any Bagh Mari fireteam",
+        "childs": [
+          {
+            "comment": "NCA is only available in Neoterran Capitaline Army",
+            "id": 3,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Indigo Spec-Ops",

@@ -1941,6 +1941,24 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 3,
+        "name": "NCA",
+        "cost": "16",
+        "swc": "0",
+        "spec": [
+          "Bioimmunity",
+          "Veteran L1"
+        ],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },

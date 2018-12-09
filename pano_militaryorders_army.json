@@ -210,6 +210,11 @@
             "comment": "SAA is only available in Shock Army of Acontecimento",
             "id": 2,
             "hide": true
+          },
+          {
+            "comment": "NCA is only available in Neoterran Capitaline Army",
+            "id": 3,
+            "hide": true
           }
         ]
       },

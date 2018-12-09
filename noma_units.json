@@ -493,7 +493,7 @@
           "Knife",
           "Pistol"
         ]
-      },
+      }
     ]
   },
   {
@@ -4765,7 +4765,6 @@
           "Combi Rifle",
           "Jammer",
           "FastPanda"
-                
         ],
         "ccw": [
           "Pistol",
@@ -4861,7 +4860,6 @@
           "Submachine Gun",
           "Zapper",
           "Pitcher"
-                
         ],
         "ccw": [
           "Pistol",

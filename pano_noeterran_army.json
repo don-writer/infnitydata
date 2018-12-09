@@ -53,21 +53,21 @@
         "id": 1011,
         "ava": "2",
         "childs": [
-            {
-                "comment": "Varuna Div. is only available in Varuna",
-                "id": 4,
-                "hide": true
-            },
-            {
-                "comment": "Varuna Div. is only available in Varuna",
-                "id": 5,
-                "hide": true
-            },
-            {
-                "comment": "Varuna Div. is only available in Varuna",
-                "id": 6,
-                "hide": true
-            }
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 6,
+            "hide": true
+          }
         ]
       },
       {

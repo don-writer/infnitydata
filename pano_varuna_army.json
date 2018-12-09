@@ -33,13 +33,12 @@
         "id": 1002,
         "ava": "5",
         "linkable": true,
-        "note": "Wildard Trooper: Kamau can join any Fireteam",
+        "note": "Wildard Trooper: Kamau can join any Fireteam"
       },
       {
         "comment": "Machinist",
         "id": 1017,
         "ava": "2",
-        "note": "The Varuna Div. option may join any Kamau fireteam",
         "childs": [
           {
             "comment": "SAA is only available in Shock Army of Acontecimento",
@@ -51,7 +50,8 @@
             "id": 3,
             "hide": true
           }
-        ]
+        ],
+        "note": "The Varuna Div. option may join any Kamau fireteam"
       },
       {
         "comment": "Tech-Bees, Maintenance Battalions",
@@ -84,14 +84,14 @@
         "comment": "Orc Troops",
         "id": 1006,
         "ava": "5",
-        "linkable": true,
         "childs": [
           {
             "comment": "Haris is not in Varuna",
             "id": 9,
             "hide": true
           }
-        ]
+        ],
+        "linkable": true
       },
       {
         "comment": "Orc Troops (Varuna Div.)",
@@ -104,7 +104,7 @@
         "comment": "Patsy Garnett",
         "id": 1058,
         "ava": "1",
-        "note": "Wildard Trooper: Patsy Garnett can join any Fireteam",
+        "note": "Wildard Trooper: Patsy Garnett can join any Fireteam"
       },
       {
         "comment": "Cutter",

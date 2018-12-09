@@ -4849,37 +4849,37 @@
         ]
       },
       {
-          "id": 3,
-          "name": "Sensor",
-          "cost": "21",
-          "swc": "0",
-          "spec": [
-              "Sensor"
-          ],
-          "bsw": [
-              "T2 Boarding Shotgun"
-          ],
-          "ccw": [
-              "Pistol",
-              "AP CCW"
-          ]
+        "id": 3,
+        "name": "Sensor",
+        "cost": "21",
+        "swc": "0",
+        "spec": [
+          "Sensor"
+        ],
+        "bsw": [
+          "T2 Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
       },
       {
-          "id": 4,
-          "name": "Sensor Lieutenant",
-          "cost": "21",
-          "swc": "0",
-          "spec": [
-              "Sensor",
-              "Lieutenant"
-          ],
-          "bsw": [
-              "T2 Boarding Shotgun"
-          ],
-          "ccw": [
-              "Pistol",
-              "AP CCW"
-          ]
+        "id": 4,
+        "name": "Sensor Lieutenant",
+        "cost": "21",
+        "swc": "0",
+        "spec": [
+          "Sensor",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "T2 Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
       }
     ]
   },
@@ -5801,5 +5801,5 @@
         ]
       }
     ]
-  },
+  }
 ]

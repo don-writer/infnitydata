@@ -12,16 +12,16 @@
         "comment": "Kamau",
         "id": 1002,
         "childs": [
-            {
-                "comment": "Haris is only available in Varuna",
-                "id": 8,
-                "hide": true
-            },
-            {
-                "comment": "Lieutenant is only available in Varuna",
-                "id": 9,
-                "hide": true
-            }
+          {
+            "comment": "Haris is only available in Varuna",
+            "id": 8,
+            "hide": true
+          },
+          {
+            "comment": "Lieutenant is only available in Varuna",
+            "id": 9,
+            "hide": true
+          }
         ]
       },
       {
@@ -63,11 +63,11 @@
         "comment": "Knights Hospitaller",
         "id": 1007,
         "childs": [
-            {
-                "comment": "Haris is only available in sectorials",
-                "id": 10,
-                "hide": true
-            }
+          {
+            "comment": "Haris is only available in sectorials",
+            "id": 10,
+            "hide": true
+          }
         ]
       },
       {
@@ -86,21 +86,21 @@
         "comment": "Squalos",
         "id": 1011,
         "childs": [
-            {
-                "comment": "Varuna Div. is only available in Varuna",
-                "id": 4,
-                "hide": true
-            },
-            {
-                "comment": "Varuna Div. is only available in Varuna",
-                "id": 5,
-                "hide": true
-            },
-            {
-                "comment": "Varuna Div. is only available in Varuna",
-                "id": 6,
-                "hide": true
-            }
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 6,
+            "hide": true
+          }
         ]
       },
       {
@@ -303,12 +303,12 @@
         "id": 1056
       },
       {
-          "comment": "Patsy Garnett",
-          "id": 1058
+        "comment": "Patsy Garnett",
+        "id": 1058
       },
       {
-          "comment": "Helot Militia",
-          "id": 1059
+        "comment": "Helot Militia",
+        "id": 1059
       },
       {
         "comment": "Authorized Bounty Hunters",

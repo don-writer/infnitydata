@@ -4062,9 +4062,9 @@
       {
         "id": 1,
         "name": "Spitfire, Auxbot",
-        "profile": "1",
         "cost": "82",
         "swc": "2",
+        "profile": "1",
         "spec": [],
         "bsw": [
           "Spitfire",
@@ -5620,5 +5620,5 @@
         ]
       }
     ]
-  },
+  }
 ]

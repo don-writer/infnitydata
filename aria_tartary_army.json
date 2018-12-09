@@ -90,7 +90,7 @@
         "id": 3008,
         "ava": "5",
         "linkable": true,
-        "notes": "Special Fireteam: Core 0-3 Veteran Kazak and 2 Frontovik<br>May join any fireteam"
+        "note": "Special Fireteam: Core 0-3 Veteran Kazak and 2 Frontovik<br>May join any fireteam"
       },
       {
         "comment": "Traktor Mul Kuryer, Mobile Artillery Regiment",
@@ -118,14 +118,14 @@
         "ava": "2"
       },
       {
-          "comment": "Dog-Warriors",
-          "id": 3039,
-          "ava": "3"
+        "comment": "Dog-Warriors",
+        "id": 3039,
+        "ava": "3"
       },
       {
-          "comment": "Irmandinhos",
-          "id": 3014,
-          "ava": "4"
+        "comment": "Irmandinhos",
+        "id": 3014,
+        "ava": "4"
       },
       {
         "comment": "Intel Spec-Ops",

@@ -150,6 +150,11 @@
             "comment": "NCA is only available in Neoterran Capitaline Army",
             "id": 3,
             "hide": true
+          },
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 4,
+            "hide": true
           }
         ]
       },

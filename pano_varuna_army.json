@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1995,
+    "army": "PanOceania",
+    "army_id": 1999,
+    "name": "Varuna Immediate Reaction Division",
+    "abbr": "Varuna",
+    "units": [
+      {
+        "comment": "Echo-Bravo",
+        "id": 1055,
+        "ava": "3"
+      },
+      {
+        "comment": "Fusilier Indigo Bipandra",
+        "id": 1046,
+        "ava": "1"
+      },
+      {
+        "comment": "Fusiliers",
+        "id": 1001,
+        "ava": "T",
+        "linkable": true,
+        "note": "Special Fireteam: Core 0-3 Fusiliers and 0-2 Orcs (Varuna Div.)"
+      },
+      {
+        "comment": "Helot Militia",
+        "id": 1059,
+        "ava": "3"
+      },
+      {
+        "comment": "Kamau",
+        "id": 1002,
+        "ava": "5",
+        "linkable": true,
+        "note": "Wildard Trooper: Kamau can join any Fireteam",
+      },
+      {
+        "comment": "Machinist",
+        "id": 1017,
+        "ava": "2",
+        "note": "The Varuna Div. option may join any Kamau fireteam",
+        "childs": [
+          {
+            "comment": "SAA is only available in Shock Army of Acontecimento",
+            "id": 2,
+            "hide": true
+          },
+          {
+            "comment": "NCA is only available in Neoterran Capitaline Army",
+            "id": 3,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Tech-Bees, Maintenance Battalions",
+        "id": 1053,
+        "ava": "1"
+      },
+      {
+        "comment": "Trauma-Doc",
+        "id": 1016,
+        "ava": "1"
+      },
+      {
+        "comment": "Zulu-Cobra",
+        "id": 1056,
+        "ava": "3",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Varuna ",
+            "id": 6,
+            "swc": "0"
+          }
+        ]
+      },
+      {
+        "comment": "Knights of Montesa",
+        "id": 1054,
+        "ava": "1"
+      },
+      {
+        "comment": "Orc Troops",
+        "id": 1006,
+        "ava": "5",
+        "linkable": true,
+        "childs": [
+          {
+            "comment": "Haris is not in Varuna",
+            "id": 9,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Orc Troops (Varuna Div.)",
+        "id": 1057,
+        "ava": "5",
+        "linkable": true,
+        "note": "Special Fireteam: Core 0-3 Fusiliers and 0-2 Orcs (Varuna Div.)"
+      },
+      {
+        "comment": "Patsy Garnett",
+        "id": 1058,
+        "ava": "1",
+        "note": "Wildard Trooper: Patsy Garnett can join any Fireteam",
+      },
+      {
+        "comment": "Cutter",
+        "id": 1013,
+        "ava": "2"
+      },
+      {
+        "comment": "Squalo",
+        "id": 1011,
+        "ava": "2"
+      },
+      {
+        "comment": "Armbots: Bulleteers",
+        "id": 1040,
+        "ava": "2"
+      },
+      {
+        "comment": "Clipper Dronbot",
+        "id": 1020,
+        "ava": "2"
+      },
+      {
+        "comment": "Fugazi Dronbot",
+        "id": 1021,
+        "ava": "2"
+      },
+      {
+        "comment": "Mulebots",
+        "id": 1027,
+        "ava": "2"
+      },
+      {
+        "comment": "Palbots",
+        "id": 1028,
+        "ava": "2"
+      },
+      {
+        "comment": "Pathfinder Dronbot",
+        "id": 1018,
+        "ava": "2"
+      },
+      {
+        "comment": "Armbots: Peacemakers",
+        "id": 1041,
+        "ava": "1"
+      },
+      {
+        "comment": "Sierra Dronbot",
+        "id": 1019,
+        "ava": "2"
+      },
+      {
+        "comment": "Croc Men",
+        "id": 1015,
+        "ava": "4"
+      },
+      {
+        "comment": "Indigo Spec-Ops",
+        "id": 1045,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      }
+    ]
+  }
+]

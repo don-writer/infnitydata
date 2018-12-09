@@ -10,7 +10,19 @@
       },
       {
         "comment": "Kamau",
-        "id": 1002
+        "id": 1002,
+        "childs": [
+            {
+                "comment": "Haris is only available in Varuna",
+                "id": 8,
+                "hide": true
+            },
+            {
+                "comment": "Lieutenant is only available in Varuna",
+                "id": 9,
+                "hide": true
+            }
+        ]
       },
       {
         "comment": "Bagh-Mari",
@@ -72,7 +84,24 @@
       },
       {
         "comment": "Squalos",
-        "id": 1011
+        "id": 1011,
+        "childs": [
+            {
+                "comment": "Varuna Div. is only available in Varuna",
+                "id": 4,
+                "hide": true
+            },
+            {
+                "comment": "Varuna Div. is only available in Varuna",
+                "id": 5,
+                "hide": true
+            },
+            {
+                "comment": "Varuna Div. is only available in Varuna",
+                "id": 6,
+                "hide": true
+            }
+        ]
       },
       {
         "comment": "Dragoes",
@@ -106,6 +135,11 @@
           {
             "comment": "NCA is only available in Neoterran Capitaline Army",
             "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 4,
             "hide": true
           }
         ]
@@ -259,6 +293,22 @@
       {
         "comment": "Tech-Bees, Maintenance Battalions",
         "id": 1053
+      },
+      {
+        "comment": "Echo-Bravo",
+        "id": 1055
+      },
+      {
+        "comment": "Zulu-Cobra",
+        "id": 1056
+      },
+      {
+          "comment": "Patsy Garnett",
+          "id": 1058
+      },
+      {
+          "comment": "Helot Militia",
+          "id": 1059
       },
       {
         "comment": "Authorized Bounty Hunters",

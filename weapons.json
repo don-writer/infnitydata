@@ -2774,6 +2774,24 @@
     "note": "Deployable"
   },
   {
+    "name": "WildParrot",
+    "burst": "1",
+    "ammo": "E/M",
+    "damage": "13",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "Direct Template (Small Teardrop)",
+    "uses": 1,
+    "note": "Deployable, Intuitive Attack"
+  },
+  {
     "name": "Protheion",
     "burst": "1",
     "ammo": "Striga",

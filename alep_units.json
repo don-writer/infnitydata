@@ -761,7 +761,7 @@
         "name": "Lieutenant+Devabot",
         "cost": "27",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "Lieutenant"
         ],
@@ -830,7 +830,7 @@
         "name": "Devabot",
         "cost": "27",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Nanopulser",
@@ -3420,7 +3420,7 @@
         "name": "Combi (2 Devabots)",
         "cost": "42",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Combi Rifle",
@@ -3452,7 +3452,7 @@
         "name": "Red Fury (2 Devabots)",
         "cost": "45",
         "swc": "1",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Red Fury",
@@ -3590,7 +3590,7 @@
         "name": "HD (2 Devabots)",
         "cost": "39",
         "swc": "0.5",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "Hacking Device"
         ],
@@ -3625,7 +3625,7 @@
         "name": "AHD (2 Devabots)",
         "cost": "37",
         "swc": "0.5",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "Assault Hacking Device: UPGRADE: Icebreaker"
         ],
@@ -3660,7 +3660,7 @@
         "name": "KHD (2 Devabots)",
         "cost": "34",
         "swc": "0.5",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "Killer Hacking Device: UPGRADE: Maestro"
         ],

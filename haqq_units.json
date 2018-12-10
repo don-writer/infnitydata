@@ -4695,7 +4695,7 @@
         "name": "Boarding Shotgun + Nasmat",
         "cost": "31",
         "swc": "0.5",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Boarding Shotgun"
@@ -4710,7 +4710,7 @@
         "name": "SMG + Nasmat",
         "cost": "27",
         "swc": "0.5",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Submachine Gun",

@@ -3450,7 +3450,7 @@
         "name": "Engineer+Zondcat",
         "cost": "26",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "Engineer"
         ],
@@ -3473,7 +3473,7 @@
         "name": "Doctor+Zondcat",
         "cost": "26",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "Doctor",
           "MediKit"
@@ -3919,7 +3919,7 @@
         "name": "Engineer+Moriarty",
         "cost": "34",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Combi Rifle",
@@ -4533,7 +4533,7 @@
         "name": "Boarding Shotgun",
         "cost": "43",
         "swc": "0",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Boarding Shotgun",
@@ -4550,7 +4550,7 @@
         "name": "Heavy Rocket Launcher",
         "cost": "47",
         "swc": "2",
-        "profile": "1",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Heavy Rocket Launcher",
@@ -4567,7 +4567,7 @@
         "name": "Red Fury",
         "cost": "53",
         "swc": "1",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "TinBot A (Deflector L1)"
         ],
@@ -4586,7 +4586,7 @@
         "name": "Lieutenant",
         "cost": "53",
         "swc": "1",
-        "profile": "1",
+        "profile": 2,
         "spec": [
           "TinBot A (Deflector L1)",
           "Lieutenant"

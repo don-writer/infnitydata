@@ -1013,7 +1013,7 @@
         "name": "Shotgun Peripheral",
         "cost": "86",
         "swc": "2",
-        "profile": "2",
+        "profile": 3,
         "spec": [],
         "bsw": [],
         "ccw": [
@@ -1025,7 +1025,7 @@
         "name": "Pulzar Peripheral",
         "cost": "82",
         "swc": "2",
-        "profile": "3",
+        "profile": 4,
         "spec": [],
         "bsw": [],
         "ccw": [
@@ -2356,7 +2356,7 @@
         "name": "1 Surda",
         "cost": "20",
         "swc": "0",
-        "profile": "2",
+        "profile": 3,
         "spec": [],
         "bsw": [
           "Submachine Gun",
@@ -2391,7 +2391,7 @@
         "name": "Combi, Mutan",
         "cost": "30",
         "swc": "0",
-        "profile": "4",
+        "profile": 5,
         "spec": [],
         "bsw": [
           "Combi Rifle",
@@ -2407,7 +2407,7 @@
         "name": "Light Shotgun, Mutan",
         "cost": "25",
         "swc": "0",
-        "profile": "4",
+        "profile": 5,
         "spec": [],
         "bsw": [
           "Light Shotgun",

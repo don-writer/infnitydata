@@ -354,7 +354,7 @@
         "name": "MadTraps",
         "cost": "28",
         "swc": "0",
-        "profile": 1,
+        "profile": 2,
         "spec": [
           "Sensor"
         ],
@@ -2916,7 +2916,7 @@
         "name": "MadTraps",
         "cost": "36",
         "swc": "0",
-        "profile": 1,
+        "profile": 2,
         "spec": [
           "Chain of Command",
           "X Visor"
@@ -3732,7 +3732,7 @@
         "name": "MadTraps",
         "cost": "28",
         "swc": "0",
-        "profile": 1,
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Combi Rifle",

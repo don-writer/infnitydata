@@ -57,7 +57,8 @@
             "id": 9,
             "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Knights Hospitaller",
@@ -72,7 +73,8 @@
       },
       {
         "comment": "Father-Knights",
-        "id": 1008
+        "id": 1008,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Aquila Guard",
@@ -178,7 +180,13 @@
       },
       {
         "comment": "Knights Of Santiago",
-        "id": 1026
+        "id": 1026,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Mulebots",
@@ -231,6 +239,11 @@
         "comment": "Tikbalangs, Armoured Chasseurs of Acontecimento",
         "id": 1038,
         "childs": [
+          {
+            "comment": "Duo",
+            "id": 2,
+            "hide": true
+          },
           {
             "comment": "Montesa",
             "id": 3,
@@ -308,6 +321,10 @@
         "skills": [
           {
             "name": "Fireteam: Haris",
+            "hide": true
+          },
+          {
+            "name": "Fireteam: Duo",
             "hide": true
           }
         ]

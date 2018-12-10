@@ -216,15 +216,23 @@
       },
       {
         "comment": "Gecko",
-        "id": 5045
+        "id": 5045,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Taskmaster",
-        "id": 5046
+        "id": 5046,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Kriza Boracs",
-        "id": 5047
+        "id": 5047,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hecklers",
@@ -249,6 +257,12 @@
       {
         "comment": "Hollow Men",
         "id": 5053,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ],
         "childs": [
           {
             "comment": "Haris is only available in Sectorials",

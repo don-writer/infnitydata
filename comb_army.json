@@ -220,7 +220,8 @@
             "id": 9,
             "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Oznat",

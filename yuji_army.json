@@ -33,7 +33,8 @@
             "id": 10,
             "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Daofei",
@@ -97,7 +98,8 @@
       },
       {
         "comment": "Shang Ji",
-        "id": 2024
+        "id": 2024,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Yáozăo",
@@ -114,6 +116,12 @@
       {
         "comment": "Imperial Agent, Pheasant Rank",
         "id": 2029,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ],
         "childs": [
           {
             "comment": "Haris is only available in Sectorials",
@@ -128,7 +136,18 @@
       },
       {
         "comment": "Su-Jian Immediate Action Unit",
-        "id": 2034
+        "id": 2034,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          },
+          {
+            "name": "Fireteam: Duo",
+            "profile": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Yáoxiè Rui Shi",

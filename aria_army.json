@@ -40,8 +40,14 @@
             "comment": "Haris is only available in Sectorials",
             "id": 11,
             "hide": true
+          },
+          {
+            "comment": "Duo is only available in Sectorials",
+            "id": 9,
+            "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Foxtrot",
@@ -284,6 +290,11 @@
           {
             "name": "Fireteam: Duo",
             "hide": true
+          },
+          {
+            "name": "Fireteam: Duo",
+            "profile": 2,
+            "hide": true
           }
         ]
       },
@@ -293,6 +304,11 @@
         "skills": [
           {
             "name": "Fireteam: Duo",
+            "hide": true
+          },
+          {
+            "name": "Fireteam: Duo",
+            "profile": 2,
             "hide": true
           }
         ]

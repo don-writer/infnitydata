@@ -10,7 +10,8 @@
       },
       {
         "comment": "Achilles v2 (Hoplite Armor)",
-        "id": 7002
+        "id": 7002,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Asuras",
@@ -91,7 +92,8 @@
       },
       {
         "comment": "Patroclus",
-        "id": 7015
+        "id": 7015,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Probots",
@@ -206,7 +208,8 @@
       },
       {
         "comment": "Acmon, Sergeant of Dactyls",
-        "id": 7042
+        "id": 7042,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Hector, Homeridae's Champion",
@@ -269,7 +272,8 @@
             "id": 4,
             "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Apsaras",
@@ -291,7 +295,8 @@
             "name": "Fireteam: Haris",
             "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Rudras GunBots",

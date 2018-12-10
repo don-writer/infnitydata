@@ -103,6 +103,12 @@
       {
         "comment": "Asawira Regiment",
         "id": 4025,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ],
         "childs": [
           {
             "comment": "Haris is only available in Sectorials",
@@ -194,7 +200,8 @@
             "id": 5,
             "hide": true
           }
-        ]
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Hassassin Govads",
@@ -221,7 +228,8 @@
       },
       {
         "comment": "Druze Shock Teams",
-        "id": 4046
+        "id": 4046,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Hassassin Ayyar",

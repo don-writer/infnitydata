@@ -180,7 +180,13 @@
       },
       {
         "comment": "Scot (1st Battalion)",
-        "id": 3036
+        "id": 3036,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Briscard",
@@ -273,11 +279,23 @@
       },
       {
         "comment": "Ratnik",
-        "id": 3051
+        "id": 3051,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Dynamo",
-        "id": 3052
+        "id": 3052,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Frontoviks",

@@ -228,7 +228,13 @@
       },
       {
         "comment": "Kornak Gazarot",
-        "id": 6050
+        "id": 6050,
+        "skills": [
+          {
+            "name": "Fireteam: Haris",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "E-Drone",
@@ -236,7 +242,13 @@
       },
       {
         "comment": "Umbra Samaritans",
-        "id": 6052
+        "id": 6052,
+        "skills": [
+          {
+            "name": "Fireteam: Haris",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Nexus Operatives",

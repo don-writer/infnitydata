@@ -285,7 +285,13 @@
       },
       {
         "comment": "Yadu Officer Shakti",
-        "id": 7054
+        "id": 7054,
+        "skills": [
+          {
+            "name": "Fireteam: Haris",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Rudras GunBots",

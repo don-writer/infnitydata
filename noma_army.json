@@ -140,7 +140,13 @@
       },
       {
         "comment": "Reverend Custodiers",
-        "id": 5031
+        "id": 5031,
+        "skills": [
+          {
+            "name": "Fireteam: Haris",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Salyut Zonds",

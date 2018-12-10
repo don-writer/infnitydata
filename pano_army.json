@@ -304,7 +304,13 @@
       },
       {
         "comment": "Patsy Garnett",
-        "id": 1058
+        "id": 1058,
+        "skills": [
+          {
+            "name": "Fireteam: Haris",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Helot Militia",

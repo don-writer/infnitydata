@@ -26,7 +26,14 @@
       },
       {
         "comment": "Rodok",
-        "id": 6006
+        "id": 6006,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "The Charontids",

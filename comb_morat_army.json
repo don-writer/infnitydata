@@ -9,13 +9,13 @@
         "comment": "Morat Vanguard Infantry",
         "id": 6001,
         "ava": "T",
-        "linkable": true
+        "linkable": true,
+        "note": "Special Fireteam: Core Up to 4 Vanguards + 1 Suryat"
       },
       {
         "comment": "Kurgat Reg. of Assault Engineers",
         "id": 6022,
-        "ava": "3",
-        "note": "Autocannon may not join Fireteam: Haris"
+        "ava": "3"
       },
       {
         "comment": "Yaogat Strike Infantry",
@@ -52,7 +52,7 @@
         "comment": "Raktorak",
         "id": 6047,
         "ava": "2",
-        "note": "1 Raktorak may join a Fireteam: Core or Haris of Suryats"
+        "note": "Raktoraks may join any Fireteam"
       },
       {
         "comment": "Suryats",
@@ -66,7 +66,7 @@
           }
         ],
         "linkable": true,
-        "note": "Fireteam: Core or Haris may include 1 Raktorak and/or Kornak"
+        "note": "Special Fireteam: Core Up to 4 Vanguards + 1 Suryat<br>Special Fireteam: Core Up to 4 Suryats + 1 Kornak<br>Special Fireteam: Haris Kornak + up to 2 Suryats"
       },
       {
         "comment": "Sogarat Tempest Regiment",
@@ -108,7 +108,7 @@
           }
         ],
         "linkable": true,
-        "note": "Fireteam: Core of Kornak, up to 4 Suryats, and 0-1 Raktorak<br>Fireteam: Haris of Kornak and up to 2 Suryats or 2 Sogarats"
+        "note": "Fireteam: Core of Kornak + up to 4 Suryats<br>Fireteam: Haris of Kornak + up to 2 Suryats"
       },
       {
         "comment": "The Hungries: \"Gakis\"",
@@ -180,11 +180,6 @@
         "ava": "1",
         "linkable": true,
         "note": "Counts as Vanguard for Fireteam composition"
-      },
-      {
-        "comment": "Bit & Kiss!",
-        "id": 6056,
-        "ava": "1"
       },
       {
         "comment": "Krakot Renegades, Morat Fugitives",

@@ -749,7 +749,7 @@
       },
       {
         "id": 6,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -775,6 +775,40 @@
         "bsw": [
           "Combi Rifle",
           "Light Shotgun (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Haris",
+        "cost": "27",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Light Shotgun (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Killer Hacker",
+        "cost": "22",
+        "swc": "0",
+        "spec": [
+          "EI Killer Hacking Device"
+        ],
+        "bsw": [
+          "Antipersonnel Mines",
+          "Boarding Shotgun"
         ],
         "ccw": [
           "Knife",
@@ -3068,7 +3102,9 @@
     "ava": "1",
     "spec": [
       "AutoMediKit",
-      "Morat"
+      "Morat",
+      "Bioimmunity",
+      "Fireteam: Duo"
     ],
     "childs": [
       {
@@ -3129,6 +3165,22 @@
         "ccw": [
           "AP CCW",
           "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Full Auto Feuerbach",
+        "cost": "67",
+        "swc": "1.5",
+        "spec": [
+          "Full Auto L2"
+        ],
+        "bsw": [
+          "Feuerbach"
+        ],
+        "ccw": [
+          "AP CCW",
+          "Assault Pistol"
         ]
       }
     ]
@@ -4314,6 +4366,22 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 4,
+        "name": "Vulkan NCO",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "NCO"
+        ],
+        "bsw": [
+          "Vulkan Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -4501,6 +4569,23 @@
           "CCW",
           "Pistol"
         ]
+      },
+      {
+        "id": 11,
+        "name": "HMG Tactical Awareness",
+        "cost": "48",
+        "swc": "2",
+        "spec": [
+          "Tactical Awareness",
+          "TinBot A (Deflector L1)"
+        ],
+        "bsw": [
+          "HMG"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -4509,25 +4594,68 @@
     "army": "Combined Army",
     "isc": "Oznat",
     "name": "Oznat",
-    "type": "WB",
-    "classification": "Specially Trained",
-    "imp": "X",
-    "irr": "",
-    "cube": "X",
-    "mov": "6-4",
-    "cc": "21",
-    "bs": "11",
-    "ph": "13",
-    "wip": "13",
-    "arm": "1",
-    "bts": "0",
-    "w": "1",
-    "s": "2",
     "ava": "2",
-    "spec": [
-      "Morat",
-      "Hungries Control Device",
-      "Kinematika L1"
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "WB",
+        "classification": "Specially Trained",
+        "imp": "X",
+        "irr": "",
+        "cube": "X",
+        "mov": "6-4",
+        "cc": "21",
+        "bs": "11",
+        "ph": "13",
+        "wip": "13",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Morat",
+          "Hungries Control Device",
+          "Kinematika L1"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Sync Preta",
+        "optionSpecific": "X",
+        "type": "WB",
+        "classification": "Specially Trained",
+        "imp": "X",
+        "irr": "",
+        "cube": "",
+        "mov": "6-6",
+        "cc": "19",
+        "bs": "9",
+        "ph": "14",
+        "wip": "12",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "G: Synchronized",
+          "Kinematika L1",
+          "Climbing Plus",
+          "V: Dogged"
+        ],
+        "bsw": [
+          "Chain Rifle"
+        ],
+        "ccw": [
+          "AP CCW"
+        ],
+        "independent": {
+          "cost": "8",
+          "swc": "0"
+        }
+      }
     ],
     "childs": [
       {
@@ -4550,6 +4678,22 @@
         "name": "Vulkan Shotgun",
         "cost": "20",
         "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Vulkan Shotgun",
+          "Smoke Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Vulkan Shotgun + Preta",
+        "cost": "29",
+        "swc": "0",
+        "profile": 2,
         "spec": [],
         "bsw": [
           "Vulkan Shotgun",

@@ -1,0 +1,143 @@
+[
+  {
+    "id": 2996,
+    "army": "Yu Jing",
+    "army_id": 2999,
+    "name": "Invincible Army",
+    "units": [
+      {
+        "comment": "Mech-Engineer",
+        "id": 2016,
+        "ava": "2"
+      },
+      {
+        "comment": "Zhanshi",
+        "id": 2002,
+        "ava": "4",
+        "linkable": true
+      },
+      {
+        "comment": "Yisheng",
+        "id": 2015,
+        "ava": "1"
+      },
+      {
+        "comment": "Dāoyīng Operative Control Unit",
+        "id": 2054,
+        "ava": "3"
+      },
+      {
+        "comment": "Hac Tao",
+        "id": 2009,
+        "ava": "1"
+      },
+      {
+        "comment": "Húláng Shocktroopers",
+        "id": 2055,
+        "ava": "2"
+      },
+      {
+        "comment": "Hǎidào Special Support Group",
+        "id": 2056,
+        "ava": "3",
+        "note": "Up to 1 Hǎidào can join any Fireteam"
+      },
+      {
+        "comment": "Liú Xīng Jump Infantry",
+        "id": 2057,
+        "ava": "4"
+      },
+      {
+        "comment": "Mówáng Troops",
+        "id": 2058,
+        "ava": "3"
+      },
+      {
+        "comment": "Shàng Jí",
+        "id": 2024,
+        "ava": "5",
+        "note": "Up to 1 Shàng Jí can join any Fireteam"
+      },
+      {
+        "comment": "Tai Sheng, Zúyong Invincibles NCO",
+        "id": 2059,
+        "ava": "1",
+        "note": "Counts as a Zúyong for Fireteam composition"
+      },
+      {
+        "comment": "Yān Huǒ Invincibles",
+        "id": 2006,
+        "ava": "4",
+        "note": "Special Fireteam: Haris 1 Zúyong Haris + 2 Yān Huǒ FTO"
+      },
+      {
+        "comment": "Zhēnchá, Armored Reconnaissance Regiment",
+        "id": 2060,
+        "ava": "4"
+      },
+      {
+        "comment": "Zúyong Invincibles",
+        "id": 2005,
+        "linkable": true,
+        "note": "Special Fireteam: Haris 1 Zúyong Haris + 2 Yān Huǒ FTO"
+      },
+      {
+        "comment": "Guijia",
+        "id": 2011,
+        "ava": "2"
+      },
+      {
+        "comment": "Yáokòng Chaīyì",
+        "id": 2020,
+        "ava": "2"
+      },
+      {
+        "comment": "Yáokòng Hùsòng",
+        "id": 2018,
+        "ava": "3"
+      },
+      {
+        "comment": "Yáokòng Son-Bae",
+        "id": 2019,
+        "ava": "1",
+        "note": "Up to 1 Son-Bae can join any Fireteam"
+      },
+      {
+        "comment": "Yáokòng Wèibīng",
+        "id": 2017,
+        "ava": "2"
+      },
+      {
+        "comment": "Yáozăo",
+        "id": 2025,
+        "ava": "4"
+      },
+      {
+        "comment": "Yáopú Pangguling",
+        "id": 2026,
+        "ava": "2",
+        "note": "Up to 1 Pangguling FTO can join any Fireteam"
+      },
+      {
+        "comment": "Yáoxiè Lù Duān",
+        "id": 2039,
+        "ava": "2"
+      },
+      {
+        "comment": "Yáoxiè Rui Shi",
+        "id": 2038,
+        "ava": "2"
+      },
+      {
+        "comment": "Guǐ Fēng Spec-Ops",
+        "id": 2043,
+        "ava": "1"
+      },
+      {
+        "comment": "Warcor",
+        "id": 9017,
+        "ava": "1"
+      }
+    ]
+  }
+]

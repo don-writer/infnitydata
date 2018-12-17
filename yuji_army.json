@@ -18,11 +18,20 @@
       },
       {
         "comment": "Zúyong Invincibles",
-        "id": 2005
+        "id": 2005,
+        "childs": [
+          {
+            "comment": "Haris is not available in Yu Jing",
+            "id": 12,
+            "hide": true
+          }
+        ],
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Yan Huo Invincibles",
-        "id": 2006
+        "id": 2006,
+        "note": "Fireteam: Duo requires TeamPro"
       },
       {
         "comment": "Wu Ming",
@@ -99,6 +108,13 @@
       {
         "comment": "Shang Ji",
         "id": 2024,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ],
         "note": "Fireteam: Duo requires TeamPro"
       },
       {
@@ -176,6 +192,47 @@
       {
         "comment": "Guǐ Fēng Xi Zhuang",
         "id": 2050
+      },
+      {
+        "comment": "Dāoyīng Operative Control Unit",
+        "id": 2054
+      },
+      {
+        "comment": "Húláng Shocktroopers",
+        "id": 2055
+      },
+      {
+        "comment": "Hǎidào Special Support Group",
+        "id": 2056,
+        "childs": [
+          {
+            "comment": "Chain of Command is not available in Yu Jing",
+            "id": 6,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Liú Xīng Jump Infantry",
+        "id": 2057
+      },
+      {
+        "comment": "Mówáng Troops",
+        "id": 2058,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Tai Sheng, Zúyong Invincibles NCO",
+        "id": 2059
+      },
+      {
+        "comment": "Zhēnchá, Armored Reconnaissance Regiment",
+        "id": 2060
       },
       {
         "comment": "Authorized Bounty Hunters",

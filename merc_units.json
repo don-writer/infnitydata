@@ -5079,5 +5079,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9067,
+    "army": "Non-Aligned Armies",
+    "isc": "Libertos Freedom Fighters",
+    "name": "Liberto",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "F",
+    "irr": "X",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "10",
+    "wip": "12",
+    "arm": "0",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "CH: Limited Camouflage",
+      "Forward Deployment L2",
+      "Hyper-Dynamics L2",
+      "Acquatic Terrain",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Minelayer",
+        "cost": "10",
+        "swc": "1",
+        "spec": [
+          "Minelayer"
+        ],
+        "bsw": [
+          "Light Shotgun",
+          "Chain-Colt",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG",
+        "cost": "8",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chain-Colt",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

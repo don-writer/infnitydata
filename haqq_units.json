@@ -882,7 +882,7 @@
       },
       {
         "id": 2,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "32",
         "swc": "0.5",
         "spec": [
@@ -1372,7 +1372,7 @@
       },
       {
         "id": 2,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -2209,7 +2209,7 @@
       },
       {
         "id": 3,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "26",
         "swc": "0.5",
         "spec": [

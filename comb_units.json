@@ -396,7 +396,7 @@
       },
       {
         "id": 4,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "35",
         "swc": "0.5",
         "spec": [
@@ -1269,7 +1269,7 @@
       },
       {
         "id": 5,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -1393,7 +1393,7 @@
       },
       {
         "id": 5,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "41",
         "swc": "0.5",
         "spec": [
@@ -2406,7 +2406,7 @@
       },
       {
         "id": 3,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "27",
         "swc": "0.5",
         "spec": [
@@ -3494,7 +3494,7 @@
     "childs": [
       {
         "id": 1,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [
@@ -3992,7 +3992,7 @@
       },
       {
         "id": 4,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "30",
         "swc": "0.5",
         "spec": [
@@ -4245,7 +4245,7 @@
       },
       {
         "id": 4,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "31",
         "swc": "0.5",
         "spec": [
@@ -4871,7 +4871,7 @@
       },
       {
         "id": 3,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "43",
         "swc": "0.5",
         "spec": [
@@ -5323,7 +5323,7 @@
     "childs": [
       {
         "id": 1,
-        "name": "Hacker",
+        "name": "Killer Hacker",
         "cost": "19",
         "swc": "0.5",
         "spec": [

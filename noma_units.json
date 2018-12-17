@@ -595,7 +595,7 @@
       },
       {
         "id": 6,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -899,7 +899,7 @@
       },
       {
         "id": 7,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "36",
         "swc": "0.5",
         "spec": [
@@ -1428,7 +1428,7 @@
       },
       {
         "id": 5,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "24",
         "swc": "0.5",
         "spec": [
@@ -1711,7 +1711,7 @@
       },
       {
         "id": 4,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "28",
         "swc": "0.5",
         "spec": [
@@ -4271,7 +4271,7 @@
       },
       {
         "id": 5,
-        "name": "Hacker",
+        "name": "Assault Hacker",
         "cost": "25",
         "swc": "0.5",
         "spec": [

@@ -23,7 +23,7 @@ sort_order = [
 'isc', 'legacy_isc', 'name', 'legacy_name', 'abbr', 'units', 'sharedAva', 'image',
 'optionSpecific', 'type', 'classification', 'imp', 'irr', 'cube', 'hackable', 'mov', 'cc', 'bs', 'ph', 'wip', 'arm',
 'bts', 'w', 'wtype', 's', 'ava', 'code', 'legacy_code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw',
-'ccw', 'independent', 'profiles', 'skills', 'childs', 'hide', 'linkable', 'note'
+'ccw', 'independent', 'profiles', 'skills', 'childs', 'hide', 'title', 'note', 'notes'
 ]
 
 

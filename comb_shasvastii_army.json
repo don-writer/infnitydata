@@ -54,25 +54,48 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Gwailos, Sheskiin + Corax Hasht and up to 3 Gwailos"
+          }
+        ]
       },
       {
         "comment": "Shasvastii Caliban (Seed-Embryo)",
         "id": 6044,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
+          }
+        ]
       },
       {
         "comment": "Shasvastii Caliban (Infiltration)",
         "id": 6045,
         "ava": "5",
-        "note": "Caliban with Infiltration cannot join a Fireteam"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Troopers with Inferior Infiltration cannot be members of a Fireteam in this Sectorial"
+          }
+        ]
       },
       {
         "comment": "Shasvastii Caliban (Developed)",
         "id": 6046,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
+          }
+        ]
       },
       {
         "comment": "The Shrouded",
@@ -150,8 +173,16 @@
             "swc": "0"
           }
         ],
-        "linkable": true,
-        "note": "Fireteam: Core with Caliban or Gwailo"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Gwailos, Sheskiin + Corax Hasht and up to 3 Gwailos"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
+          }
+        ]
       },
       {
         "comment": "Corax Spec-Ops",
@@ -167,8 +198,16 @@
         "comment": "Shasvastii Corax Hasht",
         "id": 6031,
         "ava": "1",
-        "linkable": true,
-        "note": "Fireteam: Core with Caliban or Gwailo"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Gwailos, Sheskiin + Corax Hasht and up to 3 Gwailos"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
+          }
+        ]
       },
       {
         "comment": "Aïda Swanson, Submondo Smuggler",

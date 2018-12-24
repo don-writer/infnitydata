@@ -152,7 +152,13 @@
       },
       {
         "comment": "Sogarat Tempest Regiment",
-        "id": 6034
+        "id": 6034,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "The Anathematics",
@@ -228,7 +234,12 @@
             "hide": true
           }
         ],
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Oznat",

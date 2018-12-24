@@ -9,13 +9,25 @@
         "comment": "Morat Vanguard Infantry",
         "id": 6001,
         "ava": "T",
-        "linkable": true,
-        "note": "Special Fireteam: Core Up to 4 Vanguards + 1 Suryat"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Vanguards + 1 Suryat"
+          }
+        ]
       },
       {
         "comment": "Kurgat Reg. of Assault Engineers",
         "id": 6022,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Yaogat Strike Infantry",
@@ -28,7 +40,14 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Rodok",
@@ -41,7 +60,14 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Rasyat Diplomatic Division",
@@ -52,7 +78,12 @@
         "comment": "Raktorak",
         "id": 6047,
         "ava": "2",
-        "note": "Raktoraks may join any Fireteam"
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Raktoraks can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Suryats",
@@ -65,13 +96,39 @@
             "swc": "0"
           }
         ],
-        "linkable": true,
-        "note": "Special Fireteam: Core Up to 4 Vanguards + 1 Suryat<br>Special Fireteam: Core Up to 4 Suryats + 1 Kornak<br>Special Fireteam: Haris Kornak + up to 2 Suryats"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Vanguards + 1 Suryat"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Suryats + 1 Kornak"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Kornak can compose a Fireteam: Haris with Suryats"
+          }
+        ]
       },
       {
         "comment": "Sogarat Tempest Regiment",
         "id": 6034,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Raicho Armoured Brigade",
@@ -87,14 +144,22 @@
         "comment": "Dāturazi Witch-Soldiers",
         "id": 6013,
         "ava": "T",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Oznat",
         "id": 6049,
         "ava": "2",
-        "linkable": true,
-        "note": "Fireteam: Core of up to 4 Gakis/Pretas and 1-2 Oznat"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Hungries (Gakis and/or Pretas) + 1 or 2 Oznats"
+          }
+        ]
       },
       {
         "comment": "Kornak Gazarot",
@@ -107,22 +172,38 @@
             "swc": "0"
           }
         ],
-        "linkable": true,
-        "note": "Fireteam: Core of Kornak + up to 4 Suryats<br>Fireteam: Haris of Kornak + up to 2 Suryats"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Suryats + 1 Kornak"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Kornak can compose a Fireteam: Haris with Suryats"
+          }
+        ]
       },
       {
         "comment": "The Hungries: \"Gakis\"",
         "id": 6014,
         "ava": "4",
-        "linkable": true,
-        "note": "Fireteam: Core of up to 4 Gakis/Pretas and 1-2 Oznat"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Hungries (Gakis and/or Pretas) + 1 or 2 Oznats"
+          }
+        ]
       },
       {
         "comment": "The Hungries: \"Pretas\"",
         "id": 6015,
         "ava": "4",
-        "linkable": true,
-        "note": "Fireteam: Core of up to 4 Gakis/Pretas and 1-2 Oznat"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Hungries (Gakis and/or Pretas) + 1 or 2 Oznats"
+          }
+        ]
       },
       {
         "comment": "Med-Tech Obsidon Medchanoid",
@@ -178,8 +259,12 @@
         "comment": "Treitak Anyat",
         "id": 6040,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Vanguard for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Treitak Anyat counts as a Morat Vanguard Inf. for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Krakot Renegades, Morat Fugitives",

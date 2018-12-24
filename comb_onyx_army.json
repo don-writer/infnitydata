@@ -9,8 +9,15 @@
         "comment": "Unidron Batroids",
         "id": 6002,
         "ava": "T",
-        "linkable": true,
-        "note": "Fireteam: Core may include 1 Umbra Legate and/or 1 Nexus Operative"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate + up to 4 Unidron Batroids, OR 1 Nexus Operative + 1 Umbra Legate + up to 3 Unidron Batroids"
+          }
+        ]
       },
       {
         "comment": "Nexus Operative",
@@ -23,8 +30,16 @@
             "swc": "0"
           }
         ],
-        "linkable": true,
-        "note": "Fireteam: Core with Unidrons and up to 1 Umbra Legate<br>1 Nexus Operative may join a Fireteam: Core of Rodok"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate + up to 4 Unidron Batroids, OR 1 Nexus Operative + 1 Umbra Legate + up to 3 Unidron Batroids"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate or 1 Umbra Samaritan + up to 4 Rodoks"
+          }
+        ]
       },
       {
         "comment": "Fraacta Drop Unit",
@@ -40,8 +55,18 @@
         "comment": "Rodok",
         "id": 6006,
         "ava": "5",
-        "linkable": true,
-        "note": "Fireteam: Core may include 1 Umbra Legate, 1 Umbra Samaritan, or 1 Nexus Operative"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate or 1 Umbra Samaritan + up to 4 Rodoks"
+          }
+        ]
       },
       {
         "comment": "Maakrep",
@@ -52,8 +77,16 @@
         "comment": "Umbra Legate",
         "id": 6004,
         "ava": "3",
-        "linkable": true,
-        "note": "1 may join a Fireteam: Core of Batroids or Rodoks"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate + up to 4 Unidron Batroids, OR 1 Nexus Operative + 1 Umbra Legate + up to 3 Unidron Batroids"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate or 1 Umbra Samaritan + up to 4 Rodoks"
+          }
+        ]
       },
       {
         "comment": "Umbra Samaritan",
@@ -66,7 +99,16 @@
             "swc": "0"
           }
         ],
-        "note": "1 may join a Fireteam: Core of Rodoks<br>Fireteam: Haris with 2 Xeodrons"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate or 1 Umbra Samaritan + up to 4 Rodoks"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Umbra Samaritan + 2 Xeodron Batroids"
+          }
+        ]
       },
       {
         "comment": "Suryats",
@@ -78,13 +120,23 @@
             "id": 9,
             "hide": true
           }
+        ],
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
         ]
       },
       {
         "comment": "Xeodron",
         "id": 6054,
         "ava": "4",
-        "note": "Fireteam: Haris of 2 Xeodrons and 1 Samaritan"
+        "notes": [
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Umbra Samaritan + 2 Xeodron Batroids"
+          }
+        ]
       },
       {
         "comment": "Overdron",
@@ -165,7 +217,12 @@
         "comment": "Kerr-Nau",
         "id": 6057,
         "ava": "1",
-        "note": "Kerr-Nau counts as a Nexus for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Kerr-Nau counts as a Nexus for Fireteam composition"
+          }
+        ]
       }
     ]
   }

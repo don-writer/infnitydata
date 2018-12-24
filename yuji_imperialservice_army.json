@@ -9,34 +9,84 @@
         "comment": "Celestial Guard",
         "id": 2022,
         "ava": "T",
-        "linkable": true,
-        "note": "Fireteam: Core with up to 3 Crane<br>Control Device profile may form Fireteam: Core with 1-4 Kuang Shi"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Imperial Agent Crane Rank + Celestial Guards"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Celestial Guard with Kuang Shi Control Device + up to 4 Kuang Shi"
+          }
+        ]
       },
       {
         "comment": "Bao Troop",
         "id": 2045,
         "ava": "4",
-        "linkable": true,
-        "note": "Fireteam: Core with 1 Pheasant and up to 4 Bao<br>Fireteam: Haris with Pheasant"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Imperial Agent Pheasant Rank + up to 4 Bào Troops"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Imperial Agent Pheasant Rank + up to 2 Bào Troops, OR 2 Imperial Agent Pheasant Rank + 1 Bào Troop"
+          }
+        ]
       },
       {
         "comment": "Zhànying Imperial Agents",
         "id": 2003,
         "ava": "4",
-        "note": "1 Zhanying may join a Fireteam: Core of Wu Ming<br>Fireteam: Haris may include 1 Hsien"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Hsien Warrior + up to 2 Zhànyīng Imperial Agents"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Zhànyīng Imperial Agent + up to 4 Wú Míng"
+          }
+        ]
       },
       {
         "comment": "Imperial Agent, Pheasant Rank",
         "id": 2029,
         "ava": "4",
-        "note": "Fireteam: Core with 1 Pheasant and up to 4 Bao<br>Fireteam: Haris may include Bao"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Imperial Agent Pheasant Rank + up to 4 Bào Troops"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Imperial Agent Pheasant Rank + up to 2 Bào Troops, OR 2 Imperial Agent Pheasant Rank + 1 Bào Troop"
+          }
+        ]
       },
       {
         "comment": "Imperial Agents, Crane Rank",
         "id": 2031,
         "ava": "5",
-        "linkable": true,
-        "note": "Fireteam: Core with Celestial Guard and up to 3 Crane"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Imperial Agent Crane Rank + Celestial Guards"
+          }
+        ]
       },
       {
         "comment": "Wu Ming",
@@ -49,19 +99,39 @@
             "hide": true
           }
         ],
-        "linkable": true,
-        "note": "Fireteam: Core may include 1 Zhanying"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Zhànyīng Imperial Agent + up to 4 Wú Míng"
+          }
+        ]
       },
       {
         "comment": "Hsien",
         "id": 2010,
         "ava": "4",
-        "note": "1 may join Zhanying Haris"
+        "notes": [
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Hsien Warrior + up to 2 Zhànyīng Imperial Agents"
+          }
+        ]
       },
       {
         "comment": "Su-Jian Immediate Action Unit",
         "id": 2034,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Ninjas",
@@ -77,8 +147,12 @@
         "comment": "Kuang Shi",
         "id": 2027,
         "ava": "8",
-        "linkable": true,
-        "note": "Fireteam: Core with 1 Celestial Guard Kuang Shi Control Device"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Celestial Guard with Kuang Shi Control Device + up to 4 Kuang Shi"
+          }
+        ]
       },
       {
         "comment": "Dakini Tacbots",
@@ -168,19 +242,34 @@
         "comment": "Guǐ Fēng Xi Zhuang",
         "id": 2050,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Celestial Guard for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Gui Feng Xi Zhuang counts as a Celestial Guard for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Miranda Ashcroft (Ashcroft Hunting Party)",
         "id": 2051,
         "ava": "1",
-        "note": "Fireteam: Duo with Authorized Bounty Hunters (Ashcroft Hunting Party)"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "An Ashcroft Hunting Party is composed of one Miranda Ashcroft and one Authorized Bounty Hunter. An Ashcroft Hunting Party is considered a Fireteam: Duo."
+          }
+        ]
       },
       {
         "comment": "Authorized Bounty Hunters (Ashcroft Hunting Party)",
         "id": 2052,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "An Ashcroft Hunting Party is composed of one Miranda Ashcroft and one Authorized Bounty Hunter. An Ashcroft Hunting Party is considered a Fireteam: Duo."
+          }
+        ]
       },
       {
         "comment": "Father Lucien Sforza, Registered Bounty Hunter",

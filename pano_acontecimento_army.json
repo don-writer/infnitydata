@@ -17,8 +17,19 @@
             "swc": "0"
           }
         ],
-        "linkable": true,
-        "note": "Special Fireteam: Core 0-2 Bagh Mari may join a Regulars fireteam<br>Special Fireteam: Core 1 Orc may join a Regulars fireteam"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 2 Bagh-Maris can join any Fireteam Core of Regulars"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Orc Troop can join any Fireteam Core of Regulars"
+          }
+        ]
       },
       {
         "comment": "Akalis",
@@ -29,12 +40,38 @@
         "comment": "Bagh-Mari",
         "id": 1003,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 2 Bagh-Maris can join any Fireteam Core of Regulars"
+          }
+        ]
       },
       {
         "comment": "Orc Troops",
         "id": 1006,
-        "ava": "4"
+        "ava": "4",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Orc Troop can join any Fireteam Core of Regulars"
+          }
+        ]
       },
       {
         "comment": "Guarda de Assalto",
@@ -61,6 +98,11 @@
             "id": 3,
             "hide": true
           }
+        ],
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
         ]
       },
       {
@@ -82,8 +124,12 @@
         "comment": "Lieutenant Stephen Rao",
         "id": 1049,
         "ava": "1",
-        "linkable": true,
-        "note": "Can join any Fireteam"
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Rao can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Drakios",
@@ -156,7 +202,12 @@
             "hide": true
           }
         ],
-        "note": "The SAA option may join any Bagh Mari fireteam"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "The SSA option can join any Fireteam of Bagh-Mari"
+          }
+        ]
       },
       {
         "comment": "Indigo Spec-Ops",

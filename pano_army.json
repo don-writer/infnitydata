@@ -58,7 +58,12 @@
             "hide": true
           }
         ],
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Knights Hospitaller",
@@ -74,7 +79,12 @@
       {
         "comment": "Father-Knights",
         "id": 1008,
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Aquila Guard",

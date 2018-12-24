@@ -14,14 +14,27 @@
       {
         "comment": "Fusilier Indigo Bipandra",
         "id": 1046,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Bipandra counts as a Fusilier for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Fusiliers",
         "id": 1001,
         "ava": "T",
-        "linkable": true,
-        "note": "Special Fireteam: Core 0-3 Fusiliers and 0-2 Orcs (Varuna Div.)"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Fusiliers and up to 2 Orc Troops (Varuna Div.)"
+          }
+        ]
       },
       {
         "comment": "Helot Militia",
@@ -32,8 +45,18 @@
         "comment": "Kamau",
         "id": 1002,
         "ava": "5",
-        "linkable": true,
-        "note": "Wildard Trooper: Kamau can join any Fireteam"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Wildcard Trooper",
+            "note": "The Kamaus can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Machinist",
@@ -51,7 +74,12 @@
             "hide": true
           }
         ],
-        "note": "The Varuna Div. option may join any Kamau fireteam"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "The Varuna Div. option can join any Fireteam: Core or Haris of Kamau"
+          }
+        ]
       },
       {
         "comment": "Tech-Bees, Maintenance Battalions",
@@ -91,20 +119,54 @@
             "hide": true
           }
         ],
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core",
+            "note": "Can include both regular and Varuna Orcs"
+          },
+          {
+            "title": "Fireteam: Haris",
+            "note": "Can include both regular and Varuna Orcs"
+          },
+          {
+            "title": "Fireteam: Duo",
+            "note": "Can include both regular and Varuna Orcs"
+          }
+        ]
       },
       {
         "comment": "Orc Troops (Varuna Div.)",
         "id": 1057,
         "ava": "5",
-        "linkable": true,
-        "note": "Special Fireteam: Core 0-3 Fusiliers and 0-2 Orcs (Varuna Div.)"
+        "notes": [
+          {
+            "title": "Fireteam: Core",
+            "note": "Can include both regular and Varuna Orcs"
+          },
+          {
+            "title": "Fireteam: Haris",
+            "note": "Can include both regular and Varuna Orcs"
+          },
+          {
+            "title": "Fireteam: Duo",
+            "note": "Can include both regular and Varuna Orcs"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Fusiliers and up to 2 Orc Troops (Varuna Div.)"
+          }
+        ]
       },
       {
         "comment": "Patsy Garnett",
         "id": 1058,
         "ava": "1",
-        "note": "Wildard Trooper: Patsy Garnett can join any Fireteam"
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Patsy Garnett can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Cutter",
@@ -114,7 +176,12 @@
       {
         "comment": "Squalo",
         "id": 1011,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Armbots: Bulleteers",
@@ -124,7 +191,13 @@
       {
         "comment": "Clipper Dronbot",
         "id": 1020,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "The Varuna Div. option can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Fugazi Dronbot",

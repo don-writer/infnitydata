@@ -15,7 +15,11 @@
         "comment": "Fusiliers",
         "id": 1001,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Hexas, Strategic Security Division",
@@ -26,7 +30,11 @@
         "comment": "Neoterra Bolts",
         "id": 1050,
         "ava": "T",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Black Friars",
@@ -36,7 +44,12 @@
       {
         "comment": "Orc Troop",
         "id": 1006,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Aquila Guard",
@@ -157,6 +170,12 @@
             "id": 4,
             "hide": true
           }
+        ],
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "The NCA option can be part of any Fireteam of Neoterra Bolts"
+          }
         ]
       },
       {
@@ -168,8 +187,12 @@
         "comment": "Fusilier Indigo Bipandra",
         "id": 1046,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Fusilier for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Bipandra counts as a Fusilier for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Tech-Bees, Maintenance Battalions",

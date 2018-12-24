@@ -9,13 +9,23 @@
         "comment": "112, Emergency Service",
         "id": 3017,
         "ava": "2",
-        "note": "Special Fireteam: Core 1-4 Frontovik and 1 112"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Frontoviks + 1 112s"
+          }
+        ]
       },
       {
         "comment": "Col. Yevgueni Voronin",
         "id": 3046,
         "ava": "1",
-        "note": "May join any fireteam"
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Voronin can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Dozers, Field Engineers",
@@ -25,14 +35,37 @@
       {
         "comment": "Dynamo",
         "id": 3052,
-        "ava": "5"
+        "ava": "5",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Frontoviks",
         "id": 3053,
         "ava": "5",
-        "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Line Kazak and 1 Frontovik<br>Special Fireteam: Core 1-4 Frontovik and 1 112<br>Special Fireteam: Core 0-3 Veteran Kazak and 2 Frontovik"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Line Kazaks + 1 Frontovik"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Frontoviks + 1 112s"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Veteran Kazaks + 2 Frontoviks"
+          }
+        ]
       },
       {
         "comment": "Kazak Doktor",
@@ -48,8 +81,15 @@
         "comment": "Line Kazak",
         "id": 3001,
         "ava": "T",
-        "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Line Kazak and 1 Frontovik"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Line Kazaks + 1 Frontovik"
+          }
+        ]
       },
       {
         "comment": "Streloks",
@@ -83,14 +123,36 @@
       {
         "comment": "Ratnik",
         "id": 3051,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Veteran Kazaks",
         "id": 3008,
         "ava": "5",
-        "linkable": true,
-        "note": "Special Fireteam: Core 0-3 Veteran Kazak and 2 Frontovik<br>May join any fireteam"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Veteran Kazaks + 2 Frontoviks"
+          },
+          {
+            "title": "Wildcard Trooper",
+            "note": "Veteran Kazaks can join any Fireteam of the Kazak Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Traktor Mul Kuryer, Mobile Artillery Regiment",

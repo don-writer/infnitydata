@@ -17,8 +17,12 @@
             "swc": "0"
           }
         ],
-        "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Volunteers + 1 3rd Grey Rifle<br>Note: Troops with infiltration may not join fireteams"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Troopers with Inferior Infiltration cannot be members of a Fireteam in this Sectorial. Up to 5 Volunteers OR 1 3rd Grey Rifle + up to 4 Volunteers."
+          }
+        ]
       },
       {
         "comment": "Highlander Caterans",
@@ -28,26 +32,60 @@
       {
         "comment": "Scot (2nd Battalion)",
         "id": 3035,
-        "ava": "5"
+        "ava": "5",
+        "notes": [
+          {
+            "title": "2nd Battalion",
+            "note": "Only the Scots Guards from the 1st Battalion can compose Fireteams in this Sectorial"
+          }
+        ]
       },
       {
         "comment": "Scot (1st Battalion)",
         "id": 3036,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Only the Scots Guards from the 1st Battalion can compose Fireteams in this Sectorial"
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "Only the Scots Guards from the 1st Battalion can compose Fireteams in this Sectorial"
+          }
+        ]
       },
       {
         "comment": "3rd Highlander Greys",
         "id": 3019,
         "ava": "5",
-        "linkable": true,
-        "note": "Special Fireteam: Haris 1-2 Mormaers + 1 3rd Grey Rifle<br>Special Fireteam: Core 1-4 Volunteers + 1 3rd Grey Rifle"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Troopers with Inferior Infiltration cannot be members of a Fireteam in this Sectorial. Up to 5 Volunteers OR 1 3rd Grey Rifle + up to 4 Volunteers."
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 3rd Grey Rifle and up to 2 Mormaers"
+          }
+        ]
       },
       {
         "comment": "Caledonian Mormaers",
         "id": 3021,
         "ava": "3",
-        "note": "Special Fireteam: Haris 1-2 Mormaers + 1 3rd Grey Rifle"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 3rd Grey Rifle and up to 2 Mormaers"
+          }
+        ]
       },
       {
         "comment": "S.A.S.",
@@ -58,14 +96,25 @@
         "comment": "9th Wulver Grenadiers",
         "id": 3020,
         "ava": "4",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "45th Highlanders",
         "id": 3013,
         "ava": "T",
-        "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Galwegians + William Wallace Lieutenant"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "William Wallace Lieutenant + up to 4 Galwegians"
+          }
+        ]
       },
       {
         "comment": "2nd Irregular Cameronians Reg.",
@@ -96,8 +145,12 @@
         "comment": "William Wallace",
         "id": 3029,
         "ava": "1",
-        "linkable": true,
-        "note": "Lieutenant may join any Fireteam: Core or Haris"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "William Wallace Lieutenant can join any Fireteam: Core or Haris in this Sectorial"
+          }
+        ]
       },
       {
         "comment": "Intel Spec-Ops",
@@ -108,8 +161,12 @@
         "comment": "Volunteer Intel Isobel McGregor",
         "id": 3032,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Volunteer for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Isobel McGregor counts as a Volunteer for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "McMurrough",

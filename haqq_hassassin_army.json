@@ -14,13 +14,24 @@
         "comment": "Ghulam",
         "id": 4002,
         "ava": "4",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Hassassin Govads",
         "id": 4042,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Hassassin Barid",
@@ -31,7 +42,18 @@
         "comment": "Hassassin Muyibs",
         "id": 4031,
         "ava": "6",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "This Fireteam must include at least one Asawira with Fireteam: Haris. 1 Asawira + up to 2 Muyibs, OR 2 Asawiras + up to 1 Muyib"
+          }
+        ]
       },
       {
         "comment": "Hassassin Ragiks",
@@ -42,13 +64,28 @@
         "comment": "Hassassin Lasiqs",
         "id": 4030,
         "ava": "4",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Asawira Regiment",
         "id": 4025,
         "ava": "4",
-        "note": "Fireteam: Haris may include up to 2 Muyibs"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "This Fireteam must include at least one Asawira with Fireteam: Haris. 1 Asawira + up to 2 Muyibs, OR 2 Asawiras + up to 1 Muyib"
+          }
+        ]
       },
       {
         "comment": "Hassassin Áyyār",
@@ -119,15 +156,23 @@
         "comment": "Hassassin Husam Yasbir",
         "id": 4038,
         "ava": "1",
-        "linkable": true,
-        "note": "Non-infiltrating option counts as Muyib for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Yasbir (non-Infiltrating option) counts as a Muyib for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Husam Operative Leila Sharif",
         "id": 4048,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Ghulam or Muyib for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Leila Sharif counts as a Ghulam or as a Hassassin Muyib for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Warcor",

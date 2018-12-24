@@ -9,13 +9,24 @@
         "comment": "Ghulam",
         "id": 4002,
         "ava": "T",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Odalisques",
         "id": 4035,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Bashi Bazouk",
@@ -26,20 +37,45 @@
         "comment": "Hafza Unit",
         "id": 4028,
         "ava": "4",
-        "linkable": true,
-        "note": "Up to 2 Hafza can join any non-Mercenary Fireteam: Core<br>Up to 1 Hafza can join any non-Mercenary Fireteam: Haris"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 2 Hafzas can join any Fireteam: Core, but not those of Mercenary Troops (Druze and Kaplans), of this Sectorial Army"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Up to 1 Hafza can join any Fireteam: Haris, but not those of Mercenary Troops (Druze and Kaplans), of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Sekban",
         "id": 4041,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Djanbazan",
         "id": 4006,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Azra'il",
@@ -50,7 +86,11 @@
         "comment": "Janissaries",
         "id": 4008,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Al Hawwa' Unit",
@@ -61,13 +101,24 @@
         "comment": "Druze Shock Teams",
         "id": 4046,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "KTS, Kaplan Tactical Services",
         "id": 4039,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Rafiq Remote",
@@ -113,8 +164,12 @@
         "comment": "Husam Operative Leila Sharif",
         "id": 4048,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Ghulam or Muyib for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Leila Sharif counts as a Ghulam or as a Hassassin Muyib for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Alguaciles",

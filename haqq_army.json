@@ -201,7 +201,12 @@
             "hide": true
           }
         ],
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Hassassin Govads",
@@ -229,7 +234,12 @@
       {
         "comment": "Druze Shock Teams",
         "id": 4046,
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Hassassin Ayyar",

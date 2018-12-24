@@ -19,7 +19,27 @@
         "comment": "Brawlers, Mercenary Enforcers",
         "id": 9036,
         "ava": "4",
-        "note": "Special Fireteam: Haris of 2 Brawlers + 1 Tanko<br>Special Fireteam: Haris of 1 Brawler + 2 Tanko"
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 Tankō"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Tankōs + 1 Brawler"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Wú Míng + 1 Clipper FTS or 1 Brawler"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "3 Keisotus + 1 Tankō + 1 Brawler"
+          }
+        ]
       },
       {
         "comment": "Cube Jäger, Mercenary Recoverers",
@@ -30,8 +50,15 @@
         "comment": "Keisotsu",
         "id": 9042,
         "ava": "5",
-        "linkable": true,
-        "note": "Special Fireteam: Core 3 Keisotsu + 1 Tanko + 1 Brawler"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "3 Keisotsus + 1 Tankō + 1 Brawler"
+          }
+        ]
       },
       {
         "comment": "Krakot Renegades, Morat Fugitives",
@@ -78,8 +105,18 @@
             "hide": true
           }
         ],
-        "linkable": true,
-        "note": "Special Fireteam: Core 4 Druze + 1 Tanko"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "4 Druze + 1 Tankō"
+          }
+        ]
       },
       {
         "comment": "Al Fasid",
@@ -106,7 +143,30 @@
       {
         "comment": "Tankō Zensenbutai",
         "id": 9053,
-        "note": "Special Fireteam: Haris 2 Brawlers + 1 Tankō<br>Special Fireteam: Haris 2 Tankō + 1 Brawler"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 Tankō"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Tankōs + 1 Brawler"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "3 Keisotsus + 1 Tankō + 1 Brawler"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "4 Druze + 1 Tankō"
+          }
+        ]
       },
       {
         "comment": "Wu Ming",
@@ -124,7 +184,19 @@
             "hide": true
           }
         ],
-        "note": "Special Fireteam: Core 4 Wu Ming + 1 Clipper FTS<br>Special Fireteam: Haris 2 Wu Ming + 1 Clipper FTS of 1 Brawler"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "4 Wú Míng + 1 Clipper FTS"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Wú Míng + 1 Clipper FTS or 1 Brawler"
+          }
+        ]
       },
       {
         "comment": "Scarface",
@@ -134,7 +206,16 @@
         "comment": "Clipper Dronbot (special)",
         "id": 9035,
         "ava": "1",
-        "note": "Special Fireteam: Core 4 Wu Ming + 1 Clipper FTS"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "4 Wú Míng + 1 Clipper FTS"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Wú Míng + 1 Clipper FTS or 1 Brawler"
+          }
+        ]
       },
       {
         "comment": "Fugazi Dronbot",

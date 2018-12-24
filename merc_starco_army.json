@@ -10,19 +10,59 @@
         "comment": "Avicenna",
         "id": 9009,
         "ava": "1",
-        "note": "Special Fireteam: Core 1-4 Riot Grrls + Avicenna or Emily Handelman<br>Special Fireteam: Haris 1-2 Riot Grrls + Avicenna"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Riot Grrls + Avicenna or Emily Handelman"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Up to 2 Riot Grrls + Avicenna"
+          }
+        ]
       },
       {
         "comment": "Brawlers, Mercenary Enforcers",
         "id": 9036,
         "ava": "4",
-        "note": "Special Fireteam: Haris 2 Brawlers + 1 CSU or Spector FTO<br>Special Fireteam: Haris 1 Brawler + 1 CSU + Spector FTO"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 CSU or Spector FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Brawler + 1 CSU + Spector FTO"
+          }
+        ]
       },
       {
         "comment": "Mercenary - CSU, Corporate Security Unit",
         "id": 9020,
         "ava": "3",
-        "note": "Special Fireteam: Duo 1 CSU + Spector FTO"
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 CSU + Spector FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 CSU or Spector FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Brawler + 1 CSU + Spector FTO"
+          }
+        ]
       },
       {
         "comment": "Clockmakers",
@@ -33,19 +73,44 @@
         "comment": "Alguaciles",
         "id": 5001,
         "ava": "T",
-        "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Alguaciles + Emily Handelman"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Alguaciles + Emily Handelman"
+          }
+        ]
       },
       {
         "comment": "Daktaris",
         "id": 5016,
         "ava": "1",
-        "note": "Special Fireteam: Core 0-3 Mobile Brigada + 1 Daktari + Señor Massacre"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Mobile Brigadas + 1 Daktari + Señor Massacre"
+          }
+        ]
       },
       {
         "comment": "Emily Handelman, Intel Agent",
         "id": 9060,
-        "note": "Special Fireteam: Duo Emily Handelman + Uhahu"
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "Emily Handelman + Uhahu"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Riot Grrls + Avicenna or Emily Handelman"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Alguaciles + Emily Handelman"
+          }
+        ]
       },
       {
         "comment": "Highlander Caterans",
@@ -67,12 +132,30 @@
       {
         "comment": "Raoul Spector, Mercenary Operative (Regular)",
         "id": 9062,
-        "note": "Special Fireteam: Haris 2 Brawlers + 1 CSU or Spector FTO<br>Special Fireteam: Haris 1 Brawler + 1 CSU + Spector FTO"
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 CSU + Spector FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 CSU or Spector FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Brawler + 1 CSU + Spector FTO"
+          }
+        ]
       },
       {
         "comment": "Uhahu",
         "id": 9063,
-        "note": "Special Fireteam: Duo Emily Handelman + Uhahu"
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "Emily Handelman + Uhahu"
+          }
+        ]
       },
       {
         "comment": "Warcor",
@@ -88,19 +171,50 @@
         "comment": "Mobile Brigada",
         "id": 5008,
         "ava": "4",
-        "linkable": true,
-        "note": "Special Fireteam: Core 0-3 Mobile Brigada + 1 Daktari + Señor Massacre"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Anaconda + 1 Mobile Brigada"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Mobile Brigadas + 1 Daktari + Señor Massacre"
+          }
+        ]
       },
       {
         "comment": "Riot Grrls",
         "id": 5041,
         "ava": "4",
-        "linkable": true,
-        "note": "Special Fireteam: Core 1-4 Riot Grrls + Avicenna or Emily Handelman<br>Special Fireteam: Haris 1-2 Riot Grrls + Avicenna"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Riot Grrls + Avicenna or Emily Handelman"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Up to 2 Riot Grrls + Avicenna"
+          }
+        ]
       },
       {
         "comment": "Anaconda (duo)",
-        "id": 9064
+        "id": 9064,
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Anaconda + 1 Mobile Brigada"
+          }
+        ]
       },
       {
         "comment": "Lunokhod Sputniks",
@@ -183,7 +297,12 @@
             "hide": true
           }
         ],
-        "note": "Special Fireteam: Core 0-3 Mobile Brigada + 1 Daktari + Señor Massacre"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Mobile Brigadas + 1 Daktari + Señor Massacre"
+          }
+        ]
       },
       {
         "comment": "Brawler Spec-Ops",

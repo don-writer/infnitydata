@@ -8,13 +8,33 @@
       {
         "comment": "Keisotsu",
         "id": 9042,
-        "linkable": true,
-        "note": "Special Fireteam: Core 1 or 2 Kempeitai + Keisotsu<br>Special Fireteam: Core 1 Kempeitai + 1 Domaru + Keisotsu"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Either 1 Kempeitai and up to 4 Keisotsus OR 2 Kempeitai and up to 3 Keisotsus"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Kempeitai + 1 Domaru + 3 Keisotsus"
+          }
+        ]
       },
       {
         "comment": "Kempeitai",
         "id": 9044,
-        "note": "Special Fireteam: Core 1 or 2 Kempeitai + Keisotsu<br>Special Fireteam: Core 1 Kempeitai + 1 Domaru + Keisotsu"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Either 1 Kempeitai and up to 4 Keisotsus OR 2 Kempeitai and up to 3 Keisotsus"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Kempeitai + 1 Domaru + 3 Keisotsus"
+          }
+        ]
       },
       {
         "comment": "Aragoto Senkenbutai",
@@ -27,13 +47,46 @@
       {
         "comment": "Karakuri Special Project",
         "id": 9049,
-        "note": "Special Fireteam: Haris 1 Domaru Haris + 2 Karakuri"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Domaru Haris + 2 Karakuris"
+          }
+        ]
       },
       {
         "comment": "Domaru Butai",
         "id": 9050,
-        "linkable": true,
-        "note": "Special Fireteam: Haris 2 Domaru + 1 Daiyōkai<br>Special Fireteam: Haris 1 Domaru Haris + 2 Karakuri<br>Special Fireteam: Core 2+ Domaru and 0-3 Tanko"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Domaru + 1 Daiyokai"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Domaru Haris + 2 Karakuris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "At least 2 Domarus and at up to 3 Tankōs"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Kempeitai + 1 Domaru + 3 Keisotsus"
+          }
+        ]
       },
       {
         "comment": "Tankō Zensenbutai",
@@ -50,7 +103,16 @@
             "hide": true
           }
         ],
-        "note": "Special Fireteam: Haris Miyamoto Mushashi + 2 Tankō<br>Special Fireteam: Core 2+ Domaru and 0-3 Tankō"
+        "notes": [
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Miyamoto Mushashi Haris + 2 Tankōs"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "At least 2 Domarus and at up to 3 Tankōs"
+          }
+        ]
       },
       {
         "comment": "O-Yoroi Kidobutai",
@@ -58,7 +120,12 @@
       },
       {
         "comment": "Shikami",
-        "id": 9052
+        "id": 9052,
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Ninjas",
@@ -79,8 +146,12 @@
       {
         "comment": "Domaru Takeshi 'Neko' Oyama",
         "id": 9051,
-        "linkable": true,
-        "note": "Counts as Domaru for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Neko counts as a Domaru for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Kuroshi Rider",
@@ -143,18 +214,37 @@
       {
         "comment": "Kaizoku Spec-Ops",
         "id": 9059,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Kaizoku Spec-Ops count as a Keisotsu for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Kaizoku Yuriko Oda",
         "id": 9043,
-        "linkable": true,
-        "note": "Counts as Keisotsu for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Yuriko Oda counts as a Keisotsu for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Daiyōkai Dengekitai",
         "id": 9048,
-        "note": "Special Fireteam: Duo 1 Domaru + 1 Daiyōkai<br>Special Fireteam: Haris 2 Domaru + 1 Daiyōkai"
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Domaru + 1 Daiyokai"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Domaru + 1 Daiyokai"
+          }
+        ]
       },
       {
         "comment": "Warcor",
@@ -175,7 +265,13 @@
       },
       {
         "comment": "Miyamoto Mushashi (Haris)",
-        "id": 9058
+        "id": 9058,
+        "notes": [
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Miyamoto Mushashi Haris + 2 Tankōs"
+          }
+        ]
       }
     ]
   }

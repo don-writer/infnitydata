@@ -8,18 +8,44 @@
       {
         "comment": "Druze Shock Teams (special version)",
         "id": 9031,
-        "linkable": true,
-        "note": "Fireteam: Core may include 1 Brawler and/or 1 Clipper Dronbot<br>Special Fireteam: Core of 2 Druze and up to 3 Brawlers"
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Can include 1 Brawler and/or 1 Clipper Dronbot"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "2 Druze and up to 3 Brawlers"
+          }
+        ]
       },
       {
         "comment": "Security Chief Arslan",
         "id": 9032,
-        "linkable": true,
-        "note": "Counts as Druze for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Chief Arslan counts as a Druze for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Authorized Bounty Hunters (special version)",
-        "id": 9033
+        "id": 9033,
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Bashi Bazouk (special version)",
@@ -28,7 +54,7 @@
       {
         "comment": "Anaconda",
         "id": 9016,
-        "classification": "Mechanized"
+        "ava": "1"
       },
       {
         "comment": "Hunzakuts",
@@ -72,13 +98,28 @@
       {
         "comment": "Brawlers, Mercenary Enforcers",
         "id": 9036,
-        "note": "Special Fireteam: Core of 2 Druze and up to 3 Brawlers"
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "2 Druze and up to 3 Brawlers"
+          }
+        ]
       },
       {
         "comment": "Valerya Gromoz, Mercenary Hacker",
         "id": 9012,
-        "linkable": true,
-        "note": "Can join any fireteam"
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Valerya Gromoz can be part of any Fireteam of the Druze Bayram Security"
+          }
+        ]
       },
       {
         "comment": "Saito Tōgan (special)",
@@ -87,7 +128,12 @@
       {
         "comment": "Scarface & Cordelia (special)",
         "id": 9038,
-        "note": "Special Fireteam: Duo of Scarface and Cordelia"
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "Scarface and Cordelia"
+          }
+        ]
       },
       {
         "comment": "Armand 'Le Muet'",

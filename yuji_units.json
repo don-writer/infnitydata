@@ -3461,6 +3461,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 2021,
     "spec": [
       "Multispectral Visor L1",
       "Marksmanship L1",
@@ -3979,6 +3980,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 9019,
     "spec": [
       "ODD: Optical Disruptor",
       "I-Kohl L1",
@@ -4136,6 +4138,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 9010,
     "spec": [
       "Holoprojector L2",
       "X Visor",

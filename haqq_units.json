@@ -2014,7 +2014,6 @@
     "army": "Haqqislam",
     "isc": "Kasym Beg",
     "name": "Kasym Beg",
-    "sharedAva": "Kasym Beg",
     "image": 4014,
     "ava": "1",
     "spec": [
@@ -2083,9 +2082,9 @@
     "army": "Haqqislam",
     "isc": "Kasym Beg (Lieutenant)",
     "name": "Kasym Beg Lt.",
-    "sharedAva": "Kasym Beg",
     "image": 4014,
     "ava": "1",
+    "sharedAva": 4022,
     "spec": [
       "V: Dogged"
     ],

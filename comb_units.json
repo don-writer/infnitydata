@@ -3894,7 +3894,6 @@
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Seed-Embryo)",
     "name": "Caliban (Seed-Embryo)",
-    "sharedAva": "Shasvastii Caliban",
     "ava": "2",
     "spec": [],
     "profiles": [
@@ -4050,9 +4049,9 @@
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Infiltration)",
     "name": "Caliban (Infiltration)",
-    "sharedAva": "Shasvastii Caliban",
     "image": 6044,
     "ava": "2",
+    "sharedAva": 6044,
     "spec": [],
     "profiles": [
       {
@@ -4176,7 +4175,6 @@
     "army": "Combined Army",
     "isc": "Shasvastii Caliban (Developed)",
     "name": "Caliban (Developed)",
-    "sharedAva": "Shasvastii Caliban",
     "image": 6044,
     "type": "MI",
     "classification": "Specially Trained",
@@ -4193,6 +4191,7 @@
     "w": "1",
     "s": "2",
     "ava": "2",
+    "sharedAva": 6044,
     "spec": [
       "Shasvastii",
       "AutoMediKit"

@@ -4582,6 +4582,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 9008,
     "spec": [
       "Martial Arts L5",
       "Dual Wield",
@@ -4769,6 +4770,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 9061,
     "spec": [
       "CH: Mimetism",
       "Natural Born Warrior",

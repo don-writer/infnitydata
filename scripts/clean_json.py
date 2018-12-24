@@ -20,9 +20,9 @@ with open(filename, 'r') as f:
 
 sort_order = [
 'comment', 'id', 'obsolete', 'army', 'army_id', 'sectorial',
-'isc', 'legacy_isc', 'name', 'legacy_name', 'abbr', 'units', 'sharedAva', 'image',
+'isc', 'legacy_isc', 'name', 'legacy_name', 'abbr', 'units', 'image',
 'optionSpecific', 'type', 'classification', 'imp', 'irr', 'cube', 'hackable', 'mov', 'cc', 'bs', 'ph', 'wip', 'arm',
-'bts', 'w', 'wtype', 's', 'ava', 'code', 'legacy_code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw',
+'bts', 'w', 'wtype', 's', 'ava', 'sharedAva', 'code', 'legacy_code', 'codename', 'cost', 'swc', 'profile', 'spec', 'bsw',
 'ccw', 'independent', 'profiles', 'skills', 'childs', 'hide', 'title', 'note', 'notes'
 ]
 

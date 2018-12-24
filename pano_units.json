@@ -4321,6 +4321,7 @@
     "w": "2",
     "s": "2",
     "ava": "1",
+    "sharedAva": 1022,
     "spec": [
       "Martial Arts L3",
       "Inspiring Leadership",
@@ -5388,6 +5389,7 @@
     "w": "2",
     "s": "2",
     "ava": "0",
+    "sharedAva": 1006,
     "spec": [
       "Aquatic Terrain  / Jungle Terrain",
       "Stealth"

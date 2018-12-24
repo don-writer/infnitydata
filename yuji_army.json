@@ -219,7 +219,13 @@
       },
       {
         "comment": "Húláng Shocktroopers",
-        "id": 2055
+        "id": 2055,
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Hǎidào Special Support Group",

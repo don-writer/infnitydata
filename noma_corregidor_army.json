@@ -10,13 +10,24 @@
         "comment": "Alguaciles",
         "id": 5001,
         "ava": "T",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Wildcats, Polyvalent Tactical Unit",
         "id": 5044,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Tomcats",
@@ -37,7 +48,11 @@
         "comment": "Mobile Brigada",
         "id": 5008,
         "ava": "6",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Iguana Squadron",
@@ -47,7 +62,12 @@
       {
         "comment": "Gecko",
         "id": 5045,
-        "ava": "4"
+        "ava": "4",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Moran, Maasai Hunter",
@@ -63,7 +83,16 @@
         "comment": "Corregidor Jaguars",
         "id": 5015,
         "ava": "5",
-        "note": "Special Fireteam: Core 1-4 Jaguars + Señor Massacre<br>Special Fireteam: Haris 1-2 Jaguars + Señor Massacre (Fireteam: Haris)"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Señor Massacre + up to 4 Jaguars"
+          },
+          {
+            "title": "Fireteam: Haris",
+            "note": "Señor Massacre (Fireteam: Haris) + up to 2 Jaguars"
+          }
+        ]
       },
       {
         "comment": "Carlota Kowalsky, Tomcats Sergeant",
@@ -129,8 +158,12 @@
         "comment": "Alguacil Vortex Lupe Balboa",
         "id": 5043,
         "ava": "1",
-        "linkable": true,
-        "note": "Counts as Alguacil for Fireteam composition"
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Lupe Balboa counts as an Alguacil for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Warcor",
@@ -141,7 +174,16 @@
         "comment": "Señor Massacre",
         "id": 9011,
         "ava": "1",
-        "note": "Fireteam: Core of Señor Massacre and up to 4 Jaguars<br>Fireteam: Haris of Señor Massacre and up to 2 Jaguars"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Señor Massacre + up to 4 Jaguars"
+          },
+          {
+            "title": "Fireteam: Haris",
+            "note": "Señor Massacre (Fireteam: Haris) + up to 2 Jaguars"
+          }
+        ]
       },
       {
         "comment": "McMurrough",

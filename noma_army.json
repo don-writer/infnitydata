@@ -217,12 +217,22 @@
       {
         "comment": "Gecko",
         "id": 5045,
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Taskmaster",
         "id": 5046,
-        "note": "Fireteam: Duo requires TeamPro"
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
       },
       {
         "comment": "Kriza Boracs",

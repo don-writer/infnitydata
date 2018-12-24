@@ -17,24 +17,54 @@
             "swc": "0"
           }
         ],
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Reverend Moiras",
         "id": 5006,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Kusanagi or 1 Reverend Healer + up to 4 Reverend Moiras, OR Kusanagi + 1 Reverend Healer + up to 3 Reverend Moiras"
+          }
+        ]
       },
       {
         "comment": "Reverend Custodiers",
         "id": 5031,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Kusanagi or 1 Reverend Healer + up to 2 Reverend Custodiers, OR Kusanagi + 1 Reverend Healer + 1 Reverend Custodier"
+          }
+        ]
       },
       {
         "comment": "Reverend Healers",
         "id": 5007,
         "ava": "3",
-        "note": "1 Healer may join a Fireteam: Core of Moiras or a Fireteam: Haris of Custodiers"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Kusanagi or 1 Reverend Healer + up to 4 Reverend Moiras, OR Kusanagi + 1 Reverend Healer + up to 3 Reverend Moiras"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Kusanagi or 1 Reverend Healer + up to 2 Reverend Custodiers, OR Kusanagi + 1 Reverend Healer + 1 Reverend Custodier"
+          }
+        ]
       },
       {
         "comment": "Sin-Eater Observants",
@@ -45,12 +75,24 @@
         "comment": "Riot Grrls",
         "id": 5041,
         "ava": "5",
-        "linkable": true
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          }
+        ]
       },
       {
         "comment": "Taskmasters",
         "id": 5046,
-        "ava": "4"
+        "ava": "4",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Prowlers",
@@ -91,7 +133,16 @@
         "comment": "Reverend Superior CASSANDRA KUSANAGI",
         "id": 5039,
         "ava": "1",
-        "note": "Kusanagi may join a Fireteam: Core of Moiras or a Fireteam: Haris of Custodiers"
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Kusanagi or 1 Reverend Healer + up to 4 Reverend Moiras, OR Kusanagi + 1 Reverend Healer + up to 3 Reverend Moiras"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Kusanagi or 1 Reverend Healer + up to 2 Reverend Custodiers, OR Kusanagi + 1 Reverend Healer + 1 Reverend Custodier"
+          }
+        ]
       },
       {
         "comment": "Zoe",

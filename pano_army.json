@@ -166,7 +166,14 @@
       },
       {
         "comment": "Clipper Dronbot",
-        "id": 1020
+        "id": 1020,
+        "childs": [
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Fugazi Dronbot",

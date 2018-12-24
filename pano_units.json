@@ -2208,6 +2208,21 @@
         "ccw": [
           "Electric Pulse"
         ]
+      },
+      {
+        "id": 2,
+        "name": "Varuna Div.",
+        "cost": "18",
+        "swc": "1.5",
+        "spec": [
+          "Aquatic Terrain"
+        ],
+        "bsw": [
+          "Missile Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },

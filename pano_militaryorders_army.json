@@ -54,7 +54,7 @@
             "note": "Up to 1 Black Friar (Albedo, Biometric Visor L1) can join a Fireteam: Core of Order Sergeants"
           },
           {
-            "title": "Special Fireteam",
+            "title": "Special Fireteam: Core",
             "note": "Father-Knights can join a Fireteam: Core of Order Sergeants"
           }
         ]
@@ -272,7 +272,14 @@
       {
         "comment": "Clipper Dronbot",
         "id": 1020,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Fugazi Dronbot",

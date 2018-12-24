@@ -45,6 +45,13 @@
         "comment": "Orc Troop",
         "id": 1006,
         "ava": "3",
+        "childs": [
+          {
+            "comment": "Duo",
+            "id": 10,
+            "hide": true
+          }
+        ],
         "notes": [
           {
             "title": "Fireteam: Haris"
@@ -123,7 +130,14 @@
       {
         "comment": "Clipper Dronbot",
         "id": 1020,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "Varuna Div. is only available in Varuna",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Fugazi Dronbot",

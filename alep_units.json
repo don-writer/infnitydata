@@ -918,7 +918,7 @@
         "cost": "28",
         "swc": "0.5",
         "spec": [
-          "Assault Hacking Device UPGRADE: Lightning"
+          "Assault Hacking Device: UPGRADE: Lightning"
         ],
         "bsw": [
           "Nanopulser",
@@ -4681,7 +4681,7 @@
         "cost": "40",
         "swc": "0",
         "spec": [
-          "Killer Hacking Device UPGRADE: Sucker Punch"
+          "Killer Hacking Device: UPGRADE: Sucker Punch"
         ],
         "bsw": [
           "Mk12",
@@ -4698,7 +4698,7 @@
         "cost": "40",
         "swc": "0",
         "spec": [
-          "Killer Hacking Device UPGRADE: Sucker Punch",
+          "Killer Hacking Device: UPGRADE: Sucker Punch",
           "Lieutenant"
         ],
         "bsw": [

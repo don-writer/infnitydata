@@ -12,7 +12,18 @@
         "notes": [
           {
             "title": "Special Fireteam: Core",
-            "note": "Up to 4 Frontoviks + 1 112s"
+            "note": "Up to 4 Frontoviks + 1 112"
+          }
+        ]
+      },
+      {
+        "comment": "112, Emergency Service (Motorized)",
+        "id": 3057,
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Motorized Unit",
+            "note": "The 112 (Motorized) cannot be part of a fireteam"
           }
         ]
       },

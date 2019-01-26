@@ -5799,5 +5799,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3057,
+    "army": "Ariadna",
+    "isc": "112, Emergency Service (Motorized)",
+    "name": "112",
+    "ava": "1",
+    "sharedAva": 3017,
+    "spec": [
+      "Doctor",
+      "V: Courage",
+      "MediKit"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Support",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "mov": "8-4",
+        "cc": "13",
+        "bs": "11",
+        "ph": "12",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "4",
+        "spec": [
+          "Motorcycle"
+        ],
+        "bsw": [
+          "Smoke Light Grenade Launcher"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Dismounted",
+        "mov": "4-4",
+        "s": "2",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Doctor",
+        "cost": "20",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      }
+    ]
   }
 ]

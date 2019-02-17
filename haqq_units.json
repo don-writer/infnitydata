@@ -580,7 +580,7 @@
     "isc": "Khawarijs",
     "name": "Khawarij",
     "type": "LI",
-    "classification": "Elite",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
     "cube": "X",
@@ -676,7 +676,8 @@
         ],
         "bsw": [
           "Rifle",
-          "Light Shotgun"
+          "Light Shotgun",
+          "Grenades"
         ],
         "ccw": [
           "Pistol",
@@ -699,7 +700,77 @@
           "Pistol",
           "AP CCW"
         ]
-      }
+      },
+      {
+        "id": 7,
+        "name": "Heavy Rocket Launcher",
+        "cost": "28",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Heavy Rocket Launcher",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Chain of Command",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+            "Chain of Command",
+            "Fatality L1"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Observer",
+        "cost": "29",
+        "swc": "0",
+        "spec": [
+            "Fatality L1",
+            "Forward Observer"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "MSV Mk12",
+        "cost": "36",
+        "swc": "0.5",
+        "spec": [
+            "Fatality L1",
+            "Multispectral Visor L2"
+        ],
+        "bsw": [
+          "Mk12"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
+      },
     ]
   },
   {

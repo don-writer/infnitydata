@@ -186,6 +186,17 @@
       ]
     },
     {
+      "name": "Assault Hacking Device: UPGRADE: Lightning",
+      "groups": [
+        "CLAW-1",
+        "CLAW-2",
+        "CLAW-3"
+      ],
+      "upgrades": [
+        "Lightning"
+      ]
+    },
+    {
       "name": "EVO Hacking Device",
       "groups": [
         "SWORD-1",

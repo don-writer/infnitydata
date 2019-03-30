@@ -33,18 +33,27 @@
         "notes": [
           {
             "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
           }
         ]
       },
       {
         "comment": "Black Friars",
         "id": 1051,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Black Friars (Albedo, Biometric Visor L1) can be part of any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Orc Troop",
         "id": 1006,
-        "ava": "3",
+        "ava": "5",
         "childs": [
           {
             "comment": "Duo",
@@ -54,6 +63,9 @@
         ],
         "notes": [
           {
+            "title": "Fireteam: Core"
+          },
+          {
             "title": "Fireteam: Haris"
           }
         ]
@@ -61,7 +73,13 @@
       {
         "comment": "Aquila Guard",
         "id": 1009,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Aquila Guards FTO can be part of any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Swiss Guard",
@@ -203,8 +221,8 @@
         "ava": "1",
         "notes": [
           {
-            "title": "Special Fireteam",
-            "note": "Bipandra counts as a Fusilier for Fireteam composition"
+            "title": "Wildcard Trooper",
+            "note": "Bipandra can be part of any Fireteam of this Sectorial Army"
           }
         ]
       },
@@ -216,7 +234,13 @@
       {
         "comment": "Mercenary - CSU, Corporate Security Unit",
         "id": 9020,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "The CSUs count as Fusiliers for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Mercenary - Warcor",

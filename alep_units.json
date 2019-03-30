@@ -928,6 +928,21 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 12,
+        "name": "MULTI",
+        "cost": "27",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "MULTI Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },

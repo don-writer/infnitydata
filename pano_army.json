@@ -310,7 +310,14 @@
       },
       {
         "comment": "Neoterra Bolts",
-        "id": 1050
+        "id": 1050,
+        "childs": [
+          {
+            "comment": "Haris",
+            "id": 12,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Black Friars",

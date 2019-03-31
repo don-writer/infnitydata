@@ -1,4 +1,5 @@
-import json, sys
+import simplejson as json
+import sys
 from collections import OrderedDict
 
 #print 'Number of arguments:', len(sys.argv), 'arguments.'

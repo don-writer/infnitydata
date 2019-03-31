@@ -2,7 +2,7 @@
 """This script moves weapons from the base profile of units into the childs."""
 
 import sys
-import json
+import simplejson as json
 from collections import OrderedDict
 
 def inherits_from_childs(profile):

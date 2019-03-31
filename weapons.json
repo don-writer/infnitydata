@@ -672,6 +672,23 @@
     "note": "Non-Lethal, Reflective, Speculative Fire, Targetless"
   },
   {
+    "name": "Light Nimbus Plus Grenade Launcher",
+    "burst": "1",
+    "ammo": "Nimbus Plus",
+    "damage": "13",
+    "short_dist": "8",
+    "short_mod": "0",
+    "medium_dist": "16",
+    "medium_mod": "3",
+    "long_dist": "24",
+    "long_mod": "-3",
+    "max_dist": "48",
+    "max_mod": "-6",
+    "cc": "No",
+    "template": "Impact Template (Circular)",
+    "note": "Non-Lethal, Reflective, Speculative Fire, Targetless"
+  },
+  {
     "name": "E/Marat",
     "burst": "1",
     "ammo": "E/M",
@@ -809,7 +826,7 @@
     "attr": "WIP",
     "cc": "No",
     "template": "No",
-    "note": "Non-Lootable"
+    "note": "Non-Lethal, Non-Lootable"
   },
   {
     "name": "Forward Observer",

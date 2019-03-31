@@ -722,8 +722,8 @@
         "cost": "32",
         "swc": "0",
         "spec": [
-            "Chain of Command",
-            "Fatality L1"
+          "Chain of Command",
+          "Fatality L1"
         ],
         "bsw": [
           "Rifle",
@@ -741,8 +741,8 @@
         "cost": "29",
         "swc": "0",
         "spec": [
-            "Fatality L1",
-            "Forward Observer"
+          "Fatality L1",
+          "Forward Observer"
         ],
         "bsw": [
           "Rifle",
@@ -760,8 +760,8 @@
         "cost": "36",
         "swc": "0.5",
         "spec": [
-            "Fatality L1",
-            "Multispectral Visor L2"
+          "Fatality L1",
+          "Multispectral Visor L2"
         ],
         "bsw": [
           "Mk12"
@@ -770,7 +770,7 @@
           "Pistol",
           "AP CCW"
         ]
-      },
+      }
     ]
   },
   {

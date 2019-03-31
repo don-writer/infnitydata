@@ -161,7 +161,14 @@
       {
         "comment": "M-Drone",
         "id": 6017,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "FTO is only available in Shasvastii Expeditionary Force",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Q-Drone",
@@ -171,7 +178,14 @@
       {
         "comment": "T-Drone",
         "id": 6019,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "FTO is only available in Shasvastii Expeditionary Force",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "R-Drone",
@@ -221,6 +235,18 @@
           {
             "title": "Special Fireteam",
             "note": "Kerr-Nau counts as a Nexus for Fireteam composition"
+          }
+        ]
+      },
+      {
+        "comment": "Greif Operators",
+        "id": 6062,
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "Impersonator - SWC cost is only 0.5 in Onyx",
+            "id": 3,
+            "swc": "0.5"
           }
         ]
       }

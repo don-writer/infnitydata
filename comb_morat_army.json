@@ -213,7 +213,14 @@
       {
         "comment": "M-Drone",
         "id": 6017,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "FTO is only available in Shasvastii Expeditionary Force",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Q-Drone",
@@ -223,7 +230,14 @@
       {
         "comment": "T-Drone",
         "id": 6019,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "FTO is only available in Shasvastii Expeditionary Force",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "R-Drone",

@@ -7,9 +7,34 @@
     "abbr": "Shasvastii Exped. Force",
     "units": [
       {
+        "comment": "Shasvastii Nox Troops",
+        "id": 6058,
+        "ava": "T",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Nox Troops + 1 T-Drone FTO"
+          }
+        ]
+      },
+      {
+        "comment": "Tensho Experts",
+        "id": 6064,
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "The Tensho Expert counts as a Nox Trooper for Fireteam composition"
+          }
+        ]
+      },
+      {
         "comment": "Shasvastii Seed-Soldiers",
         "id": 6030,
-        "ava": "T"
+        "ava": "4"
       },
       {
         "comment": "Shasvastii Cadmus",
@@ -19,17 +44,46 @@
       {
         "comment": "Shasvastii Haiduks",
         "id": 6027,
-        "ava": "3"
+        "ava": "3",
+        "childs": [
+          {
+            "comment": "AP Marksman - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 3,
+            "swc": "0"
+          }
+        ]
       },
       {
-        "comment": "Shasvastii Aswangs",
-        "id": 6024,
-        "ava": "5",
+        "comment": "Shasvastii Mentors",
+        "id": 6059,
+        "ava": "3",
         "childs": [
           {
             "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 2,
+            "id": 4,
             "swc": "0"
+          },
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 5,
+            "swc": "0"
+          }
+        ]
+      },
+      {
+        "comment": "Jayth Cutthroats",
+        "id": 6060,
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Pit Patrol",
+            "note": "A Jayth Cutthroat Pit Patrol cannot be part of a Fireteam"
           }
         ]
       },
@@ -39,73 +93,58 @@
         "ava": "3"
       },
       {
+        "comment": "Shasvastii Caliban",
+        "id": 6046,
+        "ava": "4"
+      },
+      {
+        "comment": "Shasvastii Special Armoured Corp Sphinx",
+        "id": 6029,
+        "ava": "2"
+      },
+      {
         "comment": "Shasvastii Gwailos",
         "id": 6026,
-        "ava": "5",
-        "childs": [
+        "ava": "1",
+        "notes": [
           {
-            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 1,
-            "swc": "0"
+            "title": "Special Fireteam: Duo",
+            "note": "1 Gwailo + 1 M-Drone FTO"
           },
           {
-            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 2,
-            "swc": "0"
-          }
-        ],
-        "notes": [
-          {
-            "title": "Fireteam: Core"
-          },
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Gwailos, Sheskiin + Corax Hasht and up to 3 Gwailos"
-          }
-        ]
-      },
-      {
-        "comment": "Shasvastii Caliban (Seed-Embryo)",
-        "id": 6044,
-        "ava": "5",
-        "notes": [
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
-          }
-        ]
-      },
-      {
-        "comment": "Shasvastii Caliban (Infiltration)",
-        "id": 6045,
-        "ava": "5",
-        "notes": [
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Troopers with Inferior Infiltration cannot be members of a Fireteam in this Sectorial"
-          }
-        ]
-      },
-      {
-        "comment": "Shasvastii Caliban (Developed)",
-        "id": 6046,
-        "ava": "5",
-        "notes": [
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
+            "title": "Special Fireteam: Haris",
+            "note": "1 Gwailo + 2 M-Drones FTO"
           }
         ]
       },
       {
         "comment": "The Shrouded",
         "id": 6010,
-        "ava": "4"
+        "ava": "4",
+        "childs": [
+          {
+            "comment": "Dazer - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 7,
+            "swc": "0"
+          }
+        ]
       },
       {
         "comment": "Malignos",
         "id": 6011,
-        "ava": "3"
+        "ava": "3",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 7,
+            "swc": "0"
+          },
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 8,
+            "swc": "0"
+          }
+        ]
       },
       {
         "comment": "Speculo Killers",
@@ -113,9 +152,49 @@
         "ava": "2"
       },
       {
-        "comment": "Shasvastii Special Armoured Corp Sphinx",
-        "id": 6029,
-        "ava": "1"
+        "comment": "Taigha Creatures",
+        "id": 6061,
+        "ava": "8"
+      },
+      {
+        "comment": "Cadmus-Naish Agent Sheskiin",
+        "id": 6038,
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
+            "id": 1,
+            "swc": "0"
+          }
+        ],
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Sheskiin can join any Fireteam of this Sectorial Army"
+          }
+        ]
+      },
+      {
+        "comment": "Shasvastii Corax Hasht",
+        "id": 6031,
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Hasht can join any Fireteam of this Sectorial Army"
+          }
+        ]
+      },
+      {
+        "comment": "Victor Messer",
+        "id": 6063,
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Victor Messer can join any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Med-Tech Obsidon Medchanoid",
@@ -125,7 +204,17 @@
       {
         "comment": "M-Drone",
         "id": 6017,
-        "ava": "1"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Gwailo + 1 M-Drone FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Gwailo + 2 M-Drones FTO"
+          }
+        ]
       },
       {
         "comment": "Q-Drone",
@@ -135,7 +224,13 @@
       {
         "comment": "T-Drone",
         "id": 6019,
-        "ava": "2"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Nox Troops + 1 T-Drone FTO"
+          }
+        ]
       },
       {
         "comment": "R-Drone",
@@ -158,33 +253,6 @@
         "ava": "2"
       },
       {
-        "comment": "Cadmus-Naish Agent Sheskiin",
-        "id": 6038,
-        "ava": "1",
-        "childs": [
-          {
-            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 1,
-            "swc": "0"
-          },
-          {
-            "comment": "Lieutenant - SWC cost is only 0 in Shasvastii Expededition",
-            "id": 3,
-            "swc": "0"
-          }
-        ],
-        "notes": [
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Gwailos, Sheskiin + Corax Hasht and up to 3 Gwailos"
-          },
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
-          }
-        ]
-      },
-      {
         "comment": "Corax Spec-Ops",
         "id": 6041,
         "ava": "1"
@@ -193,21 +261,6 @@
         "comment": "Treitak Spec-Ops",
         "id": 6039,
         "ava": "1"
-      },
-      {
-        "comment": "Shasvastii Corax Hasht",
-        "id": 6031,
-        "ava": "1",
-        "notes": [
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Gwailos, Sheskiin + Corax Hasht and up to 3 Gwailos"
-          },
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Sheskiin or Corax Hasht + up to 4 Caliban, Sheskiin + Corax Hasht and up to 3 Caliban"
-          }
-        ]
       },
       {
         "comment": "Aïda Swanson, Submondo Smuggler",

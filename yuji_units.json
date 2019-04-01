@@ -3096,6 +3096,24 @@
           "Pistol",
           "DA CCW"
         ]
+      },
+      {
+        "id": 8,
+        "name": "Killer Hacker",
+        "cost": "34",
+        "swc": "0",
+        "spec": [
+          "Chain of Command",
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/Mitter"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
       }
     ]
   },
@@ -3971,7 +3989,7 @@
     "irr": "",
     "cube": "X",
     "mov": "4-4",
-    "cc": "18",
+    "cc": "19",
     "bs": "12",
     "ph": "10",
     "wip": "13",
@@ -4013,6 +4031,21 @@
         "bsw": [
           "Nanopulser",
           "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Breaker Combi",
+        "cost": "26",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Breaker Combi Rifle"
         ],
         "ccw": [
           "Pistol",
@@ -4113,6 +4146,21 @@
         ],
         "ccw": [
           "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "SMG",
+        "cost": "12",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Akrylat-Kanone"
+        ],
+        "ccw": [
+          "Breaker Pistol",
           "Knife"
         ]
       }

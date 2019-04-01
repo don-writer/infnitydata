@@ -1181,7 +1181,7 @@
   {
     "id": 6010,
     "army": "Combined Army",
-    "isc": "The Shrouded Shasvastii Pioneer Corps",
+    "isc": "The Shrouded",
     "name": "Shrouded",
     "type": "SK",
     "classification": "Specially Trained",
@@ -1340,7 +1340,7 @@
   {
     "id": 6011,
     "army": "Combined Army",
-    "isc": "Malignos Shasvastii Deep Incursion Corps",
+    "isc": "Malignos",
     "name": "Malignos",
     "type": "SK",
     "classification": "Veteran",
@@ -2280,7 +2280,7 @@
   {
     "id": 6025,
     "army": "Combined Army",
-    "isc": "Shasvastii Airborne Infiltration Group Cadmus",
+    "isc": "Shasvastii Cadmus",
     "name": "Cadmus-Soldier",
     "ava": "1",
     "spec": [],
@@ -2400,7 +2400,7 @@
   {
     "id": 6026,
     "army": "Combined Army",
-    "isc": "Shasvastii Armed Imposition Detachment Gwailos",
+    "isc": "Shasvastii Gwailos",
     "name": "Gwailo",
     "type": "HI",
     "classification": "Veteran",
@@ -2509,7 +2509,7 @@
   {
     "id": 6027,
     "army": "Combined Army",
-    "isc": "Shasvastii Light Support Unit Haiduks",
+    "isc": "Shasvastii Haiduks",
     "name": "Haiduk",
     "type": "LI",
     "classification": "Specially Trained",
@@ -2668,7 +2668,7 @@
   {
     "id": 6029,
     "army": "Combined Army",
-    "isc": "Shasvastii Special Armoured Corp Sphinx",
+    "isc": "Shasvastii Sphinx",
     "name": "Sphinx",
     "ava": "1",
     "spec": [],
@@ -3956,7 +3956,7 @@
   {
     "id": 6046,
     "army": "Combined Army",
-    "isc": "Shasvastii Sabotage and Destruction Unit Caliban",
+    "isc": "Shasvastii Caliban",
     "name": "Caliban",
     "type": "LI",
     "classification": "Specially Trained",
@@ -5383,7 +5383,7 @@
   {
     "id": 6059,
     "army": "Combined Army",
-    "isc": "Shasvastii Tactical Monitoring Comany Mentor",
+    "isc": "Shasvastii Mentors",
     "name": "Mentor",
     "type": "LI",
     "classification": "Elite",

@@ -2124,13 +2124,14 @@
     "spec": [
       "Super-Jump",
       "Total Immunity",
+      "Vulnerability (Viral)",
       "V: Courage"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Chain Rifle",
-        "cost": "23",
+        "cost": "25",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4052,6 +4053,7 @@
           "AD: Airborne Infiltration",
           "Martial Arts L2",
           "Total Immunity",
+          "Vulnerability (Viral)",
           "Super-Jump"
         ],
         "bsw": [
@@ -4063,7 +4065,7 @@
           "AP CCW"
         ],
         "independent": {
-          "cost": "32",
+          "cost": "34",
           "swc": "0"
         }
       }
@@ -4072,7 +4074,7 @@
       {
         "id": 1,
         "name": "Mirage-5",
-        "cost": "69",
+        "cost": "71",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -4115,6 +4117,7 @@
         "spec": [
           "Super-Jump",
           "Total Immunity",
+          "Vulnerability (Viral)",
           "Transmutation",
           "V: Courage"
         ],
@@ -4141,6 +4144,7 @@
         "spec": [
           "Super-Jump",
           "Total Immunity",
+          "Vulnerability (Viral)",
           "V: Courage"
         ],
         "bsw": [],
@@ -4151,7 +4155,7 @@
       {
         "id": 1,
         "name": "Dog-Warrior",
-        "cost": "27",
+        "cost": "29",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4486,6 +4490,7 @@
         "spec": [
           "V: Courage",
           "Total Immunity",
+          "Vulnerability (Viral)",
           "Super-Jump",
           "Aquatic Terrain"
         ],
@@ -4530,7 +4535,7 @@
       {
         "id": 1,
         "name": "Chain Rifle",
-        "cost": "30",
+        "cost": "32",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4545,7 +4550,7 @@
       {
         "id": 2,
         "name": "Heavy Shotgun",
-        "cost": "39",
+        "cost": "41",
         "swc": "0",
         "spec": [],
         "bsw": [

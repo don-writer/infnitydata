@@ -25,6 +25,10 @@
           },
           {
             "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Wildcard Trooper",
+            "note": "Up to 2 Odalisques can join any Fireteam of this Sectorial Army, but not those of Mercenary Troops (Druze and Kaplans)"
           }
         ]
       },
@@ -39,15 +43,8 @@
         "ava": "4",
         "notes": [
           {
-            "title": "Fireteam: Core"
-          },
-          {
-            "title": "Special Fireteam: Core",
-            "note": "Up to 2 Hafzas can join any Fireteam: Core, but not those of Mercenary Troops (Druze and Kaplans), of this Sectorial Army"
-          },
-          {
-            "title": "Special Fireteam: Haris",
-            "note": "Up to 1 Hafza can join any Fireteam: Haris, but not those of Mercenary Troops (Druze and Kaplans), of this Sectorial Army"
+            "title": "Wildcard Trooper",
+            "note": "Up to 2 Hafza can join any Fireteam of this Sectorial Army, but not those of Mercenary Troops (Druze and Kaplans)"
           }
         ]
       },
@@ -74,13 +71,22 @@
         "notes": [
           {
             "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
           }
         ]
       },
       {
         "comment": "Azra'il",
         "id": 4026,
-        "ava": "3"
+        "ava": "3",
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Shaytaniyah Remote FTO + 1 Azra'il"
+          }
+        ]
       },
       {
         "comment": "Janissaries",
@@ -117,6 +123,9 @@
         "notes": [
           {
             "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
           }
         ]
       },
@@ -133,7 +142,13 @@
       {
         "comment": "Shaytaniyah Remote",
         "id": 4019,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Shaytaniyah Remote FTO + 1 Azra'il"
+          }
+        ]
       },
       {
         "comment": "Fanous Remote",
@@ -166,8 +181,8 @@
         "ava": "1",
         "notes": [
           {
-            "title": "Special Fireteam",
-            "note": "Leila Sharif counts as a Ghulam or as a Hassassin Muyib for Fireteam composition"
+            "title": "Wildcard Trooper",
+            "note": "Leila Sharif can be part of any fireteam of this Sectorial Army"
           }
         ]
       },

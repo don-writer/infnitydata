@@ -5145,5 +5145,83 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9068,
+    "army": "Non-Aligned Armies",
+    "isc": "Monstruckers",
+    "name": "Monstrucker",
+    "type": "LI",
+    "classification": "Mercenary",
+    "imp": "",
+    "irr": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "12",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Climbing Plus",
+      "Engineer"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Shotgun",
+        "cost": "18",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Adhesive Launcher",
+          "E/M Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG",
+        "cost": "13",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Chain Rifle",
+          "Drop Bears"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "360° Rifle",
+        "cost": "18",
+        "swc": "0",
+        "spec": [
+          "360° Visor"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Akrylat-Kanone",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

@@ -345,6 +345,24 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 14,
+        "name": "NCO",
+        "cost": "16",
+        "swc": "1",
+        "spec": [
+          "NCO"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Grenade Launcher",
+          "Smoke Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -770,6 +788,25 @@
           "Pistol",
           "AP CCW"
         ]
+      },
+      {
+        "id": 11,
+        "name": "Haris NCO",
+        "cost": "30",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris",
+          "NCO"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "AP CCW"
+        ]
       }
     ]
   },
@@ -900,6 +937,22 @@
         "cost": "29",
         "swc": "0",
         "spec": [],
+        "bsw": [
+          "Shock Marksman Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Marksman Haris",
+        "cost": "30",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
         "bsw": [
           "Shock Marksman Rifle"
         ],
@@ -1314,6 +1367,40 @@
         "bsw": [
           "MULTI HMG",
           "Heavy Flamethrower"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 4,
+        "name": "360° Mines+Pistol",
+        "cost": "99",
+        "swc": "2",
+        "spec": [
+          "360° Visor",
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "MULTI HMG",
+          "Heavy Flamethrower",
+          "Mine Dispenser"
+        ],
+        "ccw": [
+          "AP Heavy Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "360° Mines+Fire",
+        "cost": "99",
+        "swc": "2",
+        "spec": [
+          "360° Visor",
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "MULTI HMG",
+          "Heavy Flamethrower (2)",
+          "Mine Dispenser"
         ],
         "ccw": []
       }
@@ -1849,6 +1936,37 @@
         "ccw": [
           "Electric Pulse"
         ]
+      },
+      {
+        "id": 2,
+        "name": "Duo Rifle",
+        "cost": "17",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Light Shotgun",
+          "Rifle"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Red Fury",
+        "cost": "22",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Red Fury"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
       }
     ]
   },
@@ -1927,6 +2045,21 @@
         "spec": [],
         "bsw": [
           "Smart Missile Launcher"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "FTO Missile Launcher",
+        "cost": "18",
+        "swc": "1.5",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Missile Launcher"
         ],
         "ccw": [
           "Electric Pulse"
@@ -2067,6 +2200,43 @@
         "swc": "1.5",
         "spec": [
           "Lieutenant"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Grenades",
+          "Spitfire"
+        ],
+        "ccw": [
+          "DA CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Lieutenant L2",
+        "cost": "57",
+        "swc": "-1",
+        "spec": [
+          "Lieutenant L2"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Grenades",
+          "AP Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "DA CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Spitfire Lieutenant L2",
+        "cost": "59",
+        "swc": "1.5",
+        "spec": [
+          "Lieutenant L2"
         ],
         "bsw": [
           "Nanopulser",
@@ -2810,6 +2980,25 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 4,
+        "name": "Marksmanship Observer",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Forward Observer",
+          "Marksmanship L1"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -2861,6 +3050,56 @@
         "cost": "25",
         "swc": "1.5",
         "spec": [],
+        "bsw": [
+          "Viral Sniper Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Haris",
+        "cost": "26",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Viral Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Fatality Viral Rifle",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "Fatality L1"
+        ],
+        "bsw": [
+          "Viral Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Fatality Viral Sniper Rifle",
+        "cost": "27",
+        "swc": "2",
+        "spec": [
+          "Fatality L1"
+        ],
         "bsw": [
           "Viral Sniper Rifle"
         ],
@@ -3661,6 +3900,40 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 8,
+        "name": "Haris ADHL",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "Adhesive Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife",
+          "D-Charges"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Haris Spitfire",
+        "cost": "29",
+        "swc": "1.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -4259,6 +4532,24 @@
           "Knife",
           "Pistol"
         ]
+      },
+      {
+        "id": 8,
+        "name": "Haris",
+        "cost": "32",
+        "swc": "0.5",
+        "spec": [
+          "Marksmanship L2",
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Breaker Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -4789,6 +5080,370 @@
         "ccw": [
           "Knife",
           "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4050,
+    "army": "Haqqislam",
+    "isc": "Mukhtar Active Response Unit",
+    "name": "Mukhtar",
+    "type": "LI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-2",
+    "cc": "14",
+    "bs": "13",
+    "ph": "11",
+    "wip": "14",
+    "arm": "1",
+    "bts": "6",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "CH: Mimetism",
+      "Fireteam: Duo",
+      "Forward Deployment L1",
+      "Shock Immunity",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Viral",
+        "cost": "30",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Viral Rifle",
+          "Nanopulser (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Haris",
+        "cost": "31",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Viral Rifle",
+          "Nanopulser (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Doctor",
+        "cost": "30",
+        "swc": "0",
+        "spec": [
+          "Doctor Plus",
+          "MediKit"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Observer",
+        "cost": "28",
+        "swc": "0",
+        "spec": [
+          "Forward Observer"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Nanopulser (2)",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Assault Hacker",
+        "cost": "33",
+        "swc": "0.5",
+        "spec": [
+          "Assault Hacking Device"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Nanopulser (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "MSV Red Fury",
+        "cost": "37",
+        "swc": "1",
+        "spec": [
+          "Multispectral Visor L2"
+        ],
+        "bsw": [
+          "Red Fury",
+          "Nanopulser (2)"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4051,
+    "army": "Haqqislam",
+    "isc": "Nahab Aeromobile Team",
+    "name": "Nahab",
+    "type": "LI",
+    "classification": "Veteran",
+    "imp": "F",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "22",
+    "bs": "12",
+    "ph": "13",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "AD: Airborne Infiltration / Infiltration",
+      "Assault",
+      "Kinematika L2",
+      "Natural Born Warrior",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Red Fury",
+        "cost": "36",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Red Fury",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "Viral CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Shotgun Specialist",
+        "cost": "30",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "Viral CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Killer Hacker",
+        "cost": "30",
+        "swc": "0",
+        "spec": [
+          "Killer Hacking Device"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "E/Mitter",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "Viral CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4052,
+    "army": "Haqqislam",
+    "isc": "Namurr Experimental Operative Group",
+    "name": "Namurr",
+    "type": "LI",
+    "classification": "Elite",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-2",
+    "cc": "18",
+    "bs": "12",
+    "ph": "12",
+    "wip": "14",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Climbing Plus",
+      "Hyper-Dynamics L2",
+      "Multiterrain",
+      "Specialist Operative",
+      "Total Immunity",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spitfire",
+        "cost": "44",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Spitfire",
+          "E/Marat",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "E/M CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Rifle",
+        "cost": "38",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "E/Marat",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "E/M CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4053,
+    "army": "Haqqislam",
+    "isc": "Hortlak Janissaries",
+    "name": "Hortlak",
+    "type": "HI",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "13",
+    "ph": "12",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Multispectral Visor L1",
+      "Bioimmunity",
+      "CH: Mimetism",
+      "Religious Troop",
+      "Stealth",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "28",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sniper",
+        "cost": "36",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Sniper Rifle"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chain of Command",
+        "cost": "33",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
         ]
       }
     ]

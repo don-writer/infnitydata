@@ -10,7 +10,14 @@
       },
       {
         "comment": "Ghulam",
-        "id": 4002
+        "id": 4002,
+        "childs": [
+          {
+            "comment": "NCO is only available in Ramah/QK",
+            "id": 14,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Naffatûn",
@@ -22,11 +29,25 @@
       },
       {
         "comment": "Khawarijs",
-        "id": 4005
+        "id": 4005,
+        "childs": [
+          {
+            "comment": "NCO/Haris is only available in Ramah",
+            "id": 11,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Djanbazan",
-        "id": 4006
+        "id": 4006,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hassassin Ragiks",
@@ -42,7 +63,19 @@
       },
       {
         "comment": "Maghariba Guard",
-        "id": 4010
+        "id": 4010,
+        "childs": [
+          {
+            "comment": "Mine Dispenser is only available in Sectorials",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "Mine Dispenser is only available in Sectorials",
+            "id": 5,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hunzakuts",
@@ -86,7 +119,19 @@
       },
       {
         "comment": "Tarik Mansuri",
-        "id": 4021
+        "id": 4021,
+        "childs": [
+          {
+            "comment": "Lt2 is only available in Ramah",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Lt2 is only available in Ramah",
+            "id": 6,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Kasym Beg",
@@ -135,7 +180,24 @@
       },
       {
         "comment": "Hassassin Lasiqs",
-        "id": 4030
+        "id": 4030,
+        "childs": [
+          {
+            "comment": "Haris is only available in HB",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Fatality rifle is only available in HB",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "Fatality sniper is only available in HB",
+            "id": 5,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hassassin Muyibs",
@@ -185,7 +247,19 @@
       },
       {
         "comment": "KTS, Kaplan Tactical Services",
-        "id": 4039
+        "id": 4039,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          },
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 9,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Hassassin Barid",
@@ -221,7 +295,14 @@
       },
       {
         "comment": "Zhayedan Intervention Troops",
-        "id": 4043
+        "id": 4043,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 8,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Zamira Nazarova",
@@ -252,6 +333,35 @@
       {
         "comment": "Hakims",
         "id": 4049
+      },
+      {
+        "comment": "Mukhtar",
+        "id": 4050,
+        "childs": [
+          {
+            "comment": "Haris is only available in Sectorials",
+            "id": 2,
+            "hide": true
+          }
+        ],
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
+          }
+        ]
+      },
+      {
+        "comment": "Nahab",
+        "id": 4051
+      },
+      {
+        "comment": "Namurr",
+        "id": 4052
+      },
+      {
+        "comment": "Hortlak Janissaries",
+        "id": 4053
       },
       {
         "comment": "Authorized Bounty Hunters",

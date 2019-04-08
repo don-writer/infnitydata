@@ -13,6 +13,10 @@
         "notes": [
           {
             "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Alguaciles and up to 2 Mobile Brigadas"
           }
         ]
       },
@@ -51,6 +55,10 @@
         "notes": [
           {
             "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Alguaciles and up to 2 Mobile Brigadas"
           }
         ]
       },
@@ -66,6 +74,10 @@
         "notes": [
           {
             "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 Gecko + 1 Mobile Brigada"
           }
         ]
       },
@@ -102,7 +114,13 @@
       {
         "comment": "Tsyklon Sputniks",
         "id": 5035,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "The Tsyklons count as Mobile Brigada for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Lunokhod Sputniks",
@@ -147,7 +165,13 @@
       {
         "comment": "Daktaris",
         "id": 5016,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "The Daktaris can be part of any fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Vortex Spec-Ops",
@@ -160,8 +184,8 @@
         "ava": "1",
         "notes": [
           {
-            "title": "Special Fireteam",
-            "note": "Lupe Balboa counts as an Alguacil for Fireteam composition"
+            "title": "Wildcard Trooper",
+            "note": "Lupe can be part of any fireteam of this Sectorial Army"
           }
         ]
       },
@@ -193,7 +217,13 @@
       {
         "comment": "Valerya Gromoz, Mercenary Hacker",
         "id": 9012,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Valerya counts as an Alguacil for Fireteam Composition"
+          }
+        ]
       }
     ]
   }

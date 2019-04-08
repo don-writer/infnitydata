@@ -330,7 +330,19 @@
       },
       {
         "comment": "Libertos Freedom Fighters",
-        "id": 9067
+        "id": 9067,
+        "childs": [
+          {
+            "comment": "Mimetism only in Spiral Corps",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Mimetism only in Spiral Corps",
+            "id": 4,
+            "hide": true
+          }
+        ]
       }
     ]
   }

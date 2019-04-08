@@ -4188,17 +4188,36 @@
     "ava": "1",
     "sharedAva": 9010,
     "spec": [
-      "Holoprojector L2",
       "X Visor",
       "V: Dogged"
     ],
     "childs": [
       {
         "id": 1,
-        "name": "Viral Rifle",
+        "name": "Holo 2",
         "cost": "30",
         "swc": "0",
-        "spec": [],
+        "spec": [
+          "Holoprojector L2"
+        ],
+        "bsw": [
+          "Viral Rifle",
+          "Adhesive Launcher",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "FTO Holo 1",
+        "cost": "28",
+        "swc": "0",
+        "spec": [
+          "Holoprojector L1"
+        ],
         "bsw": [
           "Viral Rifle",
           "Adhesive Launcher",

@@ -408,11 +408,11 @@
   {
     "id": 9005,
     "army": "Non-Aligned Armies",
-    "isc": "McMurrough",
+    "isc": "McMurrough, Mercenary Dog-Warrior",
     "name": "McMurrough",
     "type": "WB",
     "classification": "Mercenary",
-    "imp": "X",
+    "imp": "I",
     "irr": "X",
     "cube": "",
     "mov": "6-4",
@@ -428,6 +428,7 @@
     "spec": [
       "Martial Arts L3",
       "Total Immunity",
+      "Vulnerability (Viral)",
       "Kinematika L2",
       "Super-Jump"
     ],
@@ -435,7 +436,7 @@
       {
         "id": 1,
         "name": "Chain Rifle",
-        "cost": "31",
+        "cost": "32",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -648,7 +649,7 @@
   {
     "id": 9010,
     "army": "Non-Aligned Armies",
-    "isc": "Father Lucien Sforza",
+    "isc": "Father Lucien Sforza, Authorized Bounty Hunter",
     "name": "Sforza",
     "type": "LI",
     "classification": "Character",
@@ -1315,11 +1316,11 @@
       },
       {
         "id": 2,
-        "name": "Aerocam",
+        "name": "360° Visor",
         "cost": "3",
         "swc": "0",
         "spec": [
-          "Aerocam"
+          "360° Visor"
         ],
         "bsw": [
           "Flash Pulse"
@@ -1425,6 +1426,21 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 6,
+        "name": "SMG",
+        "cost": "12",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Akrylat-Kanone"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -1433,14 +1449,13 @@
     "army": "Non-Aligned Armies",
     "isc": "Miranda Ashcroft, Authorized Bounty Hunter",
     "name": "Miranda Ashcroft",
-    "image": 9018,
     "type": "LI",
     "classification": "Character",
     "imp": "",
     "irr": "X",
     "cube": "X",
     "mov": "4-4",
-    "cc": "18",
+    "cc": "19",
     "bs": "12",
     "ph": "10",
     "wip": "13",
@@ -1452,13 +1467,14 @@
     "spec": [
       "ODD: Optical Disruptor",
       "I-Kohl L1",
-      "Stealth"
+      "Stealth",
+      "Specialist Operative"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Combi",
-        "cost": "19",
+        "cost": "20",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1467,13 +1483,14 @@
         ],
         "ccw": [
           "Pistol",
-          "Monofilament CCW"
+          "Monofilament CCW",
+          "Knife"
         ]
       },
       {
         "id": 2,
         "name": "Boarding Shotgun",
-        "cost": "18",
+        "cost": "19",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -1482,7 +1499,8 @@
         ],
         "ccw": [
           "Pistol",
-          "Monofilament CCW"
+          "Monofilament CCW",
+          "Knife"
         ]
       }
     ]
@@ -3659,7 +3677,7 @@
       {
         "id": 1,
         "name": "Heavy Shotgun",
-        "cost": "35",
+        "cost": "38",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3675,7 +3693,7 @@
       {
         "id": 2,
         "name": "Mk12",
-        "cost": "40",
+        "cost": "43",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3691,7 +3709,7 @@
       {
         "id": 3,
         "name": "Combi",
-        "cost": "35",
+        "cost": "38",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3707,7 +3725,7 @@
       {
         "id": 4,
         "name": "Haris",
-        "cost": "36",
+        "cost": "39",
         "swc": "0.5",
         "spec": [
           "Fireteam: Haris"
@@ -5143,6 +5161,43 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 3,
+        "name": "Mimetism Minelayer",
+        "cost": "11",
+        "swc": "1",
+        "spec": [
+          "CH: Mimetism",
+          "Minelayer"
+        ],
+        "bsw": [
+          "Light Shotgun",
+          "Chain-Colt",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Mimetism SMG",
+        "cost": "8",
+        "swc": "0",
+        "spec": [
+          "CH: Mimetism"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Chain-Colt",
+          "D.E.P."
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -5219,6 +5274,276 @@
         ],
         "ccw": [
           "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9069,
+    "army": "Non-Aligned Armies",
+    "isc": "Valkyrie, Elite Bodyguard",
+    "name": "Valkyrie",
+    "type": "WB",
+    "classification": "Character",
+    "imp": "F",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "21",
+    "bs": "12",
+    "ph": "14",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Berserk",
+      "Kinematika L2",
+      "Natural Born Warrior",
+      "Total Immunity",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Shotgun",
+        "cost": "35",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Heavy Shotgun",
+          "Grenades"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "EXP CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "MULTI Rifle",
+        "cost": "39",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "MULTI Rifle",
+          "Grenades"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "EXP CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9070,
+    "army": "Non-Aligned Armies",
+    "isc": "Laxmee, Hacker of Fortune",
+    "name": "Laxmee",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "10",
+    "wip": "14",
+    "arm": "2",
+    "bts": "6",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Hacking Device Plus: UPGRADE: Maestro",
+      "CH: Mimetism",
+      "Fireteam: Haris",
+      "Minelayer"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Hacker",
+        "cost": "34",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Pitcher",
+          "Cybermines",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9071,
+    "army": "Non-Aligned Armies",
+    "isc": "Hannibal, Mercenary Team Leader",
+    "name": "Hannibal",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "12",
+    "ph": "11",
+    "wip": "14",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Biometric Visor L1",
+      "Fireteam: Haris",
+      "Hyper-Dynamics L1",
+      "Shock Immunity",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Shotgun",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Marksman",
+        "cost": "39",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "MULTI Marksman Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Shotgun Deployment",
+        "cost": "37",
+        "swc": "0",
+        "spec": [
+          "Chain of Command",
+          "Strategic Deployment"
+        ],
+        "bsw": [
+          "Boarding Shotgun",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Marksman Lieutenant",
+        "cost": "41",
+        "swc": "0.5",
+        "spec": [
+          "Lieutenant",
+          "Strategic Deployment",
+          "Strategos L1"
+        ],
+        "bsw": [
+          "MULTI Marksman Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9072,
+    "army": "Non-Aligned Armies",
+    "isc": "Miranda Ashcroft, Registered Bounty Hunter",
+    "name": "Miranda Ashcroft",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "19",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "sharedAva": 9019,
+    "spec": [
+      "ODD: Optical Disruptor",
+      "Fireteam: Duo",
+      "I-Kohl L1",
+      "Stealth",
+      "Specialist Operative"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Boarding Shotgun",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Nanopulser",
+          "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Monofilament CCW",
           "Knife"
         ]
       }

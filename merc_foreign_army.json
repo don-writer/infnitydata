@@ -3,7 +3,7 @@
     "id": 9994,
     "army": "Non-Aligned Armies",
     "army_id": 9999,
-    "name": "Foreign Copany",
+    "name": "Foreign Company",
     "units": [
       {
         "comment": "Securitate",
@@ -128,7 +128,13 @@
       {
         "comment": "Kriza Boracs",
         "id": 5047,
-        "ava": "1"
+        "ava": "1",
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Iguana Squadron",

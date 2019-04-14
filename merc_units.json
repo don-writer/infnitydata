@@ -2406,6 +2406,21 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 6,
+        "name": "SMG",
+        "cost": "12",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Akrylat-Kanone"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -5184,7 +5199,7 @@
       {
         "id": 4,
         "name": "Mimetism SMG",
-        "cost": "8",
+        "cost": "9",
         "swc": "0",
         "spec": [
           "CH: Mimetism"

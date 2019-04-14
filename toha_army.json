@@ -98,11 +98,124 @@
       },
       {
         "comment": "Kaauri Sentinels",
-        "id": 8024
+        "id": 8024,
+        "childs": [
+          {
+            "comment": "FT: Triad only in Spiral",
+            "id": 5,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Taqeul Officers",
         "id": 8025
+      },
+      {
+        "comment": "Taagma Schemers",
+        "id": 8026,
+        "childs": [
+          {
+            "comment": "Only in Spiral",
+            "id": 2,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 5,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 6,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 7,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Kiel-Saan Covert Assault Unit",
+        "id": 8027,
+        "notes": [
+          {
+            "title": "MetaChemistry",
+            "note": "MetaChemistry enhancements are applied to both troop profiles"
+          }
+        ]
+      },
+      {
+        "comment": "Draal Saboteurs",
+        "id": 8028
+      },
+      {
+        "comment": "Kriigel Agents",
+        "id": 8029,
+        "childs": [
+          {
+            "comment": "Only in Spiral",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 4,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 5,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Reex Escorts",
+        "id": 8030
+      },
+      {
+        "comment": "Kiiutan Imposters",
+        "id": 8031,
+        "childs": [
+          {
+            "comment": "Only in Spiral",
+            "id": 2,
+            "hide": true
+          },
+          {
+            "comment": "Only in Spiral",
+            "id": 3,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Chaksa Longarms",
+        "id": 8032,
+        "childs": [
+          {
+            "comment": "Only in Spiral",
+            "id": 5,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Greif Operators",
+        "id": 6062
       },
       {
         "comment": "Armand 'Le Muet'",

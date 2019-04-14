@@ -2665,15 +2665,32 @@
       },
       {
         "id": 4,
-        "name": "Combi",
+        "name": "Combi / Nimbus",
         "cost": "17",
         "swc": "0",
         "spec": [
-          "Nullifier",
           "Pheroware Tactics: Nimbus Sphere"
         ],
         "bsw": [
           "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Triad / First Aid",
+        "cost": "17",
+        "swc": "0",
+        "spec": [
+          "Special Fireteam: Triad",
+          "Pheroware Tactics: First Aid"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/Mauler"
         ],
         "ccw": [
           "Pistol",
@@ -2864,6 +2881,764 @@
         "ccw": [
           "Pistol",
           "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8026,
+    "army": "Tohaa",
+    "isc": "Taagma Schemers",
+    "name": "Taagma",
+    "type": "LI",
+    "classification": "Headquarters",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L1",
+      "Counterintelligence",
+      "Shock Immunity",
+      "Stealth",
+      "Fireteam: Triad"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Breaker Combi",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "White Hacker",
+        "cost": "20",
+        "swc": "0.5",
+        "spec": [
+          "White Hacking Device"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Tri-Core",
+        "cost": "21",
+        "swc": "1",
+        "spec": [
+          "Tri-Core"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "MSV Sniper",
+        "cost": "25",
+        "swc": "1.5",
+        "spec": [
+          "Multispectral Visor L2"
+        ],
+        "bsw": [
+          "Viral Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Lieutenant",
+        "cost": "16",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "White Hacker Lieutenant",
+        "cost": "20",
+        "swc": "0.5",
+        "spec": [
+          "White Hacking Device",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "MSV Sniper Lieutenant",
+        "cost": "25",
+        "swc": "1.5",
+        "spec": [
+          "Multispectral Visor L2",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Viral Sniper Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8027,
+    "army": "Tohaa",
+    "isc": "Kiel-Saan Covert Assault Unit",
+    "name": "Kiel-Saan",
+    "ava": "2",
+    "spec": [
+      "Symbiont Armor",
+      "Assault",
+      "Dual Wield",
+      "MetaChemistry L1",
+      "Natural Born Warrior"
+    ],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "HI",
+        "classification": "Veteran",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "hackable": "X",
+        "mov": "6-2",
+        "cc": "21",
+        "bs": "13",
+        "ph": "14",
+        "wip": "12",
+        "arm": "4",
+        "bts": "6",
+        "w": "2",
+        "s": "5",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Inactive Armor",
+        "type": "LI",
+        "imp": "",
+        "irr": " ",
+        "cube": "X",
+        "hackable": "",
+        "mov": "4-4",
+        "cc": "21",
+        "bs": "12",
+        "ph": "12",
+        "wip": "12",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": " ",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Red Fury",
+        "cost": "53",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Red Fury",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "DA CCW",
+          "Shock CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Mk12",
+        "cost": "53",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Mk12",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "DA CCW",
+          "Shock CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8028,
+    "army": "Tohaa",
+    "isc": "Draal Saboteurs",
+    "name": "Draal",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Specially Trained",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "6-2",
+        "cc": "15",
+        "bs": "13",
+        "ph": "12",
+        "wip": "13",
+        "arm": "2",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Symbiont Armor",
+          "Stratuscloud",
+          "Forward Deployment L2",
+          "Hyper-Dynamics L1",
+          "Multiterrain",
+          "Specialist Operative",
+          "Stealth",
+          "Fireteam: Triad"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Inactive Armor",
+        "type": "LI",
+        "imp": "",
+        "irr": " ",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "15",
+        "bs": "12",
+        "ph": "10",
+        "wip": "13",
+        "arm": "1",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": " ",
+        "spec": [
+          "Symbiont Armor",
+          "Forward Deployment L2",
+          "Multiterrain",
+          "Specialist Operative",
+          "Stealth",
+          "Fireteam: Triad"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "30",
+        "swc": "0",
+        "spec": [
+          "Dazer"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Pulzar",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG Minelayer",
+        "cost": "31",
+        "swc": "1",
+        "spec": [
+          "Minelayer"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Pulzar",
+          "D-Charges",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Marksman Minelayer",
+        "cost": "40",
+        "swc": "1",
+        "spec": [
+          "Minelayer"
+        ],
+        "bsw": [
+          "AP Marksman Rifle",
+          "D-Charges",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8029,
+    "army": "Tohaa",
+    "isc": "Kriigel Agents",
+    "name": "Kriigel",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Pheroware Tactics: Eraser",
+      "Pheroware Tactics: Mirrorball",
+      "Fireteam: Triad"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Phero-Booster"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Grenadier",
+        "cost": "31",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Smoke",
+        "cost": "27",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Smoke Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "SMG Lieutenant",
+        "cost": "24",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Phero-Booster"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Smoke Lieutenant",
+        "cost": "27",
+        "swc": "0",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Smoke Light Grenade Launcher"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8030,
+    "army": "Tohaa",
+    "isc": "Reex Escorts",
+    "name": "Reex",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "12",
+    "bs": "11",
+    "ph": "10",
+    "wip": "13",
+    "arm": "0",
+    "bts": "3",
+    "w": "1",
+    "wtype": "str",
+    "s": "1",
+    "ava": "2",
+    "spec": [
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Boarding Shotgun",
+        "cost": "13",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Boarding Shotgun",
+          "Contender",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Marksman",
+        "cost": "20",
+        "swc": "0",
+        "spec": [
+          "Marksmanship L1"
+        ],
+        "bsw": [
+          "K1 Marksman Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Spitfire",
+        "cost": "17",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Spitfire"
+        ],
+        "ccw": [
+          "Pistol",
+          "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8031,
+    "army": "Tohaa",
+    "isc": "Kiiutan Imposters",
+    "name": "Kiiutan",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Specially Trained",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "15",
+        "bs": "12",
+        "ph": "11",
+        "wip": "13",
+        "arm": "2",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Symbiont Armor",
+          "Hyper-Dynamics L1",
+          "Inferior Impersonation",
+          "Stealth",
+          "V: Courage"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Inactive Armor",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "15",
+        "bs": "12",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": " ",
+        "spec": [
+          "Symbiont Armor",
+          "Inferior Impersonation",
+          "Stealth",
+          "V: Courage"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "30",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG",
+        "cost": "26",
+        "swc": "0.5",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "E/Mitter"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SMG E/Mauler",
+        "cost": "28",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "E/Mitter",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Viral Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8032,
+    "army": "Tohaa",
+    "isc": "Chaksa Longarms",
+    "name": "Chaksa",
+    "type": "LI",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "16",
+    "bs": "11",
+    "ph": "12",
+    "wip": "12",
+    "arm": "3",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "4",
+    "spec": [
+      "Religious Troop",
+      "Multiterrain",
+      "Fireteam: Duo"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Pulzar",
+        "cost": "19",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Pulzar (2)",
+          "Contender",
+          "E/M Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Autocannon",
+        "cost": "31",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Autocannon"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Missile",
+        "cost": "27",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "Missile Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Mk12",
+        "cost": "27",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Mk12",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Haris",
+        "cost": "20",
+        "swc": "0.5",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Pulzar (2)",
+          "Contender",
+          "E/M Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
         ]
       }
     ]

@@ -1238,6 +1238,24 @@
           "Pistol",
           "CCW"
         ]
+      },
+      {
+        "id": 4,
+        "name": "Triad",
+        "cost": "10",
+        "swc": "0",
+        "spec": [
+          "Baggage",
+          "Sensor",
+          "Fireteam: Special Triad"
+        ],
+        "bsw": [
+          "Heavy Flamethrower"
+        ],
+        "ccw": [
+          "Pistol",
+          "CCW"
+        ]
       }
     ]
   },
@@ -2685,7 +2703,7 @@
         "cost": "17",
         "swc": "0",
         "spec": [
-          "Special Fireteam: Triad",
+          "Fireteam: Special Triad",
           "Pheroware Tactics: First Aid"
         ],
         "bsw": [
@@ -3341,7 +3359,7 @@
         "id": 5,
         "name": "Smoke Lieutenant",
         "cost": "27",
-        "swc": "0",
+        "swc": "0.5",
         "spec": [
           "Lieutenant"
         ],

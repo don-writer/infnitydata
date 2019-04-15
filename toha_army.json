@@ -46,7 +46,14 @@
       },
       {
         "comment": "Chaksa Auxiliars",
-        "id": 8011
+        "id": 8011,
+        "childs": [
+          {
+            "comment": "Only in Spiral",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Chaksa Servant",
@@ -210,6 +217,12 @@
             "comment": "Only in Spiral",
             "id": 5,
             "hide": true
+          }
+        ],
+        "notes": [
+          {
+            "title": "Fireteam: Duo",
+            "note": "Requires TeamPro"
           }
         ]
       },

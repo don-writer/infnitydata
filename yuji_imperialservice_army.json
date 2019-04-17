@@ -279,7 +279,12 @@
       {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       },
       {
         "comment": "Warcor",
@@ -303,7 +308,12 @@
       {
         "comment": "Mercenary - CSU, Corporate Security Unit",
         "id": 9020,
-        "ava": "2"
+        "ava": "2",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       }
     ]
   }

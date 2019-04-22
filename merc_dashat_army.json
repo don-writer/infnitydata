@@ -9,6 +9,13 @@
         "comment": "Ghulam",
         "id": 4002,
         "ava": "6",
+        "childs": [
+          {
+            "comment": "NCO is only available in Ramah/QK",
+            "id": 14,
+            "hide": true
+          }
+        ],
         "notes": [
           {
             "title": "Fireteam: Core"

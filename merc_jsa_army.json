@@ -209,7 +209,14 @@
       {
         "comment": "Yáopú Pangguling",
         "id": 2026,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "FTO is not available in JSA",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Kaizoku Spec-Ops",

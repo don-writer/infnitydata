@@ -432,6 +432,7 @@
         "cost": "15",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -2462,6 +2463,7 @@
         "cost": "14",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit",
           "360° Visor"
         ],

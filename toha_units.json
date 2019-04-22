@@ -118,6 +118,7 @@
         "cost": "14",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -286,6 +287,7 @@
         "cost": "20",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -858,6 +860,7 @@
         "cost": "30",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [

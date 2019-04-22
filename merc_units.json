@@ -1991,6 +1991,7 @@
     "s": "2",
     "ava": "1",
     "spec": [
+      "Paramedic",
       "MediKit",
       "AD: Airborne Infiltration",
       "Shock Immunity",
@@ -2217,6 +2218,7 @@
         "swc": "0",
         "spec": [
           "X Visor",
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -3204,6 +3206,7 @@
         "cost": "11",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [

@@ -57,6 +57,7 @@
         "cost": "11",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -432,6 +433,7 @@
         "cost": "12",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -930,6 +932,7 @@
         "cost": "23",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -1155,6 +1158,7 @@
         "cost": "39",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -2502,6 +2506,7 @@
         "cost": "10",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -2999,6 +3004,7 @@
         "cost": "10",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -3288,6 +3294,7 @@
         "cost": "22",
         "swc": "0.5",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -3935,6 +3942,7 @@
         "cost": "26",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -4309,6 +4317,7 @@
         "cost": "23",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -5435,6 +5444,7 @@
         "cost": "29",
         "swc": "0.5",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -5570,6 +5580,7 @@
         "cost": "25",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [

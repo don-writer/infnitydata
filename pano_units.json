@@ -130,6 +130,7 @@
         "cost": "12",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -283,6 +284,7 @@
         "cost": "22",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -472,6 +474,7 @@
         "cost": "24",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -711,6 +714,7 @@
         "cost": "32",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -2505,6 +2509,7 @@
         "cost": "12",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -3210,6 +3215,7 @@
         "cost": "15",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -4829,6 +4835,7 @@
         "cost": "22",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -5211,6 +5218,7 @@
         "cost": "39",
         "swc": "0",
         "spec": [
+          "Paramedic",
           "MediKit"
         ],
         "bsw": [
@@ -5283,7 +5291,10 @@
         "name": "Paramedic",
         "cost": "27",
         "swc": "0.5",
-        "spec": [],
+        "spec": [
+          "Paramedic",
+          "MediKit"
+        ],
         "bsw": [
           "Combi Rifle",
           "Light Shotgun",

@@ -172,18 +172,6 @@
         "comment": "Wu Ming",
         "id": 2007,
         "ava": "5",
-        "childs": [
-          {
-            "comment": "Duo is not available in Ikari",
-            "id": 7,
-            "hide": true
-          },
-          {
-            "comment": "Duo is not available in Ikari",
-            "id": 9,
-            "hide": true
-          }
-        ],
         "notes": [
           {
             "title": "Fireteam: Haris"

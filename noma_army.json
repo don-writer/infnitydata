@@ -343,6 +343,10 @@
             "hide": true
           }
         ]
+      },
+      {
+        "comment": "Monstruckers",
+        "id": 9068
       }
     ]
   }

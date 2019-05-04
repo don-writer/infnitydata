@@ -3265,7 +3265,7 @@
       {
         "id": 1,
         "name": "E/Mitter",
-        "cost": "24",
+        "cost": "23",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3282,7 +3282,7 @@
       {
         "id": 2,
         "name": "Panzerfaust",
-        "cost": "23",
+        "cost": "24",
         "swc": "0",
         "spec": [],
         "bsw": [

@@ -347,6 +347,56 @@
         "X-Visor": 3,
         "Multispectral Visor L1": 5
       }
-    }
+    },
+    "4999": {
+      "weapons": {
+        "EXP CCW": 1,
+        "Viral CCW": 1,
+        "D-Charges": 1,
+        "Stun Pistol": 1,
+        "Grenades": 2,
+        "Nanopulser": 2,
+        "Viral Pistol": 2,
+        "Contender": 3,
+        "E/Marat": 3,
+        "Panzerfaust": 3,
+        "Boarding Shotgun": 4,
+        "Jammer": 4,
+        "Submachine Gun": 4,
+        "Breaker Rifle + Light Shotgun": 5,
+        "Viral Rifle": 5,
+        "Light Rocket Launcher": 5,
+        "Red Fury": 5,
+        "Viral Sniper Rifle": 6,
+        "Spitfire": 6,
+        "HMG": 8
+      },
+      "skills": {
+        "Martial Arts L3": 2,
+        "Hyper-Dynamics L1": 2,
+        "Medevac Plus": 2,
+        "Minelayer (3 AP Mines)": 2,
+        "CUBEvac Plus": 3,
+        "I-Kohl L1": 3,
+        "Super-Jump": 3,
+        "Free Agent": 3,
+        "Doctor Plus (MediKit)": 3,
+        "Forward Deployment L1": 4,
+        "Engineer": 4,
+        "Veteran L1": 4,
+        "CH: Mimetism": 5,
+        "Total Immunity": 7,
+        "Chain of Command": 8,
+        "Regeneration": 8,
+        "V: No Wound Incapacitation": 8,
+        "Sapper": 8
+      },
+      "equipment": {
+        "Cube": 1,
+        "Paramedic (Medjector)": 2,
+        "Assault Hacking Device": 3,
+        "Holoprojector L1": 3
+      }
+    },
   }
 }

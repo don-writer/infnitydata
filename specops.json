@@ -243,6 +243,59 @@
         "Multispectral Visor L1": 4,
         "ODD": 7
       }
+    },
+    "2999": {
+      "weapons": {
+        "AP CCW": 1,
+        "EXP CCW": 1,
+        "Monofilament CCW": 1,
+        "D-Charges": 1,
+        "Stun Pistol": 1,
+        "Breaker Pistol": 1,
+        "Akrylat-Kanone": 2,
+        "Chain Rifle": 2,
+        "Nanopulser": 2,
+        "Blitzen": 3,
+        "Assault Pistol": 3,
+        "E/Mitter": 4,
+        "Boarding Shotgun": 4,
+        "Breaker Combi Rifle": 4,
+        "Shock Marksman Rifle": 4,
+        "Submachine Gun": 4,
+        "MULTI Rifle": 5,
+        "Light Rocket Launcher": 5,
+        "Red Fury": 5,
+        "MULTI Sniper Rifle": 6,
+        "Spitfire": 6,
+        "HMG": 8
+      },
+      "skills": {
+        "Dual Wield": 1,
+        "Martial Arts L4": 2,
+        "Bioimmunity": 2,
+        "Hyper-Dynamics L2": 2,
+        "Medevac Plus": 2,
+        "Minelayer (3 AP Mines)": 2,
+        "CUBEvac Plus": 3,
+        "Free Agent": 3,
+        "Doctor (MediKit)": 3,
+        "Climbing Plus": 3,
+        "Super-Jump": 3,
+        "Forward Deployment L1": 4,
+        "Engineer": 4,
+        "Veteran L1": 4,
+        "CH: Mimetism": 5,
+        "Chain of Command": 8,
+        "V: No Wound Incapacitation": 8,
+        "Sapper": 8
+      },
+      "equipment": {
+        "Cube": 1,
+        "360° Visor": 2,
+        "Hacking Device": 3,
+        "Holoprojector L1": 3,
+        "Multispectral Visor L1": 4
+      }
     }
   }
 }

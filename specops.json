@@ -296,6 +296,57 @@
         "Holoprojector L1": 3,
         "Multispectral Visor L1": 4
       }
+    },
+    "3999": {
+      "weapons": {
+        "AP CCW": 1,
+        "D-Charges": 1,
+        "Chain-Colt": 1,
+        "Stun Pistol": 1,
+        "AP Heavy Pistol": 1,
+        "Chain Rifle": 2,
+        "Grenades": 2,
+        "Adhesive Launcher": 2,
+        "E/Mauler": 3,
+        "Akrylat-Kanone": 3,
+        "Panzerfaust": 3,
+        "Boarding Shotgun": 4,
+        "AP Marksman Rifle": 4,
+        "Submachine Gun": 4,
+        "AP Sniper Rifle": 5,
+        "T2 Rifle": 5,
+        "Light Rocket Launcher": 5,
+        "Mk12": 5,
+        "Molotok": 6,
+        "AP HMG": 9
+      },
+      "skills": {
+        "Scavenger": 1,
+        "Berserk": 2,
+        "Natural Born Warrior": 2,
+        "Medevac Plus": 2,
+        "Minelayer (3 AP Mines)": 2,
+        "CUBEvac Plus": 3,
+        "Free Agent": 3,
+        "Doctor (MediKit)": 3,
+        "Forward Deployment L2": 4,
+        "Engineer": 4,
+        "Marksmanship L1": 4,
+        "Super-Jump": 4,
+        "Veteran L1": 4,
+        "CH: Mimetism": 5,
+        "V: Dogged": 6,
+        "AD: Airborne Infiltration": 7,
+        "Chain of Command": 8,
+        "Sapper": 8
+      },
+      "equipment": {
+        "Cube": 1,
+        "360° Visor": 2,
+        "Defensive Hacking Device": 3,
+        "X-Visor": 3,
+        "Multispectral Visor L1": 5
+      }
     }
   }
 }

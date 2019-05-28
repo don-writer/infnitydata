@@ -448,5 +448,60 @@
         "AutoMediKit": 6
       }
     },
+    "6999": {
+      "weapons": {
+        "EXP CCW": 1,
+        "D-Charges": 1,
+        "Stun Pistol": 1,
+        "AP Heavy Pistol": 1,
+        "Monofilament CCW": 2,
+        "Grenades": 2,
+        "Nanopulser": 2,
+        "Pulzar": 3,
+        "Plasma Carbine": 4,
+        "Boarding Shotgun": 4,
+        "Breaker Combi Rifle": 4,
+        "K1 Combi Rifle": 4,
+        "Shock Marksman Rifle": 4,
+        "Submachine Gun": 4,
+        "Vulkan Shotgun": 5,
+        "MULTI Rifle": 5,
+        "Light Rocket Launcher": 5,
+        "Mk12": 5,
+        "Red Fury": 5,
+        "K1 Sniper Rifle": 6,
+        "MULTI Sniper Rifle": 6,
+        "Plasma Rifle": 6,
+        "Spitfire": 6,
+        "HMG": 8
+      },
+      "skills": {
+        "Martial Arts L3": 2,
+        "Bioimmunity": 2,
+        "Hyper-Dynamics L1": 2,
+        "Medevac Plus": 2,
+        "Minelayer (3 AP Mines)": 2,
+        "CUBEvac Plus": 3,
+        "Free Agent": 3,
+        "Doctor (MediKit)": 3,
+        "Forward Deployment L1": 4,
+        "Engineer": 4,
+        "Super-Jump + Climbing Plus": 4,
+        "Veteran L1": 4,
+        "CH: Mimetism": 5,
+        "Morpho-Scan": 5,
+        "Total Immunity": 7,
+        "Chain of Command": 8,
+        "V: No Wound Incapacitation": 8,
+        "Sapper": 8
+      },
+      "equipment": {
+        "EI Hacking Device": 3,
+        "Holoprojector L1": 3,
+        "Multispectral Visor L1": 4,
+        "AutoMediKit": 6,
+        "Nanoscreen": 7
+      }
+    },
   }
 }

@@ -223,8 +223,20 @@
         "id": 3039
       },
       {
-        "comment": "Intel Spec-Ops",
-        "id": 3040
+        "comment": "Intel Spec-Ops (Line Kazak)",
+        "id": 3058
+      },
+      {
+        "comment": "Intel Spec-Ops (Volunteer)",
+        "id": 3059
+      },
+      {
+        "comment": "Intel Spec-Ops (Métro)",
+        "id": 3060
+      },
+      {
+        "comment": "Intel Spec-Ops (Grunt)",
+        "id": 3061
       },
       {
         "comment": "Marauders, 5307th Ranger Unit",

@@ -4179,34 +4179,7 @@
   },
   {
     "id": 3040,
-    "army": "Ariadna",
-    "isc": "Intel Spec-Ops",
-    "name": "Intel",
-    "type": "SPEC-OPS",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
-    "ava": "1",
-    "spec": [],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spec-Ops",
-        "cost": "0",
-        "swc": "0",
-        "spec": [],
-        "bsw": [],
-        "ccw": []
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 3041,
@@ -5875,6 +5848,164 @@
         ],
         "ccw": [
           "CCW",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3058,
+    "army": "Ariadna",
+    "isc": "Intel Spec-Ops (Line Kazak)",
+    "name": "Intel (Line Kazak)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "11",
+    "ph": "11",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "10",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3059,
+    "army": "Ariadna",
+    "isc": "Intel Spec-Ops (Volunteer)",
+    "name": "Intel (Volunteer)",
+    "type": "SPEC-OPS",
+    "classification": "Garrison",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "10",
+    "ph": "11",
+    "wip": "12",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multiterrain (Jungle Terrain / Mountain Terrain)"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "9",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3060,
+    "army": "Ariadna",
+    "isc": "Intel Spec-Ops (Métro)",
+    "name": "Intel (Métro)",
+    "type": "SPEC-OPS",
+    "classification": "Garrison",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "10",
+    "ph": "11",
+    "wip": "12",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multiterrain"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "9",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3061,
+    "army": "Ariadna",
+    "isc": "Intel Spec-Ops (Grunt)",
+    "name": "Intel (Grunt)",
+    "type": "SPEC-OPS",
+    "classification": "Garrison",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-2",
+    "cc": "13",
+    "bs": "11",
+    "ph": "11",
+    "wip": "12",
+    "arm": "3",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Shock Immunity"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "11",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "Knife",
           "Pistol"
         ]
       }

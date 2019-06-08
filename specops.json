@@ -59,6 +59,52 @@
         ]
       }
     ],
+    "3999": [
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3058,
+        "basemodels": [
+          {
+            "comment": "Line Kazak / Rifle",
+            "unit_id": 3058,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3059,
+        "basemodels": [
+          {
+            "comment": "Caledonian Volunteers / Rifle",
+            "unit_id": 3059,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3060,
+        "basemodels": [
+          {
+            "comment": "Métros / Rifle",
+            "unit_id": 3060,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Intel Spec-Ops",
+        "id": 3061,
+        "basemodels": [
+          {
+            "comment": "USAriadna Grunts / Rifle",
+            "unit_id": 3061,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
     "7999": [
       {
         "comment": "Chandra Spec-Ops (Thorakitai)",
@@ -81,34 +127,6 @@
                   "child_id": 1
               }
           ]
-      }
-    ],
-    "3999": [
-      {
-        "comment": "Intel Spec-Ops",
-        "id": 3040,
-        "basemodels": [
-          {
-            "comment": "Line Kazak / Rifle",
-            "unit_id": 3001,
-            "child_id": 1
-          },
-          {
-            "comment": "Caledonian Volunteers / Rifle",
-            "unit_id": 3022,
-            "child_id": 8
-          },
-          {
-            "comment": "Métros / Rifle",
-            "unit_id": 3027,
-            "child_id": 8
-          },
-          {
-            "comment": "USAriadna Grunts / Rifle",
-            "unit_id": 3004,
-            "child_id": 1
-          }
-        ]
       }
     ],
     "6999": [

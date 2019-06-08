@@ -37,15 +37,26 @@
     ],
     "7999": [
       {
-        "comment": "Chandra Spec-Ops",
-        "id": 7025,
+        "comment": "Chandra Spec-Ops (Thorakitai)",
+        "id": 7056,
         "basemodels": [
           {
             "comment": "Thorakitai / Combi",
-            "unit_id": 7027,
-            "child_id": 2
+            "unit_id": 7056,
+            "child_id": 1
           }
         ]
+      },
+      {
+          "comment": "Chandra Spec-Ops (Deva)",
+          "id": 7057,
+          "basemodels": [
+              {
+                  "comment": "Deva / Combi",
+                  "unit_id": 7057,
+                  "child_id": 1
+              }
+          ]
       }
     ],
     "3999": [

@@ -61,7 +61,7 @@
     ],
     "3999": [
       {
-        "comment": "Intel Spec-Ops",
+        "comment": "Intel Spec-Ops (Line Kazak)",
         "id": 3058,
         "basemodels": [
           {
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "comment": "Intel Spec-Ops",
+        "comment": "Intel Spec-Ops (Volunteer)",
         "id": 3059,
         "basemodels": [
           {
@@ -83,7 +83,7 @@
         ]
       },
       {
-        "comment": "Intel Spec-Ops",
+        "comment": "Intel Spec-Ops (Metro)",
         "id": 3060,
         "basemodels": [
           {
@@ -94,12 +94,47 @@
         ]
       },
       {
-        "comment": "Intel Spec-Ops",
+        "comment": "Intel Spec-Ops (Grunt)",
         "id": 3061,
         "basemodels": [
           {
             "comment": "USAriadna Grunts / Rifle",
             "unit_id": 3061,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
+    "4999": [
+      {
+        "comment": "Husam Spec-Ops (Ghulam)",
+        "id": 4054,
+        "basemodels": [
+          {
+            "comment": "Ghulam / Rifle",
+            "unit_id": 4054,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Husam Spec-Ops (Muyib)",
+        "id": 4055,
+        "basemodels": [
+          {
+            "comment": "Hassassin Muyibs / Panzerfaust",
+            "unit_id": 4055,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Husam Spec-Ops (Hafza)",
+        "id": 4056,
+        "basemodels": [
+          {
+            "comment": "Hafza Unit / Rifle",
+            "unit_id": 4056,
             "child_id": 1
           }
         ]
@@ -148,29 +183,6 @@
           {
             "comment": "Morat Vanguard Infantry / Combi",
             "unit_id": 6001,
-            "child_id": 1
-          }
-        ]
-      }
-    ],
-    "4999": [
-      {
-        "comment": "Husam Spec-Ops",
-        "id": 4037,
-        "basemodels": [
-          {
-            "comment": "Ghulam / Rifle",
-            "unit_id": 4002,
-            "child_id": 1
-          },
-          {
-            "comment": "Hassassin Muyibs / Panzerfaust",
-            "unit_id": 4031,
-            "child_id": 1
-          },
-          {
-            "comment": "Hafza Unit / Rifle",
-            "unit_id": 4028,
             "child_id": 1
           }
         ]

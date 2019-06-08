@@ -3667,34 +3667,7 @@
   },
   {
     "id": 4037,
-    "army": "Haqqislam",
-    "isc": "Husam Spec-Ops",
-    "name": "Husam",
-    "type": "SPEC-OPS",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
-    "ava": "1",
-    "spec": [],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spec-Ops",
-        "cost": "0",
-        "swc": "0",
-        "spec": [],
-        "bsw": [],
-        "ccw": []
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 4038,
@@ -5445,6 +5418,131 @@
         "ccw": [
           "Viral Pistol",
           "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4054,
+    "army": "Haqqislam",
+    "isc": "Husam Spec-Ops (Ghulam)",
+    "name": "Husam (Ghulam)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "11",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "13",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4055,
+    "army": "Haqqislam",
+    "isc": "Husam Spec-Ops (Muyib)",
+    "name": "Husam (Muyib)",
+    "type": "SPEC-OPS",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "17",
+    "bs": "12",
+    "ph": "11",
+    "wip": "14",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Religious Troop",
+      "V: Dogged",
+      "Number 2"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "25",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun",
+          "Panzerfaust"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol",
+          "D-Charges"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4056,
+    "army": "Haqqislam",
+    "isc": "Husam Spec-Ops (Hafza)",
+    "name": "Husam (Hafza)",
+    "type": "SPEC-OPS",
+    "classification": "Specially Trained",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "10",
+    "wip": "14",
+    "arm": "2",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "17",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
         ]
       }
     ]

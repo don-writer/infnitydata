@@ -35,6 +35,30 @@
         ]
       }
     ],
+    "2999": [
+      {
+        "comment": "Guǐ Fēng Spec-Ops (Zhanshi)",
+        "id": 2061,
+        "basemodels": [
+          {
+            "comment": "Zhanshi / Combi",
+            "unit_id": 2061,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Guǐ Fēng Spec-Ops (Celestial)",
+        "id": 2062,
+        "basemodels": [
+          {
+            "comment": "Celestial Guard / Combi",
+            "unit_id": 2062,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
     "7999": [
       {
         "comment": "Chandra Spec-Ops (Thorakitai)",
@@ -165,24 +189,6 @@
           {
             "comment": "Kamael Light Infantry / Combi",
             "unit_id": 8001,
-            "child_id": 1
-          }
-        ]
-      }
-    ],
-    "2999": [
-      {
-        "comment": "Guǐ Fēng Spec-Ops",
-        "id": 2043,
-        "basemodels": [
-          {
-            "comment": "Zhanshi / Combi",
-            "unit_id": 2002,
-            "child_id": 1
-          },
-          {
-            "comment": "Celestial Guard / Combi",
-            "unit_id": 2022,
             "child_id": 1
           }
         ]

@@ -3566,34 +3566,7 @@
   },
   {
     "id": 2043,
-    "army": "Yu Jing",
-    "isc": "Guǐ Fēng Spec-Ops",
-    "name": "Guǐ Fēng",
-    "type": "SPEC-OPS",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
-    "ava": "1",
-    "spec": [],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spec-Ops",
-        "cost": "0",
-        "swc": "0",
-        "spec": [],
-        "bsw": [],
-        "ccw": []
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 2044,
@@ -4957,6 +4930,81 @@
         "ccw": [
           "Pistol",
           "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2061,
+    "army": "Yu Jing",
+    "isc": "Guǐ Fēng Spec-Ops (Zhanshi)",
+    "name": "Guǐ Fēng (Zhanshi)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "12",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2062,
+    "army": "Yu Jing",
+    "isc": "Guǐ Fēng Spec-Ops (Celestial)",
+    "name": "Guǐ Fēng (Celestial)",
+    "type": "SPEC-OPS",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "14",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
         ]
       }
     ]

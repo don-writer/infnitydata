@@ -289,8 +289,16 @@
         "id": 1044
       },
       {
-        "comment": "Indigo Spec-Ops",
-        "id": 1045
+        "comment": "Indigo Spec-Ops (Fusilier)",
+        "id": 1060
+      },
+      {
+        "comment": "Indigo Spec-Ops (Regular)",
+        "id": 1061
+      },
+      {
+        "comment": "Indigo Spec-Ops (Order Sergeant)",
+        "id": 1062
       },
       {
         "comment": "Fusilier Indigo Bipandra",

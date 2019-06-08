@@ -1,5 +1,40 @@
 {
   "specopsisc": {
+    "1999": [
+      {
+        "comment": "Indigo Spec-Ops (Fusilier)",
+        "id": 1060,
+        "basemodels": [
+          {
+            "comment": "Fusiliers / Combi",
+            "unit_id": 1060,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Indigo Spec-Ops (Regular)",
+        "id": 1061,
+        "basemodels": [
+          {
+            "comment": "Acontecimento Regulars / Combi",
+            "unit_id": 1061,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Indigo Spec-Ops (Order Sergeant)",
+        "id": 1062,
+        "basemodels": [
+          {
+            "comment": "Order Sergeants / Combi",
+            "unit_id": 1062,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
     "7999": [
       {
         "comment": "Chandra Spec-Ops",
@@ -107,29 +142,6 @@
             "comment": "Securitate / Combi",
             "unit_id": 5003,
             "child_id": 1
-          }
-        ]
-      }
-    ],
-    "1999": [
-      {
-        "comment": "Indigo Spec-Ops",
-        "id": 1045,
-        "basemodels": [
-          {
-            "comment": "Fusiliers / Combi",
-            "unit_id": 1001,
-            "child_id": 1
-          },
-          {
-            "comment": "Acontecimento Regulars / Combi",
-            "unit_id": 1023,
-            "child_id": 1
-          },
-          {
-            "comment": "Order Sergeants / Combi",
-            "unit_id": 1030,
-            "child_id": 8
           }
         ]
       }

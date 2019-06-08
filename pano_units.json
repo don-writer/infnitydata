@@ -4404,34 +4404,7 @@
   },
   {
     "id": 1045,
-    "army": "PanOceania",
-    "isc": "Indigo Spec-Ops",
-    "name": "Indigo",
-    "type": "SPEC-OPS",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
-    "ava": "1",
-    "spec": [],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spec-Ops",
-        "cost": "0",
-        "swc": "0",
-        "spec": [],
-        "bsw": [],
-        "ccw": []
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 1046,
@@ -5711,6 +5684,123 @@
         "bsw": [
           "Submachine Gun",
           "Light Rocket Launcher"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "army": "PanOceania",
+    "isc": "Indigo Spec-Ops (Fusilier)",
+    "name": "Indigo (Fusilier)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "10",
+    "wip": "12",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "11",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "army": "PanOceania",
+    "isc": "Indigo Spec-Ops (Regular)",
+    "name": "Indigo (Regular)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "0",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "2",
+    "spec": [
+      "Jungle Terrain"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "11",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "army": "PanOceania",
+    "isc": "Indigo Spec-Ops (Order Sergeant)",
+    "name": "Indigo (Order Sergeant)",
+    "type": "SPEC-OPS",
+    "classification": "Veteran",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Religious Troop"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "14",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
         ],
         "ccw": [
           "Pistol",

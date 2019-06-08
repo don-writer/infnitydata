@@ -140,6 +140,41 @@
         ]
       }
     ],
+    "5999": [
+      {
+        "comment": "Vortex Spec-Ops (Alguacil)",
+        "id": 5057,
+        "basemodels": [
+          {
+            "comment": "Alguaciles / Combi",
+            "unit_id": 5001,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Vortex Spec-Ops (Moderator)",
+        "id": 5058,
+        "basemodels": [
+          {
+            "comment": "Moderators from Bakunin / Combi",
+            "unit_id": 5028,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Vortex Spec-Ops (Securitate)",
+        "id": 5059,
+        "basemodels": [
+          {
+            "comment": "Securitate / Combi",
+            "unit_id": 5003,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
     "7999": [
       {
         "comment": "Chandra Spec-Ops (Thorakitai)",
@@ -183,29 +218,6 @@
           {
             "comment": "Morat Vanguard Infantry / Combi",
             "unit_id": 6001,
-            "child_id": 1
-          }
-        ]
-      }
-    ],
-    "5999": [
-      {
-        "comment": "Vortex Spec-Ops",
-        "id": 5042,
-        "basemodels": [
-          {
-            "comment": "Alguaciles / Combi",
-            "unit_id": 5001,
-            "child_id": 1
-          },
-          {
-            "comment": "Moderators from Bakunin / Combi",
-            "unit_id": 5028,
-            "child_id": 1
-          },
-          {
-            "comment": "Securitate / Combi",
-            "unit_id": 5003,
             "child_id": 1
           }
         ]

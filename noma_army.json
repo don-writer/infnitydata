@@ -196,8 +196,16 @@
         ]
       },
       {
-        "comment": "Vortex Spec-Ops",
-        "id": 5042
+        "comment": "Vortex Spec-Ops (Alguacil)",
+        "id": 5057
+      },
+      {
+        "comment": "Vortex Spec-Ops (Moderator)",
+        "id": 5058
+      },
+      {
+        "comment": "Vortex Spec-Ops (Securitate)",
+        "id": 5059
       },
       {
         "comment": "Alguacil Vortex Lupe Balboa",

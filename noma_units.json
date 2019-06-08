@@ -4112,34 +4112,7 @@
   },
   {
     "id": 5042,
-    "army": "Nomads",
-    "isc": "Vortex Spec-Ops",
-    "name": "Vortex",
-    "type": "SPEC-OPS",
-    "imp": "",
-    "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
-    "ava": "1",
-    "spec": [],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spec-Ops",
-        "cost": "0",
-        "swc": "0",
-        "spec": [],
-        "bsw": [],
-        "ccw": []
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 5043,
@@ -5564,6 +5537,124 @@
         ],
         "ccw": [
           "Electric Pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5057,
+    "army": "Nomads",
+    "isc": "Vortex Spec-Ops (Alguacil)",
+    "name": "Vortex (Alguacil)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "11",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "11",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5058,
+    "army": "Nomads",
+    "isc": "Vortex Spec-Ops (Moderator)",
+    "name": "Vortex (Moderator)",
+    "type": "SPEC-OPS",
+    "classification": "Garrison",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "10",
+    "ph": "10",
+    "wip": "12",
+    "arm": "0",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Shock Immunity"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "10",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Electric Pulse",
+          "Pistol"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5059,
+    "army": "Nomads",
+    "isc": "Vortex Spec-Ops (Securitate)",
+    "name": "Vortex (Securitate)",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "10",
+    "wip": "14",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "3",
+    "spec": [
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "14",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
         ]
       }
     ]

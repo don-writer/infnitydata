@@ -5097,7 +5097,7 @@
         "arm": "1",
         "bts": "3",
         "w": "1",
-        "s": "4",
+        "s": "5",
         "spec": [
           "G: Synchronized",
           "CH: Mimetism"

@@ -141,7 +141,19 @@
       {
         "comment": "Rafiq Remote",
         "id": 4017,
-        "ava": "2"
+        "ava": "2",
+        "childs": [
+          {
+            "comment": "Duo is only available in Ramah/Vanilla",
+            "id": 2,
+            "hide": true
+          },
+          {
+            "comment": "Duo Red Fury is only available in Ramah/Vanilla",
+            "id": 3,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Shihab Remote",

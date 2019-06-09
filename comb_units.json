@@ -3732,31 +3732,40 @@
   {
     "id": 6039,
     "army": "Combined Army",
-    "isc": "Treitak Spec-Ops",
-    "name": "Treitak",
+    "isc": "Treitak Spec-Ops (Vanguard)",
+    "name": "Treitak (Vanguard)",
     "type": "SPEC-OPS",
+    "classification": "Line",
     "imp": "",
     "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "12",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
     "ava": "1",
-    "spec": [],
+    "spec": [
+      "Morat"
+    ],
     "childs": [
       {
         "id": 1,
         "name": "Spec-Ops",
-        "cost": "0",
+        "cost": "15",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -3809,32 +3818,44 @@
   {
     "id": 6041,
     "army": "Combined Army",
-    "isc": "Corax Spec-Ops",
-    "name": "Corax",
+    "isc": "Corax Spec-Ops (Nox)",
+    "name": "Corax (Nox)",
     "image": 6998,
     "type": "SPEC-OPS",
+    "classification": "Line",
     "imp": "",
     "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "11",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
     "ava": "1",
-    "spec": [],
+    "spec": [
+      "Bioimmunity",
+      "Shasvastii",
+      "Stealth"
+    ],
     "childs": [
       {
         "id": 1,
         "name": "Spec-Ops",
-        "cost": "0",
+        "cost": "15",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle",
+          "Zapper"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -5902,6 +5923,46 @@
         "spec": [],
         "bsw": [
           "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6065,
+    "army": "Combined Army",
+    "isc": "Nexus Spec-Ops",
+    "name": "Nexus",
+    "type": "SPEC-OPS",
+    "classification": "Elite",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "11",
+    "wip": "13",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Morat"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "16",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
         ],
         "ccw": [
           "Pistol",

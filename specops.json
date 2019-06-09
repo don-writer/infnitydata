@@ -175,6 +175,40 @@
         ]
       }
     ],
+    "6999": [
+      {
+        "comment": "Corax Spec-Ops",
+        "id": 6041,
+        "basemodels": [
+          {
+            "comment": "Shasvastii Seed-Soldiers / Combi",
+            "unit_id": 6041,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Treitak Spec-Ops",
+        "id": 6039,
+        "basemodels": [
+          {
+            "comment": "Morat Vanguard Infantry / Combi",
+            "unit_id": 6039,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Nexus Spec-Ops",
+        "id": 6065,
+        "basemodels": [
+          {
+            "unit_id": 6065,
+            "child_id": 1
+          }
+        ]
+      }
+    ],
     "7999": [
       {
         "comment": "Chandra Spec-Ops (Thorakitai)",
@@ -197,30 +231,6 @@
                   "child_id": 1
               }
           ]
-      }
-    ],
-    "6999": [
-      {
-        "comment": "Corax Spec-Ops",
-        "id": 6041,
-        "basemodels": [
-          {
-            "comment": "Shasvastii Seed-Soldiers / Combi",
-            "unit_id": 6030,
-            "child_id": 1
-          }
-        ]
-      },
-      {
-        "comment": "Treitak Spec-Ops",
-        "id": 6039,
-        "basemodels": [
-          {
-            "comment": "Morat Vanguard Infantry / Combi",
-            "unit_id": 6001,
-            "child_id": 1
-          }
-        ]
       }
     ],
     "8999": [

@@ -2946,30 +2946,40 @@
     "id": 9039,
     "army": "Non-Aligned Armies",
     "isc": "Brawler Spec-Ops",
-    "name": "Brawler Spec-Ops",
+    "name": "Brawler",
     "type": "SPEC-OPS",
+    "classification": "Specially Trained",
     "imp": "",
     "irr": "",
-    "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "12",
+    "ph": "11",
+    "wip": "12",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
     "ava": "1",
-    "spec": [],
+    "spec": [
+      "Fireteam: Duo"
+    ],
     "childs": [
       {
         "id": 1,
         "name": "Spec-Ops",
-        "cost": "0",
+        "cost": "17",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Rifle",
+          "Light Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },
@@ -4647,31 +4657,40 @@
   {
     "id": 9059,
     "army": "Non-Aligned Armies",
-    "isc": "Kaizoku Spec-Ops",
-    "name": "Kaizoku Spec-Ops",
+    "isc": "Kaizoku Spec-Ops (Keisotsu)",
+    "name": "Kaizoku (Keisotsu)",
     "type": "SPEC-OPS",
+    "classification": "Line",
     "imp": "",
     "irr": "",
     "cube": "",
-    "mov": "X-X",
-    "cc": "X",
-    "bs": "X",
-    "ph": "X",
-    "wip": "X",
-    "arm": "X",
-    "bts": "X",
-    "w": "X",
+    "mov": "4-4",
+    "cc": "14",
+    "bs": "10",
+    "ph": "10",
+    "wip": "12",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
     "ava": "1",
-    "spec": [],
+    "spec": [
+      "V: Courage"
+    ],
     "childs": [
       {
         "id": 1,
         "name": "Spec-Ops",
-        "cost": "0",
+        "cost": "10",
         "swc": "0",
         "spec": [],
-        "bsw": [],
-        "ccw": []
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -5562,6 +5581,51 @@
         "ccw": [
           "Pistol",
           "Monofilament CCW",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9073,
+    "army": "Tohaa",
+    "isc": "Hatail Spec-Ops (Taagma)",
+    "name": "Hatail (Taagma)",
+    "type": "SPEC-OPS",
+    "classification": "Headquarters",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Holoprojector L1",
+      "Counterintelligence",
+      "Shock Immunity",
+      "Stealth",
+      "Fireteam: Triad"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Spec-Ops",
+        "cost": "17",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Pistol",
           "Knife"
         ]
       }

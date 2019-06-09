@@ -253,18 +253,29 @@
         "basemodels": [
           {
             "comment": "Brawler / Rifle + LSG",
-            "unit_id": 9036,
+            "unit_id": 9039,
             "child_id": 1
           }
         ]
       },
       {
-        "comment": "Kaizoku Spec-Ops",
+        "comment": "Kaizoku Spec-Ops (Keisotsu)",
         "id": 9059,
         "basemodels": [
           {
             "comment": "Keisotsu / Combi",
-            "unit_id": 9042,
+            "unit_id": 9059,
+            "child_id": 1
+          }
+        ]
+      },
+      {
+        "comment": "Hatail Spec-Ops (Taagma)",
+        "id": 9073,
+        "basemodels": [
+          {
+            "comment": "Taagma / Combi",
+            "unit_id": 9073,
             "child_id": 1
           }
         ]

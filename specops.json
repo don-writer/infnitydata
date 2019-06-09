@@ -4,6 +4,7 @@
       {
         "comment": "Indigo Spec-Ops (Fusilier)",
         "id": 1060,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Fusiliers / Combi",
@@ -15,6 +16,7 @@
       {
         "comment": "Indigo Spec-Ops (Regular)",
         "id": 1061,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Acontecimento Regulars / Combi",
@@ -26,6 +28,7 @@
       {
         "comment": "Indigo Spec-Ops (Order Sergeant)",
         "id": 1062,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Order Sergeants / Combi",
@@ -39,6 +42,7 @@
       {
         "comment": "Guǐ Fēng Spec-Ops (Zhanshi)",
         "id": 2061,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Zhanshi / Combi",
@@ -50,6 +54,7 @@
       {
         "comment": "Guǐ Fēng Spec-Ops (Celestial)",
         "id": 2062,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Celestial Guard / Combi",
@@ -63,6 +68,7 @@
       {
         "comment": "Intel Spec-Ops (Line Kazak)",
         "id": 3058,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Line Kazak / Rifle",
@@ -74,6 +80,7 @@
       {
         "comment": "Intel Spec-Ops (Volunteer)",
         "id": 3059,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Caledonian Volunteers / Rifle",
@@ -85,6 +92,7 @@
       {
         "comment": "Intel Spec-Ops (Metro)",
         "id": 3060,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Métros / Rifle",
@@ -96,6 +104,7 @@
       {
         "comment": "Intel Spec-Ops (Grunt)",
         "id": 3061,
+        "type": "MI",
         "basemodels": [
           {
             "comment": "USAriadna Grunts / Rifle",
@@ -109,6 +118,7 @@
       {
         "comment": "Husam Spec-Ops (Ghulam)",
         "id": 4054,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Ghulam / Rifle",
@@ -120,6 +130,7 @@
       {
         "comment": "Husam Spec-Ops (Muyib)",
         "id": 4055,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Hassassin Muyibs / Panzerfaust",
@@ -131,6 +142,7 @@
       {
         "comment": "Husam Spec-Ops (Hafza)",
         "id": 4056,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Hafza Unit / Rifle",
@@ -144,6 +156,7 @@
       {
         "comment": "Vortex Spec-Ops (Alguacil)",
         "id": 5057,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Alguaciles / Combi",
@@ -155,6 +168,7 @@
       {
         "comment": "Vortex Spec-Ops (Moderator)",
         "id": 5058,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Moderators from Bakunin / Combi",
@@ -166,6 +180,7 @@
       {
         "comment": "Vortex Spec-Ops (Securitate)",
         "id": 5059,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Securitate / Combi",
@@ -179,6 +194,7 @@
       {
         "comment": "Corax Spec-Ops",
         "id": 6041,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Shasvastii Seed-Soldiers / Combi",
@@ -190,6 +206,7 @@
       {
         "comment": "Treitak Spec-Ops",
         "id": 6039,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Morat Vanguard Infantry / Combi",
@@ -201,6 +218,7 @@
       {
         "comment": "Nexus Spec-Ops",
         "id": 6065,
+        "type": "LI",
         "basemodels": [
           {
             "unit_id": 6065,
@@ -213,6 +231,7 @@
       {
         "comment": "Chandra Spec-Ops (Thorakitai)",
         "id": 7056,
+        "type": "MI",
         "basemodels": [
           {
             "comment": "Thorakitai / Combi",
@@ -224,6 +243,7 @@
       {
           "comment": "Chandra Spec-Ops (Deva)",
           "id": 7057,
+          "type": "LI",
           "basemodels": [
               {
                   "comment": "Deva / Combi",
@@ -237,6 +257,7 @@
       {
         "comment": "Hatail Spec-Ops (Kamael)",
         "id": 8014,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Kamael Light Infantry / Combi",
@@ -250,6 +271,7 @@
       {
         "comment": "Brawler Spec-Ops",
         "id": 9039,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Brawler / Rifle + LSG",
@@ -261,6 +283,7 @@
       {
         "comment": "Kaizoku Spec-Ops (Keisotsu)",
         "id": 9059,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Keisotsu / Combi",
@@ -272,6 +295,7 @@
       {
         "comment": "Hatail Spec-Ops (Taagma)",
         "id": 9073,
+        "type": "LI",
         "basemodels": [
           {
             "comment": "Taagma / Combi",

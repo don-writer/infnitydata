@@ -235,12 +235,12 @@
     ],
     "8999": [
       {
-        "comment": "Hatail Spec-Ops",
+        "comment": "Hatail Spec-Ops (Kamael)",
         "id": 8014,
         "basemodels": [
           {
             "comment": "Kamael Light Infantry / Combi",
-            "unit_id": 8001,
+            "unit_id": 8014,
             "child_id": 1
           }
         ]

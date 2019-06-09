@@ -147,7 +147,7 @@
         "basemodels": [
           {
             "comment": "Alguaciles / Combi",
-            "unit_id": 5001,
+            "unit_id": 5057,
             "child_id": 1
           }
         ]
@@ -158,7 +158,7 @@
         "basemodels": [
           {
             "comment": "Moderators from Bakunin / Combi",
-            "unit_id": 5028,
+            "unit_id": 5058,
             "child_id": 1
           }
         ]
@@ -169,7 +169,7 @@
         "basemodels": [
           {
             "comment": "Securitate / Combi",
-            "unit_id": 5003,
+            "unit_id": 5059,
             "child_id": 1
           }
         ]

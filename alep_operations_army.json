@@ -255,7 +255,23 @@
       {
         "comment": "Chandra Spec-Ops (Deva)",
         "id": 7057,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "1 CSU + 1 Deva Functionary"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Deva Functionaries + 1 Asura"
+          }
+        ]
       },
       {
         "comment": "Authorized Bounty Hunters",

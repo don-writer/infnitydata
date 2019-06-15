@@ -188,7 +188,23 @@
       {
         "comment": "Husam Spec-Ops (Muyib)",
         "id": 4055,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 2 Asawira can be part of any Fireteam: Core of Muyibs or Govads"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Up to 2 Muyibs can be part of a Fireteam: Haris of Asawiras"
+          }
+        ]
       },
       {
         "comment": "Hassassin Husam Yasbir",

@@ -236,7 +236,20 @@
       {
         "comment": "Guǐ Fēng Spec-Ops (Celestial)",
         "id": 2062,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Imperial Agent Crane Rank + Celestial Guards"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Celestial Guard with Kuang Shi Control Device + up to 4 Kuang Shi"
+          }
+        ]
       },
       {
         "comment": "Guǐ Fēng Xi Zhuang",

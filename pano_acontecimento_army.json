@@ -217,9 +217,22 @@
         ]
       },
       {
-        "comment": "Indigo Spec-Ops",
+        "comment": "Indigo Spec-Ops (Regular)",
         "id": 1061,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 2 Bagh-Maris can join any Fireteam Core of Regulars"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Orc Troop can join any Fireteam Core of Regulars"
+          }
+        ]
       },
       {
         "comment": "Tech-Bees, Maintenance Battalions",

@@ -176,7 +176,16 @@
       {
         "comment": "Vortex Spec-Ops (Alguacil)",
         "id": 5057,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 3 Alguaciles and up to 2 Mobile Brigadas"
+          }
+        ]
       },
       {
         "comment": "Alguacil Vortex Lupe Balboa",

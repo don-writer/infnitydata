@@ -147,7 +147,19 @@
       {
         "comment": "Brawler Spec-Ops",
         "id": 9039,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "2 Druze and up to 3 Brawlers"
+          }
+        ]
       }
     ]
   }

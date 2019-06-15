@@ -255,7 +255,16 @@
       {
         "comment": "Corax Spec-Ops",
         "id": 6041,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Nox Troops + 1 T-Drone FTO"
+          }
+        ]
       },
       {
         "comment": "Aïda Swanson, Submondo Smuggler",

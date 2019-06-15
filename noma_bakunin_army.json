@@ -207,7 +207,12 @@
       {
         "comment": "Vortex Spec-Ops (Moderator)",
         "id": 5058,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Warcor",

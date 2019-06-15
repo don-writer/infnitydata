@@ -307,7 +307,23 @@
       {
         "comment": "Brawler Spec-Ops",
         "id": 9039,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 CSU or Spector FTO"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "1 Brawler + 1 CSU + Spector FTO"
+          }
+        ]
       }
     ]
   }

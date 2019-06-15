@@ -203,7 +203,16 @@
       {
         "comment": "Intel Spec-Ops (Line Kazak)",
         "id": 3058,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Line Kazaks + 1 Frontovik"
+          }
+        ]
       },
       {
         "comment": "Warcor",

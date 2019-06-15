@@ -334,9 +334,26 @@
         ]
       },
       {
-        "comment": "Indigo Spec-Ops",
+        "comment": "Indigo Spec-Ops (Order Sergeant)",
         "id": 1062,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam",
+            "note": "Up to 1 Order Sergeant can join a Knights Hospitallers or a Teuton Knights Fireteam. Except Crusade Fireteams"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Black Friar (Albedo, Biometric Visor L1) can join a Fireteam: Core of Order Sergeants"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Father-Knights can join a Fireteam: Core of Order Sergeants"
+          }
+        ]
       },
       {
         "comment": "Indigo Brother Konstantinos",

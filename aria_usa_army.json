@@ -98,7 +98,13 @@
       {
         "comment": "Intel Spec-Ops (Grunt)",
         "id": 3061,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Troops possessing Inferior Infiltration cannot compose Fireteams in this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Van Zant",

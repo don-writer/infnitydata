@@ -224,8 +224,15 @@
         "ava": "1",
         "notes": [
           {
-            "title": "Special Fireteam",
-            "note": "Kaizoku Spec-Ops count as a Keisotsu for Fireteam composition"
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Either 1 Kempeitai and up to 4 Keisotsus OR 2 Kempeitai and up to 3 Keisotsus"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Kempeitai + 1 Domaru + 3 Keisotsus"
           }
         ]
       },

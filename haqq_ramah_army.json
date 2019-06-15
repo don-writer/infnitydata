@@ -230,7 +230,12 @@
       {
         "comment": "Husam Spec-Ops (Ghulam)",
         "id": 4054,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Warcor",

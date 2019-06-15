@@ -210,7 +210,17 @@
       {
         "comment": "Nexus Spec-Ops",
         "id": 6065,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate + up to 4 Unidron Batroids, OR 1 Nexus Operative + 1 Umbra Legate + up to 3 Unidron Batroids"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "1 Nexus Operative or 1 Umbra Legate or 1 Umbra Samaritan + up to 4 Rodoks"
+          }
+        ]
       },
       {
         "comment": "Imetron",

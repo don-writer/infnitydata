@@ -262,7 +262,16 @@
       {
         "comment": "Treitak Spec-Ops",
         "id": 6039,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 4 Vanguards + 1 Suryat"
+          }
+        ]
       },
       {
         "comment": "Treitak Anyat",

@@ -276,7 +276,28 @@
       {
         "comment": "Brawler Spec-Ops",
         "id": 9039,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Duo"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Brawlers + 1 Tankō"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Tankōs + 1 Brawler"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "2 Wú Míng + 1 Clipper FTS or 1 Brawler"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "3 Keisotus + 1 Tankō + 1 Brawler"
+          }
+        ]
       },
       {
         "comment": "Libertos Freedom Fighters",

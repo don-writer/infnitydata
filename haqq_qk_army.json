@@ -185,7 +185,13 @@
       {
         "comment": "Husam Spec-Ops (Hafza)",
         "id": 4056,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Up to 2 Hafza can join any Fireteam of this Sectorial Army, but not those of Mercenary Troops (Druze and Kaplans)"
+          }
+        ]
       },
       {
         "comment": "Husam Operative Leila Sharif",

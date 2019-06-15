@@ -220,7 +220,16 @@
       {
         "comment": "Vortex Spec-Ops (Securitate)",
         "id": 5059,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam",
+            "note": "The Grenzers count as Securitates for Fireteam composition"
+          }
+        ]
       },
       {
         "comment": "Miranda Ashcroft (Ashcroft Hunting Party)",

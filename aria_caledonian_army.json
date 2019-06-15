@@ -160,7 +160,13 @@
       {
         "comment": "Intel Spec-Ops (Volunteer)",
         "id": 3059,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Troopers with Inferior Infiltration cannot be members of a Fireteam in this Sectorial. Up to 5 Volunteers OR 1 3rd Grey Rifle + up to 4 Volunteers."
+          }
+        ]
       },
       {
         "comment": "Volunteer Intel Isobel McGregor",

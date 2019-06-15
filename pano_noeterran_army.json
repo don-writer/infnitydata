@@ -211,9 +211,14 @@
         ]
       },
       {
-        "comment": "Indigo Spec-Ops",
+        "comment": "Indigo Spec-Ops (Fusilier)",
         "id": 1060,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          }
+        ]
       },
       {
         "comment": "Fusilier Indigo Bipandra",

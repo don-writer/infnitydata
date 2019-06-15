@@ -235,7 +235,17 @@
       {
         "comment": "Hatail Spec-Ops (Taagma)",
         "id": 9073,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Special Fireteam: Triad",
+            "note": "1 Taagma Schemer + 2 Chaksa Auxiliars (Fireteam: Special Triad)"
+          },
+          {
+            "title": "Special Fireteam",
+            "note": "The Taagma count as Brawlers for Fireteam composition"
+          }
+        ]
       }
     ]
   }

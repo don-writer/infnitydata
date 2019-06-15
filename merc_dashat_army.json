@@ -285,7 +285,18 @@
       {
         "comment": "Brawler Spec-Ops",
         "id": 9039,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Core"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
+          }
+        ]
       }
     ]
   }

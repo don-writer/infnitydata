@@ -271,7 +271,13 @@
       {
         "comment": "Chandra Spec-Ops (Thorakitai)",
         "id": 7056,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Fireteam: Enomotarchos",
+            "note": "1 or more troopers with Fireteam: Enomotarchos (Thorakitai) + Thorakitai"
+          }
+        ]
       },
       {
         "comment": "Chandra Sergeant Thrasymedes",

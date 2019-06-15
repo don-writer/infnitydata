@@ -265,6 +265,20 @@
         "id": 2060
       },
       {
+        "comment": "Krit Kokram, Zúyong Invincibles Specialist",
+        "id": 2063,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Kokram FTO counts as a Zúyong for Fireteam composition."
+          },
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "Kokram FTO can be part of a Fireteam: Duo with the Guijia Squadron."
+          }
+        ]
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "1"

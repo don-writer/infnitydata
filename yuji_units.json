@@ -5008,5 +5008,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2063,
+    "army": "Yu Jing",
+    "isc": "Krit Kokram, Zúyong Invincibles Specialist",
+    "name": "Kokram",
+    "type": "HI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "16",
+    "bs": "13",
+    "ph": "12",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "2",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "AutoMediKit",
+      "Engineer",
+      "Kinematika L2",
+      "V: Courage"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Forward Deployment Combi",
+        "cost": "42",
+        "swc": "0",
+        "spec": [
+          "Forward Deployment L1",
+          "Minelayer"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/Mitter",
+          "Chain-Colt",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Heavy Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "FTO Combi",
+        "cost": "39",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Combi Rifle",
+          "E/Mitter",
+          "Chain-Colt",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Heavy Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "FTO Feuerbach",
+        "cost": "48",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Feuerbach",
+          "Chain-Colt",
+          "D-Charges"
+        ],
+        "ccw": [
+          "Heavy Pistol (2)",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

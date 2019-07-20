@@ -287,7 +287,14 @@
       {
         "comment": "Father Lucien Sforza, Registered Bounty Hunter",
         "id": 2053,
-        "ava": "1"
+        "ava": "1",
+        "childs": [
+          {
+            "comment": "FTO only in Dahshat",
+            "id": 2,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Authorized Bounty Hunters",

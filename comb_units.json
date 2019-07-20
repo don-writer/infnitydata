@@ -3731,6 +3731,7 @@
   },
   {
     "id": 6039,
+    "sharedAva": 6001,
     "army": "Combined Army",
     "isc": "Treitak Spec-Ops (Vanguard)",
     "name": "Treitak (Vanguard)",
@@ -3817,6 +3818,7 @@
   },
   {
     "id": 6041,
+    "sharedAva": 6058,
     "army": "Combined Army",
     "isc": "Corax Spec-Ops (Nox)",
     "name": "Corax (Nox)",
@@ -5933,6 +5935,7 @@
   },
   {
     "id": 6065,
+    "sharedAva": 6053,
     "army": "Combined Army",
     "isc": "Nexus Spec-Ops",
     "name": "Nexus",

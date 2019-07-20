@@ -2944,6 +2944,7 @@
   },
   {
     "id": 9039,
+    "sharedAva": 9036,
     "army": "Non-Aligned Armies",
     "isc": "Brawler Spec-Ops",
     "name": "Brawler",
@@ -4656,6 +4657,7 @@
   },
   {
     "id": 9059,
+    "sharedAva": 9042,
     "army": "Non-Aligned Armies",
     "isc": "Kaizoku Spec-Ops (Keisotsu)",
     "name": "Kaizoku (Keisotsu)",
@@ -5588,6 +5590,7 @@
   },
   {
     "id": 9073,
+    "sharedAva": 8026,
     "army": "Tohaa",
     "isc": "Hatail Spec-Ops (Taagma)",
     "name": "Hatail (Taagma)",

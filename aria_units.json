@@ -5855,6 +5855,7 @@
   },
   {
     "id": 3058,
+    "sharedAva": 3001,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Line Kazak)",
     "name": "Intel (Line Kazak)",
@@ -5893,6 +5894,7 @@
   },
   {
     "id": 3059,
+    "sharedAva": 3022,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Volunteer)",
     "name": "Intel (Volunteer)",
@@ -5933,6 +5935,7 @@
   },
   {
     "id": 3060,
+    "sharedAva": 3027,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Métro)",
     "name": "Intel (Métro)",
@@ -5973,6 +5976,7 @@
   },
   {
     "id": 3061,
+    "sharedAva": 3004,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Grunt)",
     "name": "Intel (Grunt)",

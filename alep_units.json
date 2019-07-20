@@ -4775,6 +4775,7 @@
   },
   {
     "id": 7056,
+    "sharedAva": 7027,
     "army": "Aleph",
     "isc": "Chandra Spec-Ops (Thorakitai)",
     "name": "Chandra (Thorakitai)",
@@ -4816,6 +4817,7 @@
   },
   {
     "id": 7057,
+    "sharedAva": 7007,
     "army": "Aleph",
     "isc": "Chandra Spec-Ops (Deva)",
     "name": "Chandra (Deva)",

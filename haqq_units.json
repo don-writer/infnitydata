@@ -5424,6 +5424,7 @@
   },
   {
     "id": 4054,
+    "sharedAva": 4002,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops (Ghulam)",
     "name": "Husam (Ghulam)",
@@ -5463,6 +5464,7 @@
   },
   {
     "id": 4055,
+    "sharedAva": 4031,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops (Muyib)",
     "name": "Husam (Muyib)",
@@ -5508,6 +5510,7 @@
   },
   {
     "id": 4056,
+    "sharedAva": 4028,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops (Hafza)",
     "name": "Husam (Hafza)",

@@ -3245,6 +3245,7 @@
   },
   {
     "id": 1031,
+    "sharedAva": 1030,
     "army": "Military Orders",
     "isc": "Spec. Sergeants",
     "name": "Spec. Sergeant",
@@ -5694,6 +5695,7 @@
   },
   {
     "id": 1060,
+    "sharedAva": 1001,
     "army": "PanOceania",
     "isc": "Indigo Spec-Ops (Fusilier)",
     "name": "Indigo (Fusilier)",
@@ -5731,6 +5733,7 @@
   },
   {
     "id": 1061,
+    "sharedAva": 1023,
     "army": "PanOceania",
     "isc": "Indigo Spec-Ops (Regular)",
     "name": "Indigo (Regular)",
@@ -5771,6 +5774,7 @@
   },
   {
     "id": 1062,
+    "sharedAva": 1030,
     "army": "PanOceania",
     "isc": "Indigo Spec-Ops (Order Sergeant)",
     "name": "Indigo (Order Sergeant)",

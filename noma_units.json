@@ -5543,6 +5543,7 @@
   },
   {
     "id": 5057,
+    "sharedAva": 5001,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops (Alguacil)",
     "name": "Vortex (Alguacil)",
@@ -5581,6 +5582,7 @@
   },
   {
     "id": 5058,
+    "sharedAva": 5028,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops (Moderator)",
     "name": "Vortex (Moderator)",
@@ -5621,6 +5623,7 @@
   },
   {
     "id": 5059,
+    "sharedAva": 5003,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops (Securitate)",
     "name": "Vortex (Securitate)",

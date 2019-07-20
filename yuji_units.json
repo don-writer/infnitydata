@@ -4936,6 +4936,7 @@
   },
   {
     "id": 2061,
+    "sharedAva": 2002,
     "army": "Yu Jing",
     "isc": "Guǐ Fēng Spec-Ops (Zhanshi)",
     "name": "Guǐ Fēng (Zhanshi)",
@@ -4974,6 +4975,7 @@
   },
   {
     "id": 2062,
+    "sharedAva": 2022,
     "army": "Yu Jing",
     "isc": "Guǐ Fēng Spec-Ops (Celestial)",
     "name": "Guǐ Fēng (Celestial)",

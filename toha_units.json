@@ -1431,6 +1431,7 @@
   },
   {
     "id": 8014,
+    "sharedAva": 8001,
     "army": "Tohaa",
     "isc": "Hatail Spec-Ops (Kamael)",
     "name": "Hatail (Kamael)",

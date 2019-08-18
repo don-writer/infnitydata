@@ -5855,7 +5855,6 @@
   },
   {
     "id": 3058,
-    "sharedAva": 3001,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Line Kazak)",
     "name": "Intel (Line Kazak)",
@@ -5874,6 +5873,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 3001,
     "spec": [],
     "childs": [
       {
@@ -5894,7 +5894,6 @@
   },
   {
     "id": 3059,
-    "sharedAva": 3022,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Volunteer)",
     "name": "Intel (Volunteer)",
@@ -5913,6 +5912,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 3022,
     "spec": [
       "Multiterrain (Jungle Terrain / Mountain Terrain)"
     ],
@@ -5935,7 +5935,6 @@
   },
   {
     "id": 3060,
-    "sharedAva": 3027,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Métro)",
     "name": "Intel (Métro)",
@@ -5954,6 +5953,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 3027,
     "spec": [
       "Multiterrain"
     ],
@@ -5976,7 +5976,6 @@
   },
   {
     "id": 3061,
-    "sharedAva": 3004,
     "army": "Ariadna",
     "isc": "Intel Spec-Ops (Grunt)",
     "name": "Intel (Grunt)",
@@ -5995,6 +5994,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 3004,
     "spec": [
       "Shock Immunity"
     ],

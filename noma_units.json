@@ -5543,7 +5543,6 @@
   },
   {
     "id": 5057,
-    "sharedAva": 5001,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops (Alguacil)",
     "name": "Vortex (Alguacil)",
@@ -5562,6 +5561,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 5001,
     "spec": [],
     "childs": [
       {
@@ -5582,7 +5582,6 @@
   },
   {
     "id": 5058,
-    "sharedAva": 5028,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops (Moderator)",
     "name": "Vortex (Moderator)",
@@ -5601,6 +5600,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 5028,
     "spec": [
       "Shock Immunity"
     ],
@@ -5623,7 +5623,6 @@
   },
   {
     "id": 5059,
-    "sharedAva": 5003,
     "army": "Nomads",
     "isc": "Vortex Spec-Ops (Securitate)",
     "name": "Vortex (Securitate)",
@@ -5642,6 +5641,7 @@
     "w": "1",
     "s": "2",
     "ava": "3",
+    "sharedAva": 5003,
     "spec": [
       "Veteran L1"
     ],

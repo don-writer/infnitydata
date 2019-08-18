@@ -5424,7 +5424,6 @@
   },
   {
     "id": 4054,
-    "sharedAva": 4002,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops (Ghulam)",
     "name": "Husam (Ghulam)",
@@ -5443,6 +5442,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 4002,
     "spec": [],
     "childs": [
       {
@@ -5464,7 +5464,6 @@
   },
   {
     "id": 4055,
-    "sharedAva": 4031,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops (Muyib)",
     "name": "Husam (Muyib)",
@@ -5483,6 +5482,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 4031,
     "spec": [
       "Religious Troop",
       "V: Dogged",
@@ -5510,7 +5510,6 @@
   },
   {
     "id": 4056,
-    "sharedAva": 4028,
     "army": "Haqqislam",
     "isc": "Husam Spec-Ops (Hafza)",
     "name": "Husam (Hafza)",
@@ -5529,6 +5528,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 4028,
     "spec": [
       "Holoprojector L1"
     ],

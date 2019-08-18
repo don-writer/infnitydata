@@ -4936,7 +4936,6 @@
   },
   {
     "id": 2061,
-    "sharedAva": 2002,
     "army": "Yu Jing",
     "isc": "Guǐ Fēng Spec-Ops (Zhanshi)",
     "name": "Guǐ Fēng (Zhanshi)",
@@ -4955,6 +4954,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 2002,
     "spec": [],
     "childs": [
       {
@@ -4975,7 +4975,6 @@
   },
   {
     "id": 2062,
-    "sharedAva": 2022,
     "army": "Yu Jing",
     "isc": "Guǐ Fēng Spec-Ops (Celestial)",
     "name": "Guǐ Fēng (Celestial)",
@@ -4993,6 +4992,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 2022,
     "spec": [],
     "childs": [
       {

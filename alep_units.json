@@ -4775,7 +4775,6 @@
   },
   {
     "id": 7056,
-    "sharedAva": 7027,
     "army": "Aleph",
     "isc": "Chandra Spec-Ops (Thorakitai)",
     "name": "Chandra (Thorakitai)",
@@ -4794,6 +4793,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 7027,
     "spec": [
       "Religious Troop"
     ],
@@ -4817,7 +4817,6 @@
   },
   {
     "id": 7057,
-    "sharedAva": 7007,
     "army": "Aleph",
     "isc": "Chandra Spec-Ops (Deva)",
     "name": "Chandra (Deva)",
@@ -4836,6 +4835,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 7007,
     "spec": [
       "V: No Wound Incapacitation"
     ],

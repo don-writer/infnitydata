@@ -3245,12 +3245,12 @@
   },
   {
     "id": 1031,
-    "sharedAva": 1030,
     "army": "Military Orders",
     "isc": "Spec. Sergeants",
     "name": "Spec. Sergeant",
     "image": 1030,
     "ava": "T",
+    "sharedAva": 1030,
     "spec": [],
     "profiles": [
       {
@@ -5695,7 +5695,6 @@
   },
   {
     "id": 1060,
-    "sharedAva": 1001,
     "army": "PanOceania",
     "isc": "Indigo Spec-Ops (Fusilier)",
     "name": "Indigo (Fusilier)",
@@ -5713,6 +5712,7 @@
     "bts": "0",
     "w": "1",
     "ava": "1",
+    "sharedAva": 1001,
     "spec": [],
     "childs": [
       {
@@ -5733,7 +5733,6 @@
   },
   {
     "id": 1061,
-    "sharedAva": 1023,
     "army": "PanOceania",
     "isc": "Indigo Spec-Ops (Regular)",
     "name": "Indigo (Regular)",
@@ -5752,6 +5751,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 1023,
     "spec": [
       "Jungle Terrain"
     ],
@@ -5774,7 +5774,6 @@
   },
   {
     "id": 1062,
-    "sharedAva": 1030,
     "army": "PanOceania",
     "isc": "Indigo Spec-Ops (Order Sergeant)",
     "name": "Indigo (Order Sergeant)",
@@ -5793,6 +5792,7 @@
     "w": "1",
     "s": "2",
     "ava": "1",
+    "sharedAva": 1030,
     "spec": [
       "Religious Troop"
     ],

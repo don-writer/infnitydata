@@ -4856,5 +4856,53 @@
         ]
       }
     ]
+  },
+  {
+    "id": 7058,
+    "army": "Aleph",
+    "isc": "Hippolyta, Amazon Officer",
+    "name": "Hippolyta",
+    "type": "WB",
+    "classification": "Character",
+    "imp": "I",
+    "irr": "",
+    "cube": "2",
+    "mov": "4-4",
+    "cc": "23",
+    "bs": "13",
+    "ph": "14",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "ODD: Optical Disruptor",
+      "Peacekeeper",
+      "Martial Arts L4",
+      "Kinematika L2",
+      "Super-Jump",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Breaker Combi",
+        "cost": "38",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser",
+          "Flash Pulse",
+          "Eclipse Grenades"
+        ],
+        "ccw": [
+          "Pistol",
+          "EXP CCW"
+        ]
+      }
+    ]
   }
 ]

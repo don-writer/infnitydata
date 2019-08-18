@@ -4721,7 +4721,7 @@
         "id": 5,
         "name": "Red Fury Lieutenant",
         "cost": "50",
-        "swc": "1",
+        "swc": "0",
         "spec": [
           "Lieutenant"
         ],
@@ -4738,7 +4738,7 @@
         "id": 6,
         "name": "Spitfire Lieutenant",
         "cost": "52",
-        "swc": "2",
+        "swc": "1",
         "spec": [
           "Lieutenant"
         ],

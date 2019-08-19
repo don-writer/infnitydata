@@ -3308,5 +3308,39 @@
     "cc": "No",
     "template": "No",
     "note": "Non-Lootable"
+  },
+  {
+    "name": "Light Riotstopper",
+    "burst": "1",
+    "ammo": "Adhesive",
+    "damage": "--",
+    "short_dist": "--",
+    "short_mod": "--",
+    "medium_dist": "--",
+    "medium_mod": "--",
+    "long_dist": "--",
+    "long_mod": "--",
+    "max_dist": "--",
+    "max_mod": "--",
+    "cc": "No",
+    "template": "Direct Template (Small Teardrop)",
+    "note": "Intuitive Attack, Non-lethal"
+  },
+  {
+      "name": "Heavy Riotstopper",
+      "burst": "1",
+      "ammo": "Adhesive",
+      "damage": "--",
+      "short_dist": "--",
+      "short_mod": "--",
+      "medium_dist": "--",
+      "medium_mod": "--",
+      "long_dist": "--",
+      "long_mod": "--",
+      "max_dist": "--",
+      "max_mod": "--",
+      "cc": "No",
+      "template": "Direct Template (Large Teardrop)",
+      "note": "Intuitive Attack, Non-lethal"
   }
 ]

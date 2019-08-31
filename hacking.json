@@ -197,6 +197,17 @@
       ]
     },
     {
+        "name": "Assault Hacking Device: UPGRADE: Stop!",
+        "groups": [
+            "CLAW-1",
+            "CLAW-2",
+            "CLAW-3"
+        ],
+        "upgrades": [
+            "Stop!"
+        ]
+    },
+    {
       "name": "EVO Hacking Device",
       "groups": [
         "SWORD-1",

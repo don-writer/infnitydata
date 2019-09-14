@@ -305,6 +305,20 @@
         ]
       }
     ],
+    "10999": [
+      {
+        "comment": "Kappa Spec-Ops",
+        "id": 10022,
+        "type": "LI",
+        "basemodels": [
+          {
+            "comment": "Kappa / Combi",
+            "unit_id": 10022,
+            "child_id": 1
+          }
+        ]
+      },
+    ],
   },
   "gear": {
     "1999": {
@@ -767,6 +781,56 @@
         "Hacking Device": 3,
         "X Visor": 4,
         "Multispectral Visor L1": 4
+      },
+    },
+    "10999": {
+      "weapons": {
+        "Akrylat-Kanone": 1,
+        "AP CCW": 1,
+        "EXP CCW": 1,
+        "D-Charges": 1,
+        "Breaker Pistol": 1,
+        "Stun Pistol": 1,
+        "Nanopulser": 2,
+        "Contender": 3,
+        "Assault Pistol": 3,
+        "Heavy Riotstopper": 3,
+        "Boarding Shotgun": 4,
+        "Breaker Combi Rifle": 4,
+        "Shock Marksman Rifle": 4,
+        "Submachine Gun": 4,
+        "MULTI Rifle": 5,
+        "Light Rocket Launcher": 5,
+        "Red Fury": 5,
+        "K1 Sniper Rifle": 6,
+        "Spitfire": 6,
+        "HMG": 8
+      },
+      "skills": {
+        "Bioimmunity": 2,
+        "Natural Born Warrior": 2,
+        "Medevac Plus": 2,
+        "Minelayer (3 AP Mines)": 2,
+        "Hyperdynamics L2": 2,
+        "Free Agent": 2,
+        "CUBEvac Plus": 3,
+        "Doctor (MediKit)": 3,
+        "Super-Jump": 3,
+        "Climbing Plus": 3,
+        "Forward Deployment L1": 3,
+        "Engineer": 4,
+        "Veteran L1": 4,
+        "CH: Mimetism": 5,
+        "Chain of Command": 8,
+        "AD: Combat Jump": 8,
+        "V: No Wound Incapacitation": 8,
+        "Sapper": 8
+      },
+      "equipment": {
+        "Hacking Device": 3,
+        "Holoprojector L1": 3,
+        "Multispectral Visor L1": 4,
+        "AutoMediKit": 6
       }
     }
   }

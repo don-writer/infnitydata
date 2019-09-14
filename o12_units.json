@@ -1877,5 +1877,47 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10022,
+    "army": "O-12",
+    "isc": "Kappa Spec-Ops",
+    "name": "Kappa",
+    "type": "SPEC-OPS",
+    "classification": "Line",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "12",
+    "ph": "10",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "sharedAva": 10003,
+    "spec": [
+      "Peacekeeper",
+      "Shock Immunity"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Combi",
+        "cost": "13",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

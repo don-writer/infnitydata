@@ -187,6 +187,10 @@
       {
         "comment": "Varangian Guard",
         "id": 10021
+      },
+      {
+        "comment": "Kappa Spec-Ops",
+        "id": 10022
       }
     ]
   }

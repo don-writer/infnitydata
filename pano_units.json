@@ -1425,7 +1425,9 @@
         "s": "7",
         "spec": [
           "Advanced ECM",
-          "G: Remote Presence"
+          "G: Remote Presence",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -1561,8 +1563,8 @@
   {
     "id": 1012,
     "army": "PanOceania",
-    "isc": "Dragoes",
-    "name": "Dragao",
+    "isc": "Dragões",
+    "name": "Drãgao",
     "ava": "1",
     "spec": [],
     "profiles": [
@@ -1585,7 +1587,9 @@
         "s": "7",
         "spec": [
           "ECM",
-          "G: Remote Presence"
+          "G: Remote Presence",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -1662,10 +1666,12 @@
         "w": "3",
         "s": "7",
         "spec": [
-          "Aquatic Terrain",
-          "CH: TO Camouflage",
           "ECM",
-          "G: Remote Presence"
+          "G: Remote Presence",
+          "CH: TO Camouflage",
+          "Aquatic Terrain",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -1756,7 +1762,9 @@
         "spec": [
           "ECM",
           "G: Remote Presence",
-          "Mountain Terrain"
+          "Mountain Terrain",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -3826,9 +3834,11 @@
         "w": "3",
         "s": "6",
         "spec": [
-          "CH: Camouflage",
+          "ECM",
           "G: Remote Presence",
-          "ECM"
+          "CH: Camouflage",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -3906,11 +3916,13 @@
         "s": "6",
         "ava": "1",
         "spec": [
-          "CH: Mimetism",
-          "Climbing Plus",
+          "ECM",
           "G: Remote Presence",
+          "CH: Mimetism",
           "Jungle Terrain",
-          "ECM"
+          "Climbing Plus",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -4023,11 +4035,13 @@
         "w": "3",
         "s": "7",
         "spec": [
+          "ECM",
           "G: Remote Presence",
           "Religious Troop",
-          "ECM",
           "Kinematika L2",
-          "Super-Jump"
+          "Super-Jump",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []

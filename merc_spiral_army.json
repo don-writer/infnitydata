@@ -195,6 +195,18 @@
         "comment": "Anaconda",
         "id": 9016,
         "ava": "1",
+        "childs": [
+          {
+            "comment": "Duo only in Starco",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Duo only in Starco",
+            "id": 4,
+            "hide": true
+          }
+        ],
         "notes": [
           {
             "title": "Special Fireteam: Duo",

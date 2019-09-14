@@ -1087,14 +1087,16 @@
         "s": "7",
         "spec": [
           "ECM",
-          "V: Courage",
           "Manned",
-          "Assault"
+          "V: Courage",
+          "Assault",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": [],
         "independent": {
-          "cost": "51",
+          "cost": "55",
           "swc": "1.5"
         }
       },
@@ -1168,7 +1170,7 @@
       {
         "id": 1,
         "name": "Mk12",
-        "cost": "68",
+        "cost": "72",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -1184,14 +1186,13 @@
   {
     "id": 9016,
     "army": "Non-Aligned Armies",
-    "isc": "Anaconda",
+    "isc": "Anaconda, Mercenary TAG Squad",
     "name": "Anaconda",
     "ava": "1",
     "spec": [],
     "profiles": [
       {
         "id": 1,
-        "isc": "Anaconda",
         "type": "TAG",
         "classification": "Mercenary",
         "imp": "",
@@ -1208,10 +1209,12 @@
         "w": "2",
         "s": "7",
         "spec": [
+          "ED: Escape System",
           "ECM",
-          "Escape System",
+          "Manned",
           "V: Courage",
-          "Manned"
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": [
@@ -1250,7 +1253,7 @@
       {
         "id": 1,
         "name": "Spitfire",
-        "cost": "62",
+        "cost": "66",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -1263,9 +1266,39 @@
       {
         "id": 2,
         "name": "HMG",
-        "cost": "64",
+        "cost": "68",
         "swc": "2",
         "spec": [],
+        "bsw": [
+          "HMG",
+          "Chain-Colt",
+          "Panzerfaust"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 3,
+        "name": "Spitfire Duo",
+        "cost": "66",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Spitfire",
+          "Light Flamethrower",
+          "Panzerfaust"
+        ],
+        "ccw": []
+      },
+      {
+        "id": 4,
+        "name": "HMG Duo",
+        "cost": "68",
+        "swc": "2",
+        "spec": [
+          "Fireteam: Duo"
+        ],
         "bsw": [
           "HMG",
           "Chain-Colt",
@@ -2846,15 +2879,17 @@
         "s": "7",
         "spec": [
           "ECM",
-          "V: Courage",
           "Manned",
+          "V: Courage",
           "Assault",
-          "Fireteam: Duo"
+          "Fireteam: Duo",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": [],
         "independent": {
-          "cost": "57",
+          "cost": "61",
           "swc": "1.5"
         }
       },
@@ -2930,7 +2965,7 @@
       {
         "id": 1,
         "name": "Mk12 + HRL",
-        "cost": "74",
+        "cost": "78",
         "swc": "1.5",
         "spec": [],
         "bsw": [
@@ -4899,98 +4934,7 @@
   },
   {
     "id": 9064,
-    "army": "Non-Aligned Armies",
-    "isc": "Anaconda",
-    "name": "Anaconda",
-    "ava": "2",
-    "spec": [],
-    "profiles": [
-      {
-        "id": 1,
-        "isc": "Anaconda",
-        "type": "TAG",
-        "classification": "Mercenary",
-        "imp": "",
-        "irr": "",
-        "cube": "X",
-        "hackable": "X",
-        "mov": "4-4",
-        "cc": "16",
-        "bs": "13",
-        "ph": "16",
-        "wip": "13",
-        "arm": "6",
-        "bts": "6",
-        "w": "2",
-        "s": "7",
-        "spec": [
-          "ECM",
-          "Escape System",
-          "V: Courage",
-          "Manned",
-          "Fireteam: Duo"
-        ],
-        "bsw": [],
-        "ccw": [
-          "CCW"
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Operator",
-        "type": "LI",
-        "hackable": "",
-        "mov": "4-4",
-        "cc": "13",
-        "bs": "12",
-        "ph": "10",
-        "wip": "13",
-        "arm": "1",
-        "bts": "3",
-        "w": "1",
-        "s": "2",
-        "ava": "",
-        "spec": [
-          "Operator",
-          "V: Courage"
-        ],
-        "bsw": [
-          "Spitfire"
-        ],
-        "ccw": [
-          "Pistol",
-          "Knife"
-        ]
-      }
-    ],
-    "childs": [
-      {
-        "id": 1,
-        "name": "Spitfire Duo",
-        "cost": "62",
-        "swc": "2",
-        "spec": [],
-        "bsw": [
-          "Spitfire",
-          "Light Flamethrower",
-          "Panzerfaust"
-        ],
-        "ccw": []
-      },
-      {
-        "id": 2,
-        "name": "HMG Duo",
-        "cost": "64",
-        "swc": "2",
-        "spec": [],
-        "bsw": [
-          "HMG",
-          "Chain-Colt",
-          "Panzerfaust"
-        ],
-        "ccw": []
-      }
-    ]
+    "obsolete": "X"
   },
   {
     "id": 9065,

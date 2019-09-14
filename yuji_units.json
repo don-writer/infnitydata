@@ -1507,14 +1507,14 @@
   {
     "id": 2011,
     "army": "Yu Jing",
-    "isc": "Guijia",
-    "name": "Guijia",
+    "isc": "Gūijiă Squadrons",
+    "name": "Gūijiă",
     "ava": "2",
     "spec": [],
     "profiles": [
       {
         "id": 1,
-        "name": "Guijia",
+        "name": "Gūijiă",
         "type": "TAG",
         "classification": "Mechanized",
         "imp": "",
@@ -1532,7 +1532,9 @@
         "s": "7",
         "spec": [
           "ECM",
-          "Manned"
+          "Manned",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []

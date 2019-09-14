@@ -1292,9 +1292,11 @@
         "w": "3",
         "s": "8",
         "spec": [
-          "Heavyweight",
           "Advanced ECM",
-          "Manned"
+          "Manned",
+          "Heavyweight",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []

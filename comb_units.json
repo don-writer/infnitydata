@@ -1010,14 +1010,13 @@
   {
     "id": 6008,
     "army": "Combined Army",
-    "isc": "Raicho Armoured Brigade",
+    "isc": "Raicho Armored Brigade",
     "name": "Raicho",
     "ava": "1",
     "spec": [],
     "profiles": [
       {
         "id": 1,
-        "name": "Raicho Armoured Brigade",
         "type": "TAG",
         "classification": "Mechanized",
         "imp": "",
@@ -1034,9 +1033,11 @@
         "w": "3",
         "s": "7",
         "spec": [
-          "Morat",
           "ECM",
-          "Manned"
+          "Morat",
+          "Manned",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -1123,10 +1124,12 @@
         "w": "3",
         "s": "7",
         "spec": [
+          "ODD: Optical Disruptor",
           "ECM",
           "G: Mnemonica",
-          "ODD: Optical Disruptor",
-          "Immunity: POS"
+          "Immunity: POS",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -2693,11 +2696,13 @@
         "w": "3",
         "s": "6",
         "spec": [
-          "CH: TO Camouflage",
-          "Climbing Plus",
           "ECM",
           "G: Remote Presence",
-          "Multiterrain"
+          "CH: TO Camouflage",
+          "Multiterrain",
+          "Climbing Plus",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -4909,9 +4914,11 @@
         "w": "3",
         "s": "6",
         "spec": [
-          "Bioimmunity",
           "G: Remote Presence",
-          "Super-Jump"
+          "Bioimmunity",
+          "Super-Jump",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -4949,7 +4956,7 @@
       {
         "id": 1,
         "name": "Red Fury",
-        "cost": "59",
+        "cost": "63",
         "swc": "1",
         "spec": [],
         "bsw": [
@@ -4963,7 +4970,7 @@
       {
         "id": 2,
         "name": "K1 Combi",
-        "cost": "59",
+        "cost": "63",
         "swc": "0.5",
         "spec": [],
         "bsw": [
@@ -4977,7 +4984,7 @@
       {
         "id": 3,
         "name": "MULTI Rifle",
-        "cost": "58",
+        "cost": "62",
         "swc": "0.5",
         "spec": [],
         "bsw": [
@@ -5017,9 +5024,11 @@
         "s": "6",
         "spec": [
           "ECM",
-          "G: Remote Presence",
+          "TinBot A (Deflector L1)",
           "TinBot D (Albedo)",
-          "TinBot A (Deflector L1)"
+          "G: Remote Presence",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -5057,7 +5066,7 @@
       {
         "id": 1,
         "name": "HMC",
-        "cost": "74",
+        "cost": "78",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -5068,7 +5077,7 @@
       {
         "id": 2,
         "name": "Dual Plasma Sniper",
-        "cost": "69",
+        "cost": "72",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -5079,7 +5088,7 @@
       {
         "id": 3,
         "name": "Dual HRL",
-        "cost": "57",
+        "cost": "61",
         "swc": "2",
         "spec": [],
         "bsw": [

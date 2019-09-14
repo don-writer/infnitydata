@@ -205,7 +205,19 @@
       },
       {
         "comment": "Anaconda (duo)",
-        "id": 9064,
+        "id": 9016,
+        "childs": [
+          {
+            "comment": "Non-duo not in Starco",
+            "id": 1,
+            "hide": true
+          },
+          {
+            "comment": "Non-duo not in Starco",
+            "id": 2,
+            "hide": true
+          }
+        ],
         "notes": [
           {
             "title": "Fireteam: Duo"

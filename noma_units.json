@@ -1174,7 +1174,7 @@
   {
     "id": 5009,
     "army": "Nomads",
-    "isc": "Lizard",
+    "isc": "Lizard Squad",
     "name": "Lizard",
     "ava": "1",
     "spec": [],
@@ -1199,7 +1199,9 @@
         "s": "7",
         "spec": [
           "ECM",
-          "Manned"
+          "Manned",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -1272,7 +1274,6 @@
     "profiles": [
       {
         "id": 1,
-        "name": "Szalamandra",
         "type": "TAG",
         "classification": "Mechanized",
         "imp": "",
@@ -1290,7 +1291,9 @@
         "s": "7",
         "spec": [
           "ECM",
-          "Manned"
+          "Manned",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -2572,7 +2575,6 @@
     "profiles": [
       {
         "id": 1,
-        "name": "Iguana Squadron",
         "type": "TAG",
         "classification": "Mechanized",
         "imp": "",
@@ -2590,9 +2592,11 @@
         "s": "7",
         "spec": [
           "ECM",
+          "Repeater",
           "ED: Ejection System",
           "Manned",
-          "Repeater"
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [
           "Heavy Flamethrower"
@@ -2631,7 +2635,7 @@
       {
         "id": 1,
         "name": "HMG",
-        "cost": "71",
+        "cost": "75",
         "swc": "2",
         "spec": [],
         "bsw": [
@@ -4341,7 +4345,7 @@
   {
     "id": 5045,
     "army": "Nomads",
-    "isc": "Gecko",
+    "isc": "Gecko Squadron",
     "name": "Gecko",
     "ava": "2",
     "spec": [],
@@ -4366,9 +4370,11 @@
         "ava": "2",
         "spec": [
           "ECM",
-          "Fireteam: Duo",
           "Zero-G",
-          "Manned"
+          "Manned",
+          "Fireteam: Duo",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []
@@ -4407,7 +4413,7 @@
       {
         "id": 1,
         "name": "Combi",
-        "cost": "53",
+        "cost": "57",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -4420,7 +4426,7 @@
       {
         "id": 2,
         "name": "Mk12",
-        "cost": "54",
+        "cost": "58",
         "swc": "0.5",
         "spec": [],
         "bsw": [

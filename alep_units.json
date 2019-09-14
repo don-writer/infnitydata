@@ -1099,9 +1099,11 @@
         "s": "7",
         "spec": [
           "ECM",
-          "G: Remote Presence",
           "Multispectral Visor L2",
-          "Multiterrain"
+          "G: Remote Presence",
+          "Multiterrain",
+          "Fatality L1",
+          "Tactical Awareness"
         ],
         "bsw": [],
         "ccw": []

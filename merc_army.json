@@ -78,7 +78,19 @@
       },
       {
         "comment": "Anaconda",
-        "id": 9016
+        "id": 9016,
+        "childs": [
+          {
+            "comment": "Duo only in Starco",
+            "id": 3,
+            "hide": true
+          },
+          {
+            "comment": "Duo only in Starco",
+            "id": 4,
+            "hide": true
+          }
+        ]
       },
       {
         "comment": "Warcor",

@@ -97,7 +97,8 @@
           "Hacking Device Plus"
         ],
         "bsw": [
-          "Combi Rifle + Pitcher"
+          "Combi Rifle",
+          "Pitcher"
         ],
         "ccw": [
           "Breaker Pistol",
@@ -113,7 +114,8 @@
           "Killer Hacking Device"
         ],
         "bsw": [
-          "Combi Rifle + Pitcher"
+          "Combi Rifle",
+          "Pitcher"
         ],
         "ccw": [
           "Breaker Pistol",
@@ -723,7 +725,8 @@
           "Killer Hacking Device"
         ],
         "bsw": [
-          "Combi Rifle + Light Riotstopper",
+          "Combi Rifle",
+          "Light Riotstopper",
           "D-Charges"
         ],
         "ccw": [
@@ -775,7 +778,8 @@
           "Forward Observer"
         ],
         "bsw": [
-          "Combi Rifle + Light Riotstopper",
+          "Combi Rifle",
+          "Light Riotstopper",
           "D-Charges"
         ],
         "ccw": [
@@ -1115,7 +1119,8 @@
         "swc": "0",
         "spec": [],
         "bsw": [
-          "MULTI Rifle + Heavy Riotstopper"
+          "MULTI Rifle",
+          "Heavy Riotstopper"
         ],
         "ccw": [
           "Pistol",
@@ -1131,7 +1136,8 @@
           "TinBot A (Deflector L1)"
         ],
         "bsw": [
-          "MULTI Rifle + Heavy Riotstopper"
+          "MULTI Rifle",
+          "Heavy Riotstopper"
         ],
         "ccw": [
           "Pistol",
@@ -1161,7 +1167,8 @@
           "Forward Observer"
         ],
         "bsw": [
-          "MULTI Rifle + Heavy Riotstopper"
+          "MULTI Rifle",
+          "Heavy Riotstopper"
         ],
         "ccw": [
           "Pistol",
@@ -1177,7 +1184,8 @@
           "Lieutenant"
         ],
         "bsw": [
-          "MULTI Rifle + Heavy Riotstopper"
+          "MULTI Rifle",
+          "Heavy Riotstopper"
         ],
         "ccw": [
           "Pistol",
@@ -1194,7 +1202,8 @@
           "TinBot A (Deflector L1)"
         ],
         "bsw": [
-          "MULTI Rifle + Heavy Riotstopper"
+          "MULTI Rifle",
+          "Heavy Riotstopper"
         ],
         "ccw": [
           "Pistol",
@@ -1275,7 +1284,8 @@
         "swc": "2",
         "spec": [],
         "bsw": [
-          "HMC + Heavy Riotstopper"
+          "HMC",
+          "Heavy Riotstopper"
         ],
         "ccw": [
           "AP CCW"
@@ -1290,7 +1300,7 @@
           "Lieutenant"
         ],
         "bsw": [
-          "HMC + Heavy Riotstopper"
+          "HMC","Heavy Riotstopper"
         ],
         "ccw": [
           "AP CCW"
@@ -1622,7 +1632,8 @@
         "swc": "0",
         "spec": [],
         "bsw": [
-          "Combi Rifle + Light Riotstopper",
+          "Combi Rifle",
+          "Light Riotstopper",
           "MadTraps"
         ],
         "ccw": [

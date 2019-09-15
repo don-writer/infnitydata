@@ -136,6 +136,16 @@
         "comment": "Wardrivers",
         "id": 9021,
         "ava": "1"
+      },
+      {
+        "comment": "Wild Bill, Legendary Gunslinger",
+        "id": 9074,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Wild Bill counts as a USAriadna Grunt for Fireteam composition"
+          }
+        ]
       }
     ]
   }

@@ -251,6 +251,16 @@
         "comment": "Monstruckers",
         "id": 9068,
         "ava": "2"
+      },
+      {
+        "comment": "Wild Bill, Legendary Gunslinger",
+        "id": 9074,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Wild Bill counts as a Janissary for Fireteam composition"
+          }
+        ]
       }
     ]
   }

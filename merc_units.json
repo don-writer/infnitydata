@@ -5578,5 +5578,62 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9074,
+    "army": "Non-Aligned Armies",
+    "isc": "Wild Bill, Legendary Gunslinger",
+    "name": "Wild Bill",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-2",
+    "cc": "15",
+    "bs": "13",
+    "ph": "11",
+    "wip": "13",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Fatality L1",
+      "Hyper-Dynamics L1",
+      "Marksmanship L2",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Contender",
+        "cost": "25",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Contender"
+        ],
+        "ccw": [
+          "MULTI Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Rifle",
+        "cost": "27",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Rifle"
+        ],
+        "ccw": [
+          "MULTI Pistol (2)",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

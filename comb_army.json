@@ -359,6 +359,17 @@
         "id": 6063
       },
       {
+        "comment": "Tensho Experts",
+        "id": 6064,
+        "childs": [
+          {
+            "comment": "Shotgun is only available in Sectorials",
+            "id": 1,
+            "hide": true
+          }
+        ]
+      },
+      {
         "comment": "Armand 'Le Muet'",
         "id": 9022,
         "ava": "1"

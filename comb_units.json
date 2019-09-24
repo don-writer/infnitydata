@@ -1829,12 +1829,29 @@
     "childs": [
       {
         "id": 1,
-        "name": "Doctor+Engineer",
+        "name": "Combi",
         "cost": "23",
         "swc": "0",
         "spec": [],
         "bsw": [
           "Combi Rifle"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Knife",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG Journalist",
+        "cost": "22",
+        "swc": "0",
+        "spec": [
+          "Journalist L1"
+        ],
+        "bsw": [
+          "Submachine Gun"
         ],
         "ccw": [
           "D-Charges",
@@ -5919,8 +5936,8 @@
     "ava": "1",
     "spec": [
       "AutoMediKit",
-      "Bioimmunity",
       "Shasvastii",
+      "Bioimmunity",
       "Specialist Operative",
       "Stealth",
       "Veteran L1"
@@ -5934,6 +5951,22 @@
         "spec": [],
         "bsw": [
           "Boarding Shotgun"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Journalist FTO",
+        "cost": "16",
+        "swc": "0",
+        "spec": [
+          "Journalist L1"
+        ],
+        "bsw": [
+          "Submachine Gun"
         ],
         "ccw": [
           "Pistol",

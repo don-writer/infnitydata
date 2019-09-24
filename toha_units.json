@@ -622,6 +622,24 @@
           "Pistol",
           "Knife"
         ]
+      },
+      {
+        "id": 2,
+        "name": "Journalist",
+        "cost": "5",
+        "swc": "0",
+        "spec": [
+          "I-Kohl L1",
+          "Journalist L1"
+        ],
+        "bsw": [
+          "Nanopulser",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
       }
     ]
   },

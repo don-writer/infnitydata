@@ -815,6 +815,40 @@
           "CCW",
           "Pistol"
         ]
+      },
+      {
+        "id": 9,
+        "name": "Duo",
+        "cost": "23",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Flamethrower (2)"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Haris",
+        "cost": "23",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "Rifle",
+          "Light Flamethrower (2)"
+        ],
+        "ccw": [
+          "CCW",
+          "Pistol"
+        ]
       }
     ]
   },
@@ -4306,7 +4340,7 @@
         "id": 7,
         "name": "Haris",
         "cost": "22",
-        "swc": "1",
+        "swc": "0",
         "spec": [
           "Fireteam: Haris"
         ],
@@ -4326,6 +4360,23 @@
         "swc": "0",
         "spec": [
           "Lieutenant"
+        ],
+        "bsw": [
+          "Rifle",
+          "Heavy Flamethrower"
+        ],
+        "ccw": [
+          "Knife",
+          "Heavy Pistol"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Duo",
+        "cost": "22",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Duo"
         ],
         "bsw": [
           "Rifle",
@@ -5010,6 +5061,23 @@
         ],
         "bsw": [
           "Molotok"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "T2 CCW",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Mk12",
+        "cost": "45",
+        "swc": "0",
+        "spec": [
+          "Specialist Operative"
+        ],
+        "bsw": [
+          "Mk12"
         ],
         "ccw": [
           "Heavy Pistol",

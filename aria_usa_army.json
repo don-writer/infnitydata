@@ -14,6 +14,10 @@
           {
             "title": "Special Fireteam: Core",
             "note": "Troops possessing Inferior Infiltration cannot compose Fireteams in this Sectorial Army"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Minuteman can be part of a Fireteam: Core of Grunts"
           }
         ]
       },
@@ -37,6 +41,9 @@
           },
           {
             "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
           }
         ]
       },
@@ -47,6 +54,16 @@
         "notes": [
           {
             "title": "Fireteam: Core"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Minuteman can be part of a Fireteam: Core of Grunts"
+          },
+          {
+            "title": "Fireteam: Haris"
+          },
+          {
+            "title": "Fireteam: Duo"
           }
         ]
       },
@@ -103,6 +120,10 @@
           {
             "title": "Special Fireteam: Core",
             "note": "Troops possessing Inferior Infiltration cannot compose Fireteams in this Sectorial Army"
+          },
+          {
+            "title": "Special Fireteam: Core",
+            "note": "Up to 1 Minuteman can be part of a Fireteam: Core of Grunts"
           }
         ]
       },
@@ -114,7 +135,13 @@
       {
         "comment": "Unknown Ranger",
         "id": 3048,
-        "ava": "1"
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "The Unknown Ranger can be part of any Fireteam of this Sectorial Army"
+          }
+        ]
       },
       {
         "comment": "Rosie",

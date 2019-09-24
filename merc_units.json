@@ -3673,13 +3673,14 @@
       "Dual Wield",
       "Fatality L1",
       "Heavyweight",
-      "V: No Wound Incapacitation"
+      "V: No Wound Incapacitation",
+      "NCO"
     ],
     "childs": [
       {
         "id": 1,
         "name": "Marksman",
-        "cost": "52",
+        "cost": "54",
         "swc": "0",
         "spec": [],
         "bsw": [
@@ -3695,7 +3696,7 @@
       {
         "id": 2,
         "name": "Red Fury",
-        "cost": "49",
+        "cost": "51",
         "swc": "1",
         "spec": [],
         "bsw": [

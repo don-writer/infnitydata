@@ -267,6 +267,17 @@
       ]
     },
     {
+      "name": "Killer Hacking Device: UPGRADE: Sucker Punch",
+      "groups": [
+        "SWORD-1",
+        "SWORD-2"
+      ],
+      "upgrades": [
+        "Cybermask",
+        "Sucker Punch"
+      ]
+    },
+    {
       "name": "EI Killer Hacking Device",
       "groups": [
         "SWORD-1",

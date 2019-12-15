@@ -222,6 +222,26 @@
         ]
       },
       {
+        "comment": "Léi Gōng, Invincibles Lord of Thunder",
+        "id": 2064,
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Léi Gōng can be part of any Fireteam of this Sectorial Army"
+          }
+        ]
+      },
+      {
+        "comment": "Captain Qiang Gāo, Invincibles Officer",
+        "id": 2065,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Qiang Gāo counts as a Zúyŏng for Fireteam composition"
+          }
+        ]
+      },
+      {
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"

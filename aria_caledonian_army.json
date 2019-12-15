@@ -180,6 +180,20 @@
         ]
       },
       {
+        "comment": "Cadin 'Firststrike' Donn",
+        "id": 3062,
+        "notes": [
+          {
+            "title": "Special Fireteam: Duo",
+            "note": "Firststrike counts as a Wulver for Fireteam composition"
+          },
+          {
+            "title": "Special Fireteam: Haris",
+            "note": "Firststrike counts as a Wulver for Fireteam composition"
+          }
+        ]
+      },
+      {
         "comment": "McMurrough",
         "id": 9005,
         "ava": "1"

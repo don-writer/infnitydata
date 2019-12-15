@@ -279,6 +279,14 @@
         ]
       },
       {
+        "comment": "Léi Gōng, Invincibles Lord of Thunder",
+        "id": 2064
+      },
+      {
+        "comment": "Captain Qiang Gāo, Invincibles Officer",
+        "id": 2065
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "1"
@@ -341,6 +349,14 @@
       {
         "comment": "Wild Bill, Legendary Gunslinger",
         "id": 9074
+      },
+      {
+        "comment": "John Hawkwood, Mercenary Officer",
+        "id": 9075
+      },
+      {
+        "comment": "Kendrat, Krakot Renegade",
+        "id": 6066
       }
     ]
   }

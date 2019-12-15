@@ -361,6 +361,23 @@
         "id": 3056
       },
       {
+        "comment": "Cadin 'Firststrike' Donn",
+        "id": 3062,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ],
+        "childs": [
+          {
+            "comment": "Haris is only available in CHA",
+            "id": 2,
+            "hide": true
+          }
+        ]
+      },
+      {
         "comment": "Wardrivers",
         "id": 9021,
         "ava": "1"
@@ -424,6 +441,10 @@
       {
         "comment": "Wild Bill, Legendary Gunslinger",
         "id": 9074
+      },
+      {
+        "comment": "Kendrat, Krakot Renegade",
+        "id": 6066
       }
     ]
   }

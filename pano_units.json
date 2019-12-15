@@ -5826,5 +5826,84 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1063,
+    "army": "PanOceania",
+    "isc": "Indigo Spec-Ops Captain Uma Sørensen",
+    "name": "Uma Sørensen",
+    "type": "MI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "15",
+    "bs": "13",
+    "ph": "11",
+    "wip": "13",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multiterrain",
+      "Climbing Plus"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Camouflage",
+        "cost": "37",
+        "swc": "0",
+        "spec": [
+          "CH: Camouflage"
+        ],
+        "bsw": [
+          "Submachine Gun (2)",
+          "Breaker Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "FTO",
+        "cost": "34",
+        "swc": "0",
+        "spec": [
+          "CH: Mimetism"
+        ],
+        "bsw": [
+          "Submachine Gun (2)",
+          "Breaker Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "FTO Lieutenant",
+        "cost": "34",
+        "swc": "0",
+        "spec": [
+          "CH: Mimetism",
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Submachine Gun (2)",
+          "Breaker Combi Rifle"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

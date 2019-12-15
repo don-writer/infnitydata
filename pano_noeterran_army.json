@@ -237,6 +237,16 @@
         "ava": "1"
       },
       {
+        "comment": "Indigo Spec-Ops Captain Uma Sørensen",
+        "id": 1063,
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "FTO options can be part of any Fireteam of this Sectorial Army"
+          }
+        ]
+      },
+      {
         "comment": "Mercenary - CSU, Corporate Security Unit",
         "id": 9020,
         "ava": "2",

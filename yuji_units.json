@@ -5022,6 +5022,7 @@
     "imp": "",
     "irr": "",
     "cube": "X",
+    "hackable": "X",
     "mov": "4-4",
     "cc": "16",
     "bs": "13",
@@ -5093,6 +5094,128 @@
         ],
         "ccw": [
           "Heavy Pistol (2)",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2064,
+    "army": "Yu Jing",
+    "isc": "Léi Gōng, Invincibles Lord of Thunder",
+    "name": "Léi Gōng",
+    "type": "MI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-2",
+    "cc": "16",
+    "bs": "13",
+    "ph": "11",
+    "wip": "14",
+    "arm": "3",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Albedo",
+      "Multispectral Visor L1",
+      "Bioimmunity",
+      "V: No Wound Incapacitation"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Marksman",
+        "cost": "34",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Shock Marksman Rifle",
+          "Nanopulser",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SMG Chain of Command",
+        "cost": "32",
+        "swc": "0",
+        "spec": [
+          "Chain of Command"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Nanopulser",
+          "Blitzen"
+        ],
+        "ccw": [
+          "Breaker Pistol",
+          "Knife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2065,
+    "army": "Yu Jing",
+    "isc": "Captain Qiang Gāo, Invincibles Officer",
+    "name": "Qiang Gāo",
+    "type": "HI",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "4-4",
+    "cc": "17",
+    "bs": "13",
+    "ph": "12",
+    "wip": "14",
+    "arm": "4",
+    "bts": "6",
+    "w": "2",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Fatality L1",
+      "Kinematika L1",
+      "Veteran L1"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "HMG",
+        "cost": "43",
+        "swc": "1.5",
+        "spec": [],
+        "bsw": [
+          "HMG",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Breaker Pistol (2)",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "HMG Lieutenant",
+        "cost": "43",
+        "swc": "1",
+        "spec": [
+          "Lieutenant L2"
+        ],
+        "bsw": [
+          "HMG",
+          "Nanopulser"
+        ],
+        "ccw": [
+          "Breaker Pistol (2)",
           "Knife"
         ]
       }

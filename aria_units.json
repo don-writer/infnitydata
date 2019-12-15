@@ -6082,5 +6082,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3062,
+    "army": "Ariadna",
+    "isc": "Cadin 'Firststrike' Donn",
+    "name": "'Firststrike' Donn",
+    "type": "WB",
+    "classification": "Character",
+    "imp": "F",
+    "irr": "",
+    "cube": "",
+    "mov": "4-4",
+    "cc": "23",
+    "bs": "12",
+    "ph": "14",
+    "wip": "13",
+    "arm": "3",
+    "bts": "0",
+    "w": "2",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Berserk",
+      "Dual Wield",
+      "Fireteam: Duo",
+      "Natural Born Warrior",
+      "Kinematika L2",
+      "Climbing Plus"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "T2 Rifle",
+        "cost": "35",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "T2 Rifle",
+          "Grenades"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "AP CCW",
+          "T2 CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Haris",
+        "cost": "36",
+        "swc": "0",
+        "spec": [
+          "Fireteam: Haris"
+        ],
+        "bsw": [
+          "T2 Rifle",
+          "Grenades"
+        ],
+        "ccw": [
+          "Heavy Pistol",
+          "AP CCW",
+          "T2 CCW"
+        ]
+      }
+    ]
   }
 ]

@@ -6015,5 +6015,52 @@
         ]
       }
     ]
+  },
+  {
+    "id": 6066,
+    "army": "Combined Army",
+    "isc": "Kendrat, Krakot Renegade",
+    "name": "Kendrat",
+    "type": "WB",
+    "classification": "Character",
+    "imp": "I",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "23",
+    "bs": "11",
+    "ph": "13",
+    "wip": "12",
+    "arm": "1",
+    "bts": "0",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Morat",
+      "Berserk",
+      "Natural Born Warrior",
+      "Forward Deployment L1",
+      "Kinematika L2",
+      "Total Immunity",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Vulkan Shotgun",
+        "cost": "24",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Vulkan Shotgun",
+          "Chest Mines"
+        ],
+        "ccw": [
+          "Pistol",
+          "DA CCW"
+        ]
+      }
+    ]
   }
 ]

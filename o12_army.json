@@ -193,8 +193,22 @@
         "id": 10022
       },
       {
+        "comment": "Ensign Katherine Cho, Psi Unit",
+        "id": 10023
+      },
+      {
         "comment": "Wild Bill, Legendary Gunslinger",
         "id": 9074
+      },
+      {
+        "comment": "Kendrat, Krakot Renegade",
+        "id": 6066,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       }
     ]
   }

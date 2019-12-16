@@ -267,6 +267,17 @@
         ]
       },
       {
+        "comment": "Boarding Action Cadmus-Naish Agent Sheskiin",
+        "id": 6067,
+        "ava": "1",
+        "notes": [
+          {
+            "title": "Wildcard Trooper",
+            "note": "Sheskiin can join any Fireteam of this Sectorial Army"
+          }
+        ]
+      },
+      {
         "comment": "Aïda Swanson, Submondo Smuggler",
         "id": 9065
       }

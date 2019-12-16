@@ -238,6 +238,16 @@
         ]
       },
       {
+        "comment": "Medical Specialist Rahman Rouhani",
+        "id": 4057,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Rouhani counts as a Ghulam for Fireteam composition"
+          }
+        ]
+      },
+      {
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"

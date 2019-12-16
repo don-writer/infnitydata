@@ -301,6 +301,10 @@
         ]
       },
       {
+        "comment": "Jazmín 'Jazz' Caticovas",
+        "id": 5060
+      },
+      {
         "comment": "Authorized Bounty Hunters",
         "id": 9018,
         "ava": "1"
@@ -359,6 +363,16 @@
       {
         "comment": "Wild Bill, Legendary Gunslinger",
         "id": 9074
+      },
+      {
+        "comment": "Kendrat, Krakot Renegade",
+        "id": 6066,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       }
     ]
   }

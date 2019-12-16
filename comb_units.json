@@ -6043,7 +6043,8 @@
       "Forward Deployment L1",
       "Kinematika L2",
       "Total Immunity",
-      "V: Dogged"
+      "V: Dogged",
+      "Fireteam: Duo"
     ],
     "childs": [
       {
@@ -6059,6 +6060,73 @@
         "ccw": [
           "Pistol",
           "DA CCW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6067,
+    "army": "Combined Army",
+    "isc": "Boarding Action Cadmus-Naish Agent Sheskiin",
+    "name": "Sheskiin",
+    "type": "HI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "hackable": "X",
+    "mov": "6-4",
+    "cc": "24",
+    "bs": "15",
+    "ph": "15",
+    "wip": "13",
+    "arm": "4",
+    "bts": "6",
+    "w": "2",
+    "s": "2",
+    "ava": "1",
+    "sharedAva": 6038,
+    "spec": [
+      "Shasvastii",
+      "Fatality L2",
+      "Kinematika L2",
+      "Free Agent",
+      "Multiterrain",
+      "Protheion L4"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Red Fury",
+        "cost": "66",
+        "swc": "2",
+        "spec": [],
+        "bsw": [
+          "Red Fury",
+          "Pulzar"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Breaker Pistol",
+          "EXP CCW"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lieutenant",
+        "cost": "66",
+        "swc": "2",
+        "spec": [
+          "Lieutenant"
+        ],
+        "bsw": [
+          "Red Fury",
+          "Pulzar"
+        ],
+        "ccw": [
+          "D-Charges",
+          "Breaker Pistol",
+          "EXP CCW"
         ]
       }
     ]

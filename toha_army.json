@@ -231,6 +231,10 @@
         "id": 6062
       },
       {
+        "comment": "Jaan Staar, Kiiutan Imposter",
+        "id": 8033
+      },
+      {
         "comment": "Armand 'Le Muet'",
         "id": 9022,
         "ava": "1"
@@ -259,6 +263,16 @@
           {
             "comment": "Mimetism only in Dahshat",
             "id": 4,
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Kendrat, Krakot Renegade",
+        "id": 6066,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
             "hide": true
           }
         ]

@@ -5667,5 +5667,104 @@
         ]
       }
     ]
+  },
+  {
+    "id": 5060,
+    "army": "Nomads",
+    "isc": "Jazmín 'Jazz' Caticovas",
+    "name": "Jazz",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Character",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "14",
+        "bs": "11",
+        "ph": "10",
+        "wip": "14",
+        "arm": "0",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Hacking Device: UPGRADE: Maestro"
+        ],
+        "bsw": [
+          "Submachine Gun",
+          "Pitcher",
+          "Cybermines"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      },
+      {
+        "id": 2,
+        "isc": "Billie, Customized Support Remote",
+        "name": "Billie",
+        "optionSpecific": "X",
+        "type": "REM",
+        "imp": "",
+        "irr": "",
+        "cube": "",
+        "hackable": "X",
+        "mov": "6-4",
+        "cc": "8",
+        "bs": "10",
+        "ph": "10",
+        "wip": "13",
+        "arm": "0",
+        "bts": "3",
+        "w": "1",
+        "s": "1",
+        "spec": [
+          "Repeater",
+          "G: Remote Presence"
+        ],
+        "bsw": [
+          "Flash Pulse",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Electric Pulse"
+        ],
+        "independent": {
+          "cost": "6",
+          "swc": "0"
+        }
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Jazz & Billie",
+        "cost": "24",
+        "swc": "0.5",
+        "profile": 2,
+        "spec": [],
+        "bsw": [],
+        "ccw": [],
+        "independent": {
+          "cost": "18",
+          "swc": "0"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Jazz FTO",
+        "cost": "18",
+        "swc": "0",
+        "spec": [],
+        "bsw": [],
+        "ccw": []
+      }
+    ]
   }
 ]

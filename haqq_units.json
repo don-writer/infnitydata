@@ -5551,5 +5551,48 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4057,
+    "army": "Haqqislam",
+    "isc": "Medical Specialist Rahman Rouhani",
+    "name": "Rouhani",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "11",
+    "ph": "11",
+    "wip": "15",
+    "arm": "1",
+    "bts": "6",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Medjector",
+      "Doctor Plus",
+      "Bioimmunity"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "SMG",
+        "cost": "18",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Submachine Gun",
+          "Flash Pulse"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

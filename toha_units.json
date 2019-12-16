@@ -3693,5 +3693,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": 8033,
+    "army": "Tohaa",
+    "isc": "Jaan Staar, Kiiutan Imposter",
+    "name": "Jaan Staar",
+    "ava": "1",
+    "spec": [],
+    "profiles": [
+      {
+        "id": 1,
+        "type": "LI",
+        "classification": "Character",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "18",
+        "bs": "12",
+        "ph": "11",
+        "wip": "13",
+        "arm": "2",
+        "bts": "6",
+        "w": "1",
+        "s": "2",
+        "spec": [
+          "Symbiont Armor",
+          "Hyper-Dynamics L1",
+          "I-Kohl L1",
+          "Stealth",
+          "Inferior Impersonation",
+          "V: Courage"
+        ],
+        "bsw": [],
+        "ccw": []
+      },
+      {
+        "id": 2,
+        "name": "Inactive Armor",
+        "type": "LI",
+        "imp": "",
+        "irr": "",
+        "cube": "X",
+        "mov": "4-4",
+        "cc": "18",
+        "bs": "12",
+        "ph": "11",
+        "wip": "13",
+        "arm": "0",
+        "bts": "0",
+        "w": "1",
+        "s": "2",
+        "ava": " ",
+        "spec": [
+          "Symbiont Armor",
+          "Inferior Impersonation",
+          "Stealth",
+          "V: Courage"
+        ],
+        "bsw": [],
+        "ccw": []
+      }
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Shotgun",
+        "cost": "31",
+        "swc": "1",
+        "spec": [],
+        "bsw": [
+          "Light Shotgun",
+          "Antipersonnel Mines"
+        ],
+        "ccw": [
+          "Viral Pistol (2)",
+          "CCW",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

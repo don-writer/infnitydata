@@ -4906,5 +4906,50 @@
         ]
       }
     ]
+  },
+  {
+    "id": 7059,
+    "army": "Aleph",
+    "isc": "Chandra Specialist Operative Trisha N33",
+    "name": "Trisha",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "6-2",
+    "cc": "15",
+    "bs": "12",
+    "ph": "11",
+    "wip": "14",
+    "arm": "1",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Engineer",
+      "Shock Immunity",
+      "V: Dogged"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Breaker Combi",
+        "cost": "27",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Breaker Combi Rifle",
+          "Nanopulser",
+          "D-Charges",
+          "E/Mauler"
+        ],
+        "ccw": [
+          "Pistol",
+          "Knife"
+        ]
+      }
+    ]
   }
 ]

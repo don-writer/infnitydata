@@ -444,7 +444,13 @@
       },
       {
         "comment": "Kendrat, Krakot Renegade",
-        "id": 6066
+        "id": 6066,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
       }
     ]
   }

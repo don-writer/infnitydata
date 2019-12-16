@@ -370,6 +370,27 @@
         ]
       },
       {
+        "comment": "Kendrat, Krakot Renegade",
+        "id": 6066,
+        "skills": [
+          {
+            "name": "Fireteam: Duo",
+            "hide": true
+          }
+        ]
+      },
+      {
+        "comment": "Boarding Action Cadmus-Naish Agent Sheskiin",
+        "id": 6067,
+        "childs": [
+          {
+            "comment": "Lieutenant is only available in Sectorials",
+            "id": 2,
+            "hide": true
+          }
+        ]
+      },
+      {
         "comment": "Armand 'Le Muet'",
         "id": 9022,
         "ava": "1"

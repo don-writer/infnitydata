@@ -5444,7 +5444,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 4002,
     "spec": [],
     "childs": [
       {
@@ -5484,7 +5483,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 4031,
     "spec": [
       "Religious Troop",
       "V: Dogged",
@@ -5530,7 +5528,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 4028,
     "spec": [
       "Holoprojector L1"
     ],

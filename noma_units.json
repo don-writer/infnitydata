@@ -5567,7 +5567,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 5001,
     "spec": [],
     "childs": [
       {
@@ -5606,7 +5605,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 5028,
     "spec": [
       "Shock Immunity"
     ],
@@ -5647,7 +5645,6 @@
     "w": "1",
     "s": "2",
     "ava": "3",
-    "sharedAva": 5003,
     "spec": [
       "Veteran L1"
     ],

@@ -5726,7 +5726,6 @@
     "bts": "0",
     "w": "1",
     "ava": "1",
-    "sharedAva": 1001,
     "spec": [],
     "childs": [
       {
@@ -5765,7 +5764,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 1023,
     "spec": [
       "Jungle Terrain"
     ],
@@ -5806,7 +5804,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 1030,
     "spec": [
       "Religious Troop"
     ],

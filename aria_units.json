@@ -5941,7 +5941,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 3001,
     "spec": [],
     "childs": [
       {
@@ -5980,7 +5979,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 3022,
     "spec": [
       "Multiterrain (Jungle Terrain / Mountain Terrain)"
     ],
@@ -6021,7 +6019,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 3027,
     "spec": [
       "Multiterrain"
     ],
@@ -6062,7 +6059,6 @@
     "w": "1",
     "s": "2",
     "ava": "1",
-    "sharedAva": 3004,
     "spec": [
       "Shock Immunity"
     ],

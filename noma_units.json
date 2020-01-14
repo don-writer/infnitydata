@@ -5757,7 +5757,7 @@
         "id": 2,
         "name": "Jazz FTO",
         "cost": "18",
-        "swc": "0",
+        "swc": "0.5",
         "spec": [],
         "bsw": [],
         "ccw": []

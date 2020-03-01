@@ -5902,5 +5902,46 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1064,
+    "army": "PanOceania",
+    "isc": "Fusilier Indigo Richard Quinn",
+    "name": "Quinn",
+    "type": "LI",
+    "classification": "Character",
+    "imp": "",
+    "irr": "",
+    "cube": "X",
+    "mov": "4-4",
+    "cc": "13",
+    "bs": "13",
+    "ph": "10",
+    "wip": "13",
+    "arm": "2",
+    "bts": "3",
+    "w": "1",
+    "s": "2",
+    "ava": "1",
+    "spec": [
+      "Multispectral Visor L1",
+      "Forward Observer"
+    ],
+    "childs": [
+      {
+        "id": 1,
+        "name": "Shock Marksman",
+        "cost": "23",
+        "swc": "0",
+        "spec": [],
+        "bsw": [
+          "Shock Marksman Rifle"
+        ],
+        "ccw": [
+          "Knife",
+          "Pistol"
+        ]
+      }
+    ]
   }
 ]

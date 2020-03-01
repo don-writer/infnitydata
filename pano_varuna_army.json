@@ -249,6 +249,16 @@
         ]
       },
       {
+        "comment": "Fusilier Indigo Richard Quinn",
+        "id": 1064,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Quinn counts as a Fusilier for Fireteam Composition"
+          }
+        ]
+      },
+      {
         "comment": "Warcor",
         "id": 9017,
         "ava": "1"

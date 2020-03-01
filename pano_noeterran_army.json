@@ -247,6 +247,16 @@
         ]
       },
       {
+        "comment": "Fusilier Indigo Richard Quinn",
+        "id": 1064,
+        "notes": [
+          {
+            "title": "Special Fireteam",
+            "note": "Quinn counts as a Fusilier for Fireteam Composition"
+          }
+        ]
+      },
+      {
         "comment": "Mercenary - CSU, Corporate Security Unit",
         "id": 9020,
         "ava": "2",
